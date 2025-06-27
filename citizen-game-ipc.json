@@ -1,0 +1,1027 @@
+{
+    "citizen-game-ipc.dll": {
+        "CfxState::CfxState": {
+            "offset": "0x16260"
+        },
+        "Component::As": {
+            "offset": "0xDD00"
+        },
+        "Component::IsA": {
+            "offset": "0xDDC0"
+        },
+        "Component::SetCommandLine": {
+            "offset": "0x9C20"
+        },
+        "Component::SetUserData": {
+            "offset": "0xDDD0"
+        },
+        "ComponentInstance::DoGameLoad": {
+            "offset": "0xDDA0"
+        },
+        "ComponentInstance::Initialize": {
+            "offset": "0xDDB0"
+        },
+        "ComponentInstance::Shutdown": {
+            "offset": "0xDDD0"
+        },
+        "CoreGetComponentRegistry": {
+            "offset": "0xAE50"
+        },
+        "CoreGetGlobalInstanceRegistry": {
+            "offset": "0xAEE0"
+        },
+        "CreateComponent": {
+            "offset": "0xDDE0"
+        },
+        "DllMain": {
+            "offset": "0x1ABC8"
+        },
+        "DoNtRaiseException": {
+            "offset": "0x188B0"
+        },
+        "FatalErrorNoExceptRealV": {
+            "offset": "0xB2F0"
+        },
+        "FatalErrorRealV": {
+            "offset": "0xB320"
+        },
+        "FormatErrorPickup<std::tuple<std::basic_string_view<char,std::char_traits<char> >,int,unsigned int> >": {
+            "offset": "0x1A50"
+        },
+        "GetAbsoluteCitPath": {
+            "offset": "0x16C20"
+        },
+        "GlobalErrorHandler": {
+            "offset": "0xB560"
+        },
+        "HookFunctionBase::RunAll": {
+            "offset": "0x196C0"
+        },
+        "HostSharedData<CfxState>::HostSharedData<CfxState>": {
+            "offset": "0x15DC0"
+        },
+        "HostSharedData<CfxState>::~HostSharedData<CfxState>": {
+            "offset": "0x16320"
+        },
+        "InitFunctionBase::RunAll": {
+            "offset": "0x18A20"
+        },
+        "MakeRelativeCitPath": {
+            "offset": "0xBC00"
+        },
+        "RaiseDebugException": {
+            "offset": "0x18990"
+        },
+        "ScopedError::~ScopedError": {
+            "offset": "0x9E10"
+        },
+        "SysError": {
+            "offset": "0xC180"
+        },
+        "ToNarrow": {
+            "offset": "0x18A50"
+        },
+        "ToWide": {
+            "offset": "0x18B40"
+        },
+        "TraceRealV": {
+            "offset": "0x18E50"
+        },
+        "Win32TrapAndJump64": {
+            "offset": "0x196F0"
+        },
+        "_DllMainCRTStartup": {
+            "offset": "0x1A4CC"
+        },
+        "_Init_thread_abort": {
+            "offset": "0x19930"
+        },
+        "_Init_thread_footer": {
+            "offset": "0x19960"
+        },
+        "_Init_thread_header": {
+            "offset": "0x199C0"
+        },
+        "_Init_thread_notify": {
+            "offset": "0x19A28"
+        },
+        "_Init_thread_wait": {
+            "offset": "0x19A6C"
+        },
+        "_RTC_Initialize": {
+            "offset": "0x1AC34"
+        },
+        "_RTC_Terminate": {
+            "offset": "0x1AC70"
+        },
+        "__ArrayUnwind": {
+            "offset": "0x1A578"
+        },
+        "__GSHandlerCheck": {
+            "offset": "0x1A04C"
+        },
+        "__GSHandlerCheckCommon": {
+            "offset": "0x1A06C"
+        },
+        "__GSHandlerCheck_EH": {
+            "offset": "0x1A0C8"
+        },
+        "__GSHandlerCheck_SEH": {
+            "offset": "0x1A758"
+        },
+        "__crt_debugger_hook": {
+            "offset": "0x1A98C"
+        },
+        "__dyn_tls_init": {
+            "offset": "0x19E94"
+        },
+        "__dyn_tls_on_demand_init": {
+            "offset": "0x19EFC"
+        },
+        "__isa_available_init": {
+            "offset": "0x1A7E0"
+        },
+        "__local_stdio_printf_options": {
+            "offset": "0xDBE0"
+        },
+        "__local_stdio_scanf_options": {
+            "offset": "0x1AC08"
+        },
+        "__raise_securityfailure": {
+            "offset": "0x1A5DC"
+        },
+        "__report_gsfailure": {
+            "offset": "0x1A610"
+        },
+        "__scrt_acquire_startup_lock": {
+            "offset": "0x19B14"
+        },
+        "__scrt_dllmain_after_initialize_c": {
+            "offset": "0x19B50"
+        },
+        "__scrt_dllmain_before_initialize_c": {
+            "offset": "0x19B84"
+        },
+        "__scrt_dllmain_crt_thread_attach": {
+            "offset": "0x19B9C"
+        },
+        "__scrt_dllmain_crt_thread_detach": {
+            "offset": "0x19BC4"
+        },
+        "__scrt_dllmain_exception_filter": {
+            "offset": "0x19BDC"
+        },
+        "__scrt_dllmain_uninitialize_c": {
+            "offset": "0x19C3C"
+        },
+        "__scrt_dllmain_uninitialize_critical": {
+            "offset": "0x19C6C"
+        },
+        "__scrt_fastfail": {
+            "offset": "0x1A994"
+        },
+        "__scrt_get_dyn_tls_init_callback": {
+            "offset": "0x1AC2C"
+        },
+        "__scrt_initialize_crt": {
+            "offset": "0x19C80"
+        },
+        "__scrt_initialize_default_local_stdio_options": {
+            "offset": "0x1AC10"
+        },
+        "__scrt_initialize_onexit_tables": {
+            "offset": "0x19CCC"
+        },
+        "__scrt_initialize_thread_safe_statics": {
+            "offset": "0x19838"
+        },
+        "__scrt_initialize_type_info": {
+            "offset": "0x1ABEC"
+        },
+        "__scrt_is_nonwritable_in_current_image": {
+            "offset": "0x19D58"
+        },
+        "__scrt_is_nonwritable_in_current_image$filt$0": {
+            "offset": "0x1B668"
+        },
+        "__scrt_is_ucrt_dll_in_use": {
+            "offset": "0x1AB10"
+        },
+        "__scrt_release_startup_lock": {
+            "offset": "0x19DF0"
+        },
+        "__scrt_stub_for_acrt_initialize": {
+            "offset": "0xDDD0"
+        },
+        "__scrt_stub_for_acrt_thread_attach": {
+            "offset": "0xDDD0"
+        },
+        "__scrt_stub_for_acrt_thread_detach": {
+            "offset": "0xDDD0"
+        },
+        "__scrt_stub_for_acrt_uninitialize": {
+            "offset": "0xDDD0"
+        },
+        "__scrt_stub_for_acrt_uninitialize_critical": {
+            "offset": "0xDDD0"
+        },
+        "__scrt_stub_for_is_c_termination_complete": {
+            "offset": "0xDD00"
+        },
+        "__scrt_throw_std_bad_alloc": {
+            "offset": "0x1AAE0"
+        },
+        "__scrt_throw_std_bad_array_new_length": {
+            "offset": "0xC980"
+        },
+        "__scrt_uninitialize_crt": {
+            "offset": "0x19E14"
+        },
+        "__scrt_uninitialize_thread_safe_statics": {
+            "offset": "0x19908"
+        },
+        "__scrt_uninitialize_type_info": {
+            "offset": "0x1ABFC"
+        },
+        "__security_check_cookie": {
+            "offset": "0x1A160"
+        },
+        "__security_init_cookie": {
+            "offset": "0x1AB1C"
+        },
+        "__std_find_trivial_1": {
+            "offset": "0x19710"
+        },
+        "_get_startup_argv_mode": {
+            "offset": "0x1AB08"
+        },
+        "_guard_check_icall_nop": {
+            "offset": "0x9C20"
+        },
+        "_guard_dispatch_icall_nop": {
+            "offset": "0x1ADA0"
+        },
+        "_guard_xfg_dispatch_icall_nop": {
+            "offset": "0x1ADC0"
+        },
+        "_onexit": {
+            "offset": "0x19E40"
+        },
+        "_wwassert": {
+            "offset": "0x16FA0"
+        },
+        "`__ArrayUnwind'::`1'::filt$0": {
+            "offset": "0x1B726"
+        },
+        "`dllmain_crt_process_attach'::`1'::fin$0": {
+            "offset": "0x1B680"
+        },
+        "`dllmain_crt_process_detach'::`1'::fin$0": {
+            "offset": "0x1B697"
+        },
+        "`dllmain_crt_process_detach'::`1'::fin$1": {
+            "offset": "0x1B6B0"
+        },
+        "`dllmain_dispatch'::`1'::filt$0": {
+            "offset": "0x1B6C4"
+        },
+        "`dynamic initializer for '_init_instance_0''": {
+            "offset": "0x1000"
+        },
+        "`dynamic initializer for '_init_instance_23''": {
+            "offset": "0x1210"
+        },
+        "`dynamic initializer for '_init_instance_24''": {
+            "offset": "0x1240"
+        },
+        "`dynamic initializer for '_init_instance_25''": {
+            "offset": "0x1270"
+        },
+        "`dynamic initializer for 'g_thisError''": {
+            "offset": "0x1030"
+        },
+        "`dynamic initializer for 'initIoBuf''": {
+            "offset": "0x12A0"
+        },
+        "atexit": {
+            "offset": "0x19E7C"
+        },
+        "capture_previous_context": {
+            "offset": "0x1A6E4"
+        },
+        "dllmain_crt_dispatch": {
+            "offset": "0x1A1AC"
+        },
+        "dllmain_crt_process_attach": {
+            "offset": "0x1A1FC"
+        },
+        "dllmain_crt_process_detach": {
+            "offset": "0x1A314"
+        },
+        "dllmain_dispatch": {
+            "offset": "0x1A398"
+        },
+        "fmt::v8::basic_memory_buffer<char,500,std::allocator<char> >::grow": {
+            "offset": "0xCFC0"
+        },
+        "fmt::v8::basic_memory_buffer<char,500,std::allocator<char> >::~basic_memory_buffer<char,500,std::allocator<char> >": {
+            "offset": "0x9CE0"
+        },
+        "fmt::v8::basic_memory_buffer<unsigned int,32,std::allocator<unsigned int> >::grow": {
+            "offset": "0x155E0"
+        },
+        "fmt::v8::basic_memory_buffer<unsigned int,32,std::allocator<unsigned int> >::~basic_memory_buffer<unsigned int,32,std::allocator<unsigned int> >": {
+            "offset": "0x14C20"
+        },
+        "fmt::v8::detail::add_compare": {
+            "offset": "0x14DF0"
+        },
+        "fmt::v8::detail::assert_fail": {
+            "offset": "0x14F30"
+        },
+        "fmt::v8::detail::bigint::assign_pow10": {
+            "offset": "0x14F80"
+        },
+        "fmt::v8::detail::bigint::divmod_assign": {
+            "offset": "0x15150"
+        },
+        "fmt::v8::detail::bigint::square": {
+            "offset": "0x159B0"
+        },
+        "fmt::v8::detail::bigint::~bigint": {
+            "offset": "0x14C20"
+        },
+        "fmt::v8::detail::buffer<char>::append<char>": {
+            "offset": "0x24F0"
+        },
+        "fmt::v8::detail::buffer<char>::try_resize": {
+            "offset": "0x15C70"
+        },
+        "fmt::v8::detail::compare": {
+            "offset": "0x150B0"
+        },
+        "fmt::v8::detail::count_digits": {
+            "offset": "0xCDA0"
+        },
+        "fmt::v8::detail::decimal_point_impl<char>": {
+            "offset": "0x11770"
+        },
+        "fmt::v8::detail::do_throw<fmt::v8::format_error>": {
+            "offset": "0x25A0"
+        },
+        "fmt::v8::detail::dragonbox::cache_accessor<double>::get_cached_power": {
+            "offset": "0x154B0"
+        },
+        "fmt::v8::detail::dragonbox::is_endpoint_integer<double>": {
+            "offset": "0x13640"
+        },
+        "fmt::v8::detail::dragonbox::remove_trailing_zeros": {
+            "offset": "0x15790"
+        },
+        "fmt::v8::detail::dragonbox::shorter_interval_case<float>": {
+            "offset": "0x13670"
+        },
+        "fmt::v8::detail::dragonbox::to_decimal<double>": {
+            "offset": "0x14330"
+        },
+        "fmt::v8::detail::dragonbox::to_decimal<float>": {
+            "offset": "0x13F00"
+        },
+        "fmt::v8::detail::error_handler::on_error": {
+            "offset": "0x15710"
+        },
+        "fmt::v8::detail::fallback_format<double>": {
+            "offset": "0x11880"
+        },
+        "fmt::v8::detail::fallback_format<long double>": {
+            "offset": "0x11880"
+        },
+        "fmt::v8::detail::fmt_snprintf": {
+            "offset": "0x15440"
+        },
+        "fmt::v8::detail::for_each_codepoint<`fmt::v8::detail::compute_width'::`2'::count_code_points>": {
+            "offset": "0x25D0"
+        },
+        "fmt::v8::detail::format_decimal<char,unsigned __int64,fmt::v8::appender,0>": {
+            "offset": "0x12D30"
+        },
+        "fmt::v8::detail::format_decimal<char,unsigned __int64>": {
+            "offset": "0x28A0"
+        },
+        "fmt::v8::detail::format_decimal<char,unsigned int,fmt::v8::appender,0>": {
+            "offset": "0x12C10"
+        },
+        "fmt::v8::detail::format_float<double>": {
+            "offset": "0x112C0"
+        },
+        "fmt::v8::detail::format_float<long double>": {
+            "offset": "0x12E70"
+        },
+        "fmt::v8::detail::format_uint<4,char,fmt::v8::appender,unsigned __int64>": {
+            "offset": "0x2980"
+        },
+        "fmt::v8::detail::grisu_gen_digits<fmt::v8::detail::fixed_handler>": {
+            "offset": "0x131D0"
+        },
+        "fmt::v8::detail::parse_float_type_spec<fmt::v8::detail::error_handler,char>": {
+            "offset": "0x2AA0"
+        },
+        "fmt::v8::detail::parse_header<char,<lambda_10b59f138e704e35b5296527d0235f76> >": {
+            "offset": "0x2C00"
+        },
+        "fmt::v8::detail::parse_nonnegative_int<char>": {
+            "offset": "0x2E60"
+        },
+        "fmt::v8::detail::printf_arg_formatter<fmt::v8::appender,char>::write_null_pointer": {
+            "offset": "0xDB30"
+        },
+        "fmt::v8::detail::snprintf_float<double>": {
+            "offset": "0x13880"
+        },
+        "fmt::v8::detail::snprintf_float<long double>": {
+            "offset": "0x13B00"
+        },
+        "fmt::v8::detail::thousands_sep_impl<char>": {
+            "offset": "0x13D90"
+        },
+        "fmt::v8::detail::thousands_sep_result<char>::~thousands_sep_result<char>": {
+            "offset": "0x9D40"
+        },
+        "fmt::v8::detail::to_unsigned<int>": {
+            "offset": "0x2F30"
+        },
+        "fmt::v8::detail::utf8_decode": {
+            "offset": "0xD970"
+        },
+        "fmt::v8::detail::vprintf<char,fmt::v8::basic_printf_context<fmt::v8::appender,char> >": {
+            "offset": "0x4530"
+        },
+        "fmt::v8::detail::write<char,fmt::v8::appender,double,0>": {
+            "offset": "0x5530"
+        },
+        "fmt::v8::detail::write<char,fmt::v8::appender,float,0>": {
+            "offset": "0x50E0"
+        },
+        "fmt::v8::detail::write<char,fmt::v8::appender,long double,0>": {
+            "offset": "0x5970"
+        },
+        "fmt::v8::detail::write<char,fmt::v8::appender,unsigned __int64,0>": {
+            "offset": "0x14990"
+        },
+        "fmt::v8::detail::write<char,fmt::v8::appender,unsigned int,0>": {
+            "offset": "0x14870"
+        },
+        "fmt::v8::detail::write<char,fmt::v8::appender>": {
+            "offset": "0x5010"
+        },
+        "fmt::v8::detail::write_char<char,fmt::v8::appender>": {
+            "offset": "0x5DB0"
+        },
+        "fmt::v8::detail::write_exponent<char,fmt::v8::appender>": {
+            "offset": "0x5DF0"
+        },
+        "fmt::v8::detail::write_float<fmt::v8::appender,fmt::v8::detail::big_decimal_fp,char>": {
+            "offset": "0x5F80"
+        },
+        "fmt::v8::detail::write_int<char,fmt::v8::appender,unsigned __int64>": {
+            "offset": "0x6940"
+        },
+        "fmt::v8::detail::write_int<char,fmt::v8::appender,unsigned int>": {
+            "offset": "0x6350"
+        },
+        "fmt::v8::detail::write_int_data<char>::write_int_data<char>": {
+            "offset": "0x98D0"
+        },
+        "fmt::v8::detail::write_int_localized<fmt::v8::appender,unsigned __int64,char>": {
+            "offset": "0x7070"
+        },
+        "fmt::v8::detail::write_padded<1,fmt::v8::appender,char,<lambda_051aec1ce4ed0271119623a7e83ac6a5> &>": {
+            "offset": "0x7490"
+        },
+        "fmt::v8::detail::write_padded<1,fmt::v8::appender,char,<lambda_22cb150d85fca5a3ac6a96f517638e39> &>": {
+            "offset": "0x7660"
+        },
+        "fmt::v8::detail::write_padded<1,fmt::v8::appender,char,<lambda_69652fb90da4a77ba8cf5fef5ea19cdd> >": {
+            "offset": "0x7800"
+        },
+        "fmt::v8::detail::write_padded<1,fmt::v8::appender,char,<lambda_fbd162939e03e0c955beb05a33c24f5e> &>": {
+            "offset": "0x7800"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_02a1634acea1c2868026d163185cc0d5> &>": {
+            "offset": "0x7990"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_06b2adfe852a46c8d65fe26cc7c8ca5d> &>": {
+            "offset": "0x7BB0"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_06f64a48a5b4f184684d74740837f1c7> &>": {
+            "offset": "0x7D30"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_2d30ec7f416bbcee3bc8a87df0c22c03> >": {
+            "offset": "0x94C0"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_33ba7a720adff5c90e1946d777cb5230> &>": {
+            "offset": "0x7EC0"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_4ea56d52f8212d84933fa76e5a159b3f> &>": {
+            "offset": "0x80E0"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_514469ad4ff2f796c2a70ef6994dff64> &>": {
+            "offset": "0x8380"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_596cc5dacf733e82dcb56ca6ee54b81f> &>": {
+            "offset": "0x85A0"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_686459aaae64d4cbdde6763d637485ac> &>": {
+            "offset": "0x8720"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_694eb9c30a49e7dae164c077f09b5a7f> &>": {
+            "offset": "0x8940"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_8cce229a1891be08a4c6e75623ca3fd6> &>": {
+            "offset": "0x8B60"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_b9c069f91a736dafbdb5ba8344e9f4c8> &>": {
+            "offset": "0x8CE0"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_cb4d4b26b782de201d2a0edc777aea57> &>": {
+            "offset": "0x8F00"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_de0fdbc03b7ebc9cd9291e836878da40> &>": {
+            "offset": "0x9080"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_f811a0db88237a09377d34dce98c0f31> &>": {
+            "offset": "0x92A0"
+        },
+        "fmt::v8::detail::write_ptr<char,fmt::v8::appender,unsigned __int64>": {
+            "offset": "0x9650"
+        },
+        "fmt::v8::format_error::format_error": {
+            "offset": "0x9AD0"
+        },
+        "fmt::v8::format_error::~format_error": {
+            "offset": "0x9E70"
+        },
+        "fmt::v8::sprintf<char [43],std::basic_string_view<char,std::char_traits<char> >,char const *,char>": {
+            "offset": "0x17CA0"
+        },
+        "fmt::v8::visit_format_arg<fmt::v8::detail::arg_converter<__int64,fmt::v8::basic_printf_context<fmt::v8::appender,char> >,fmt::v8::basic_printf_context<fmt::v8::appender,char> >": {
+            "offset": "0x33A0"
+        },
+        "fmt::v8::visit_format_arg<fmt::v8::detail::arg_converter<long,fmt::v8::basic_printf_context<fmt::v8::appender,char> >,fmt::v8::basic_printf_context<fmt::v8::appender,char> >": {
+            "offset": "0x3180"
+        },
+        "fmt::v8::visit_format_arg<fmt::v8::detail::arg_converter<short,fmt::v8::basic_printf_context<fmt::v8::appender,char> >,fmt::v8::basic_printf_context<fmt::v8::appender,char> >": {
+            "offset": "0x3050"
+        },
+        "fmt::v8::visit_format_arg<fmt::v8::detail::arg_converter<signed char,fmt::v8::basic_printf_context<fmt::v8::appender,char> >,fmt::v8::basic_printf_context<fmt::v8::appender,char> >": {
+            "offset": "0x2F60"
+        },
+        "fmt::v8::visit_format_arg<fmt::v8::detail::arg_converter<unsigned __int64,fmt::v8::basic_printf_context<fmt::v8::appender,char> >,fmt::v8::basic_printf_context<fmt::v8::appender,char> >": {
+            "offset": "0x33A0"
+        },
+        "fmt::v8::visit_format_arg<fmt::v8::detail::arg_converter<void,fmt::v8::basic_printf_context<fmt::v8::appender,char> >,fmt::v8::basic_printf_context<fmt::v8::appender,char> >": {
+            "offset": "0x3270"
+        },
+        "fmt::v8::visit_format_arg<fmt::v8::detail::printf_arg_formatter<fmt::v8::appender,char>,fmt::v8::basic_printf_context<fmt::v8::appender,char> >": {
+            "offset": "0x34D0"
+        },
+        "fmt::v8::visit_format_arg<fmt::v8::detail::printf_precision_handler,fmt::v8::basic_printf_context<fmt::v8::appender,char> >": {
+            "offset": "0x4030"
+        },
+        "fmt::v8::visit_format_arg<fmt::v8::detail::printf_width_handler<char>,fmt::v8::basic_printf_context<fmt::v8::appender,char> >": {
+            "offset": "0x3A60"
+        },
+        "fmt::v8::vsprintf<std::basic_string_view<char,std::char_traits<char> >,char>": {
+            "offset": "0x18540"
+        },
+        "fprintf": {
+            "offset": "0xDBF0"
+        },
+        "fwPlatformString::~fwPlatformString": {
+            "offset": "0x9E90"
+        },
+        "fwRefCountable::AddRef": {
+            "offset": "0x19680"
+        },
+        "fwRefCountable::Release": {
+            "offset": "0x19690"
+        },
+        "fwRefCountable::~fwRefCountable": {
+            "offset": "0x19670"
+        },
+        "ipc::Endpoint::Call": {
+            "offset": "0xF540"
+        },
+        "ipc::Endpoint::Endpoint": {
+            "offset": "0xE600"
+        },
+        "ipc::Endpoint::RunFrame": {
+            "offset": "0xF620"
+        },
+        "ipc::Endpoint::~Endpoint": {
+            "offset": "0xF1D0"
+        },
+        "ipc::rpc_msg::~rpc_msg": {
+            "offset": "0xF2D0"
+        },
+        "launch::IsSDKGuest": {
+            "offset": "0x16F20"
+        },
+        "msgpack::v1::array_size_overflow::array_size_overflow": {
+            "offset": "0xE9A0"
+        },
+        "msgpack::v1::array_size_overflow::~array_size_overflow": {
+            "offset": "0x9E70"
+        },
+        "msgpack::v1::bin_size_overflow::bin_size_overflow": {
+            "offset": "0xEAA0"
+        },
+        "msgpack::v1::bin_size_overflow::~bin_size_overflow": {
+            "offset": "0x9E70"
+        },
+        "msgpack::v1::depth_size_overflow::depth_size_overflow": {
+            "offset": "0xEB30"
+        },
+        "msgpack::v1::depth_size_overflow::~depth_size_overflow": {
+            "offset": "0x9E70"
+        },
+        "msgpack::v1::ext_size_overflow::ext_size_overflow": {
+            "offset": "0xEC40"
+        },
+        "msgpack::v1::ext_size_overflow::~ext_size_overflow": {
+            "offset": "0x9E70"
+        },
+        "msgpack::v1::insufficient_bytes::insufficient_bytes": {
+            "offset": "0xECD0"
+        },
+        "msgpack::v1::insufficient_bytes::~insufficient_bytes": {
+            "offset": "0x9E70"
+        },
+        "msgpack::v1::map_size_overflow::map_size_overflow": {
+            "offset": "0xED60"
+        },
+        "msgpack::v1::map_size_overflow::~map_size_overflow": {
+            "offset": "0x9E70"
+        },
+        "msgpack::v1::object::as<ipc::rpc_msg>": {
+            "offset": "0xE320"
+        },
+        "msgpack::v1::object_handle::~object_handle": {
+            "offset": "0xF2A0"
+        },
+        "msgpack::v1::parse_error::parse_error": {
+            "offset": "0xEDF0"
+        },
+        "msgpack::v1::parse_error::~parse_error": {
+            "offset": "0x9E70"
+        },
+        "msgpack::v1::sbuffer::~sbuffer": {
+            "offset": "0xF340"
+        },
+        "msgpack::v1::size_overflow::size_overflow": {
+            "offset": "0xEE40"
+        },
+        "msgpack::v1::str_size_overflow::str_size_overflow": {
+            "offset": "0xEEC0"
+        },
+        "msgpack::v1::str_size_overflow::~str_size_overflow": {
+            "offset": "0x9E70"
+        },
+        "msgpack::v1::type_error::type_error": {
+            "offset": "0xEF50"
+        },
+        "msgpack::v1::type_error::~type_error": {
+            "offset": "0x9E70"
+        },
+        "msgpack::v1::unpack_error::unpack_error": {
+            "offset": "0xEF80"
+        },
+        "msgpack::v1::zone::allocate_align": {
+            "offset": "0xFD90"
+        },
+        "msgpack::v1::zone::allocate_expand": {
+            "offset": "0xFE50"
+        },
+        "msgpack::v1::zone::get_aligned": {
+            "offset": "0x10B10"
+        },
+        "msgpack::v1::zone::zone": {
+            "offset": "0xEFC0"
+        },
+        "msgpack::v1::zone::~zone": {
+            "offset": "0xF360"
+        },
+        "msgpack::v2::detail::context<msgpack::v2::detail::parse_helper<msgpack::v2::detail::create_object_visitor> >::execute": {
+            "offset": "0x10000"
+        },
+        "msgpack::v2::detail::context<msgpack::v2::detail::parse_helper<msgpack::v2::detail::create_object_visitor> >::holder": {
+            "offset": "0x10B80"
+        },
+        "msgpack::v2::detail::context<msgpack::v2::detail::parse_helper<msgpack::v2::detail::create_object_visitor> >::unpack_stack::consume": {
+            "offset": "0xFED0"
+        },
+        "msgpack::v2::detail::create_object_visitor::insufficient_bytes": {
+            "offset": "0x10B90"
+        },
+        "msgpack::v2::detail::create_object_visitor::parse_error": {
+            "offset": "0x10BC0"
+        },
+        "msgpack::v2::detail::create_object_visitor::start_array": {
+            "offset": "0x10BF0"
+        },
+        "msgpack::v2::detail::create_object_visitor::start_map": {
+            "offset": "0x10CE0"
+        },
+        "msgpack::v2::detail::create_object_visitor::visit_bin": {
+            "offset": "0x10F90"
+        },
+        "msgpack::v2::detail::create_object_visitor::visit_ext": {
+            "offset": "0x11090"
+        },
+        "msgpack::v2::detail::create_object_visitor::visit_str": {
+            "offset": "0x111A0"
+        },
+        "msgpack::v2::detail::create_object_visitor::~create_object_visitor": {
+            "offset": "0xF240"
+        },
+        "msgpack::v2::detail::parse_helper<msgpack::v2::detail::create_object_visitor>::visitor": {
+            "offset": "0x112A0"
+        },
+        "msgpack::v2::detail::parse_helper<msgpack::v2::detail::create_object_visitor>::~parse_helper<msgpack::v2::detail::create_object_visitor>": {
+            "offset": "0xF060"
+        },
+        "msgpack::v2::detail::parse_imp<msgpack::v2::detail::create_object_visitor>": {
+            "offset": "0xE3D0"
+        },
+        "nng::buffer::~buffer": {
+            "offset": "0xF220"
+        },
+        "nng::exception::exception": {
+            "offset": "0xEBE0"
+        },
+        "nng::exception::what": {
+            "offset": "0x112B0"
+        },
+        "nng::exception::~exception": {
+            "offset": "0x9E70"
+        },
+        "nng::socket::~socket": {
+            "offset": "0xF350"
+        },
+        "rapidjson::GenericDocument<rapidjson::UTF8<char>,rapidjson::MemoryPoolAllocator<rapidjson::CrtAllocator>,rapidjson::CrtAllocator>::~GenericDocument<rapidjson::UTF8<char>,rapidjson::MemoryPoolAllocator<rapidjson::CrtAllocator>,rapidjson::CrtAllocator>": {
+            "offset": "0x9B50"
+        },
+        "rapidjson::GenericStringBuffer<rapidjson::UTF8<char>,rapidjson::CrtAllocator>::~GenericStringBuffer<rapidjson::UTF8<char>,rapidjson::CrtAllocator>": {
+            "offset": "0x9BF0"
+        },
+        "rapidjson::GenericValue<rapidjson::UTF8<char>,rapidjson::MemoryPoolAllocator<rapidjson::CrtAllocator> >::Accept<rapidjson::Writer<rapidjson::GenericStringBuffer<rapidjson::UTF8<char>,rapidjson::CrtAllocator>,rapidjson::UTF8<char>,rapidjson::UTF8<char>,rapidjson::CrtAllocator,0> >": {
+            "offset": "0x1460"
+        },
+        "rapidjson::GenericValue<rapidjson::UTF8<char>,rapidjson::MemoryPoolAllocator<rapidjson::CrtAllocator> >::AddMember": {
+            "offset": "0xACC0"
+        },
+        "rapidjson::GenericValue<rapidjson::UTF8<char>,rapidjson::MemoryPoolAllocator<rapidjson::CrtAllocator> >::~GenericValue<rapidjson::UTF8<char>,rapidjson::MemoryPoolAllocator<rapidjson::CrtAllocator> >": {
+            "offset": "0x9C20"
+        },
+        "rapidjson::MemoryPoolAllocator<rapidjson::CrtAllocator>::Malloc": {
+            "offset": "0xBE10"
+        },
+        "rapidjson::Writer<rapidjson::GenericStringBuffer<rapidjson::UTF8<char>,rapidjson::CrtAllocator>,rapidjson::UTF8<char>,rapidjson::UTF8<char>,rapidjson::CrtAllocator,0>::Prefix": {
+            "offset": "0xBED0"
+        },
+        "rapidjson::Writer<rapidjson::GenericStringBuffer<rapidjson::UTF8<char>,rapidjson::CrtAllocator>,rapidjson::UTF8<char>,rapidjson::UTF8<char>,rapidjson::CrtAllocator,0>::String": {
+            "offset": "0xC140"
+        },
+        "rapidjson::Writer<rapidjson::GenericStringBuffer<rapidjson::UTF8<char>,rapidjson::CrtAllocator>,rapidjson::UTF8<char>,rapidjson::UTF8<char>,rapidjson::CrtAllocator,0>::WriteString": {
+            "offset": "0xC5E0"
+        },
+        "rapidjson::Writer<rapidjson::GenericStringBuffer<rapidjson::UTF8<char>,rapidjson::CrtAllocator>,rapidjson::UTF8<char>,rapidjson::UTF8<char>,rapidjson::CrtAllocator,0>::~Writer<rapidjson::GenericStringBuffer<rapidjson::UTF8<char>,rapidjson::CrtAllocator>,rapidjson::UTF8<char>,rapidjson::UTF8<char>,rapidjson::CrtAllocator,0>": {
+            "offset": "0x9C30"
+        },
+        "rapidjson::internal::DigitGen": {
+            "offset": "0xAF70"
+        },
+        "rapidjson::internal::Grisu2": {
+            "offset": "0xBA20"
+        },
+        "rapidjson::internal::Prettify": {
+            "offset": "0xBF80"
+        },
+        "rapidjson::internal::Stack<rapidjson::CrtAllocator>::Push<rapidjson::Writer<rapidjson::GenericStringBuffer<rapidjson::UTF8<char>,rapidjson::CrtAllocator>,rapidjson::UTF8<char>,rapidjson::UTF8<char>,rapidjson::CrtAllocator,0>::Level>": {
+            "offset": "0x1EF0"
+        },
+        "rapidjson::internal::Stack<rapidjson::CrtAllocator>::Reserve<char>": {
+            "offset": "0x1FC0"
+        },
+        "rapidjson::internal::Stack<rapidjson::CrtAllocator>::~Stack<rapidjson::CrtAllocator>": {
+            "offset": "0x9BF0"
+        },
+        "rapidjson::internal::WriteExponent": {
+            "offset": "0xC550"
+        },
+        "rapidjson::internal::u32toa": {
+            "offset": "0xD0B0"
+        },
+        "rapidjson::internal::u64toa": {
+            "offset": "0xD320"
+        },
+        "std::_Alloc_construct_ptr<std::allocator<std::_Tree_node<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier>,void *> > >::~_Alloc_construct_ptr<std::allocator<std::_Tree_node<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier>,void *> > >": {
+            "offset": "0x9C60"
+        },
+        "std::_Facet_Register": {
+            "offset": "0x197E8"
+        },
+        "std::_Maklocstr<char>": {
+            "offset": "0xDC40"
+        },
+        "std::_Throw_bad_array_new_length": {
+            "offset": "0xC980"
+        },
+        "std::_Throw_tree_length_error": {
+            "offset": "0xC9A0"
+        },
+        "std::_Tidy_guard<std::numpunct<char> >::~_Tidy_guard<std::numpunct<char> >": {
+            "offset": "0x14BE0"
+        },
+        "std::_Tree<std::_Tmap_traits<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> >,0> >::_Find_hint<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >": {
+            "offset": "0x2190"
+        },
+        "std::_Tree<std::_Tmap_traits<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> >,0> >::_Find_lower_bound<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >": {
+            "offset": "0x2410"
+        },
+        "std::_Tree<std::_Tmap_traits<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> >,0> >::~_Tree<std::_Tmap_traits<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> >,0> >": {
+            "offset": "0x9C80"
+        },
+        "std::_Tree_val<std::_Tree_simple_types<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> > >::_Erase_tree<std::allocator<std::_Tree_node<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier>,void *> > >": {
+            "offset": "0x2130"
+        },
+        "std::_Tree_val<std::_Tree_simple_types<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> > >::_Insert_node": {
+            "offset": "0xC720"
+        },
+        "std::_Xlen_string": {
+            "offset": "0xC9C0"
+        },
+        "std::allocator<char>::allocate": {
+            "offset": "0xC9E0"
+        },
+        "std::allocator<char>::deallocate": {
+            "offset": "0x192F0"
+        },
+        "std::allocator<msgpack::v2::detail::context<msgpack::v2::detail::parse_helper<msgpack::v2::detail::create_object_visitor> >::unpack_stack::stack_elem>::allocate": {
+            "offset": "0xFD20"
+        },
+        "std::allocator<msgpack::v2::detail::context<msgpack::v2::detail::parse_helper<msgpack::v2::detail::create_object_visitor> >::unpack_stack::stack_elem>::deallocate": {
+            "offset": "0xFF60"
+        },
+        "std::allocator<msgpack::v2::object *>::allocate": {
+            "offset": "0xFD20"
+        },
+        "std::allocator<msgpack::v2::object *>::deallocate": {
+            "offset": "0xFF60"
+        },
+        "std::allocator<msgpack::v2::object>::deallocate": {
+            "offset": "0xFFB0"
+        },
+        "std::allocator<unsigned char>::deallocate": {
+            "offset": "0x192F0"
+        },
+        "std::allocator<wchar_t>::allocate": {
+            "offset": "0xCA40"
+        },
+        "std::bad_alloc::bad_alloc": {
+            "offset": "0x99E0"
+        },
+        "std::bad_alloc::~bad_alloc": {
+            "offset": "0x9E70"
+        },
+        "std::bad_array_new_length::bad_array_new_length": {
+            "offset": "0x9A60"
+        },
+        "std::bad_array_new_length::~bad_array_new_length": {
+            "offset": "0x9E70"
+        },
+        "std::bad_cast::bad_cast": {
+            "offset": "0xEA20"
+        },
+        "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::_Construct<1,char const *>": {
+            "offset": "0x2070"
+        },
+        "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::_Reallocate_grow_by<<lambda_319d5e083f45f90dcdce5dce53cbb275>,char>": {
+            "offset": "0x17300"
+        },
+        "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::_Reallocate_grow_by<<lambda_9013ee9e23efe4882b67eff5b0ecf103> >": {
+            "offset": "0x17470"
+        },
+        "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::assign": {
+            "offset": "0xCC30"
+        },
+        "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::basic_string<char,std::char_traits<char>,std::allocator<char> >": {
+            "offset": "0x9800"
+        },
+        "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::~basic_string<char,std::char_traits<char>,std::allocator<char> >": {
+            "offset": "0x9D40"
+        },
+        "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >::_Construct<1,wchar_t const *>": {
+            "offset": "0x116A0"
+        },
+        "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >::append": {
+            "offset": "0xCAB0"
+        },
+        "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >": {
+            "offset": "0x16190"
+        },
+        "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >::push_back": {
+            "offset": "0x19330"
+        },
+        "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >::reserve": {
+            "offset": "0x19490"
+        },
+        "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >::~basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >": {
+            "offset": "0x9DA0"
+        },
+        "std::exception::exception": {
+            "offset": "0x9A90"
+        },
+        "std::exception::what": {
+            "offset": "0xDB10"
+        },
+        "std::locale::~locale": {
+            "offset": "0x14CA0"
+        },
+        "std::numpunct<char>::do_decimal_point": {
+            "offset": "0x15360"
+        },
+        "std::numpunct<char>::do_falsename": {
+            "offset": "0x15370"
+        },
+        "std::numpunct<char>::do_grouping": {
+            "offset": "0x153B0"
+        },
+        "std::numpunct<char>::do_thousands_sep": {
+            "offset": "0x153F0"
+        },
+        "std::numpunct<char>::do_truename": {
+            "offset": "0x15400"
+        },
+        "std::numpunct<char>::numpunct<char>": {
+            "offset": "0x14A30"
+        },
+        "std::runtime_error::runtime_error": {
+            "offset": "0x9B10"
+        },
+        "std::unique_ptr<msgpack::v1::zone,std::default_delete<msgpack::v1::zone> >::~unique_ptr<msgpack::v1::zone,std::default_delete<msgpack::v1::zone> >": {
+            "offset": "0xF0C0"
+        },
+        "std::unique_ptr<std::_Facet_base,std::default_delete<std::_Facet_base> >::~unique_ptr<std::_Facet_base,std::default_delete<std::_Facet_base> >": {
+            "offset": "0x14C80"
+        },
+        "std::use_facet<std::numpunct<char> >": {
+            "offset": "0x14700"
+        },
+        "utf8::exception::exception": {
+            "offset": "0x18670"
+        },
+        "utf8::internal::append<std::back_insert_iterator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >,char>": {
+            "offset": "0x17710"
+        },
+        "utf8::internal::validate_next<std::_String_view_iterator<std::char_traits<char> > >": {
+            "offset": "0x18040"
+        },
+        "utf8::invalid_code_point::invalid_code_point": {
+            "offset": "0x18700"
+        },
+        "utf8::invalid_code_point::what": {
+            "offset": "0x19640"
+        },
+        "utf8::invalid_code_point::~invalid_code_point": {
+            "offset": "0x9E70"
+        },
+        "utf8::invalid_utf8::invalid_utf8": {
+            "offset": "0x18770"
+        },
+        "utf8::invalid_utf8::what": {
+            "offset": "0x19650"
+        },
+        "utf8::invalid_utf8::~invalid_utf8": {
+            "offset": "0x9E70"
+        },
+        "utf8::not_enough_room::not_enough_room": {
+            "offset": "0x187D0"
+        },
+        "utf8::not_enough_room::what": {
+            "offset": "0x19660"
+        },
+        "utf8::not_enough_room::~not_enough_room": {
+            "offset": "0x9E70"
+        },
+        "va_impl<char,fmt::v8::basic_format_args<fmt::v8::basic_printf_context<fmt::v8::appender,char> > >": {
+            "offset": "0x17E20"
+        },
+        "vva": {
+            "offset": "0x19620"
+        },
+        "xbr::`dynamic initializer for 'kGameBuildUniquifiers''": {
+            "offset": "0x1060"
+        }
+    }
+}

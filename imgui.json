@@ -1,0 +1,7039 @@
+{
+    "imgui.dll": {
+        "AddDrawListToDrawData": {
+            "offset": "0x7DB0"
+        },
+        "AddWindowToDrawData": {
+            "offset": "0x8810"
+        },
+        "AddWindowToSortBuffer": {
+            "offset": "0x88D0"
+        },
+        "ApplyWindowSettings": {
+            "offset": "0x89A0"
+        },
+        "BDF_Face_Done": {
+            "offset": "0xCEBC0"
+        },
+        "BDF_Face_Init": {
+            "offset": "0xCEC90"
+        },
+        "BDF_Glyph_Load": {
+            "offset": "0xCF5C0"
+        },
+        "BDF_Size_Request": {
+            "offset": "0xCF4D0"
+        },
+        "BDF_Size_Select": {
+            "offset": "0xCF480"
+        },
+        "Bezier_Up": {
+            "offset": "0xF29B0"
+        },
+        "CalcNextScrollFromScrollTargetAndClamp": {
+            "offset": "0xDA70"
+        },
+        "CalcResizePosSizeFromAnyCorner": {
+            "offset": "0xDCC0"
+        },
+        "CalcWindowAutoFitSize": {
+            "offset": "0xDF40"
+        },
+        "CalcWindowContentSizes": {
+            "offset": "0xE240"
+        },
+        "CalcWindowSizeAfterConstraint": {
+            "offset": "0xE3B0"
+        },
+        "ChildWindowComparer": {
+            "offset": "0xE730"
+        },
+        "ClampWindowRect": {
+            "offset": "0xE780"
+        },
+        "ColorEditRestoreHS": {
+            "offset": "0x7EB70"
+        },
+        "Compute_Funcs": {
+            "offset": "0xA9B70"
+        },
+        "Conic_To": {
+            "offset": "0xF2B30"
+        },
+        "Convert_Glyph": {
+            "offset": "0xF2D60"
+        },
+        "CreateNewWindow": {
+            "offset": "0xF8A0"
+        },
+        "Cubic_To": {
+            "offset": "0xF2F80"
+        },
+        "Current_Ppem": {
+            "offset": "0xA9CC0"
+        },
+        "Current_Ppem_Stretched": {
+            "offset": "0xA9CD0"
+        },
+        "Current_Ratio": {
+            "offset": "0xA9D00"
+        },
+        "DebugNodeDockNodeFlags": {
+            "offset": "0x10630"
+        },
+        "Decompose_Curve": {
+            "offset": "0xF3240"
+        },
+        "Destroy_Module": {
+            "offset": "0x951A0"
+        },
+        "Direct_Move": {
+            "offset": "0xA9DA0"
+        },
+        "Direct_Move_Orig": {
+            "offset": "0xA9E90"
+        },
+        "Direct_Move_Orig_X": {
+            "offset": "0xA9F20"
+        },
+        "Direct_Move_Orig_Y": {
+            "offset": "0xA9F30"
+        },
+        "Direct_Move_X": {
+            "offset": "0xA9F40"
+        },
+        "Direct_Move_Y": {
+            "offset": "0xA9F80"
+        },
+        "DllMain": {
+            "offset": "0xFF774"
+        },
+        "DockBuilderCopyNodeRec": {
+            "offset": "0x14600"
+        },
+        "DockNodeComparerDepthMostFirst": {
+            "offset": "0x17DF0"
+        },
+        "DockNodeFindInfo": {
+            "offset": "0x17E70"
+        },
+        "DockNodeIsDropAllowedOne": {
+            "offset": "0x180D0"
+        },
+        "DockNodeTreeUpdateSplitterFindTouchingNode": {
+            "offset": "0x1A760"
+        },
+        "DockSettingsHandler_DockNodeToSettings": {
+            "offset": "0x1CC10"
+        },
+        "Draw_Sweep": {
+            "offset": "0xF3580"
+        },
+        "Dual_Project": {
+            "offset": "0xA9FD0"
+        },
+        "EditTableColumnsFlags": {
+            "offset": "0x3FD60"
+        },
+        "EditTableSizingFlags": {
+            "offset": "0x40000"
+        },
+        "End_Profile": {
+            "offset": "0xF3C10"
+        },
+        "ExampleAppConsole::AddLog": {
+            "offset": "0x3F090"
+        },
+        "ExampleAppConsole::ClearLog": {
+            "offset": "0x3F380"
+        },
+        "ExampleAppConsole::Draw": {
+            "offset": "0x3F5D0"
+        },
+        "ExampleAppConsole::ExampleAppConsole": {
+            "offset": "0x3E8F0"
+        },
+        "ExampleAppConsole::ExecCommand": {
+            "offset": "0x401B0"
+        },
+        "ExampleAppConsole::TextEditCallback": {
+            "offset": "0x5A040"
+        },
+        "ExampleAppConsole::TextEditCallbackStub": {
+            "offset": "0x5A450"
+        },
+        "ExampleAppDocuments::ExampleAppDocuments": {
+            "offset": "0x3EC70"
+        },
+        "ExampleAppLog::AddLog": {
+            "offset": "0x3F170"
+        },
+        "ExampleAppLog::Clear": {
+            "offset": "0x3F280"
+        },
+        "ExampleAppLog::Draw": {
+            "offset": "0x3FA50"
+        },
+        "FNT_Face_Done": {
+            "offset": "0xCB930"
+        },
+        "FNT_Face_Init": {
+            "offset": "0xCB970"
+        },
+        "FNT_Load_Glyph": {
+            "offset": "0xCBE20"
+        },
+        "FNT_Size_Request": {
+            "offset": "0xCBD50"
+        },
+        "FNT_Size_Select": {
+            "offset": "0xCBD00"
+        },
+        "FT_Activate_Size": {
+            "offset": "0x95340"
+        },
+        "FT_Add_Default_Modules": {
+            "offset": "0x9F5F0"
+        },
+        "FT_Add_Module": {
+            "offset": "0x95370"
+        },
+        "FT_Bitmap_Convert": {
+            "offset": "0xF9090"
+        },
+        "FT_Bitmap_Copy": {
+            "offset": "0xF9550"
+        },
+        "FT_Bitmap_Done": {
+            "offset": "0xF9720"
+        },
+        "FT_Bitmap_Embolden": {
+            "offset": "0xF9780"
+        },
+        "FT_Bitmap_Init": {
+            "offset": "0xF9AD0"
+        },
+        "FT_Bitmap_New": {
+            "offset": "0xF9AD0"
+        },
+        "FT_CMap_New": {
+            "offset": "0x956C0"
+        },
+        "FT_DivFix": {
+            "offset": "0x95860"
+        },
+        "FT_Done_Face": {
+            "offset": "0x958D0"
+        },
+        "FT_Done_GlyphSlot": {
+            "offset": "0x959B0"
+        },
+        "FT_Done_Library": {
+            "offset": "0x95A40"
+        },
+        "FT_Done_Size": {
+            "offset": "0x95BE0"
+        },
+        "FT_Get_Advance": {
+            "offset": "0x95D00"
+        },
+        "FT_Get_Char_Index": {
+            "offset": "0x95ED0"
+        },
+        "FT_Get_Glyph_Name": {
+            "offset": "0x95F20"
+        },
+        "FT_Get_Module": {
+            "offset": "0x96000"
+        },
+        "FT_Get_Module_Interface": {
+            "offset": "0x96090"
+        },
+        "FT_Get_Next_Char": {
+            "offset": "0x96120"
+        },
+        "FT_GlyphLoader_Add": {
+            "offset": "0x961A0"
+        },
+        "FT_GlyphLoader_Adjust_Points": {
+            "offset": "0x96310"
+        },
+        "FT_GlyphLoader_CheckPoints": {
+            "offset": "0x96390"
+        },
+        "FT_GlyphLoader_CheckSubGlyphs": {
+            "offset": "0x96870"
+        },
+        "FT_GlyphLoader_CreateExtra": {
+            "offset": "0x96A00"
+        },
+        "FT_GlyphLoader_Done": {
+            "offset": "0x96AF0"
+        },
+        "FT_GlyphLoader_Prepare": {
+            "offset": "0x96B20"
+        },
+        "FT_GlyphLoader_Reset": {
+            "offset": "0x96B70"
+        },
+        "FT_GlyphLoader_Rewind": {
+            "offset": "0x96C50"
+        },
+        "FT_GlyphSlot_Embolden": {
+            "offset": "0x9F640"
+        },
+        "FT_GlyphSlot_Oblique": {
+            "offset": "0x9F740"
+        },
+        "FT_GlyphSlot_Own_Bitmap": {
+            "offset": "0xF9B00"
+        },
+        "FT_Gzip_Uncompress": {
+            "offset": "0xF9E70"
+        },
+        "FT_Hypot": {
+            "offset": "0x96C90"
+        },
+        "FT_List_Add": {
+            "offset": "0x96D80"
+        },
+        "FT_List_Finalize": {
+            "offset": "0x96DB0"
+        },
+        "FT_List_Find": {
+            "offset": "0x96E30"
+        },
+        "FT_List_Iterate": {
+            "offset": "0x96E60"
+        },
+        "FT_Load_Glyph": {
+            "offset": "0x96ED0"
+        },
+        "FT_Match_Size": {
+            "offset": "0x976D0"
+        },
+        "FT_Matrix_Check": {
+            "offset": "0x97820"
+        },
+        "FT_Matrix_Invert": {
+            "offset": "0x979C0"
+        },
+        "FT_Matrix_Multiply": {
+            "offset": "0x97A80"
+        },
+        "FT_Matrix_Multiply_Scaled": {
+            "offset": "0x97BE0"
+        },
+        "FT_MulDiv": {
+            "offset": "0x97D10"
+        },
+        "FT_MulDiv_No_Round": {
+            "offset": "0x97DB0"
+        },
+        "FT_MulFix": {
+            "offset": "0x97E40"
+        },
+        "FT_New_GlyphSlot": {
+            "offset": "0x97E60"
+        },
+        "FT_New_Library": {
+            "offset": "0x98070"
+        },
+        "FT_New_Memory_Face": {
+            "offset": "0x98110"
+        },
+        "FT_New_Size": {
+            "offset": "0x98160"
+        },
+        "FT_Open_Face": {
+            "offset": "0x98330"
+        },
+        "FT_Outline_Decompose": {
+            "offset": "0x98350"
+        },
+        "FT_Outline_EmboldenXY": {
+            "offset": "0x986F0"
+        },
+        "FT_Outline_Get_CBox": {
+            "offset": "0x98BF0"
+        },
+        "FT_Outline_Get_Orientation": {
+            "offset": "0x98CA0"
+        },
+        "FT_Outline_Transform": {
+            "offset": "0x98E60"
+        },
+        "FT_Outline_Translate": {
+            "offset": "0x98F50"
+        },
+        "FT_Raccess_Get_DataOffsets": {
+            "offset": "0x98F90"
+        },
+        "FT_Raccess_Get_HeaderInfo": {
+            "offset": "0x994D0"
+        },
+        "FT_Render_Glyph": {
+            "offset": "0x99920"
+        },
+        "FT_Render_Glyph_Internal": {
+            "offset": "0x99950"
+        },
+        "FT_Request_Metrics": {
+            "offset": "0x99BB0"
+        },
+        "FT_Request_Size": {
+            "offset": "0x99EE0"
+        },
+        "FT_RoundFix": {
+            "offset": "0x9A1A0"
+        },
+        "FT_Select_Charmap": {
+            "offset": "0x9A1C0"
+        },
+        "FT_Select_Metrics": {
+            "offset": "0x9A230"
+        },
+        "FT_Select_Size": {
+            "offset": "0x9A2F0"
+        },
+        "FT_Set_Charmap": {
+            "offset": "0x9A430"
+        },
+        "FT_Stream_Close": {
+            "offset": "0x9A510"
+        },
+        "FT_Stream_EnterFrame": {
+            "offset": "0x9A530"
+        },
+        "FT_Stream_ExitFrame": {
+            "offset": "0x9A650"
+        },
+        "FT_Stream_ExtractFrame": {
+            "offset": "0x9A6A0"
+        },
+        "FT_Stream_Free": {
+            "offset": "0x9A6E0"
+        },
+        "FT_Stream_GetByte": {
+            "offset": "0x9A730"
+        },
+        "FT_Stream_GetULong": {
+            "offset": "0x9A750"
+        },
+        "FT_Stream_GetULongLE": {
+            "offset": "0x9A7A0"
+        },
+        "FT_Stream_GetUShort": {
+            "offset": "0x9A7F0"
+        },
+        "FT_Stream_GetUShortLE": {
+            "offset": "0x9A830"
+        },
+        "FT_Stream_New": {
+            "offset": "0x9A870"
+        },
+        "FT_Stream_Open": {
+            "offset": "0x9F7A0"
+        },
+        "FT_Stream_OpenGzip": {
+            "offset": "0xFA1F0"
+        },
+        "FT_Stream_OpenLZW": {
+            "offset": "0xFD6C0"
+        },
+        "FT_Stream_OpenMemory": {
+            "offset": "0x9A9E0"
+        },
+        "FT_Stream_Pos": {
+            "offset": "0x9AA00"
+        },
+        "FT_Stream_Read": {
+            "offset": "0x9AA10"
+        },
+        "FT_Stream_ReadAt": {
+            "offset": "0x9AA90"
+        },
+        "FT_Stream_ReadByte": {
+            "offset": "0x9AB10"
+        },
+        "FT_Stream_ReadFields": {
+            "offset": "0x9AB80"
+        },
+        "FT_Stream_ReadULong": {
+            "offset": "0x9AE30"
+        },
+        "FT_Stream_ReadULongLE": {
+            "offset": "0x9AEE0"
+        },
+        "FT_Stream_ReadUOffset": {
+            "offset": "0x9AF90"
+        },
+        "FT_Stream_ReadUShort": {
+            "offset": "0x9B020"
+        },
+        "FT_Stream_ReadUShortLE": {
+            "offset": "0x9B0C0"
+        },
+        "FT_Stream_ReleaseFrame": {
+            "offset": "0x9B160"
+        },
+        "FT_Stream_Seek": {
+            "offset": "0x9B1B0"
+        },
+        "FT_Stream_Skip": {
+            "offset": "0x9B220"
+        },
+        "FT_Stream_TryRead": {
+            "offset": "0x9B240"
+        },
+        "FT_Trace_Disable": {
+            "offset": "0x50B0"
+        },
+        "FT_Trace_Enable": {
+            "offset": "0x50B0"
+        },
+        "FindFrontMostVisibleChildWindow": {
+            "offset": "0x1F7A0"
+        },
+        "FindHoveredWindow": {
+            "offset": "0x1FA50"
+        },
+        "FindWindowNavFocusable": {
+            "offset": "0x20030"
+        },
+        "FreeType_Alloc": {
+            "offset": "0x93610"
+        },
+        "FreeType_Free": {
+            "offset": "0x93630"
+        },
+        "FreeType_Realloc": {
+            "offset": "0x93650"
+        },
+        "FreeWrapper": {
+            "offset": "0x1010"
+        },
+        "GetClipboardTextFn_DefaultImpl": {
+            "offset": "0x208C0"
+        },
+        "GetResizeBorderRect": {
+            "offset": "0x21F00"
+        },
+        "GetViewportDrawList": {
+            "offset": "0x227B0"
+        },
+        "Get_Interface": {
+            "offset": "0xBA040"
+        },
+        "Get_Kerning": {
+            "offset": "0xBA050"
+        },
+        "HelpMarker": {
+            "offset": "0x405D0"
+        },
+        "Horizontal_Sweep_Drop": {
+            "offset": "0xF3CB0"
+        },
+        "Horizontal_Sweep_Init": {
+            "offset": "0x50B0"
+        },
+        "Horizontal_Sweep_Span": {
+            "offset": "0xF3E70"
+        },
+        "Horizontal_Sweep_Step": {
+            "offset": "0x50B0"
+        },
+        "IM_DELETE<ImGuiViewportP>": {
+            "offset": "0x1020"
+        },
+        "ImAlphaBlendColors": {
+            "offset": "0x22F30"
+        },
+        "ImBezierCubicCalc": {
+            "offset": "0x5F840"
+        },
+        "ImBezierCubicClosestPoint": {
+            "offset": "0x22FE0"
+        },
+        "ImBezierCubicClosestPointCasteljau": {
+            "offset": "0x23200"
+        },
+        "ImBezierCubicClosestPointCasteljauStep": {
+            "offset": "0x232C0"
+        },
+        "ImBezierQuadraticCalc": {
+            "offset": "0x5F900"
+        },
+        "ImChunkStream<ImGuiTableSettings>::~ImChunkStream<ImGuiTableSettings>": {
+            "offset": "0x3FB0"
+        },
+        "ImChunkStream<ImGuiWindowSettings>::~ImChunkStream<ImGuiWindowSettings>": {
+            "offset": "0x3FB0"
+        },
+        "ImDrawData::DeIndexAllBuffers": {
+            "offset": "0x5F100"
+        },
+        "ImDrawData::ScaleClipRects": {
+            "offset": "0x65110"
+        },
+        "ImDrawDataBuilder::FlattenIntoSingleLayer": {
+            "offset": "0x20110"
+        },
+        "ImDrawList::AddBezierCubic": {
+            "offset": "0x5A8D0"
+        },
+        "ImDrawList::AddBezierQuadratic": {
+            "offset": "0x5A950"
+        },
+        "ImDrawList::AddCallback": {
+            "offset": "0x5A9D0"
+        },
+        "ImDrawList::AddCircle": {
+            "offset": "0x5AAD0"
+        },
+        "ImDrawList::AddCircleFilled": {
+            "offset": "0x5ABC0"
+        },
+        "ImDrawList::AddConvexPolyFilled": {
+            "offset": "0x5AC90"
+        },
+        "ImDrawList::AddDrawCmd": {
+            "offset": "0x5B2E0"
+        },
+        "ImDrawList::AddImage": {
+            "offset": "0x5C220"
+        },
+        "ImDrawList::AddImageQuad": {
+            "offset": "0x5C2E0"
+        },
+        "ImDrawList::AddImageRounded": {
+            "offset": "0x5C3E0"
+        },
+        "ImDrawList::AddLine": {
+            "offset": "0x5C560"
+        },
+        "ImDrawList::AddNgon": {
+            "offset": "0x5C6C0"
+        },
+        "ImDrawList::AddNgonFilled": {
+            "offset": "0x5C760"
+        },
+        "ImDrawList::AddPolyline": {
+            "offset": "0x5C7E0"
+        },
+        "ImDrawList::AddQuad": {
+            "offset": "0x5D6E0"
+        },
+        "ImDrawList::AddQuadFilled": {
+            "offset": "0x5D770"
+        },
+        "ImDrawList::AddRect": {
+            "offset": "0x5D860"
+        },
+        "ImDrawList::AddRectFilled": {
+            "offset": "0x5D970"
+        },
+        "ImDrawList::AddRectFilledMultiColor": {
+            "offset": "0x5DA30"
+        },
+        "ImDrawList::AddText": {
+            "offset": "0x5DD50"
+        },
+        "ImDrawList::AddTriangle": {
+            "offset": "0x5DF00"
+        },
+        "ImDrawList::AddTriangleFilled": {
+            "offset": "0x5DF80"
+        },
+        "ImDrawList::CloneOutput": {
+            "offset": "0x5F020"
+        },
+        "ImDrawList::PathArcTo": {
+            "offset": "0x60FE0"
+        },
+        "ImDrawList::PathArcToFast": {
+            "offset": "0x61420"
+        },
+        "ImDrawList::PathBezierCubicCurveTo": {
+            "offset": "0x614C0"
+        },
+        "ImDrawList::PathBezierQuadraticCurveTo": {
+            "offset": "0x61A70"
+        },
+        "ImDrawList::PathLineTo": {
+            "offset": "0x61EA0"
+        },
+        "ImDrawList::PathRect": {
+            "offset": "0x61F10"
+        },
+        "ImDrawList::PopClipRect": {
+            "offset": "0x624A0"
+        },
+        "ImDrawList::PopTextureID": {
+            "offset": "0x624E0"
+        },
+        "ImDrawList::PrimQuadUV": {
+            "offset": "0x62520"
+        },
+        "ImDrawList::PrimRect": {
+            "offset": "0x62640"
+        },
+        "ImDrawList::PrimRectUV": {
+            "offset": "0x62760"
+        },
+        "ImDrawList::PrimReserve": {
+            "offset": "0x628B0"
+        },
+        "ImDrawList::PrimUnreserve": {
+            "offset": "0x62950"
+        },
+        "ImDrawList::PushClipRect": {
+            "offset": "0x62970"
+        },
+        "ImDrawList::PushClipRectFullScreen": {
+            "offset": "0x62A80"
+        },
+        "ImDrawList::PushTextureID": {
+            "offset": "0x62AD0"
+        },
+        "ImDrawList::_CalcCircleAutoSegmentCount": {
+            "offset": "0x66F40"
+        },
+        "ImDrawList::_ClearFreeMemory": {
+            "offset": "0x66FD0"
+        },
+        "ImDrawList::_OnChangedClipRect": {
+            "offset": "0x67090"
+        },
+        "ImDrawList::_OnChangedTextureID": {
+            "offset": "0x67190"
+        },
+        "ImDrawList::_OnChangedVtxOffset": {
+            "offset": "0x67280"
+        },
+        "ImDrawList::_PathArcToFastEx": {
+            "offset": "0x672F0"
+        },
+        "ImDrawList::_PathArcToN": {
+            "offset": "0x675E0"
+        },
+        "ImDrawList::_PopUnusedDrawCmd": {
+            "offset": "0x677A0"
+        },
+        "ImDrawList::_ResetForNewFrame": {
+            "offset": "0x677D0"
+        },
+        "ImDrawList::_TryMergeDrawCmds": {
+            "offset": "0x67D60"
+        },
+        "ImDrawList::~ImDrawList": {
+            "offset": "0x41F0"
+        },
+        "ImDrawListSharedData::ImDrawListSharedData": {
+            "offset": "0x5A5C0"
+        },
+        "ImDrawListSharedData::SetCircleTessellationMaxError": {
+            "offset": "0x651C0"
+        },
+        "ImDrawListSplitter::ClearFreeMemory": {
+            "offset": "0x5ED90"
+        },
+        "ImDrawListSplitter::Merge": {
+            "offset": "0x60BF0"
+        },
+        "ImDrawListSplitter::SetCurrentChannel": {
+            "offset": "0x652C0"
+        },
+        "ImDrawListSplitter::Split": {
+            "offset": "0x65CE0"
+        },
+        "ImFileClose": {
+            "offset": "0x236D0"
+        },
+        "ImFileGetSize": {
+            "offset": "0x236F0"
+        },
+        "ImFileLoadToMemory": {
+            "offset": "0x23760"
+        },
+        "ImFileOpen": {
+            "offset": "0x23880"
+        },
+        "ImFileRead": {
+            "offset": "0x239D0"
+        },
+        "ImFileWrite": {
+            "offset": "0x239E0"
+        },
+        "ImFont::AddGlyph": {
+            "offset": "0x5C010"
+        },
+        "ImFont::AddRemapChar": {
+            "offset": "0x5DC10"
+        },
+        "ImFont::BuildLookupTable": {
+            "offset": "0x5E030"
+        },
+        "ImFont::CalcTextSizeA": {
+            "offset": "0x5E7F0"
+        },
+        "ImFont::CalcWordWrapPositionA": {
+            "offset": "0x5EA80"
+        },
+        "ImFont::ClearOutputData": {
+            "offset": "0x5EF60"
+        },
+        "ImFont::FindGlyph": {
+            "offset": "0x5F2E0"
+        },
+        "ImFont::FindGlyphNoFallback": {
+            "offset": "0x5F320"
+        },
+        "ImFont::GrowIndex": {
+            "offset": "0x5F720"
+        },
+        "ImFont::ImFont": {
+            "offset": "0x5A6C0"
+        },
+        "ImFont::IsGlyphRangeUnused": {
+            "offset": "0x60BA0"
+        },
+        "ImFont::RenderChar": {
+            "offset": "0x63380"
+        },
+        "ImFont::RenderText": {
+            "offset": "0x648D0"
+        },
+        "ImFont::SetGlyphVisible": {
+            "offset": "0x653F0"
+        },
+        "ImFont::~ImFont": {
+            "offset": "0x5A800"
+        },
+        "ImFontAtlas::AddCustomRectFontGlyph": {
+            "offset": "0x5B220"
+        },
+        "ImFontAtlas::AddCustomRectRegular": {
+            "offset": "0x5B290"
+        },
+        "ImFontAtlas::AddFont": {
+            "offset": "0x5B330"
+        },
+        "ImFontAtlas::AddFontDefault": {
+            "offset": "0x5B5F0"
+        },
+        "ImFontAtlas::AddFontFromFileTTF": {
+            "offset": "0x5B820"
+        },
+        "ImFontAtlas::AddFontFromMemoryCompressedBase85TTF": {
+            "offset": "0x5BA60"
+        },
+        "ImFontAtlas::AddFontFromMemoryCompressedTTF": {
+            "offset": "0x5BBD0"
+        },
+        "ImFontAtlas::AddFontFromMemoryTTF": {
+            "offset": "0x5BE80"
+        },
+        "ImFontAtlas::Build": {
+            "offset": "0x5DFF0"
+        },
+        "ImFontAtlas::CalcCustomRectUV": {
+            "offset": "0x5E6E0"
+        },
+        "ImFontAtlas::Clear": {
+            "offset": "0x5EC70"
+        },
+        "ImFontAtlas::ClearFonts": {
+            "offset": "0x5ECC0"
+        },
+        "ImFontAtlas::ClearInputData": {
+            "offset": "0x5EE50"
+        },
+        "ImFontAtlas::ClearTexData": {
+            "offset": "0x5EFE0"
+        },
+        "ImFontAtlas::GetGlyphRangesChineseFull": {
+            "offset": "0x5F350"
+        },
+        "ImFontAtlas::GetGlyphRangesChineseSimplifiedCommon": {
+            "offset": "0x5F360"
+        },
+        "ImFontAtlas::GetGlyphRangesCyrillic": {
+            "offset": "0x5F3D0"
+        },
+        "ImFontAtlas::GetGlyphRangesDefault": {
+            "offset": "0x5F3E0"
+        },
+        "ImFontAtlas::GetGlyphRangesJapanese": {
+            "offset": "0x5F3F0"
+        },
+        "ImFontAtlas::GetGlyphRangesKorean": {
+            "offset": "0x5F460"
+        },
+        "ImFontAtlas::GetGlyphRangesThai": {
+            "offset": "0x5F470"
+        },
+        "ImFontAtlas::GetGlyphRangesVietnamese": {
+            "offset": "0x5F480"
+        },
+        "ImFontAtlas::GetMouseCursorTexData": {
+            "offset": "0x5F490"
+        },
+        "ImFontAtlas::GetTexDataAsAlpha8": {
+            "offset": "0x5F590"
+        },
+        "ImFontAtlas::GetTexDataAsRGBA32": {
+            "offset": "0x5F620"
+        },
+        "ImFontAtlas::ImFontAtlas": {
+            "offset": "0x5A720"
+        },
+        "ImFontAtlas::~ImFontAtlas": {
+            "offset": "0x5A850"
+        },
+        "ImFontAtlasBuildFinish": {
+            "offset": "0x5F970"
+        },
+        "ImFontAtlasBuildInit": {
+            "offset": "0x5FB20"
+        },
+        "ImFontAtlasBuildMultiplyCalcLookupTable": {
+            "offset": "0x5FBE0"
+        },
+        "ImFontAtlasBuildMultiplyRectAlpha8": {
+            "offset": "0x5FC30"
+        },
+        "ImFontAtlasBuildPackCustomRects": {
+            "offset": "0x5FCA0"
+        },
+        "ImFontAtlasBuildRender32bppRectFromString": {
+            "offset": "0x5FDE0"
+        },
+        "ImFontAtlasBuildRender8bppRectFromString": {
+            "offset": "0x5FE60"
+        },
+        "ImFontAtlasBuildRenderDefaultTexData": {
+            "offset": "0x5FF00"
+        },
+        "ImFontAtlasBuildRenderLinesTexData": {
+            "offset": "0x60910"
+        },
+        "ImFontAtlasBuildSetupFont": {
+            "offset": "0x60B20"
+        },
+        "ImFontAtlasBuildWithFreeType": {
+            "offset": "0x93720"
+        },
+        "ImFontAtlasBuildWithFreeTypeEx": {
+            "offset": "0x937B0"
+        },
+        "ImFontConfig::ImFontConfig": {
+            "offset": "0x5A7A0"
+        },
+        "ImFontGlyphRangesBuilder::AddRanges": {
+            "offset": "0x5D7F0"
+        },
+        "ImFontGlyphRangesBuilder::AddText": {
+            "offset": "0x5DE70"
+        },
+        "ImFontGlyphRangesBuilder::BuildRanges": {
+            "offset": "0x5E4E0"
+        },
+        "ImFormatString": {
+            "offset": "0x239F0"
+        },
+        "ImFormatStringV": {
+            "offset": "0x23A70"
+        },
+        "ImGetDirQuadrantFromDelta": {
+            "offset": "0x23B00"
+        },
+        "ImGui::AcceptDragDropPayload": {
+            "offset": "0x79B0"
+        },
+        "ImGui::ActivateItem": {
+            "offset": "0x7BB0"
+        },
+        "ImGui::AddContextHook": {
+            "offset": "0x7C70"
+        },
+        "ImGui::AddSettingsHandler": {
+            "offset": "0x84F0"
+        },
+        "ImGui::AddUpdateViewport": {
+            "offset": "0x8510"
+        },
+        "ImGui::AlignTextToFramePadding": {
+            "offset": "0x79AB0"
+        },
+        "ImGui::ArrowButton": {
+            "offset": "0x79B20"
+        },
+        "ImGui::ArrowButtonEx": {
+            "offset": "0x79B60"
+        },
+        "ImGui::Begin": {
+            "offset": "0x8A80"
+        },
+        "ImGui::BeginChild": {
+            "offset": "0xB5A0"
+        },
+        "ImGui::BeginChildEx": {
+            "offset": "0xB650"
+        },
+        "ImGui::BeginChildFrame": {
+            "offset": "0xB880"
+        },
+        "ImGui::BeginColumns": {
+            "offset": "0x68DB0"
+        },
+        "ImGui::BeginCombo": {
+            "offset": "0x79D90"
+        },
+        "ImGui::BeginComboPopup": {
+            "offset": "0x7A280"
+        },
+        "ImGui::BeginComboPreview": {
+            "offset": "0x7A4E0"
+        },
+        "ImGui::BeginDisabled": {
+            "offset": "0xBAC0"
+        },
+        "ImGui::BeginDockableDragDropSource": {
+            "offset": "0xBB70"
+        },
+        "ImGui::BeginDockableDragDropTarget": {
+            "offset": "0xBCF0"
+        },
+        "ImGui::BeginDocked": {
+            "offset": "0xC0B0"
+        },
+        "ImGui::BeginDragDropSource": {
+            "offset": "0xC540"
+        },
+        "ImGui::BeginDragDropTarget": {
+            "offset": "0xC7C0"
+        },
+        "ImGui::BeginDragDropTargetCustom": {
+            "offset": "0xC8A0"
+        },
+        "ImGui::BeginGroup": {
+            "offset": "0xC940"
+        },
+        "ImGui::BeginListBox": {
+            "offset": "0x7A650"
+        },
+        "ImGui::BeginMainMenuBar": {
+            "offset": "0x7A8B0"
+        },
+        "ImGui::BeginMenu": {
+            "offset": "0x7A960"
+        },
+        "ImGui::BeginMenuBar": {
+            "offset": "0x7A970"
+        },
+        "ImGui::BeginMenuEx": {
+            "offset": "0x7AB20"
+        },
+        "ImGui::BeginPopup": {
+            "offset": "0xCA70"
+        },
+        "ImGui::BeginPopupContextItem": {
+            "offset": "0xCB20"
+        },
+        "ImGui::BeginPopupContextVoid": {
+            "offset": "0xCCF0"
+        },
+        "ImGui::BeginPopupContextWindow": {
+            "offset": "0xCDC0"
+        },
+        "ImGui::BeginPopupEx": {
+            "offset": "0xCE90"
+        },
+        "ImGui::BeginPopupModal": {
+            "offset": "0xCF60"
+        },
+        "ImGui::BeginTabBar": {
+            "offset": "0x7B400"
+        },
+        "ImGui::BeginTabBarEx": {
+            "offset": "0x7B520"
+        },
+        "ImGui::BeginTabItem": {
+            "offset": "0x7B8A0"
+        },
+        "ImGui::BeginTable": {
+            "offset": "0x69470"
+        },
+        "ImGui::BeginTableEx": {
+            "offset": "0x694D0"
+        },
+        "ImGui::BeginTooltip": {
+            "offset": "0xD0F0"
+        },
+        "ImGui::BeginTooltipEx": {
+            "offset": "0xD100"
+        },
+        "ImGui::BeginViewportSideBar": {
+            "offset": "0x7B940"
+        },
+        "ImGui::BringWindowToDisplayBack": {
+            "offset": "0xD2E0"
+        },
+        "ImGui::BringWindowToDisplayBehind": {
+            "offset": "0xD360"
+        },
+        "ImGui::BringWindowToDisplayFront": {
+            "offset": "0xD460"
+        },
+        "ImGui::BringWindowToFocusFront": {
+            "offset": "0xD510"
+        },
+        "ImGui::Bullet": {
+            "offset": "0x7BB30"
+        },
+        "ImGui::BulletText": {
+            "offset": "0x7BC90"
+        },
+        "ImGui::BulletTextV": {
+            "offset": "0x7BCC0"
+        },
+        "ImGui::Button": {
+            "offset": "0x7BED0"
+        },
+        "ImGui::ButtonBehavior": {
+            "offset": "0x7BEE0"
+        },
+        "ImGui::ButtonEx": {
+            "offset": "0x7C3F0"
+        },
+        "ImGui::CalcItemSize": {
+            "offset": "0xD750"
+        },
+        "ImGui::CalcItemWidth": {
+            "offset": "0xD850"
+        },
+        "ImGui::CalcListClipping": {
+            "offset": "0xD8D0"
+        },
+        "ImGui::CalcRoundingFlagsForRectInRect": {
+            "offset": "0x5E750"
+        },
+        "ImGui::CalcTextSize": {
+            "offset": "0xDE00"
+        },
+        "ImGui::CalcTypematicRepeatAmount": {
+            "offset": "0xDEE0"
+        },
+        "ImGui::CalcWindowNextAutoFitSize": {
+            "offset": "0xE350"
+        },
+        "ImGui::CalcWrapWidthForPos": {
+            "offset": "0xE610"
+        },
+        "ImGui::CallContextHooks": {
+            "offset": "0xE670"
+        },
+        "ImGui::CaptureKeyboardFromApp": {
+            "offset": "0xE6F0"
+        },
+        "ImGui::CaptureMouseFromApp": {
+            "offset": "0xE710"
+        },
+        "ImGui::Checkbox": {
+            "offset": "0x7C800"
+        },
+        "ImGui::CheckboxFlags": {
+            "offset": "0x7CC90"
+        },
+        "ImGui::ClearActiveID": {
+            "offset": "0xE9F0"
+        },
+        "ImGui::ClearDragDrop": {
+            "offset": "0xEA80"
+        },
+        "ImGui::ClearIniSettings": {
+            "offset": "0xEC00"
+        },
+        "ImGui::CloseButton": {
+            "offset": "0x7CD40"
+        },
+        "ImGui::CloseCurrentPopup": {
+            "offset": "0xF000"
+        },
+        "ImGui::ClosePopupToLevel": {
+            "offset": "0xF0C0"
+        },
+        "ImGui::ClosePopupsExceptModals": {
+            "offset": "0xF1A0"
+        },
+        "ImGui::ClosePopupsOverWindow": {
+            "offset": "0xF2D0"
+        },
+        "ImGui::CollapseButton": {
+            "offset": "0x7D080"
+        },
+        "ImGui::CollapsingHeader": {
+            "offset": "0x7D320"
+        },
+        "ImGui::ColorButton": {
+            "offset": "0x7D500"
+        },
+        "ImGui::ColorConvertFloat4ToU32": {
+            "offset": "0xF3B0"
+        },
+        "ImGui::ColorConvertHSVtoRGB": {
+            "offset": "0xF460"
+        },
+        "ImGui::ColorConvertRGBtoHSV": {
+            "offset": "0xF620"
+        },
+        "ImGui::ColorConvertU32ToFloat4": {
+            "offset": "0xF6D0"
+        },
+        "ImGui::ColorEdit3": {
+            "offset": "0x7DAC0"
+        },
+        "ImGui::ColorEdit4": {
+            "offset": "0x7DAD0"
+        },
+        "ImGui::ColorEditOptionsPopup": {
+            "offset": "0x7E730"
+        },
+        "ImGui::ColorPicker3": {
+            "offset": "0x7EC30"
+        },
+        "ImGui::ColorPicker4": {
+            "offset": "0x7ECD0"
+        },
+        "ImGui::ColorPickerOptionsPopup": {
+            "offset": "0x807E0"
+        },
+        "ImGui::ColorTooltip": {
+            "offset": "0x80A20"
+        },
+        "ImGui::Columns": {
+            "offset": "0x6A480"
+        },
+        "ImGui::Combo": {
+            "offset": "0x80F40"
+        },
+        "ImGui::CreateContext": {
+            "offset": "0xF800"
+        },
+        "ImGui::CreateNewWindowSettings": {
+            "offset": "0xFBA0"
+        },
+        "ImGui::DataTypeApplyFromText": {
+            "offset": "0x80F70"
+        },
+        "ImGui::DataTypeApplyOp": {
+            "offset": "0x810E0"
+        },
+        "ImGui::DataTypeClamp": {
+            "offset": "0x81530"
+        },
+        "ImGui::DataTypeCompare": {
+            "offset": "0x81720"
+        },
+        "ImGui::DataTypeFormatString": {
+            "offset": "0x81850"
+        },
+        "ImGui::DataTypeGetInfo": {
+            "offset": "0x81930"
+        },
+        "ImGui::DebugCheckVersionAndDataLayout": {
+            "offset": "0xFCD0"
+        },
+        "ImGui::DebugHookIdInfo": {
+            "offset": "0xFD60"
+        },
+        "ImGui::DebugNodeColumns": {
+            "offset": "0xFFA0"
+        },
+        "ImGui::DebugNodeDockNode": {
+            "offset": "0x10070"
+        },
+        "ImGui::DebugNodeDrawCmdShowMeshAndBoundingBox": {
+            "offset": "0x108D0"
+        },
+        "ImGui::DebugNodeDrawList": {
+            "offset": "0x10C50"
+        },
+        "ImGui::DebugNodeFont": {
+            "offset": "0x11570"
+        },
+        "ImGui::DebugNodeFontGlyph": {
+            "offset": "0x11C50"
+        },
+        "ImGui::DebugNodeStorage": {
+            "offset": "0x11D30"
+        },
+        "ImGui::DebugNodeTabBar": {
+            "offset": "0x11DC0"
+        },
+        "ImGui::DebugNodeTable": {
+            "offset": "0x6A500"
+        },
+        "ImGui::DebugNodeTableSettings": {
+            "offset": "0x6AE40"
+        },
+        "ImGui::DebugNodeViewport": {
+            "offset": "0x123E0"
+        },
+        "ImGui::DebugNodeWindow": {
+            "offset": "0x127E0"
+        },
+        "ImGui::DebugNodeWindowSettings": {
+            "offset": "0x13280"
+        },
+        "ImGui::DebugNodeWindowsList": {
+            "offset": "0x132D0"
+        },
+        "ImGui::DebugNodeWindowsListByBeginStackParent": {
+            "offset": "0x133E0"
+        },
+        "ImGui::DebugRenderViewportThumbnail": {
+            "offset": "0x13540"
+        },
+        "ImGui::DebugTextEncoding": {
+            "offset": "0x13BD0"
+        },
+        "ImGui::DestroyContext": {
+            "offset": "0x13DA0"
+        },
+        "ImGui::DestroyPlatformWindow": {
+            "offset": "0x13E20"
+        },
+        "ImGui::DestroyPlatformWindows": {
+            "offset": "0x13E90"
+        },
+        "ImGui::DockBuilderAddNode": {
+            "offset": "0x13F70"
+        },
+        "ImGui::DockBuilderCopyDockSpace": {
+            "offset": "0x14010"
+        },
+        "ImGui::DockBuilderCopyNode": {
+            "offset": "0x14510"
+        },
+        "ImGui::DockBuilderCopyWindowSettings": {
+            "offset": "0x14750"
+        },
+        "ImGui::DockBuilderDockWindow": {
+            "offset": "0x148D0"
+        },
+        "ImGui::DockBuilderFinish": {
+            "offset": "0x149E0"
+        },
+        "ImGui::DockBuilderGetNode": {
+            "offset": "0x149F0"
+        },
+        "ImGui::DockBuilderRemoveNode": {
+            "offset": "0x14A70"
+        },
+        "ImGui::DockBuilderRemoveNodeChildNodes": {
+            "offset": "0x14BB0"
+        },
+        "ImGui::DockBuilderRemoveNodeDockedWindows": {
+            "offset": "0x15000"
+        },
+        "ImGui::DockBuilderSetNodePos": {
+            "offset": "0x151B0"
+        },
+        "ImGui::DockBuilderSetNodeSize": {
+            "offset": "0x15240"
+        },
+        "ImGui::DockBuilderSplitNode": {
+            "offset": "0x152F0"
+        },
+        "ImGui::DockContextAddNode": {
+            "offset": "0x15470"
+        },
+        "ImGui::DockContextBuildAddWindowsToNodes": {
+            "offset": "0x154F0"
+        },
+        "ImGui::DockContextBuildNodesFromSettings": {
+            "offset": "0x15620"
+        },
+        "ImGui::DockContextCalcDropPosForDocking": {
+            "offset": "0x158D0"
+        },
+        "ImGui::DockContextClearNodes": {
+            "offset": "0x15A90"
+        },
+        "ImGui::DockContextEndFrame": {
+            "offset": "0x15AB0"
+        },
+        "ImGui::DockContextFindNodeByID": {
+            "offset": "0x15C80"
+        },
+        "ImGui::DockContextGenNodeID": {
+            "offset": "0x15CF0"
+        },
+        "ImGui::DockContextInitialize": {
+            "offset": "0x15D70"
+        },
+        "ImGui::DockContextNewFrameUpdateDocking": {
+            "offset": "0x15E40"
+        },
+        "ImGui::DockContextNewFrameUpdateUndocking": {
+            "offset": "0x15F80"
+        },
+        "ImGui::DockContextProcessDock": {
+            "offset": "0x16130"
+        },
+        "ImGui::DockContextProcessUndockNode": {
+            "offset": "0x164A0"
+        },
+        "ImGui::DockContextProcessUndockWindow": {
+            "offset": "0x167E0"
+        },
+        "ImGui::DockContextPruneUnusedSettingsNodes": {
+            "offset": "0x16930"
+        },
+        "ImGui::DockContextQueueDock": {
+            "offset": "0x17280"
+        },
+        "ImGui::DockContextQueueUndockNode": {
+            "offset": "0x17340"
+        },
+        "ImGui::DockContextQueueUndockWindow": {
+            "offset": "0x17400"
+        },
+        "ImGui::DockContextRebuildNodes": {
+            "offset": "0x174C0"
+        },
+        "ImGui::DockContextRemoveNode": {
+            "offset": "0x17620"
+        },
+        "ImGui::DockContextShutdown": {
+            "offset": "0x176D0"
+        },
+        "ImGui::DockNodeAddTabBar": {
+            "offset": "0x17760"
+        },
+        "ImGui::DockNodeAddWindow": {
+            "offset": "0x177D0"
+        },
+        "ImGui::DockNodeBeginAmendTabBar": {
+            "offset": "0x17A20"
+        },
+        "ImGui::DockNodeCalcDropRectsAndTestMousePos": {
+            "offset": "0x17A80"
+        },
+        "ImGui::DockNodeEndAmendTabBar": {
+            "offset": "0x17E40"
+        },
+        "ImGui::DockNodeHideHostWindow": {
+            "offset": "0x17EE0"
+        },
+        "ImGui::DockNodeIsDropAllowed": {
+            "offset": "0x17F80"
+        },
+        "ImGui::DockNodeMoveWindows": {
+            "offset": "0x181A0"
+        },
+        "ImGui::DockNodePreviewDockRender": {
+            "offset": "0x18300"
+        },
+        "ImGui::DockNodePreviewDockSetup": {
+            "offset": "0x18D50"
+        },
+        "ImGui::DockNodeRemoveTabBar": {
+            "offset": "0x191E0"
+        },
+        "ImGui::DockNodeRemoveWindow": {
+            "offset": "0x19240"
+        },
+        "ImGui::DockNodeStartMouseMovingWindow": {
+            "offset": "0x19520"
+        },
+        "ImGui::DockNodeTreeFindFallbackLeafNode": {
+            "offset": "0x19590"
+        },
+        "ImGui::DockNodeTreeFindVisibleNodeByPos": {
+            "offset": "0x195D0"
+        },
+        "ImGui::DockNodeTreeMerge": {
+            "offset": "0x19690"
+        },
+        "ImGui::DockNodeTreeSplit": {
+            "offset": "0x19A20"
+        },
+        "ImGui::DockNodeTreeUpdatePosSize": {
+            "offset": "0x19D50"
+        },
+        "ImGui::DockNodeTreeUpdateSplitter": {
+            "offset": "0x1A0C0"
+        },
+        "ImGui::DockNodeUpdate": {
+            "offset": "0x1A820"
+        },
+        "ImGui::DockNodeUpdateFlagsAndCollapse": {
+            "offset": "0x1B550"
+        },
+        "ImGui::DockNodeUpdateHasCentralNodeChild": {
+            "offset": "0x1B7C0"
+        },
+        "ImGui::DockNodeUpdateTabBar": {
+            "offset": "0x1B820"
+        },
+        "ImGui::DockNodeUpdateWindowMenu": {
+            "offset": "0x1C8E0"
+        },
+        "ImGui::DockSettingsHandler_ApplyAll": {
+            "offset": "0x1CAF0"
+        },
+        "ImGui::DockSettingsHandler_ClearAll": {
+            "offset": "0x1CB30"
+        },
+        "ImGui::DockSettingsHandler_ReadLine": {
+            "offset": "0x1CDA0"
+        },
+        "ImGui::DockSettingsHandler_ReadOpen": {
+            "offset": "0x1D1C0"
+        },
+        "ImGui::DockSettingsHandler_WriteAll": {
+            "offset": "0x1D1F0"
+        },
+        "ImGui::DockSettingsRenameNodeReferences": {
+            "offset": "0x1D500"
+        },
+        "ImGui::DockSpace": {
+            "offset": "0x1D5A0"
+        },
+        "ImGui::DockSpaceOverViewport": {
+            "offset": "0x1D980"
+        },
+        "ImGui::DragBehavior": {
+            "offset": "0x81AA0"
+        },
+        "ImGui::DragBehaviorT<__int64,__int64,double>": {
+            "offset": "0x73880"
+        },
+        "ImGui::DragBehaviorT<double,double,double>": {
+            "offset": "0x733E0"
+        },
+        "ImGui::DragBehaviorT<float,float,float>": {
+            "offset": "0x72F90"
+        },
+        "ImGui::DragBehaviorT<int,int,float>": {
+            "offset": "0x72750"
+        },
+        "ImGui::DragBehaviorT<unsigned __int64,__int64,double>": {
+            "offset": "0x73CE0"
+        },
+        "ImGui::DragBehaviorT<unsigned int,int,float>": {
+            "offset": "0x72B70"
+        },
+        "ImGui::DragFloat": {
+            "offset": "0x82090"
+        },
+        "ImGui::DragFloat2": {
+            "offset": "0x81F70"
+        },
+        "ImGui::DragFloat3": {
+            "offset": "0x81FD0"
+        },
+        "ImGui::DragFloat4": {
+            "offset": "0x82030"
+        },
+        "ImGui::DragFloatRange2": {
+            "offset": "0x820E0"
+        },
+        "ImGui::DragInt": {
+            "offset": "0x82420"
+        },
+        "ImGui::DragInt2": {
+            "offset": "0x82330"
+        },
+        "ImGui::DragInt3": {
+            "offset": "0x82380"
+        },
+        "ImGui::DragInt4": {
+            "offset": "0x823D0"
+        },
+        "ImGui::DragIntRange2": {
+            "offset": "0x82470"
+        },
+        "ImGui::DragScalar": {
+            "offset": "0x82BD0"
+        },
+        "ImGui::DragScalarN": {
+            "offset": "0x82DC0"
+        },
+        "ImGui::Dummy": {
+            "offset": "0x82DF0"
+        },
+        "ImGui::End": {
+            "offset": "0x1DD60"
+        },
+        "ImGui::EndChild": {
+            "offset": "0x1E080"
+        },
+        "ImGui::EndChildFrame": {
+            "offset": "0x1E340"
+        },
+        "ImGui::EndColumns": {
+            "offset": "0x6AF80"
+        },
+        "ImGui::EndCombo": {
+            "offset": "0x82E80"
+        },
+        "ImGui::EndComboPreview": {
+            "offset": "0x82E90"
+        },
+        "ImGui::EndDisabled": {
+            "offset": "0x1E350"
+        },
+        "ImGui::EndDragDropSource": {
+            "offset": "0x1E3B0"
+        },
+        "ImGui::EndDragDropTarget": {
+            "offset": "0x1E3F0"
+        },
+        "ImGui::EndFrame": {
+            "offset": "0x1E400"
+        },
+        "ImGui::EndGroup": {
+            "offset": "0x1E8D0"
+        },
+        "ImGui::EndListBox": {
+            "offset": "0x82FA0"
+        },
+        "ImGui::EndMainMenuBar": {
+            "offset": "0x82FC0"
+        },
+        "ImGui::EndMenu": {
+            "offset": "0x83010"
+        },
+        "ImGui::EndMenuBar": {
+            "offset": "0x83090"
+        },
+        "ImGui::EndPopup": {
+            "offset": "0x1EBE0"
+        },
+        "ImGui::EndTabBar": {
+            "offset": "0x83200"
+        },
+        "ImGui::EndTabItem": {
+            "offset": "0x83320"
+        },
+        "ImGui::EndTable": {
+            "offset": "0x6B430"
+        },
+        "ImGui::EndTooltip": {
+            "offset": "0x1EC40"
+        },
+        "ImGui::ErrorCheckEndFrameRecover": {
+            "offset": "0x1EC50"
+        },
+        "ImGui::ErrorCheckEndWindowRecover": {
+            "offset": "0x1ECF0"
+        },
+        "ImGui::FindBestWindowPosForPopup": {
+            "offset": "0x1F150"
+        },
+        "ImGui::FindBestWindowPosForPopupEx": {
+            "offset": "0x1F380"
+        },
+        "ImGui::FindBottomMostVisibleWindowWithinBeginStack": {
+            "offset": "0x1F6E0"
+        },
+        "ImGui::FindHoveredViewportFromPlatformWindowStack": {
+            "offset": "0x1F800"
+        },
+        "ImGui::FindOrCreateColumns": {
+            "offset": "0x6BBD0"
+        },
+        "ImGui::FindOrCreateWindowSettings": {
+            "offset": "0x1FCC0"
+        },
+        "ImGui::FindRenderedTextEnd": {
+            "offset": "0x1FD70"
+        },
+        "ImGui::FindSettingsHandler": {
+            "offset": "0x1FDB0"
+        },
+        "ImGui::FindViewportByID": {
+            "offset": "0x1FE60"
+        },
+        "ImGui::FindViewportByPlatformHandle": {
+            "offset": "0x1FEB0"
+        },
+        "ImGui::FindWindowByID": {
+            "offset": "0x1FF10"
+        },
+        "ImGui::FindWindowByName": {
+            "offset": "0x1FF90"
+        },
+        "ImGui::FindWindowDisplayIndex": {
+            "offset": "0x1FFF0"
+        },
+        "ImGui::FindWindowSettings": {
+            "offset": "0x200C0"
+        },
+        "ImGui::FocusTopMostWindowUnderOne": {
+            "offset": "0x20210"
+        },
+        "ImGui::FocusWindow": {
+            "offset": "0x20310"
+        },
+        "ImGui::GcAwakeTransientWindowBuffers": {
+            "offset": "0x20530"
+        },
+        "ImGui::GcCompactTransientMiscBuffers": {
+            "offset": "0x20580"
+        },
+        "ImGui::GcCompactTransientWindowBuffers": {
+            "offset": "0x20620"
+        },
+        "ImGui::GetAllocatorFunctions": {
+            "offset": "0x20750"
+        },
+        "ImGui::GetBackgroundDrawList": {
+            "offset": "0x207C0"
+        },
+        "ImGui::GetClipboardText": {
+            "offset": "0x20890"
+        },
+        "ImGui::GetColorU32": {
+            "offset": "0x20AA0"
+        },
+        "ImGui::GetColumnIndex": {
+            "offset": "0x6BD80"
+        },
+        "ImGui::GetColumnNormFromOffset": {
+            "offset": "0x6BDA0"
+        },
+        "ImGui::GetColumnOffset": {
+            "offset": "0x6BDC0"
+        },
+        "ImGui::GetColumnOffsetFromNorm": {
+            "offset": "0x6BE10"
+        },
+        "ImGui::GetColumnWidth": {
+            "offset": "0x6BE20"
+        },
+        "ImGui::GetColumnsCount": {
+            "offset": "0x6BE90"
+        },
+        "ImGui::GetColumnsID": {
+            "offset": "0x6BEC0"
+        },
+        "ImGui::GetContentRegionAvail": {
+            "offset": "0x20AE0"
+        },
+        "ImGui::GetContentRegionMax": {
+            "offset": "0x20B40"
+        },
+        "ImGui::GetContentRegionMaxAbs": {
+            "offset": "0x20BA0"
+        },
+        "ImGui::GetCurrentContext": {
+            "offset": "0x20BE0"
+        },
+        "ImGui::GetCursorPos": {
+            "offset": "0x20BF0"
+        },
+        "ImGui::GetCursorPosX": {
+            "offset": "0x20C50"
+        },
+        "ImGui::GetCursorPosY": {
+            "offset": "0x20C80"
+        },
+        "ImGui::GetCursorScreenPos": {
+            "offset": "0x20CB0"
+        },
+        "ImGui::GetCursorStartPos": {
+            "offset": "0x20CD0"
+        },
+        "ImGui::GetDragDropPayload": {
+            "offset": "0x20D10"
+        },
+        "ImGui::GetDrawData": {
+            "offset": "0x20D30"
+        },
+        "ImGui::GetDrawListSharedData": {
+            "offset": "0x20D50"
+        },
+        "ImGui::GetFont": {
+            "offset": "0x20E60"
+        },
+        "ImGui::GetFontSize": {
+            "offset": "0x20E70"
+        },
+        "ImGui::GetFontTexUvWhitePixel": {
+            "offset": "0x20E80"
+        },
+        "ImGui::GetForegroundDrawList": {
+            "offset": "0x20EC0"
+        },
+        "ImGui::GetFrameCount": {
+            "offset": "0x20EF0"
+        },
+        "ImGui::GetFrameHeight": {
+            "offset": "0x20F00"
+        },
+        "ImGui::GetFrameHeightWithSpacing": {
+            "offset": "0x20F20"
+        },
+        "ImGui::GetHoveredID": {
+            "offset": "0x20F60"
+        },
+        "ImGui::GetID": {
+            "offset": "0x21070"
+        },
+        "ImGui::GetIDWithSeed": {
+            "offset": "0x21450"
+        },
+        "ImGui::GetIO": {
+            "offset": "0x214D0"
+        },
+        "ImGui::GetItemRectMax": {
+            "offset": "0x215F0"
+        },
+        "ImGui::GetItemRectMin": {
+            "offset": "0x21610"
+        },
+        "ImGui::GetItemRectSize": {
+            "offset": "0x21630"
+        },
+        "ImGui::GetKeyData": {
+            "offset": "0x21670"
+        },
+        "ImGui::GetKeyIndex": {
+            "offset": "0x216B0"
+        },
+        "ImGui::GetKeyName": {
+            "offset": "0x216E0"
+        },
+        "ImGui::GetKeyPressedAmount": {
+            "offset": "0x21740"
+        },
+        "ImGui::GetMainViewport": {
+            "offset": "0x217E0"
+        },
+        "ImGui::GetMergedModFlags": {
+            "offset": "0x21800"
+        },
+        "ImGui::GetMouseClickedCount": {
+            "offset": "0x21850"
+        },
+        "ImGui::GetMouseCursor": {
+            "offset": "0x21870"
+        },
+        "ImGui::GetMouseDragDelta": {
+            "offset": "0x21880"
+        },
+        "ImGui::GetMousePos": {
+            "offset": "0x21950"
+        },
+        "ImGui::GetMousePosOnOpeningCurrentPopup": {
+            "offset": "0x21970"
+        },
+        "ImGui::GetNavInputAmount": {
+            "offset": "0x21C70"
+        },
+        "ImGui::GetNavInputAmount2d": {
+            "offset": "0x219B0"
+        },
+        "ImGui::GetNavInputName": {
+            "offset": "0x21D80"
+        },
+        "ImGui::GetPlatformIO": {
+            "offset": "0x21D90"
+        },
+        "ImGui::GetPopupAllowedExtentRect": {
+            "offset": "0x21DA0"
+        },
+        "ImGui::GetScrollMaxX": {
+            "offset": "0x22040"
+        },
+        "ImGui::GetScrollMaxY": {
+            "offset": "0x22060"
+        },
+        "ImGui::GetScrollX": {
+            "offset": "0x22080"
+        },
+        "ImGui::GetScrollY": {
+            "offset": "0x220A0"
+        },
+        "ImGui::GetStateStorage": {
+            "offset": "0x22100"
+        },
+        "ImGui::GetStyle": {
+            "offset": "0x22120"
+        },
+        "ImGui::GetStyleColorName": {
+            "offset": "0x22130"
+        },
+        "ImGui::GetStyleColorVec4": {
+            "offset": "0x223F0"
+        },
+        "ImGui::GetTextLineHeight": {
+            "offset": "0x20E70"
+        },
+        "ImGui::GetTextLineHeightWithSpacing": {
+            "offset": "0x226A0"
+        },
+        "ImGui::GetTime": {
+            "offset": "0x226C0"
+        },
+        "ImGui::GetTopMostAndVisiblePopupModal": {
+            "offset": "0x226D0"
+        },
+        "ImGui::GetTopMostPopupModal": {
+            "offset": "0x22730"
+        },
+        "ImGui::GetTreeNodeToLabelSpacing": {
+            "offset": "0x83360"
+        },
+        "ImGui::GetVersion": {
+            "offset": "0x227A0"
+        },
+        "ImGui::GetViewportPlatformMonitor": {
+            "offset": "0x22910"
+        },
+        "ImGui::GetWindowAlwaysWantOwnTabBar": {
+            "offset": "0x22A70"
+        },
+        "ImGui::GetWindowAlwaysWantOwnViewport": {
+            "offset": "0x22AA0"
+        },
+        "ImGui::GetWindowContentRegionMax": {
+            "offset": "0x22AF0"
+        },
+        "ImGui::GetWindowContentRegionMin": {
+            "offset": "0x22B30"
+        },
+        "ImGui::GetWindowDockID": {
+            "offset": "0x22B70"
+        },
+        "ImGui::GetWindowDpiScale": {
+            "offset": "0x22B90"
+        },
+        "ImGui::GetWindowDrawList": {
+            "offset": "0x22BA0"
+        },
+        "ImGui::GetWindowHeight": {
+            "offset": "0x22BD0"
+        },
+        "ImGui::GetWindowPos": {
+            "offset": "0x22BF0"
+        },
+        "ImGui::GetWindowResizeBorderID": {
+            "offset": "0x22D50"
+        },
+        "ImGui::GetWindowResizeCornerID": {
+            "offset": "0x22E10"
+        },
+        "ImGui::GetWindowScrollbarID": {
+            "offset": "0x83380"
+        },
+        "ImGui::GetWindowScrollbarRect": {
+            "offset": "0x833A0"
+        },
+        "ImGui::GetWindowSize": {
+            "offset": "0x22ED0"
+        },
+        "ImGui::GetWindowViewport": {
+            "offset": "0x22EF0"
+        },
+        "ImGui::GetWindowWidth": {
+            "offset": "0x22F00"
+        },
+        "ImGui::Image": {
+            "offset": "0x83850"
+        },
+        "ImGui::ImageButton": {
+            "offset": "0x83A70"
+        },
+        "ImGui::ImageButtonEx": {
+            "offset": "0x83B70"
+        },
+        "ImGui::Indent": {
+            "offset": "0x25050"
+        },
+        "ImGui::Initialize": {
+            "offset": "0x250B0"
+        },
+        "ImGui::InputDouble": {
+            "offset": "0x83E20"
+        },
+        "ImGui::InputFloat": {
+            "offset": "0x83F10"
+        },
+        "ImGui::InputFloat2": {
+            "offset": "0x83E80"
+        },
+        "ImGui::InputFloat3": {
+            "offset": "0x83EB0"
+        },
+        "ImGui::InputFloat4": {
+            "offset": "0x83EE0"
+        },
+        "ImGui::InputInt": {
+            "offset": "0x84030"
+        },
+        "ImGui::InputInt2": {
+            "offset": "0x83F70"
+        },
+        "ImGui::InputInt3": {
+            "offset": "0x83FB0"
+        },
+        "ImGui::InputInt4": {
+            "offset": "0x83FF0"
+        },
+        "ImGui::InputScalar": {
+            "offset": "0x840A0"
+        },
+        "ImGui::InputScalarN": {
+            "offset": "0x84860"
+        },
+        "ImGui::InputText": {
+            "offset": "0x84A00"
+        },
+        "ImGui::InputTextEx": {
+            "offset": "0x84A50"
+        },
+        "ImGui::InputTextMultiline": {
+            "offset": "0x87830"
+        },
+        "ImGui::InputTextWithHint": {
+            "offset": "0x87880"
+        },
+        "ImGui::InvisibleButton": {
+            "offset": "0x87A00"
+        },
+        "ImGui::IsAnyItemActive": {
+            "offset": "0x252B0"
+        },
+        "ImGui::IsAnyItemFocused": {
+            "offset": "0x252D0"
+        },
+        "ImGui::IsAnyItemHovered": {
+            "offset": "0x252F0"
+        },
+        "ImGui::IsAnyMouseDown": {
+            "offset": "0x25310"
+        },
+        "ImGui::IsClippedEx": {
+            "offset": "0x25350"
+        },
+        "ImGui::IsDragDropPayloadBeingAccepted": {
+            "offset": "0x253D0"
+        },
+        "ImGui::IsItemActivated": {
+            "offset": "0x25460"
+        },
+        "ImGui::IsItemActive": {
+            "offset": "0x25490"
+        },
+        "ImGui::IsItemClicked": {
+            "offset": "0x254B0"
+        },
+        "ImGui::IsItemDeactivated": {
+            "offset": "0x255F0"
+        },
+        "ImGui::IsItemDeactivatedAfterEdit": {
+            "offset": "0x25630"
+        },
+        "ImGui::IsItemEdited": {
+            "offset": "0x25690"
+        },
+        "ImGui::IsItemFocused": {
+            "offset": "0x256B0"
+        },
+        "ImGui::IsItemHovered": {
+            "offset": "0x256F0"
+        },
+        "ImGui::IsItemToggledOpen": {
+            "offset": "0x257F0"
+        },
+        "ImGui::IsItemToggledSelection": {
+            "offset": "0x25810"
+        },
+        "ImGui::IsItemVisible": {
+            "offset": "0x25830"
+        },
+        "ImGui::IsKeyDown": {
+            "offset": "0x25890"
+        },
+        "ImGui::IsKeyPressed": {
+            "offset": "0x258D0"
+        },
+        "ImGui::IsKeyReleased": {
+            "offset": "0x25950"
+        },
+        "ImGui::IsMouseClicked": {
+            "offset": "0x259B0"
+        },
+        "ImGui::IsMouseDoubleClicked": {
+            "offset": "0x25A10"
+        },
+        "ImGui::IsMouseDown": {
+            "offset": "0x25A30"
+        },
+        "ImGui::IsMouseDragPastThreshold": {
+            "offset": "0x25A50"
+        },
+        "ImGui::IsMouseDragging": {
+            "offset": "0x25A80"
+        },
+        "ImGui::IsMouseHoveringRect": {
+            "offset": "0x25AC0"
+        },
+        "ImGui::IsMousePosValid": {
+            "offset": "0x25BF0"
+        },
+        "ImGui::IsMouseReleased": {
+            "offset": "0x25C30"
+        },
+        "ImGui::IsPopupOpen": {
+            "offset": "0x25CE0"
+        },
+        "ImGui::IsRectVisible": {
+            "offset": "0x25DF0"
+        },
+        "ImGui::IsWindowAbove": {
+            "offset": "0x25E70"
+        },
+        "ImGui::IsWindowAppearing": {
+            "offset": "0x25ED0"
+        },
+        "ImGui::IsWindowChildOf": {
+            "offset": "0x25EF0"
+        },
+        "ImGui::IsWindowCollapsed": {
+            "offset": "0x25F50"
+        },
+        "ImGui::IsWindowDocked": {
+            "offset": "0x25FF0"
+        },
+        "ImGui::IsWindowFocused": {
+            "offset": "0x26010"
+        },
+        "ImGui::IsWindowHovered": {
+            "offset": "0x260F0"
+        },
+        "ImGui::IsWindowNavFocusable": {
+            "offset": "0x26230"
+        },
+        "ImGui::IsWindowWithinBeginStackOf": {
+            "offset": "0x26260"
+        },
+        "ImGui::ItemAdd": {
+            "offset": "0x26290"
+        },
+        "ImGui::ItemHoverable": {
+            "offset": "0x263D0"
+        },
+        "ImGui::ItemSize": {
+            "offset": "0x265A0"
+        },
+        "ImGui::KeepAliveID": {
+            "offset": "0x26710"
+        },
+        "ImGui::LabelText": {
+            "offset": "0x87BD0"
+        },
+        "ImGui::LabelTextV": {
+            "offset": "0x87C00"
+        },
+        "ImGui::ListBox": {
+            "offset": "0x88020"
+        },
+        "ImGui::ListBoxHeader": {
+            "offset": "0x88050"
+        },
+        "ImGui::LoadIniSettingsFromDisk": {
+            "offset": "0x26740"
+        },
+        "ImGui::LoadIniSettingsFromMemory": {
+            "offset": "0x26830"
+        },
+        "ImGui::LogBegin": {
+            "offset": "0x26AE0"
+        },
+        "ImGui::LogButtons": {
+            "offset": "0x26B40"
+        },
+        "ImGui::LogFinish": {
+            "offset": "0x26E00"
+        },
+        "ImGui::LogRenderedText": {
+            "offset": "0x26F00"
+        },
+        "ImGui::LogSetNextTextDecoration": {
+            "offset": "0x27100"
+        },
+        "ImGui::LogText": {
+            "offset": "0x27120"
+        },
+        "ImGui::LogTextV": {
+            "offset": "0x27230"
+        },
+        "ImGui::LogToBuffer": {
+            "offset": "0x27250"
+        },
+        "ImGui::LogToClipboard": {
+            "offset": "0x272C0"
+        },
+        "ImGui::LogToFile": {
+            "offset": "0x27330"
+        },
+        "ImGui::LogToTTY": {
+            "offset": "0x273B0"
+        },
+        "ImGui::MarkIniSettingsDirty": {
+            "offset": "0x27470"
+        },
+        "ImGui::MarkItemEdited": {
+            "offset": "0x27490"
+        },
+        "ImGui::MemAlloc": {
+            "offset": "0x274B0"
+        },
+        "ImGui::MemFree": {
+            "offset": "0x274D0"
+        },
+        "ImGui::MenuItem": {
+            "offset": "0x88120"
+        },
+        "ImGui::MenuItemEx": {
+            "offset": "0x88140"
+        },
+        "ImGui::NavApplyItemToResult": {
+            "offset": "0x27800"
+        },
+        "ImGui::NavCalcPreferredRefPos": {
+            "offset": "0x278A0"
+        },
+        "ImGui::NavInitRequestApplyResult": {
+            "offset": "0x27AB0"
+        },
+        "ImGui::NavInitWindow": {
+            "offset": "0x27B40"
+        },
+        "ImGui::NavMoveRequestApplyResult": {
+            "offset": "0x27C10"
+        },
+        "ImGui::NavMoveRequestButNoResultYet": {
+            "offset": "0x27ED0"
+        },
+        "ImGui::NavMoveRequestCancel": {
+            "offset": "0x27F00"
+        },
+        "ImGui::NavMoveRequestForward": {
+            "offset": "0x27F40"
+        },
+        "ImGui::NavMoveRequestResolveWithLastItem": {
+            "offset": "0x27FB0"
+        },
+        "ImGui::NavMoveRequestSubmit": {
+            "offset": "0x28090"
+        },
+        "ImGui::NavMoveRequestTryWrapping": {
+            "offset": "0x281C0"
+        },
+        "ImGui::NavProcessItem": {
+            "offset": "0x281F0"
+        },
+        "ImGui::NavRestoreLastChildNavWindow": {
+            "offset": "0x28590"
+        },
+        "ImGui::NavRestoreLayer": {
+            "offset": "0x285E0"
+        },
+        "ImGui::NavScoreItem": {
+            "offset": "0x286E0"
+        },
+        "ImGui::NavUpdate": {
+            "offset": "0x28BC0"
+        },
+        "ImGui::NavUpdateAnyRequestFlag": {
+            "offset": "0x29B30"
+        },
+        "ImGui::NavUpdateCancelRequest": {
+            "offset": "0x29B60"
+        },
+        "ImGui::NavUpdateCreateMoveRequest": {
+            "offset": "0x29DB0"
+        },
+        "ImGui::NavUpdateCreateWrappingRequest": {
+            "offset": "0x2A520"
+        },
+        "ImGui::NavUpdatePageUpPageDown": {
+            "offset": "0x2A730"
+        },
+        "ImGui::NavUpdateWindowing": {
+            "offset": "0x2AD70"
+        },
+        "ImGui::NavUpdateWindowingOverlay": {
+            "offset": "0x2B6F0"
+        },
+        "ImGui::NewFrame": {
+            "offset": "0x2BA80"
+        },
+        "ImGui::NewLine": {
+            "offset": "0x88670"
+        },
+        "ImGui::NextColumn": {
+            "offset": "0x6BF30"
+        },
+        "ImGui::OpenPopup": {
+            "offset": "0x2C880"
+        },
+        "ImGui::OpenPopupEx": {
+            "offset": "0x2C900"
+        },
+        "ImGui::OpenPopupOnItemClick": {
+            "offset": "0x2CB00"
+        },
+        "ImGui::PlotEx": {
+            "offset": "0x88880"
+        },
+        "ImGui::PlotHistogram": {
+            "offset": "0x890E0"
+        },
+        "ImGui::PlotLines": {
+            "offset": "0x891D0"
+        },
+        "ImGui::PopAllowKeyboardFocus": {
+            "offset": "0x2CF10"
+        },
+        "ImGui::PopButtonRepeat": {
+            "offset": "0x2CF10"
+        },
+        "ImGui::PopClipRect": {
+            "offset": "0x2CF40"
+        },
+        "ImGui::PopColumnsBackground": {
+            "offset": "0x6C210"
+        },
+        "ImGui::PopFocusScope": {
+            "offset": "0x2CFC0"
+        },
+        "ImGui::PopFont": {
+            "offset": "0x2CFF0"
+        },
+        "ImGui::PopID": {
+            "offset": "0x2D060"
+        },
+        "ImGui::PopItemFlag": {
+            "offset": "0x2CF10"
+        },
+        "ImGui::PopItemWidth": {
+            "offset": "0x2D080"
+        },
+        "ImGui::PopStyleColor": {
+            "offset": "0x2D0C0"
+        },
+        "ImGui::PopStyleVar": {
+            "offset": "0x2D110"
+        },
+        "ImGui::PopTextWrapPos": {
+            "offset": "0x2D370"
+        },
+        "ImGui::ProgressBar": {
+            "offset": "0x89270"
+        },
+        "ImGui::PushAllowKeyboardFocus": {
+            "offset": "0x2D3B0"
+        },
+        "ImGui::PushButtonRepeat": {
+            "offset": "0x2D3C0"
+        },
+        "ImGui::PushClipRect": {
+            "offset": "0x2D3D0"
+        },
+        "ImGui::PushColumnClipRect": {
+            "offset": "0x6C2E0"
+        },
+        "ImGui::PushColumnsBackground": {
+            "offset": "0x6C320"
+        },
+        "ImGui::PushFocusScope": {
+            "offset": "0x2D460"
+        },
+        "ImGui::PushFont": {
+            "offset": "0x2D4F0"
+        },
+        "ImGui::PushID": {
+            "offset": "0x2D830"
+        },
+        "ImGui::PushItemFlag": {
+            "offset": "0x2D8B0"
+        },
+        "ImGui::PushItemWidth": {
+            "offset": "0x2D930"
+        },
+        "ImGui::PushMultiItemsWidths": {
+            "offset": "0x2D9E0"
+        },
+        "ImGui::PushOverrideID": {
+            "offset": "0x2DBC0"
+        },
+        "ImGui::PushStyleColor": {
+            "offset": "0x2DCB0"
+        },
+        "ImGui::PushStyleVar": {
+            "offset": "0x2DE10"
+        },
+        "ImGui::PushTextWrapPos": {
+            "offset": "0x2DE90"
+        },
+        "ImGui::RadioButton": {
+            "offset": "0x895C0"
+        },
+        "ImGui::RemoveContextHook": {
+            "offset": "0x2DF70"
+        },
+        "ImGui::RemoveSettingsHandler": {
+            "offset": "0x2DFB0"
+        },
+        "ImGui::Render": {
+            "offset": "0x2E030"
+        },
+        "ImGui::RenderArrow": {
+            "offset": "0x62B50"
+        },
+        "ImGui::RenderArrowDockMenu": {
+            "offset": "0x62D50"
+        },
+        "ImGui::RenderArrowPointingAt": {
+            "offset": "0x62F90"
+        },
+        "ImGui::RenderBullet": {
+            "offset": "0x632E0"
+        },
+        "ImGui::RenderCheckMark": {
+            "offset": "0x63530"
+        },
+        "ImGui::RenderColorRectWithAlphaCheckerboard": {
+            "offset": "0x63760"
+        },
+        "ImGui::RenderDimmedBackgroundBehindWindow": {
+            "offset": "0x2E520"
+        },
+        "ImGui::RenderDimmedBackgrounds": {
+            "offset": "0x2E830"
+        },
+        "ImGui::RenderFrame": {
+            "offset": "0x2ED10"
+        },
+        "ImGui::RenderFrameBorder": {
+            "offset": "0x2EEC0"
+        },
+        "ImGui::RenderMouseCursor": {
+            "offset": "0x2F020"
+        },
+        "ImGui::RenderNavHighlight": {
+            "offset": "0x2F470"
+        },
+        "ImGui::RenderPlatformWindowsDefault": {
+            "offset": "0x2F700"
+        },
+        "ImGui::RenderRectFilledRangeH": {
+            "offset": "0x63A80"
+        },
+        "ImGui::RenderRectFilledWithHole": {
+            "offset": "0x64510"
+        },
+        "ImGui::RenderText": {
+            "offset": "0x2F800"
+        },
+        "ImGui::RenderTextClipped": {
+            "offset": "0x2FAD0"
+        },
+        "ImGui::RenderTextClippedEx": {
+            "offset": "0x2FD60"
+        },
+        "ImGui::RenderTextEllipsis": {
+            "offset": "0x2FFE0"
+        },
+        "ImGui::RenderTextWrapped": {
+            "offset": "0x30610"
+        },
+        "ImGui::RenderWindowDecorations": {
+            "offset": "0x30C10"
+        },
+        "ImGui::RenderWindowOuterBorders": {
+            "offset": "0x31680"
+        },
+        "ImGui::RenderWindowTitleBarContents": {
+            "offset": "0x31A20"
+        },
+        "ImGui::ResetMouseDragDelta": {
+            "offset": "0x31F70"
+        },
+        "ImGui::RoundScalarWithFormatT<__int64>": {
+            "offset": "0x746D0"
+        },
+        "ImGui::RoundScalarWithFormatT<double>": {
+            "offset": "0x74570"
+        },
+        "ImGui::RoundScalarWithFormatT<float>": {
+            "offset": "0x74410"
+        },
+        "ImGui::RoundScalarWithFormatT<int>": {
+            "offset": "0x74170"
+        },
+        "ImGui::RoundScalarWithFormatT<unsigned __int64>": {
+            "offset": "0x74820"
+        },
+        "ImGui::RoundScalarWithFormatT<unsigned int>": {
+            "offset": "0x742C0"
+        },
+        "ImGui::SameLine": {
+            "offset": "0x31F90"
+        },
+        "ImGui::SaveIniSettingsToDisk": {
+            "offset": "0x32040"
+        },
+        "ImGui::SaveIniSettingsToMemory": {
+            "offset": "0x320C0"
+        },
+        "ImGui::ScaleRatioFromValueT<__int64,__int64,double>": {
+            "offset": "0x755B0"
+        },
+        "ImGui::ScaleRatioFromValueT<double,double,double>": {
+            "offset": "0x75270"
+        },
+        "ImGui::ScaleRatioFromValueT<float,float,float>": {
+            "offset": "0x74F80"
+        },
+        "ImGui::ScaleRatioFromValueT<int,int,float>": {
+            "offset": "0x74990"
+        },
+        "ImGui::ScaleRatioFromValueT<unsigned __int64,__int64,double>": {
+            "offset": "0x75930"
+        },
+        "ImGui::ScaleRatioFromValueT<unsigned int,int,float>": {
+            "offset": "0x74C80"
+        },
+        "ImGui::ScaleValueFromRatioT<__int64,__int64,double>": {
+            "offset": "0x76850"
+        },
+        "ImGui::ScaleValueFromRatioT<double,double,double>": {
+            "offset": "0x76570"
+        },
+        "ImGui::ScaleValueFromRatioT<float,float,float>": {
+            "offset": "0x762F0"
+        },
+        "ImGui::ScaleValueFromRatioT<int,int,float>": {
+            "offset": "0x75D70"
+        },
+        "ImGui::ScaleValueFromRatioT<unsigned __int64,__int64,double>": {
+            "offset": "0x76B40"
+        },
+        "ImGui::ScaleValueFromRatioT<unsigned int,int,float>": {
+            "offset": "0x76030"
+        },
+        "ImGui::ScaleWindowsInViewport": {
+            "offset": "0x325F0"
+        },
+        "ImGui::ScrollToItem": {
+            "offset": "0x32730"
+        },
+        "ImGui::ScrollToRect": {
+            "offset": "0x32760"
+        },
+        "ImGui::ScrollToRectEx": {
+            "offset": "0x32780"
+        },
+        "ImGui::Scrollbar": {
+            "offset": "0x89FE0"
+        },
+        "ImGui::ScrollbarEx": {
+            "offset": "0x8A110"
+        },
+        "ImGui::Selectable": {
+            "offset": "0x8A6C0"
+        },
+        "ImGui::Separator": {
+            "offset": "0x8AC60"
+        },
+        "ImGui::SeparatorEx": {
+            "offset": "0x8AC90"
+        },
+        "ImGui::SetActiveID": {
+            "offset": "0x32B50"
+        },
+        "ImGui::SetActiveIdUsingNavAndKeys": {
+            "offset": "0x32C20"
+        },
+        "ImGui::SetAllocatorFunctions": {
+            "offset": "0x32CC0"
+        },
+        "ImGui::SetClipboardText": {
+            "offset": "0x32D10"
+        },
+        "ImGui::SetColorEditOptions": {
+            "offset": "0x8AF60"
+        },
+        "ImGui::SetColumnOffset": {
+            "offset": "0x6C3F0"
+        },
+        "ImGui::SetColumnWidth": {
+            "offset": "0x6C530"
+        },
+        "ImGui::SetCurrentContext": {
+            "offset": "0x32E10"
+        },
+        "ImGui::SetCurrentFont": {
+            "offset": "0x32E20"
+        },
+        "ImGui::SetCurrentViewport": {
+            "offset": "0x32ED0"
+        },
+        "ImGui::SetCursorPos": {
+            "offset": "0x32F30"
+        },
+        "ImGui::SetCursorPosX": {
+            "offset": "0x32FB0"
+        },
+        "ImGui::SetCursorPosY": {
+            "offset": "0x33000"
+        },
+        "ImGui::SetCursorScreenPos": {
+            "offset": "0x33050"
+        },
+        "ImGui::SetDragDropPayload": {
+            "offset": "0x330B0"
+        },
+        "ImGui::SetFocusID": {
+            "offset": "0x33260"
+        },
+        "ImGui::SetHoveredID": {
+            "offset": "0x33350"
+        },
+        "ImGui::SetItemAllowOverlap": {
+            "offset": "0x33420"
+        },
+        "ImGui::SetItemDefaultFocus": {
+            "offset": "0x33450"
+        },
+        "ImGui::SetItemUsingMouseWheel": {
+            "offset": "0x33570"
+        },
+        "ImGui::SetKeyboardFocusHere": {
+            "offset": "0x335D0"
+        },
+        "ImGui::SetLastItemData": {
+            "offset": "0x33660"
+        },
+        "ImGui::SetMouseCursor": {
+            "offset": "0x336A0"
+        },
+        "ImGui::SetNavID": {
+            "offset": "0x336B0"
+        },
+        "ImGui::SetNextItemOpen": {
+            "offset": "0x8AFB0"
+        },
+        "ImGui::SetNextItemWidth": {
+            "offset": "0x33700"
+        },
+        "ImGui::SetNextWindowBgAlpha": {
+            "offset": "0x33720"
+        },
+        "ImGui::SetNextWindowClass": {
+            "offset": "0x33740"
+        },
+        "ImGui::SetNextWindowCollapsed": {
+            "offset": "0x33780"
+        },
+        "ImGui::SetNextWindowContentSize": {
+            "offset": "0x337B0"
+        },
+        "ImGui::SetNextWindowDockID": {
+            "offset": "0x337F0"
+        },
+        "ImGui::SetNextWindowFocus": {
+            "offset": "0x33820"
+        },
+        "ImGui::SetNextWindowPos": {
+            "offset": "0x33830"
+        },
+        "ImGui::SetNextWindowScroll": {
+            "offset": "0x33880"
+        },
+        "ImGui::SetNextWindowSize": {
+            "offset": "0x338A0"
+        },
+        "ImGui::SetNextWindowSizeConstraints": {
+            "offset": "0x338D0"
+        },
+        "ImGui::SetNextWindowViewport": {
+            "offset": "0x33900"
+        },
+        "ImGui::SetScrollFromPosX": {
+            "offset": "0x33A90"
+        },
+        "ImGui::SetScrollFromPosY": {
+            "offset": "0x33AE0"
+        },
+        "ImGui::SetScrollHereX": {
+            "offset": "0x33BC0"
+        },
+        "ImGui::SetScrollHereY": {
+            "offset": "0x33C40"
+        },
+        "ImGui::SetScrollX": {
+            "offset": "0x33CF0"
+        },
+        "ImGui::SetScrollY": {
+            "offset": "0x33D40"
+        },
+        "ImGui::SetStateStorage": {
+            "offset": "0x33D60"
+        },
+        "ImGui::SetTabItemClosed": {
+            "offset": "0x8AFF0"
+        },
+        "ImGui::SetTooltip": {
+            "offset": "0x33E10"
+        },
+        "ImGui::SetTooltipV": {
+            "offset": "0x33E60"
+        },
+        "ImGui::SetWindowClipRectBeforeSetChannel": {
+            "offset": "0x6C5B0"
+        },
+        "ImGui::SetWindowCollapsed": {
+            "offset": "0x34050"
+        },
+        "ImGui::SetWindowDock": {
+            "offset": "0x340A0"
+        },
+        "ImGui::SetWindowFocus": {
+            "offset": "0x34180"
+        },
+        "ImGui::SetWindowFontScale": {
+            "offset": "0x341A0"
+        },
+        "ImGui::SetWindowHitTestHole": {
+            "offset": "0x34200"
+        },
+        "ImGui::SetWindowPos": {
+            "offset": "0x343A0"
+        },
+        "ImGui::SetWindowSize": {
+            "offset": "0x34500"
+        },
+        "ImGui::SetWindowViewport": {
+            "offset": "0x34590"
+        },
+        "ImGui::ShadeVertsLinearColorGradientKeepAlpha": {
+            "offset": "0x65440"
+        },
+        "ImGui::ShadeVertsLinearUV": {
+            "offset": "0x658B0"
+        },
+        "ImGui::ShowAboutWindow": {
+            "offset": "0x40880"
+        },
+        "ImGui::ShowDemoWindow": {
+            "offset": "0x40E90"
+        },
+        "ImGui::ShowFontAtlas": {
+            "offset": "0x345D0"
+        },
+        "ImGui::ShowMetricsWindow": {
+            "offset": "0x34780"
+        },
+        "ImGui::ShowStackToolWindow": {
+            "offset": "0x373D0"
+        },
+        "ImGui::ShowStyleEditor": {
+            "offset": "0x58900"
+        },
+        "ImGui::ShowUserGuide": {
+            "offset": "0x59E80"
+        },
+        "ImGui::ShrinkWidths": {
+            "offset": "0x8B100"
+        },
+        "ImGui::Shutdown": {
+            "offset": "0x37A80"
+        },
+        "ImGui::SliderAngle": {
+            "offset": "0x8B450"
+        },
+        "ImGui::SliderBehavior": {
+            "offset": "0x8B4E0"
+        },
+        "ImGui::SliderBehaviorT<__int64,__int64,double>": {
+            "offset": "0x78B40"
+        },
+        "ImGui::SliderBehaviorT<double,double,double>": {
+            "offset": "0x78420"
+        },
+        "ImGui::SliderBehaviorT<float,float,float>": {
+            "offset": "0x77D10"
+        },
+        "ImGui::SliderBehaviorT<int,int,float>": {
+            "offset": "0x76F60"
+        },
+        "ImGui::SliderBehaviorT<unsigned __int64,__int64,double>": {
+            "offset": "0x79230"
+        },
+        "ImGui::SliderBehaviorT<unsigned int,int,float>": {
+            "offset": "0x77640"
+        },
+        "ImGui::SliderFloat": {
+            "offset": "0x8B9A0"
+        },
+        "ImGui::SliderFloat2": {
+            "offset": "0x8B8B0"
+        },
+        "ImGui::SliderFloat3": {
+            "offset": "0x8B900"
+        },
+        "ImGui::SliderFloat4": {
+            "offset": "0x8B950"
+        },
+        "ImGui::SliderInt": {
+            "offset": "0x8BAE0"
+        },
+        "ImGui::SliderInt2": {
+            "offset": "0x8B9F0"
+        },
+        "ImGui::SliderInt3": {
+            "offset": "0x8BA40"
+        },
+        "ImGui::SliderInt4": {
+            "offset": "0x8BA90"
+        },
+        "ImGui::SliderScalar": {
+            "offset": "0x8C020"
+        },
+        "ImGui::SliderScalarN": {
+            "offset": "0x8C1F0"
+        },
+        "ImGui::SmallButton": {
+            "offset": "0x8C220"
+        },
+        "ImGui::Spacing": {
+            "offset": "0x8C270"
+        },
+        "ImGui::SplitterBehavior": {
+            "offset": "0x8C2C0"
+        },
+        "ImGui::StartMouseMovingWindow": {
+            "offset": "0x38240"
+        },
+        "ImGui::StartMouseMovingWindowOrNode": {
+            "offset": "0x38300"
+        },
+        "ImGui::StyleColorsClassic": {
+            "offset": "0x65EB0"
+        },
+        "ImGui::StyleColorsDark": {
+            "offset": "0x66430"
+        },
+        "ImGui::StyleColorsLight": {
+            "offset": "0x669B0"
+        },
+        "ImGui::TabBarAddTab": {
+            "offset": "0x8C5A0"
+        },
+        "ImGui::TabBarCloseTab": {
+            "offset": "0x8C680"
+        },
+        "ImGui::TabBarFindMostRecentlySelectedTabForActiveWindow": {
+            "offset": "0x8C6B0"
+        },
+        "ImGui::TabBarFindTabByID": {
+            "offset": "0x8C6F0"
+        },
+        "ImGui::TabBarLayout": {
+            "offset": "0x8C740"
+        },
+        "ImGui::TabBarProcessReorder": {
+            "offset": "0x8D710"
+        },
+        "ImGui::TabBarQueueReorder": {
+            "offset": "0x8D860"
+        },
+        "ImGui::TabBarQueueReorderFromMousePos": {
+            "offset": "0x8D870"
+        },
+        "ImGui::TabBarRemoveTab": {
+            "offset": "0x8D9D0"
+        },
+        "ImGui::TabBarScrollingButtons": {
+            "offset": "0x8DA90"
+        },
+        "ImGui::TabItemBackground": {
+            "offset": "0x8DD70"
+        },
+        "ImGui::TabItemButton": {
+            "offset": "0x8E150"
+        },
+        "ImGui::TabItemCalcSize": {
+            "offset": "0x8E1B0"
+        },
+        "ImGui::TabItemEx": {
+            "offset": "0x8E2D0"
+        },
+        "ImGui::TabItemLabelAndCloseButton": {
+            "offset": "0x8EE00"
+        },
+        "ImGui::TableBeginApplyRequests": {
+            "offset": "0x6C630"
+        },
+        "ImGui::TableBeginCell": {
+            "offset": "0x6C800"
+        },
+        "ImGui::TableBeginInitMemory": {
+            "offset": "0x6C9F0"
+        },
+        "ImGui::TableBeginRow": {
+            "offset": "0x6CAA0"
+        },
+        "ImGui::TableDrawBorders": {
+            "offset": "0x6CBA0"
+        },
+        "ImGui::TableDrawContextMenu": {
+            "offset": "0x6D050"
+        },
+        "ImGui::TableEndCell": {
+            "offset": "0x6D290"
+        },
+        "ImGui::TableEndRow": {
+            "offset": "0x6D330"
+        },
+        "ImGui::TableFindByID": {
+            "offset": "0x6D990"
+        },
+        "ImGui::TableFixColumnSortDirection": {
+            "offset": "0x6D9E0"
+        },
+        "ImGui::TableGcCompactSettings": {
+            "offset": "0x6DA20"
+        },
+        "ImGui::TableGcCompactTransientBuffers": {
+            "offset": "0x6DCA0"
+        },
+        "ImGui::TableGetBoundSettings": {
+            "offset": "0x6DCC0"
+        },
+        "ImGui::TableGetCellBgRect": {
+            "offset": "0x6DCF0"
+        },
+        "ImGui::TableGetColumnCount": {
+            "offset": "0x6DD50"
+        },
+        "ImGui::TableGetColumnFlags": {
+            "offset": "0x6DD70"
+        },
+        "ImGui::TableGetColumnIndex": {
+            "offset": "0x6DDC0"
+        },
+        "ImGui::TableGetColumnName": {
+            "offset": "0x6DE40"
+        },
+        "ImGui::TableGetColumnNextSortDirection": {
+            "offset": "0x6DE80"
+        },
+        "ImGui::TableGetColumnResizeID": {
+            "offset": "0x6DEF0"
+        },
+        "ImGui::TableGetColumnWidthAuto": {
+            "offset": "0x6DF00"
+        },
+        "ImGui::TableGetHeaderRowHeight": {
+            "offset": "0x6DF60"
+        },
+        "ImGui::TableGetHoveredColumn": {
+            "offset": "0x6E0B0"
+        },
+        "ImGui::TableGetMaxColumnWidth": {
+            "offset": "0x6E0D0"
+        },
+        "ImGui::TableGetRowIndex": {
+            "offset": "0x6E1B0"
+        },
+        "ImGui::TableGetSortSpecs": {
+            "offset": "0x6E1D0"
+        },
+        "ImGui::TableHeader": {
+            "offset": "0x6E220"
+        },
+        "ImGui::TableHeadersRow": {
+            "offset": "0x6E9F0"
+        },
+        "ImGui::TableLoadSettings": {
+            "offset": "0x6EC80"
+        },
+        "ImGui::TableMergeDrawChannels": {
+            "offset": "0x6EE60"
+        },
+        "ImGui::TableNextColumn": {
+            "offset": "0x6F520"
+        },
+        "ImGui::TableNextRow": {
+            "offset": "0x6F5A0"
+        },
+        "ImGui::TableOpenContextMenu": {
+            "offset": "0x6F650"
+        },
+        "ImGui::TablePopBackgroundChannel": {
+            "offset": "0x6F6C0"
+        },
+        "ImGui::TablePushBackgroundChannel": {
+            "offset": "0x6F790"
+        },
+        "ImGui::TableRemove": {
+            "offset": "0x6F870"
+        },
+        "ImGui::TableResetSettings": {
+            "offset": "0x6F970"
+        },
+        "ImGui::TableSaveSettings": {
+            "offset": "0x6F990"
+        },
+        "ImGui::TableSetBgColor": {
+            "offset": "0x6FB40"
+        },
+        "ImGui::TableSetColumnEnabled": {
+            "offset": "0x6FC00"
+        },
+        "ImGui::TableSetColumnIndex": {
+            "offset": "0x6FC30"
+        },
+        "ImGui::TableSetColumnSortDirection": {
+            "offset": "0x6FC90"
+        },
+        "ImGui::TableSetColumnWidth": {
+            "offset": "0x6FDE0"
+        },
+        "ImGui::TableSetColumnWidthAutoAll": {
+            "offset": "0x6FF10"
+        },
+        "ImGui::TableSetColumnWidthAutoSingle": {
+            "offset": "0x6FF50"
+        },
+        "ImGui::TableSettingsAddSettingsHandler": {
+            "offset": "0x6FF70"
+        },
+        "ImGui::TableSettingsCreate": {
+            "offset": "0x6FFF0"
+        },
+        "ImGui::TableSettingsFindByID": {
+            "offset": "0x701A0"
+        },
+        "ImGui::TableSetupColumn": {
+            "offset": "0x70A30"
+        },
+        "ImGui::TableSetupDrawChannels": {
+            "offset": "0x70D50"
+        },
+        "ImGui::TableSetupScrollFreeze": {
+            "offset": "0x70ED0"
+        },
+        "ImGui::TableSortSpecsBuild": {
+            "offset": "0x71000"
+        },
+        "ImGui::TableSortSpecsSanitize": {
+            "offset": "0x71100"
+        },
+        "ImGui::TableUpdateBorders": {
+            "offset": "0x71310"
+        },
+        "ImGui::TableUpdateColumnsWeightFromWidth": {
+            "offset": "0x71600"
+        },
+        "ImGui::TableUpdateLayout": {
+            "offset": "0x71730"
+        },
+        "ImGui::TempInputScalar": {
+            "offset": "0x8F220"
+        },
+        "ImGui::TempInputText": {
+            "offset": "0x8F620"
+        },
+        "ImGui::Text": {
+            "offset": "0x8F6F0"
+        },
+        "ImGui::TextColored": {
+            "offset": "0x8F720"
+        },
+        "ImGui::TextColoredV": {
+            "offset": "0x8F7A0"
+        },
+        "ImGui::TextDisabled": {
+            "offset": "0x8F800"
+        },
+        "ImGui::TextDisabledV": {
+            "offset": "0x8F890"
+        },
+        "ImGui::TextEx": {
+            "offset": "0x8F900"
+        },
+        "ImGui::TextUnformatted": {
+            "offset": "0x8FD70"
+        },
+        "ImGui::TextV": {
+            "offset": "0x8FD80"
+        },
+        "ImGui::TextWrapped": {
+            "offset": "0x8FE00"
+        },
+        "ImGui::TextWrappedV": {
+            "offset": "0x8FE30"
+        },
+        "ImGui::TranslateWindowsInViewport": {
+            "offset": "0x38BA0"
+        },
+        "ImGui::TreeNode": {
+            "offset": "0x8FF50"
+        },
+        "ImGui::TreeNodeBehavior": {
+            "offset": "0x8FF80"
+        },
+        "ImGui::TreeNodeBehaviorIsOpen": {
+            "offset": "0x907F0"
+        },
+        "ImGui::TreeNodeEx": {
+            "offset": "0x90980"
+        },
+        "ImGui::TreeNodeExV": {
+            "offset": "0x90A60"
+        },
+        "ImGui::TreeNodeV": {
+            "offset": "0x90B20"
+        },
+        "ImGui::TreePop": {
+            "offset": "0x90B30"
+        },
+        "ImGui::TreePush": {
+            "offset": "0x90C40"
+        },
+        "ImGui::TreePushOverrideID": {
+            "offset": "0x90C90"
+        },
+        "ImGui::Unindent": {
+            "offset": "0x38EB0"
+        },
+        "ImGui::UpdateHoveredWindowAndCaptureFlags": {
+            "offset": "0x38F10"
+        },
+        "ImGui::UpdateInputEvents": {
+            "offset": "0x39340"
+        },
+        "ImGui::UpdateKeyboardInputs": {
+            "offset": "0x39A10"
+        },
+        "ImGui::UpdateMouseInputs": {
+            "offset": "0x39DC0"
+        },
+        "ImGui::UpdateMouseMovingWindowEndFrame": {
+            "offset": "0x3A1C0"
+        },
+        "ImGui::UpdateMouseMovingWindowNewFrame": {
+            "offset": "0x3A330"
+        },
+        "ImGui::UpdateMouseWheel": {
+            "offset": "0x3A530"
+        },
+        "ImGui::UpdatePlatformWindows": {
+            "offset": "0x3A960"
+        },
+        "ImGui::UpdateTryMergeWindowIntoHostViewport": {
+            "offset": "0x3ADB0"
+        },
+        "ImGui::UpdateViewportPlatformMonitor": {
+            "offset": "0x3AFD0"
+        },
+        "ImGui::UpdateViewportsNewFrame": {
+            "offset": "0x3B180"
+        },
+        "ImGui::UpdateWindowManualResize": {
+            "offset": "0x3B980"
+        },
+        "ImGui::UpdateWindowParentAndRootLinks": {
+            "offset": "0x3C460"
+        },
+        "ImGui::VSliderFloat": {
+            "offset": "0x90E40"
+        },
+        "ImGui::VSliderInt": {
+            "offset": "0x90E90"
+        },
+        "ImGui::VSliderScalar": {
+            "offset": "0x90EE0"
+        },
+        "ImGui::Value": {
+            "offset": "0x91370"
+        },
+        "ImGui::WindowSelectViewport": {
+            "offset": "0x3C5D0"
+        },
+        "ImGui::WindowSyncOwnedViewport": {
+            "offset": "0x3D240"
+        },
+        "ImGuiComboPreviewData::ImGuiComboPreviewData": {
+            "offset": "0x1130"
+        },
+        "ImGuiContext::ImGuiContext": {
+            "offset": "0x1150"
+        },
+        "ImGuiContext::~ImGuiContext": {
+            "offset": "0x4350"
+        },
+        "ImGuiDockContext::~ImGuiDockContext": {
+            "offset": "0x4970"
+        },
+        "ImGuiDockNode::ImGuiDockNode": {
+            "offset": "0x1D80"
+        },
+        "ImGuiDockNode::IsCentralNode": {
+            "offset": "0x25340"
+        },
+        "ImGuiDockNode::IsDockSpace": {
+            "offset": "0x253C0"
+        },
+        "ImGuiDockNode::IsEmpty": {
+            "offset": "0x253F0"
+        },
+        "ImGuiDockNode::IsFloatingNode": {
+            "offset": "0x25410"
+        },
+        "ImGuiDockNode::IsHiddenTabBar": {
+            "offset": "0x25430"
+        },
+        "ImGuiDockNode::IsLeafNode": {
+            "offset": "0x259A0"
+        },
+        "ImGuiDockNode::IsNoTabBar": {
+            "offset": "0x25C50"
+        },
+        "ImGuiDockNode::IsRootNode": {
+            "offset": "0x25E50"
+        },
+        "ImGuiDockNode::IsSplitNode": {
+            "offset": "0x25E60"
+        },
+        "ImGuiDockNode::Rect": {
+            "offset": "0x2DF30"
+        },
+        "ImGuiDockNode::SetLocalFlags": {
+            "offset": "0x33690"
+        },
+        "ImGuiDockNode::UpdateMergedFlags": {
+            "offset": "0x39DB0"
+        },
+        "ImGuiDockNode::~ImGuiDockNode": {
+            "offset": "0x4A10"
+        },
+        "ImGuiDockPreviewData::ImGuiDockPreviewData": {
+            "offset": "0x1E90"
+        },
+        "ImGuiDockPreviewData::~ImGuiDockPreviewData": {
+            "offset": "0x4AA0"
+        },
+        "ImGuiFreeType::GetBuilderForFreeType": {
+            "offset": "0x93700"
+        },
+        "ImGuiFreeType::SetAllocatorFunctions": {
+            "offset": "0x94980"
+        },
+        "ImGuiFreeTypeDefaultAllocFunc": {
+            "offset": "0x92C20"
+        },
+        "ImGuiFreeTypeDefaultFreeFunc": {
+            "offset": "0x92C30"
+        },
+        "ImGuiGroupData::ImGuiGroupData": {
+            "offset": "0x1F30"
+        },
+        "ImGuiIO::AddFocusEvent": {
+            "offset": "0x7E30"
+        },
+        "ImGuiIO::AddInputCharacter": {
+            "offset": "0x7EC0"
+        },
+        "ImGuiIO::AddInputCharacterUTF16": {
+            "offset": "0x7F60"
+        },
+        "ImGuiIO::AddInputCharactersUTF8": {
+            "offset": "0x8000"
+        },
+        "ImGuiIO::AddKeyAnalogEvent": {
+            "offset": "0x80E0"
+        },
+        "ImGuiIO::AddKeyEvent": {
+            "offset": "0x8250"
+        },
+        "ImGuiIO::AddMouseButtonEvent": {
+            "offset": "0x8270"
+        },
+        "ImGuiIO::AddMousePosEvent": {
+            "offset": "0x8310"
+        },
+        "ImGuiIO::AddMouseViewportEvent": {
+            "offset": "0x83B0"
+        },
+        "ImGuiIO::AddMouseWheelEvent": {
+            "offset": "0x8440"
+        },
+        "ImGuiIO::ClearInputCharacters": {
+            "offset": "0xECA0"
+        },
+        "ImGuiIO::ClearInputKeys": {
+            "offset": "0xECE0"
+        },
+        "ImGuiIO::ImGuiIO": {
+            "offset": "0x1F50"
+        },
+        "ImGuiIO::SetKeyEventNativeData": {
+            "offset": "0x335A0"
+        },
+        "ImGuiIO::~ImGuiIO": {
+            "offset": "0x4AB0"
+        },
+        "ImGuiInputTextCallbackData::DeleteChars": {
+            "offset": "0x81A20"
+        },
+        "ImGuiInputTextCallbackData::ImGuiInputTextCallbackData": {
+            "offset": "0x79910"
+        },
+        "ImGuiInputTextCallbackData::InsertChars": {
+            "offset": "0x878D0"
+        },
+        "ImGuiInputTextState::ClearFreeMemory": {
+            "offset": "0xEB50"
+        },
+        "ImGuiInputTextState::ClearSelection": {
+            "offset": "0xEEE0"
+        },
+        "ImGuiInputTextState::ClearText": {
+            "offset": "0xEEF0"
+        },
+        "ImGuiInputTextState::CursorAnimReset": {
+            "offset": "0xFC90"
+        },
+        "ImGuiInputTextState::CursorClamp": {
+            "offset": "0xFCA0"
+        },
+        "ImGuiInputTextState::GetCursorPos": {
+            "offset": "0x20C40"
+        },
+        "ImGuiInputTextState::GetRedoAvailCount": {
+            "offset": "0x21EF0"
+        },
+        "ImGuiInputTextState::GetSelectionEnd": {
+            "offset": "0x220C0"
+        },
+        "ImGuiInputTextState::GetSelectionStart": {
+            "offset": "0x220D0"
+        },
+        "ImGuiInputTextState::GetUndoAvailCount": {
+            "offset": "0x22790"
+        },
+        "ImGuiInputTextState::HasSelection": {
+            "offset": "0x22F20"
+        },
+        "ImGuiInputTextState::ImGuiInputTextState": {
+            "offset": "0x2370"
+        },
+        "ImGuiInputTextState::OnKeyPressed": {
+            "offset": "0x88720"
+        },
+        "ImGuiInputTextState::SelectAll": {
+            "offset": "0x32B30"
+        },
+        "ImGuiInputTextState::~ImGuiInputTextState": {
+            "offset": "0x4AF0"
+        },
+        "ImGuiListClipper::Begin": {
+            "offset": "0xB350"
+        },
+        "ImGuiListClipper::End": {
+            "offset": "0x1DFD0"
+        },
+        "ImGuiListClipper::ForceDisplayRangeByIndices": {
+            "offset": "0x204A0"
+        },
+        "ImGuiListClipper::ImGuiListClipper": {
+            "offset": "0x23B0"
+        },
+        "ImGuiListClipper::Step": {
+            "offset": "0x383E0"
+        },
+        "ImGuiListClipper::~ImGuiListClipper": {
+            "offset": "0x4B90"
+        },
+        "ImGuiListClipperData::~ImGuiListClipperData": {
+            "offset": "0x4BB0"
+        },
+        "ImGuiListClipper_SeekCursorForItem": {
+            "offset": "0x23B40"
+        },
+        "ImGuiListClipper_SortAndFuseRanges": {
+            "offset": "0x23C60"
+        },
+        "ImGuiMenuColumns::CalcNextTotalWidth": {
+            "offset": "0x7C690"
+        },
+        "ImGuiMenuColumns::DeclColumns": {
+            "offset": "0x81950"
+        },
+        "ImGuiMenuColumns::ImGuiMenuColumns": {
+            "offset": "0x23D0"
+        },
+        "ImGuiMenuColumns::Update": {
+            "offset": "0x90CD0"
+        },
+        "ImGuiOldColumns::~ImGuiOldColumns": {
+            "offset": "0x68D60"
+        },
+        "ImGuiPlatformIO::~ImGuiPlatformIO": {
+            "offset": "0x4BF0"
+        },
+        "ImGuiStackSizes::CompareWithCurrentState": {
+            "offset": "0x50B0"
+        },
+        "ImGuiStackSizes::ImGuiStackSizes": {
+            "offset": "0x23F0"
+        },
+        "ImGuiStackSizes::SetToCurrentState": {
+            "offset": "0x33D90"
+        },
+        "ImGuiStackTool::~ImGuiStackTool": {
+            "offset": "0x4C60"
+        },
+        "ImGuiStorage::BuildSortByKey": {
+            "offset": "0xD6E0"
+        },
+        "ImGuiStorage::GetBool": {
+            "offset": "0x207E0"
+        },
+        "ImGuiStorage::GetBoolRef": {
+            "offset": "0x20850"
+        },
+        "ImGuiStorage::GetFloat": {
+            "offset": "0x20D60"
+        },
+        "ImGuiStorage::GetFloatRef": {
+            "offset": "0x20DD0"
+        },
+        "ImGuiStorage::GetInt": {
+            "offset": "0x214E0"
+        },
+        "ImGuiStorage::GetIntRef": {
+            "offset": "0x21550"
+        },
+        "ImGuiStorage::GetVoidPtr": {
+            "offset": "0x22950"
+        },
+        "ImGuiStorage::GetVoidPtrRef": {
+            "offset": "0x229C0"
+        },
+        "ImGuiStorage::SetAllInt": {
+            "offset": "0x32C90"
+        },
+        "ImGuiStorage::SetBool": {
+            "offset": "0x32D00"
+        },
+        "ImGuiStorage::SetFloat": {
+            "offset": "0x331D0"
+        },
+        "ImGuiStorage::SetInt": {
+            "offset": "0x33380"
+        },
+        "ImGuiStorage::SetVoidPtr": {
+            "offset": "0x33EA0"
+        },
+        "ImGuiStorage::~ImGuiStorage": {
+            "offset": "0x3FB0"
+        },
+        "ImGuiStyle::ImGuiStyle": {
+            "offset": "0x2400"
+        },
+        "ImGuiStyle::ScaleAllSizes": {
+            "offset": "0x321C0"
+        },
+        "ImGuiTabBar::GetTabName": {
+            "offset": "0x22430"
+        },
+        "ImGuiTabBar::GetTabOrder": {
+            "offset": "0x22450"
+        },
+        "ImGuiTabBar::ImGuiTabBar": {
+            "offset": "0x2590"
+        },
+        "ImGuiTabBar::~ImGuiTabBar": {
+            "offset": "0x4CA0"
+        },
+        "ImGuiTable::ImGuiTable": {
+            "offset": "0x2C10"
+        },
+        "ImGuiTable::~ImGuiTable": {
+            "offset": "0x4D10"
+        },
+        "ImGuiTableTempData::ImGuiTableTempData": {
+            "offset": "0x2DC0"
+        },
+        "ImGuiTableTempData::~ImGuiTableTempData": {
+            "offset": "0x4DE0"
+        },
+        "ImGuiTextBuffer::append": {
+            "offset": "0x3D480"
+        },
+        "ImGuiTextBuffer::appendf": {
+            "offset": "0x3D550"
+        },
+        "ImGuiTextBuffer::appendfv": {
+            "offset": "0x3D580"
+        },
+        "ImGuiTextBuffer::~ImGuiTextBuffer": {
+            "offset": "0x3FB0"
+        },
+        "ImGuiTextFilter::Build": {
+            "offset": "0xD5B0"
+        },
+        "ImGuiTextFilter::Draw": {
+            "offset": "0x1DCF0"
+        },
+        "ImGuiTextFilter::ImGuiTextFilter": {
+            "offset": "0x2DF0"
+        },
+        "ImGuiTextFilter::ImGuiTextRange::split": {
+            "offset": "0x3E750"
+        },
+        "ImGuiTextFilter::PassFilter": {
+            "offset": "0x2CCF0"
+        },
+        "ImGuiTextFilter::~ImGuiTextFilter": {
+            "offset": "0x3F060"
+        },
+        "ImGuiViewportP::ImGuiViewportP": {
+            "offset": "0x2E50"
+        },
+        "ImGuiViewportP::UpdateWorkRect": {
+            "offset": "0x3C530"
+        },
+        "ImGuiWindow::CalcFontSize": {
+            "offset": "0xD710"
+        },
+        "ImGuiWindow::GetID": {
+            "offset": "0x211B0"
+        },
+        "ImGuiWindow::GetIDFromRectangle": {
+            "offset": "0x21290"
+        },
+        "ImGuiWindow::ImGuiWindow": {
+            "offset": "0x36D0"
+        },
+        "ImGuiWindow::MenuBarHeight": {
+            "offset": "0x27500"
+        },
+        "ImGuiWindow::MenuBarRect": {
+            "offset": "0x27560"
+        },
+        "ImGuiWindow::Rect": {
+            "offset": "0x2DF30"
+        },
+        "ImGuiWindow::TitleBarHeight": {
+            "offset": "0x38A70"
+        },
+        "ImGuiWindow::TitleBarRect": {
+            "offset": "0x38AC0"
+        },
+        "ImGuiWindow::~ImGuiWindow": {
+            "offset": "0x4E30"
+        },
+        "ImGuiWindowTempData::ImGuiWindowTempData": {
+            "offset": "0x3ED0"
+        },
+        "ImGuiWindowTempData::~ImGuiWindowTempData": {
+            "offset": "0x5010"
+        },
+        "ImHashData": {
+            "offset": "0x23DC0"
+        },
+        "ImHashStr": {
+            "offset": "0x23E10"
+        },
+        "ImLineClosestPoint": {
+            "offset": "0x23EC0"
+        },
+        "ImParseFormatFindEnd": {
+            "offset": "0x83460"
+        },
+        "ImParseFormatFindStart": {
+            "offset": "0x834C0"
+        },
+        "ImParseFormatPrecision": {
+            "offset": "0x834F0"
+        },
+        "ImParseFormatSanitizeForPrinting": {
+            "offset": "0x83600"
+        },
+        "ImParseFormatSanitizeForScanning": {
+            "offset": "0x836A0"
+        },
+        "ImParseFormatTrimDecorations": {
+            "offset": "0x837A0"
+        },
+        "ImPool<ImGuiDockContextPruneNodeData>::~ImPool<ImGuiDockContextPruneNodeData>": {
+            "offset": "0x3FF0"
+        },
+        "ImPool<ImGuiTabBar>::Add": {
+            "offset": "0x79980"
+        },
+        "ImPool<ImGuiTabBar>::Clear": {
+            "offset": "0xE800"
+        },
+        "ImPool<ImGuiTabBar>::~ImPool<ImGuiTabBar>": {
+            "offset": "0x40D0"
+        },
+        "ImPool<ImGuiTable>::Clear": {
+            "offset": "0xE8D0"
+        },
+        "ImPool<ImGuiTable>::~ImPool<ImGuiTable>": {
+            "offset": "0x4140"
+        },
+        "ImRect::Add": {
+            "offset": "0x7C20"
+        },
+        "ImRect::ClipWith": {
+            "offset": "0xEF40"
+        },
+        "ImRect::ClipWithFull": {
+            "offset": "0xEF80"
+        },
+        "ImRect::Contains": {
+            "offset": "0xF770"
+        },
+        "ImRect::Expand": {
+            "offset": "0x1F110"
+        },
+        "ImRect::Floor": {
+            "offset": "0x201C0"
+        },
+        "ImRect::GetArea": {
+            "offset": "0x20770"
+        },
+        "ImRect::GetBL": {
+            "offset": "0x20790"
+        },
+        "ImRect::GetBR": {
+            "offset": "0x207A0"
+        },
+        "ImRect::GetCenter": {
+            "offset": "0x20860"
+        },
+        "ImRect::GetHeight": {
+            "offset": "0x20F50"
+        },
+        "ImRect::GetSize": {
+            "offset": "0x220E0"
+        },
+        "ImRect::GetTL": {
+            "offset": "0x22410"
+        },
+        "ImRect::GetTR": {
+            "offset": "0x22420"
+        },
+        "ImRect::GetWidth": {
+            "offset": "0x22A60"
+        },
+        "ImRect::ImRect": {
+            "offset": "0x1100"
+        },
+        "ImRect::IsInverted": {
+            "offset": "0x25440"
+        },
+        "ImRect::Overlaps": {
+            "offset": "0x2CCB0"
+        },
+        "ImRect::ToVec4": {
+            "offset": "0x38B40"
+        },
+        "ImRect::Translate": {
+            "offset": "0x38B60"
+        },
+        "ImRect::TranslateX": {
+            "offset": "0x38E70"
+        },
+        "ImRect::TranslateY": {
+            "offset": "0x38E90"
+        },
+        "ImStb::STB_TEXTEDIT_DELETECHARS": {
+            "offset": "0x89B80"
+        },
+        "ImStb::STB_TEXTEDIT_INSERTCHARS": {
+            "offset": "0x89C20"
+        },
+        "ImStb::STB_TEXTEDIT_LAYOUTROW": {
+            "offset": "0x89D40"
+        },
+        "ImStb::STB_TEXTEDIT_MOVEWORDLEFT_IMPL": {
+            "offset": "0x89E20"
+        },
+        "ImStb::STB_TEXTEDIT_MOVEWORDRIGHT_WIN": {
+            "offset": "0x89EF0"
+        },
+        "ImStb::is_separator": {
+            "offset": "0x913A0"
+        },
+        "ImStb::stb_text_create_undo_record": {
+            "offset": "0x91450"
+        },
+        "ImStb::stb_text_createundo": {
+            "offset": "0x91640"
+        },
+        "ImStb::stb_text_locate_coord": {
+            "offset": "0x916C0"
+        },
+        "ImStb::stb_text_makeundo_replace": {
+            "offset": "0x91870"
+        },
+        "ImStb::stb_text_undo": {
+            "offset": "0x918E0"
+        },
+        "ImStb::stb_textedit_click": {
+            "offset": "0x91B50"
+        },
+        "ImStb::stb_textedit_delete": {
+            "offset": "0x91BB0"
+        },
+        "ImStb::stb_textedit_delete_selection": {
+            "offset": "0x91C40"
+        },
+        "ImStb::stb_textedit_find_charpos": {
+            "offset": "0x91CE0"
+        },
+        "ImStb::stb_textedit_key": {
+            "offset": "0x91EB0"
+        },
+        "ImStrSkipBlank": {
+            "offset": "0x23F60"
+        },
+        "ImStrTrimBlanks": {
+            "offset": "0x23F80"
+        },
+        "ImStrbolW": {
+            "offset": "0x24000"
+        },
+        "ImStrchrRange": {
+            "offset": "0x24020"
+        },
+        "ImStrdup": {
+            "offset": "0x24040"
+        },
+        "ImStrdupcpy": {
+            "offset": "0x240A0"
+        },
+        "ImStreolRange": {
+            "offset": "0x24160"
+        },
+        "ImStricmp": {
+            "offset": "0x24190"
+        },
+        "ImStristr": {
+            "offset": "0x24210"
+        },
+        "ImStrlenW": {
+            "offset": "0x242E0"
+        },
+        "ImStrncpy": {
+            "offset": "0x24300"
+        },
+        "ImStrnicmp": {
+            "offset": "0x24340"
+        },
+        "ImTextCharFromUtf8": {
+            "offset": "0x243C0"
+        },
+        "ImTextCharToUtf8": {
+            "offset": "0x24570"
+        },
+        "ImTextCountCharsFromUtf8": {
+            "offset": "0x24630"
+        },
+        "ImTextCountUtf8BytesFromChar": {
+            "offset": "0x24840"
+        },
+        "ImTextCountUtf8BytesFromStr": {
+            "offset": "0x24870"
+        },
+        "ImTextStrFromUtf8": {
+            "offset": "0x248C0"
+        },
+        "ImTextStrToUtf8": {
+            "offset": "0x24B10"
+        },
+        "ImTriangleBarycentricCoords": {
+            "offset": "0x24BE0"
+        },
+        "ImTriangleClosestPoint": {
+            "offset": "0x24CB0"
+        },
+        "ImTriangleContainsPoint": {
+            "offset": "0x24F60"
+        },
+        "InputTextFilterCharacter": {
+            "offset": "0x87670"
+        },
+        "Ins_DELTAP": {
+            "offset": "0xAA080"
+        },
+        "Ins_FDEF": {
+            "offset": "0xAA1E0"
+        },
+        "Ins_Goto_CodeRange": {
+            "offset": "0xAA380"
+        },
+        "Ins_IP": {
+            "offset": "0xAA3F0"
+        },
+        "Ins_ISECT": {
+            "offset": "0xAA6C0"
+        },
+        "Ins_IUP": {
+            "offset": "0xAA9A0"
+        },
+        "Ins_MDRP": {
+            "offset": "0xAAC20"
+        },
+        "Ins_MIRP": {
+            "offset": "0xAAE40"
+        },
+        "Ins_SDPVTL": {
+            "offset": "0xAB0B0"
+        },
+        "Ins_SHC": {
+            "offset": "0xAB260"
+        },
+        "Ins_SHP": {
+            "offset": "0xAB4D0"
+        },
+        "Ins_SHPIX": {
+            "offset": "0xAB6D0"
+        },
+        "Ins_SHZ": {
+            "offset": "0xAB990"
+        },
+        "Ins_SxVTL": {
+            "offset": "0xABBB0"
+        },
+        "Ins_UNKNOWN": {
+            "offset": "0xABC90"
+        },
+        "Insert_Y_Turn": {
+            "offset": "0xF3F20"
+        },
+        "IsMacResource": {
+            "offset": "0x9B6E0"
+        },
+        "IsRootOfOpenMenuSet": {
+            "offset": "0x87B10"
+        },
+        "IsWindowContentHoverable": {
+            "offset": "0x25F70"
+        },
+        "Items_ArrayGetter": {
+            "offset": "0x87B60"
+        },
+        "Items_SingleStringGetter": {
+            "offset": "0x87B80"
+        },
+        "Line_To": {
+            "offset": "0xF3FB0"
+        },
+        "Line_Up": {
+            "offset": "0xF4170"
+        },
+        "LogTextV": {
+            "offset": "0x27160"
+        },
+        "Mac_Read_POST_Resource": {
+            "offset": "0x9B9B0"
+        },
+        "MallocWrapper": {
+            "offset": "0x1000"
+        },
+        "MetricsHelpMarker": {
+            "offset": "0x27640"
+        },
+        "Modify_CVT_Check": {
+            "offset": "0xABDC0"
+        },
+        "Move_CVT": {
+            "offset": "0xABE60"
+        },
+        "Move_CVT_Stretched": {
+            "offset": "0xABEA0"
+        },
+        "NavUpdateWindowingHighlightWindow": {
+            "offset": "0x2B670"
+        },
+        "New_Profile": {
+            "offset": "0xF4330"
+        },
+        "PCF_Face_Done": {
+            "offset": "0xCCB30"
+        },
+        "PCF_Face_Init": {
+            "offset": "0xCCCC0"
+        },
+        "PCF_Glyph_Load": {
+            "offset": "0xCCFC0"
+        },
+        "PCF_Size_Request": {
+            "offset": "0xCCEE0"
+        },
+        "PCF_Size_Select": {
+            "offset": "0xCCE90"
+        },
+        "PS_Conv_Strtol": {
+            "offset": "0xD6100"
+        },
+        "PS_Conv_ToFixed": {
+            "offset": "0xD6220"
+        },
+        "PS_Conv_ToInt": {
+            "offset": "0xD64A0"
+        },
+        "PatchFormatStringFloatToInt": {
+            "offset": "0x88750"
+        },
+        "PathBezierCubicCurveToCasteljau": {
+            "offset": "0x61720"
+        },
+        "PathBezierQuadraticCurveToCasteljau": {
+            "offset": "0x61C40"
+        },
+        "Plot_ArrayGetter": {
+            "offset": "0x89250"
+        },
+        "Project": {
+            "offset": "0xABEF0"
+        },
+        "Project_x": {
+            "offset": "0xABFA0"
+        },
+        "Project_y": {
+            "offset": "0xABFB0"
+        },
+        "PushStyleCompact": {
+            "offset": "0x407D0"
+        },
+        "Read_CVT": {
+            "offset": "0xABFC0"
+        },
+        "Read_CVT_Stretched": {
+            "offset": "0xABFD0"
+        },
+        "RenderArrowsForVerticalBar": {
+            "offset": "0x899C0"
+        },
+        "RenderViewportsThumbnails": {
+            "offset": "0x308B0"
+        },
+        "Render_Glyph": {
+            "offset": "0xF4420"
+        },
+        "Render_Single_Pass": {
+            "offset": "0xF45A0"
+        },
+        "Round_Down_To_Grid": {
+            "offset": "0xAC000"
+        },
+        "Round_None": {
+            "offset": "0xAC030"
+        },
+        "Round_Super": {
+            "offset": "0xAC060"
+        },
+        "Round_Super_45": {
+            "offset": "0xAC0C0"
+        },
+        "Round_To_Double_Grid": {
+            "offset": "0xAC130"
+        },
+        "Round_To_Grid": {
+            "offset": "0xAC170"
+        },
+        "Round_To_Half_Grid": {
+            "offset": "0xAC1B0"
+        },
+        "Round_Up_To_Grid": {
+            "offset": "0xAC1F0"
+        },
+        "ScaleWindow": {
+            "offset": "0x32510"
+        },
+        "SetClipboardTextFn_DefaultImpl": {
+            "offset": "0x32D40"
+        },
+        "SetPlatformImeDataFn_DefaultImpl": {
+            "offset": "0x33920"
+        },
+        "ShowDemoWindowColumns": {
+            "offset": "0x42640"
+        },
+        "ShowDemoWindowLayout": {
+            "offset": "0x43010"
+        },
+        "ShowDemoWindowMisc": {
+            "offset": "0x45C00"
+        },
+        "ShowDemoWindowPopups": {
+            "offset": "0x470C0"
+        },
+        "ShowDemoWindowTables": {
+            "offset": "0x47C80"
+        },
+        "ShowDemoWindowWidgets": {
+            "offset": "0x4D910"
+        },
+        "ShowExampleAppConstrainedResize": {
+            "offset": "0x54C50"
+        },
+        "ShowExampleAppCustomRendering": {
+            "offset": "0x55060"
+        },
+        "ShowExampleAppDockSpace": {
+            "offset": "0x566E0"
+        },
+        "ShowExampleAppDocuments": {
+            "offset": "0x56A20"
+        },
+        "ShowExampleAppLayout": {
+            "offset": "0x57660"
+        },
+        "ShowExampleAppLog": {
+            "offset": "0x578E0"
+        },
+        "ShowExampleAppLongText": {
+            "offset": "0x57B90"
+        },
+        "ShowExampleAppSimpleOverlay": {
+            "offset": "0x57EA0"
+        },
+        "ShowExampleMenuFile": {
+            "offset": "0x58150"
+        },
+        "ShowPlaceholderObject": {
+            "offset": "0x58740"
+        },
+        "ShrinkWidthItemComparer": {
+            "offset": "0x8B0E0"
+        },
+        "SkipCode": {
+            "offset": "0xAC230"
+        },
+        "Split_Conic": {
+            "offset": "0xF4690"
+        },
+        "Split_Cubic": {
+            "offset": "0xF46F0"
+        },
+        "StartLockWheelingWindow": {
+            "offset": "0x38200"
+        },
+        "T1_Done_Blend": {
+            "offset": "0xB91B0"
+        },
+        "T1_Done_Metrics": {
+            "offset": "0xBB920"
+        },
+        "T1_Driver_Done": {
+            "offset": "0x50B0"
+        },
+        "T1_Driver_Init": {
+            "offset": "0xB7CF0"
+        },
+        "T1_Face_Done": {
+            "offset": "0xB7A70"
+        },
+        "T1_Face_Init": {
+            "offset": "0xB7530"
+        },
+        "T1_Get_Advances": {
+            "offset": "0xB80D0"
+        },
+        "T1_Get_MM_Blend": {
+            "offset": "0xB8C00"
+        },
+        "T1_Get_MM_Var": {
+            "offset": "0xB87C0"
+        },
+        "T1_Get_Multi_Master": {
+            "offset": "0xB8750"
+        },
+        "T1_Get_Private_Dict": {
+            "offset": "0xBB980"
+        },
+        "T1_Get_Track_Kerning": {
+            "offset": "0xB8000"
+        },
+        "T1_Get_Var_Design": {
+            "offset": "0xB8EC0"
+        },
+        "T1_GlyphSlot_Done": {
+            "offset": "0xB7CE0"
+        },
+        "T1_GlyphSlot_Init": {
+            "offset": "0xB7C80"
+        },
+        "T1_Load_Glyph": {
+            "offset": "0xB82C0"
+        },
+        "T1_New_Parser": {
+            "offset": "0xBBE30"
+        },
+        "T1_Open_Face": {
+            "offset": "0xBC050"
+        },
+        "T1_Parse_Glyph": {
+            "offset": "0xBC600"
+        },
+        "T1_Parse_Glyph_And_Get_Char_String": {
+            "offset": "0xBC660"
+        },
+        "T1_Read_Metrics": {
+            "offset": "0xB7D80"
+        },
+        "T1_Read_PFM": {
+            "offset": "0xBC850"
+        },
+        "T1_Reset_MM_Blend": {
+            "offset": "0xB8E90"
+        },
+        "T1_Set_MM_Blend": {
+            "offset": "0xB8BC0"
+        },
+        "T1_Set_MM_Design": {
+            "offset": "0xB8CB0"
+        },
+        "T1_Set_Var_Design": {
+            "offset": "0xB8FD0"
+        },
+        "T1_Size_Done": {
+            "offset": "0xB7380"
+        },
+        "T1_Size_Init": {
+            "offset": "0xB74A0"
+        },
+        "T1_Size_Request": {
+            "offset": "0xB7400"
+        },
+        "T42_Driver_Done": {
+            "offset": "0x50B0"
+        },
+        "T42_Driver_Init": {
+            "offset": "0xCA220"
+        },
+        "T42_Face_Done": {
+            "offset": "0xC9C60"
+        },
+        "T42_Face_Init": {
+            "offset": "0xC9900"
+        },
+        "T42_Get_Interface": {
+            "offset": "0xCA310"
+        },
+        "T42_GlyphSlot_Done": {
+            "offset": "0xCA200"
+        },
+        "T42_GlyphSlot_Init": {
+            "offset": "0xC9F70"
+        },
+        "T42_GlyphSlot_Load": {
+            "offset": "0xCA030"
+        },
+        "T42_Open_Face": {
+            "offset": "0xCB180"
+        },
+        "T42_Size_Done": {
+            "offset": "0xC9F30"
+        },
+        "T42_Size_Init": {
+            "offset": "0xC9E00"
+        },
+        "T42_Size_Request": {
+            "offset": "0xC9E50"
+        },
+        "T42_Size_Select": {
+            "offset": "0xC9EC0"
+        },
+        "TT_Access_Glyph_Frame": {
+            "offset": "0xAC2C0"
+        },
+        "TT_Done_Context": {
+            "offset": "0xAC320"
+        },
+        "TT_Forget_Glyph_Frame": {
+            "offset": "0xAC3F0"
+        },
+        "TT_Get_MM_Blend": {
+            "offset": "0xA8670"
+        },
+        "TT_Get_MM_Var": {
+            "offset": "0xA8960"
+        },
+        "TT_Get_Var_Design": {
+            "offset": "0xA9050"
+        },
+        "TT_Hint_Glyph": {
+            "offset": "0xAC400"
+        },
+        "TT_Load_Composite_Glyph": {
+            "offset": "0xAC7E0"
+        },
+        "TT_Load_Context": {
+            "offset": "0xACA80"
+        },
+        "TT_Load_Glyph": {
+            "offset": "0xACE30"
+        },
+        "TT_Load_Glyph_Header": {
+            "offset": "0xAD4F0"
+        },
+        "TT_Load_Simple_Glyph": {
+            "offset": "0xAD590"
+        },
+        "TT_MulFix14": {
+            "offset": "0xADA10"
+        },
+        "TT_Process_Composite_Component": {
+            "offset": "0xADA70"
+        },
+        "TT_Process_Composite_Glyph": {
+            "offset": "0xADC00"
+        },
+        "TT_Process_Simple_Glyph": {
+            "offset": "0xADEE0"
+        },
+        "TT_RunIns": {
+            "offset": "0xAE2C0"
+        },
+        "TT_Set_MM_Blend": {
+            "offset": "0xA8630"
+        },
+        "TT_Set_Named_Instance": {
+            "offset": "0xA9140"
+        },
+        "TT_Set_Var_Design": {
+            "offset": "0xA8760"
+        },
+        "TT_Vary_Apply_Glyph_Deltas": {
+            "offset": "0xB0EB0"
+        },
+        "TabItemComparerByBeginOrder": {
+            "offset": "0x8E270"
+        },
+        "TabItemComparerByDockOrder": {
+            "offset": "0x38A00"
+        },
+        "TabItemComparerBySection": {
+            "offset": "0x8E280"
+        },
+        "TableSettingsHandler_ApplyAll": {
+            "offset": "0x701F0"
+        },
+        "TableSettingsHandler_ClearAll": {
+            "offset": "0x70240"
+        },
+        "TableSettingsHandler_ReadLine": {
+            "offset": "0x702D0"
+        },
+        "TableSettingsHandler_ReadOpen": {
+            "offset": "0x70520"
+        },
+        "TableSettingsHandler_WriteAll": {
+            "offset": "0x70730"
+        },
+        "TableSetupColumnFlags": {
+            "offset": "0x70BA0"
+        },
+        "UpdateWindowInFocusOrderList": {
+            "offset": "0x3B810"
+        },
+        "Update_Max": {
+            "offset": "0xB18E0"
+        },
+        "Vertical_Sweep_Drop": {
+            "offset": "0xF4790"
+        },
+        "Vertical_Sweep_Init": {
+            "offset": "0xF4950"
+        },
+        "Vertical_Sweep_Span": {
+            "offset": "0xF4970"
+        },
+        "Vertical_Sweep_Step": {
+            "offset": "0xF4A60"
+        },
+        "ViewportComparerByFrontMostStampCount": {
+            "offset": "0x3C5A0"
+        },
+        "WindowSettingsHandler_ApplyAll": {
+            "offset": "0x3CB20"
+        },
+        "WindowSettingsHandler_ClearAll": {
+            "offset": "0x3CC10"
+        },
+        "WindowSettingsHandler_ReadLine": {
+            "offset": "0x3CCA0"
+        },
+        "WindowSettingsHandler_ReadOpen": {
+            "offset": "0x3CE80"
+        },
+        "WindowSettingsHandler_WriteAll": {
+            "offset": "0x3CEC0"
+        },
+        "Write_CVT": {
+            "offset": "0xB1950"
+        },
+        "Write_CVT_Stretched": {
+            "offset": "0xB1990"
+        },
+        "_DllMainCRTStartup": {
+            "offset": "0xFF28C"
+        },
+        "_Init_thread_abort": {
+            "offset": "0xFEA94"
+        },
+        "_Init_thread_footer": {
+            "offset": "0xFEAC4"
+        },
+        "_Init_thread_header": {
+            "offset": "0xFEB24"
+        },
+        "_Init_thread_notify": {
+            "offset": "0xFEB8C"
+        },
+        "_Init_thread_wait": {
+            "offset": "0xFEBD0"
+        },
+        "_RTC_Initialize": {
+            "offset": "0xFF7D8"
+        },
+        "_RTC_Terminate": {
+            "offset": "0xFF814"
+        },
+        "__ArrayUnwind": {
+            "offset": "0xFE5B8"
+        },
+        "__GSHandlerCheck": {
+            "offset": "0xFEC34"
+        },
+        "__GSHandlerCheckCommon": {
+            "offset": "0xFEC54"
+        },
+        "__GSHandlerCheck_EH": {
+            "offset": "0xFECB0"
+        },
+        "__chkstk": {
+            "offset": "0xFED70"
+        },
+        "__crt_debugger_hook": {
+            "offset": "0xFF574"
+        },
+        "__isa_available_init": {
+            "offset": "0xFEDC0"
+        },
+        "__local_stdio_printf_options": {
+            "offset": "0x3E870"
+        },
+        "__local_stdio_scanf_options": {
+            "offset": "0x3E880"
+        },
+        "__raise_securityfailure": {
+            "offset": "0xFF2CC"
+        },
+        "__report_gsfailure": {
+            "offset": "0xFF300"
+        },
+        "__report_rangecheckfailure": {
+            "offset": "0xFF3D4"
+        },
+        "__report_securityfailure": {
+            "offset": "0xFF3E8"
+        },
+        "__scrt_acquire_startup_lock": {
+            "offset": "0xFE61C"
+        },
+        "__scrt_dllmain_after_initialize_c": {
+            "offset": "0xFE658"
+        },
+        "__scrt_dllmain_before_initialize_c": {
+            "offset": "0xFE68C"
+        },
+        "__scrt_dllmain_crt_thread_attach": {
+            "offset": "0xFE6A4"
+        },
+        "__scrt_dllmain_crt_thread_detach": {
+            "offset": "0xFE6CC"
+        },
+        "__scrt_dllmain_exception_filter": {
+            "offset": "0xFE6E4"
+        },
+        "__scrt_dllmain_uninitialize_c": {
+            "offset": "0xFE744"
+        },
+        "__scrt_dllmain_uninitialize_critical": {
+            "offset": "0xFE774"
+        },
+        "__scrt_fastfail": {
+            "offset": "0xFF57C"
+        },
+        "__scrt_get_dyn_tls_init_callback": {
+            "offset": "0xFF7D0"
+        },
+        "__scrt_initialize_crt": {
+            "offset": "0xFE788"
+        },
+        "__scrt_initialize_default_local_stdio_options": {
+            "offset": "0xFF7B4"
+        },
+        "__scrt_initialize_onexit_tables": {
+            "offset": "0xFE7D4"
+        },
+        "__scrt_initialize_thread_safe_statics": {
+            "offset": "0xFE99C"
+        },
+        "__scrt_initialize_type_info": {
+            "offset": "0xFF798"
+        },
+        "__scrt_is_nonwritable_in_current_image": {
+            "offset": "0xFE860"
+        },
+        "__scrt_is_nonwritable_in_current_image$filt$0": {
+            "offset": "0x100563"
+        },
+        "__scrt_is_ucrt_dll_in_use": {
+            "offset": "0xFF568"
+        },
+        "__scrt_release_startup_lock": {
+            "offset": "0xFE8F8"
+        },
+        "__scrt_stub_for_acrt_initialize": {
+            "offset": "0xFF940"
+        },
+        "__scrt_stub_for_acrt_thread_attach": {
+            "offset": "0xFF940"
+        },
+        "__scrt_stub_for_acrt_thread_detach": {
+            "offset": "0xFF940"
+        },
+        "__scrt_stub_for_acrt_uninitialize": {
+            "offset": "0xFF940"
+        },
+        "__scrt_stub_for_acrt_uninitialize_critical": {
+            "offset": "0xFF940"
+        },
+        "__scrt_stub_for_is_c_termination_complete": {
+            "offset": "0xCD310"
+        },
+        "__scrt_uninitialize_crt": {
+            "offset": "0xFE91C"
+        },
+        "__scrt_uninitialize_thread_safe_statics": {
+            "offset": "0xFEA6C"
+        },
+        "__scrt_uninitialize_type_info": {
+            "offset": "0xFF7A8"
+        },
+        "__security_check_cookie": {
+            "offset": "0xFED40"
+        },
+        "__security_init_cookie": {
+            "offset": "0xFF6C8"
+        },
+        "_bdf_add_comment": {
+            "offset": "0xCF820"
+        },
+        "_bdf_add_property": {
+            "offset": "0xCF8C0"
+        },
+        "_bdf_atol": {
+            "offset": "0xCFD90"
+        },
+        "_bdf_atos": {
+            "offset": "0xCFE50"
+        },
+        "_bdf_atoul": {
+            "offset": "0xCFF30"
+        },
+        "_bdf_atous": {
+            "offset": "0xCFFC0"
+        },
+        "_bdf_is_atom": {
+            "offset": "0xD0060"
+        },
+        "_bdf_list_ensure": {
+            "offset": "0xD01D0"
+        },
+        "_bdf_list_split": {
+            "offset": "0xD0270"
+        },
+        "_bdf_parse_end": {
+            "offset": "0xCD310"
+        },
+        "_bdf_parse_glyphs": {
+            "offset": "0xD04C0"
+        },
+        "_bdf_parse_properties": {
+            "offset": "0xD0F50"
+        },
+        "_bdf_parse_start": {
+            "offset": "0xD12A0"
+        },
+        "_bdf_readstream": {
+            "offset": "0xD1BD0"
+        },
+        "_ft_face_scale_advances": {
+            "offset": "0x9BF50"
+        },
+        "_get_startup_argv_mode": {
+            "offset": "0xB95F0"
+        },
+        "_guard_check_icall_nop": {
+            "offset": "0x50B0"
+        },
+        "_guard_dispatch_icall_nop": {
+            "offset": "0xFF960"
+        },
+        "_guard_xfg_dispatch_icall_nop": {
+            "offset": "0xFF980"
+        },
+        "_iup_worker_interpolate": {
+            "offset": "0xB19E0"
+        },
+        "_onexit": {
+            "offset": "0xFE948"
+        },
+        "_snprintf": {
+            "offset": "0x5A500"
+        },
+        "`ImGui::ShowMetricsWindow'::`2'::Funcs::GetTableRect": {
+            "offset": "0x22470"
+        },
+        "`ImGui::ShowMetricsWindow'::`2'::Funcs::GetWindowRect": {
+            "offset": "0x22C10"
+        },
+        "`ImGui::ShowMetricsWindow'::`56'::Func::WindowComparerByBeginOrder": {
+            "offset": "0x3C5B0"
+        },
+        "`ImGuiStorage::BuildSortByKey'::`2'::StaticFunc::PairComparerByID": {
+            "offset": "0x2CCE0"
+        },
+        "`ShowDemoWindowTables'::`398'::MyTreeNode::DisplayNode": {
+            "offset": "0x3F4F0"
+        },
+        "`ShowDemoWindowWidgets'::`264'::Funcs::ItemGetter": {
+            "offset": "0x40630"
+        },
+        "`ShowDemoWindowWidgets'::`434'::TextFilters::FilterImGuiLetters": {
+            "offset": "0x40590"
+        },
+        "`ShowDemoWindowWidgets'::`444'::Funcs::MyCallback": {
+            "offset": "0x40640"
+        },
+        "`ShowDemoWindowWidgets'::`451'::Funcs::MyResizeCallback": {
+            "offset": "0x40720"
+        },
+        "`ShowDemoWindowWidgets'::`549'::Funcs::Saw": {
+            "offset": "0x40860"
+        },
+        "`ShowDemoWindowWidgets'::`549'::Funcs::Sin": {
+            "offset": "0x59FA0"
+        },
+        "`ShowExampleAppConstrainedResize'::`2'::CustomConstraints::Square": {
+            "offset": "0x59FC0"
+        },
+        "`ShowExampleAppConstrainedResize'::`2'::CustomConstraints::Step": {
+            "offset": "0x59FE0"
+        },
+        "`__ArrayUnwind'::`1'::filt$0": {
+            "offset": "0x100504"
+        },
+        "`anonymous namespace'::FreeTypeFont::BlitGlyph": {
+            "offset": "0x92C40"
+        },
+        "`anonymous namespace'::FreeTypeFont::InitFont": {
+            "offset": "0x94790"
+        },
+        "`anonymous namespace'::MyItem::CompareWithSortSpecs": {
+            "offset": "0x3F400"
+        },
+        "`dllmain_crt_process_attach'::`1'::fin$0": {
+            "offset": "0x10057B"
+        },
+        "`dllmain_crt_process_detach'::`1'::fin$0": {
+            "offset": "0x100592"
+        },
+        "`dllmain_crt_process_detach'::`1'::fin$1": {
+            "offset": "0x1005AB"
+        },
+        "`dllmain_dispatch'::`1'::filt$0": {
+            "offset": "0x1005BF"
+        },
+        "adler32_z": {
+            "offset": "0xFA400"
+        },
+        "af_autofitter_done": {
+            "offset": "0x50B0"
+        },
+        "af_autofitter_init": {
+            "offset": "0xA06F0"
+        },
+        "af_autofitter_load_glyph": {
+            "offset": "0xA0740"
+        },
+        "af_axis_hints_new_edge": {
+            "offset": "0xA0840"
+        },
+        "af_cjk_align_edge_points": {
+            "offset": "0xA0AC0"
+        },
+        "af_cjk_compute_stem_width": {
+            "offset": "0xA0BF0"
+        },
+        "af_cjk_get_standard_widths": {
+            "offset": "0x9FD80"
+        },
+        "af_cjk_hint_edges": {
+            "offset": "0xA0DB0"
+        },
+        "af_cjk_hints_apply": {
+            "offset": "0x9FC30"
+        },
+        "af_cjk_hints_compute_blue_edges": {
+            "offset": "0xA12A0"
+        },
+        "af_cjk_hints_compute_edges": {
+            "offset": "0xA1430"
+        },
+        "af_cjk_hints_detect_features": {
+            "offset": "0xA1A20"
+        },
+        "af_cjk_hints_init": {
+            "offset": "0x9FBA0"
+        },
+        "af_cjk_hints_link_segments": {
+            "offset": "0xA1AF0"
+        },
+        "af_cjk_metrics_check_digits": {
+            "offset": "0xA1E00"
+        },
+        "af_cjk_metrics_init": {
+            "offset": "0x9FAD0"
+        },
+        "af_cjk_metrics_init_blues": {
+            "offset": "0xA1EF0"
+        },
+        "af_cjk_metrics_init_widths": {
+            "offset": "0xA23E0"
+        },
+        "af_cjk_metrics_scale": {
+            "offset": "0x9FB50"
+        },
+        "af_cjk_metrics_scale_dim": {
+            "offset": "0xA27B0"
+        },
+        "af_dummy_hints_apply": {
+            "offset": "0x9FDD0"
+        },
+        "af_dummy_hints_init": {
+            "offset": "0x9FDA0"
+        },
+        "af_face_globals_compute_style_coverage": {
+            "offset": "0xA2930"
+        },
+        "af_face_globals_free": {
+            "offset": "0xA2C20"
+        },
+        "af_face_globals_new": {
+            "offset": "0xA2CE0"
+        },
+        "af_get_interface": {
+            "offset": "0xA06E0"
+        },
+        "af_glyph_hints_align_strong_points": {
+            "offset": "0xA2DB0"
+        },
+        "af_glyph_hints_align_weak_points": {
+            "offset": "0xA2FC0"
+        },
+        "af_glyph_hints_done": {
+            "offset": "0xA3280"
+        },
+        "af_glyph_hints_reload": {
+            "offset": "0xA3370"
+        },
+        "af_hint_normal_stem": {
+            "offset": "0xA3B00"
+        },
+        "af_indic_get_standard_widths": {
+            "offset": "0x9FD80"
+        },
+        "af_indic_hints_apply": {
+            "offset": "0x9FC30"
+        },
+        "af_indic_hints_init": {
+            "offset": "0x9FBA0"
+        },
+        "af_indic_metrics_init": {
+            "offset": "0x9FE60"
+        },
+        "af_indic_metrics_scale": {
+            "offset": "0x9FB50"
+        },
+        "af_iup_interp": {
+            "offset": "0xA3CD0"
+        },
+        "af_latin_compute_stem_width": {
+            "offset": "0xA3E10"
+        },
+        "af_latin_get_standard_widths": {
+            "offset": "0x9FEE0"
+        },
+        "af_latin_hint_edges": {
+            "offset": "0xA4170"
+        },
+        "af_latin_hints_apply": {
+            "offset": "0x9FFB0"
+        },
+        "af_latin_hints_compute_blue_edges": {
+            "offset": "0xA4940"
+        },
+        "af_latin_hints_compute_edges": {
+            "offset": "0xA4B00"
+        },
+        "af_latin_hints_compute_segments": {
+            "offset": "0xA4F50"
+        },
+        "af_latin_hints_init": {
+            "offset": "0x9FF00"
+        },
+        "af_latin_hints_link_segments": {
+            "offset": "0xA58A0"
+        },
+        "af_latin_metrics_init": {
+            "offset": "0x9F910"
+        },
+        "af_latin_metrics_init_blues": {
+            "offset": "0xA5AB0"
+        },
+        "af_latin_metrics_init_widths": {
+            "offset": "0xA6660"
+        },
+        "af_latin_metrics_scale": {
+            "offset": "0x9FA80"
+        },
+        "af_latin_metrics_scale_dim": {
+            "offset": "0xA6A40"
+        },
+        "af_loader_compute_darkening": {
+            "offset": "0xA6D70"
+        },
+        "af_loader_embolden_glyph_in_slot": {
+            "offset": "0xA6F90"
+        },
+        "af_loader_load_glyph": {
+            "offset": "0xA7170"
+        },
+        "af_property_get": {
+            "offset": "0xA0510"
+        },
+        "af_property_set": {
+            "offset": "0xA0250"
+        },
+        "af_shaper_get_cluster": {
+            "offset": "0xA77C0"
+        },
+        "af_sort_and_quantize_widths": {
+            "offset": "0xA7910"
+        },
+        "afm_compare_kern_pairs": {
+            "offset": "0xBCB90"
+        },
+        "afm_parse_kern_pairs": {
+            "offset": "0xD6530"
+        },
+        "afm_parse_track_kern": {
+            "offset": "0xD67C0"
+        },
+        "afm_parser_done": {
+            "offset": "0xD2AD0"
+        },
+        "afm_parser_init": {
+            "offset": "0xD2A50"
+        },
+        "afm_parser_parse": {
+            "offset": "0xD2B00"
+        },
+        "afm_parser_read_vals": {
+            "offset": "0xD69D0"
+        },
+        "afm_stream_read_one": {
+            "offset": "0xD6CE0"
+        },
+        "afm_stream_read_string": {
+            "offset": "0xD6D60"
+        },
+        "afm_stream_skip_spaces": {
+            "offset": "0xD6DD0"
+        },
+        "afm_tokenize": {
+            "offset": "0xD6E40"
+        },
+        "atexit": {
+            "offset": "0xFE984"
+        },
+        "bdf_cmap_char_index": {
+            "offset": "0xCEA90"
+        },
+        "bdf_cmap_char_next": {
+            "offset": "0xCEB10"
+        },
+        "bdf_cmap_done": {
+            "offset": "0xC7260"
+        },
+        "bdf_cmap_init": {
+            "offset": "0xCEA70"
+        },
+        "bdf_driver_requester": {
+            "offset": "0xCF810"
+        },
+        "bdf_free_font": {
+            "offset": "0xD1F00"
+        },
+        "bdf_get_bdf_property": {
+            "offset": "0xCF720"
+        },
+        "bdf_get_charset_id": {
+            "offset": "0xCF7F0"
+        },
+        "bdf_interpret_style": {
+            "offset": "0xD20D0"
+        },
+        "bdf_load_font": {
+            "offset": "0xD24D0"
+        },
+        "bsdf_init_distance_map": {
+            "offset": "0xF6620"
+        },
+        "bsdf_is_edge": {
+            "offset": "0xF68B0"
+        },
+        "bsdf_raster_done": {
+            "offset": "0xF0BD0"
+        },
+        "bsdf_raster_new": {
+            "offset": "0xF0B80"
+        },
+        "bsdf_raster_render": {
+            "offset": "0xF5100"
+        },
+        "bsdf_raster_reset": {
+            "offset": "0x50B0"
+        },
+        "bsdf_raster_set_mode": {
+            "offset": "0xCD310"
+        },
+        "by_encoding": {
+            "offset": "0xD2700"
+        },
+        "capture_current_context": {
+            "offset": "0xFF484"
+        },
+        "capture_previous_context": {
+            "offset": "0xFF4F4"
+        },
+        "cf2_arrstack_setNumElements": {
+            "offset": "0xD6EE0"
+        },
+        "cf2_blues_init": {
+            "offset": "0xD6FC0"
+        },
+        "cf2_builder_cubeTo": {
+            "offset": "0xD74A0"
+        },
+        "cf2_builder_lineTo": {
+            "offset": "0xD75E0"
+        },
+        "cf2_builder_moveTo": {
+            "offset": "0xD7640"
+        },
+        "cf2_computeDarkening": {
+            "offset": "0xD7660"
+        },
+        "cf2_decoder_parse_charstrings": {
+            "offset": "0xD5A30"
+        },
+        "cf2_doBlend": {
+            "offset": "0xD78A0"
+        },
+        "cf2_doFlex": {
+            "offset": "0xD7AA0"
+        },
+        "cf2_doStems": {
+            "offset": "0xD7E00"
+        },
+        "cf2_font_setup": {
+            "offset": "0xD8030"
+        },
+        "cf2_free_instance": {
+            "offset": "0xD83A0"
+        },
+        "cf2_getSeacComponent": {
+            "offset": "0xD83F0"
+        },
+        "cf2_getT1SeacComponent": {
+            "offset": "0xD84D0"
+        },
+        "cf2_glyphpath_closeOpenPath": {
+            "offset": "0xD8550"
+        },
+        "cf2_glyphpath_computeIntersection": {
+            "offset": "0xD85C0"
+        },
+        "cf2_glyphpath_computeOffset": {
+            "offset": "0xD87C0"
+        },
+        "cf2_glyphpath_curveTo": {
+            "offset": "0xD8970"
+        },
+        "cf2_glyphpath_hintPoint": {
+            "offset": "0xD8B80"
+        },
+        "cf2_glyphpath_lineTo": {
+            "offset": "0xD8C50"
+        },
+        "cf2_glyphpath_moveTo": {
+            "offset": "0xD8E00"
+        },
+        "cf2_glyphpath_pushMove": {
+            "offset": "0xD8EB0"
+        },
+        "cf2_glyphpath_pushPrevElem": {
+            "offset": "0xD8F60"
+        },
+        "cf2_hintmap_adjustHints": {
+            "offset": "0xD91A0"
+        },
+        "cf2_hintmap_build": {
+            "offset": "0xD9450"
+        },
+        "cf2_hintmap_insertHint": {
+            "offset": "0xD9D00"
+        },
+        "cf2_hintmap_map": {
+            "offset": "0xD9F10"
+        },
+        "cf2_interpT2CharString": {
+            "offset": "0xD9FE0"
+        },
+        "cf2_stack_getReal": {
+            "offset": "0xDEEF0"
+        },
+        "cf2_stack_popFixed": {
+            "offset": "0xDEF50"
+        },
+        "cf2_stack_popInt": {
+            "offset": "0xDEFA0"
+        },
+        "cf2_stack_pushFixed": {
+            "offset": "0xDEFF0"
+        },
+        "cf2_stack_setReal": {
+            "offset": "0xDF030"
+        },
+        "cff_blend_doBlend": {
+            "offset": "0xC05D0"
+        },
+        "cff_builder_add_contour": {
+            "offset": "0xD4D40"
+        },
+        "cff_builder_add_point": {
+            "offset": "0xD4B30"
+        },
+        "cff_builder_add_point1": {
+            "offset": "0xD4B80"
+        },
+        "cff_builder_close_contour": {
+            "offset": "0xD4960"
+        },
+        "cff_builder_done": {
+            "offset": "0xD45F0"
+        },
+        "cff_builder_init": {
+            "offset": "0xD4A40"
+        },
+        "cff_builder_start_point": {
+            "offset": "0xD4C10"
+        },
+        "cff_charset_compute_cids": {
+            "offset": "0xC08E0"
+        },
+        "cff_charset_load": {
+            "offset": "0xC09C0"
+        },
+        "cff_check_points": {
+            "offset": "0xD4620"
+        },
+        "cff_cmap_encoding_char_index": {
+            "offset": "0xBE120"
+        },
+        "cff_cmap_encoding_char_next": {
+            "offset": "0xBE140"
+        },
+        "cff_cmap_encoding_done": {
+            "offset": "0xBE110"
+        },
+        "cff_cmap_encoding_init": {
+            "offset": "0xBE0F0"
+        },
+        "cff_cmap_unicode_char_index": {
+            "offset": "0xBE220"
+        },
+        "cff_cmap_unicode_char_next": {
+            "offset": "0xBE240"
+        },
+        "cff_cmap_unicode_done": {
+            "offset": "0xBE1F0"
+        },
+        "cff_cmap_unicode_init": {
+            "offset": "0xBE180"
+        },
+        "cff_decoder_init": {
+            "offset": "0xD5E50"
+        },
+        "cff_decoder_prepare": {
+            "offset": "0xD5FE0"
+        },
+        "cff_done_blend": {
+            "offset": "0xBE0D0"
+        },
+        "cff_driver_done": {
+            "offset": "0x50B0"
+        },
+        "cff_driver_init": {
+            "offset": "0xB7CF0"
+        },
+        "cff_encoding_load": {
+            "offset": "0xC0CC0"
+        },
+        "cff_face_done": {
+            "offset": "0xBF410"
+        },
+        "cff_face_init": {
+            "offset": "0xBE990"
+        },
+        "cff_fd_select_get": {
+            "offset": "0xBDD40"
+        },
+        "cff_font_done": {
+            "offset": "0xC1100"
+        },
+        "cff_font_load": {
+            "offset": "0xC13D0"
+        },
+        "cff_free_glyph_data": {
+            "offset": "0xC1AB0"
+        },
+        "cff_get_advances": {
+            "offset": "0xBF4E0"
+        },
+        "cff_get_cid_from_glyph_index": {
+            "offset": "0xBFEF0"
+        },
+        "cff_get_cmap_info": {
+            "offset": "0xBFD60"
+        },
+        "cff_get_glyph_data": {
+            "offset": "0xC1B10"
+        },
+        "cff_get_glyph_name": {
+            "offset": "0xBF6D0"
+        },
+        "cff_get_interface": {
+            "offset": "0xBFFD0"
+        },
+        "cff_get_is_cid": {
+            "offset": "0xBFEC0"
+        },
+        "cff_get_kerning": {
+            "offset": "0xA9700"
+        },
+        "cff_get_mm_blend": {
+            "offset": "0xBFF40"
+        },
+        "cff_get_mm_var": {
+            "offset": "0xBFF70"
+        },
+        "cff_get_name_index": {
+            "offset": "0xBF7C0"
+        },
+        "cff_get_ps_name": {
+            "offset": "0xBFCE0"
+        },
+        "cff_get_ros": {
+            "offset": "0xBFE00"
+        },
+        "cff_get_standard_encoding": {
+            "offset": "0xBDB20"
+        },
+        "cff_get_var_blend": {
+            "offset": "0xBE0C0"
+        },
+        "cff_get_var_design": {
+            "offset": "0xBFF90"
+        },
+        "cff_glyph_load": {
+            "offset": "0xBF490"
+        },
+        "cff_hadvance_adjust": {
+            "offset": "0xBFFB0"
+        },
+        "cff_index_access_element": {
+            "offset": "0xC1B80"
+        },
+        "cff_index_get_name": {
+            "offset": "0xC1D60"
+        },
+        "cff_index_get_pointers": {
+            "offset": "0xC1E10"
+        },
+        "cff_index_get_sid_string": {
+            "offset": "0xC2020"
+        },
+        "cff_index_init": {
+            "offset": "0xC2060"
+        },
+        "cff_index_load_offsets": {
+            "offset": "0xC2220"
+        },
+        "cff_load_private_dict": {
+            "offset": "0xBDB40"
+        },
+        "cff_make_private_dict": {
+            "offset": "0xC2400"
+        },
+        "cff_metrics_adjust": {
+            "offset": "0xBFFC0"
+        },
+        "cff_parse_blend": {
+            "offset": "0xBD9A0"
+        },
+        "cff_parse_cid_ros": {
+            "offset": "0xBD7D0"
+        },
+        "cff_parse_font_bbox": {
+            "offset": "0xC0450"
+        },
+        "cff_parse_font_matrix": {
+            "offset": "0xC0040"
+        },
+        "cff_parse_integer": {
+            "offset": "0xC25C0"
+        },
+        "cff_parse_maxstack": {
+            "offset": "0xBDAA0"
+        },
+        "cff_parse_multiple_master": {
+            "offset": "0xBD700"
+        },
+        "cff_parse_num": {
+            "offset": "0xC2670"
+        },
+        "cff_parse_private_dict": {
+            "offset": "0xBD600"
+        },
+        "cff_parse_real": {
+            "offset": "0xC26C0"
+        },
+        "cff_parse_vsindex": {
+            "offset": "0xBD940"
+        },
+        "cff_parser_init": {
+            "offset": "0xC2A10"
+        },
+        "cff_parser_run": {
+            "offset": "0xC2AD0"
+        },
+        "cff_ps_get_font_extra": {
+            "offset": "0xBFB60"
+        },
+        "cff_ps_get_font_info": {
+            "offset": "0xBF900"
+        },
+        "cff_ps_has_glyph_names": {
+            "offset": "0xBF8F0"
+        },
+        "cff_random": {
+            "offset": "0xD5340"
+        },
+        "cff_set_instance": {
+            "offset": "0xBFFA0"
+        },
+        "cff_set_mm_blend": {
+            "offset": "0xBFF30"
+        },
+        "cff_set_var_design": {
+            "offset": "0xBFF80"
+        },
+        "cff_sid_to_glyph_name": {
+            "offset": "0xC2EA0"
+        },
+        "cff_size_done": {
+            "offset": "0xBE460"
+        },
+        "cff_size_get_globals_funcs": {
+            "offset": "0xC2F00"
+        },
+        "cff_size_init": {
+            "offset": "0xBE260"
+        },
+        "cff_size_request": {
+            "offset": "0xBE520"
+        },
+        "cff_size_select": {
+            "offset": "0xBE7A0"
+        },
+        "cff_slot_done": {
+            "offset": "0xBE910"
+        },
+        "cff_slot_init": {
+            "offset": "0xBE930"
+        },
+        "cff_slot_load": {
+            "offset": "0xC2F60"
+        },
+        "cff_subfont_done": {
+            "offset": "0xC3A60"
+        },
+        "cff_subfont_load": {
+            "offset": "0xC3B40"
+        },
+        "cff_vstore_done": {
+            "offset": "0xC4050"
+        },
+        "cff_vstore_load": {
+            "offset": "0xC4120"
+        },
+        "check_table_dir": {
+            "offset": "0xEB990"
+        },
+        "check_type1_format": {
+            "offset": "0xBCAB0"
+        },
+        "cid_driver_done": {
+            "offset": "0x50B0"
+        },
+        "cid_driver_init": {
+            "offset": "0xB7CF0"
+        },
+        "cid_face_done": {
+            "offset": "0xC4AD0"
+        },
+        "cid_face_init": {
+            "offset": "0xC4820"
+        },
+        "cid_face_open": {
+            "offset": "0xC53D0"
+        },
+        "cid_get_cid_from_glyph_index": {
+            "offset": "0xC53B0"
+        },
+        "cid_get_interface": {
+            "offset": "0xC53C0"
+        },
+        "cid_get_is_cid": {
+            "offset": "0xC53A0"
+        },
+        "cid_get_postscript_name": {
+            "offset": "0xC5310"
+        },
+        "cid_get_ros": {
+            "offset": "0xC5370"
+        },
+        "cid_hex_to_binary": {
+            "offset": "0xC5660"
+        },
+        "cid_load_glyph": {
+            "offset": "0xC5810"
+        },
+        "cid_parse_dict": {
+            "offset": "0xC5CA0"
+        },
+        "cid_parse_font_matrix": {
+            "offset": "0xC5040"
+        },
+        "cid_parser_new": {
+            "offset": "0xC5EF0"
+        },
+        "cid_ps_get_font_extra": {
+            "offset": "0xC5360"
+        },
+        "cid_ps_get_font_info": {
+            "offset": "0xC5330"
+        },
+        "cid_read_subrs": {
+            "offset": "0xC6290"
+        },
+        "cid_size_done": {
+            "offset": "0xC4670"
+        },
+        "cid_size_init": {
+            "offset": "0xC46F0"
+        },
+        "cid_size_request": {
+            "offset": "0xC4790"
+        },
+        "cid_slot_done": {
+            "offset": "0xBE910"
+        },
+        "cid_slot_init": {
+            "offset": "0xC4610"
+        },
+        "cid_slot_load_glyph": {
+            "offset": "0xC4CA0"
+        },
+        "compare_kern_pairs": {
+            "offset": "0xBCB90"
+        },
+        "compare_offsets": {
+            "offset": "0xEBB40"
+        },
+        "compare_ppem": {
+            "offset": "0xB1BB0"
+        },
+        "compare_uni_maps": {
+            "offset": "0xDFE40"
+        },
+        "compute_edge_distance": {
+            "offset": "0xF6A60"
+        },
+        "compute_glyph_metrics": {
+            "offset": "0xB1BC0"
+        },
+        "crc32_z": {
+            "offset": "0xFA6E0"
+        },
+        "destroy_charmaps": {
+            "offset": "0x9C020"
+        },
+        "destroy_face": {
+            "offset": "0x9C0F0"
+        },
+        "destroy_size": {
+            "offset": "0x9C2F0"
+        },
+        "dllmain_crt_dispatch": {
+            "offset": "0xFEF6C"
+        },
+        "dllmain_crt_process_attach": {
+            "offset": "0xFEFBC"
+        },
+        "dllmain_crt_process_detach": {
+            "offset": "0xFF0D4"
+        },
+        "dllmain_dispatch": {
+            "offset": "0xFF158"
+        },
+        "finalize_sdf": {
+            "offset": "0xF6CC0"
+        },
+        "find_doc": {
+            "offset": "0xEBB60"
+        },
+        "find_unicode_charmap": {
+            "offset": "0x9C360"
+        },
+        "first_pass": {
+            "offset": "0xF6E80"
+        },
+        "fixed2float": {
+            "offset": "0xEBD00"
+        },
+        "fnt_cmap_char_index": {
+            "offset": "0xCB8E0"
+        },
+        "fnt_cmap_char_next": {
+            "offset": "0xCB900"
+        },
+        "fnt_cmap_init": {
+            "offset": "0xCB8B0"
+        },
+        "fnt_face_get_dll_font": {
+            "offset": "0xCC0F0"
+        },
+        "fnt_font_done": {
+            "offset": "0xCC850"
+        },
+        "fnt_font_load": {
+            "offset": "0xCC8D0"
+        },
+        "ft_ansi_stream_close": {
+            "offset": "0x9F870"
+        },
+        "ft_ansi_stream_io": {
+            "offset": "0x9F8A0"
+        },
+        "ft_bitmap_assure_buffer": {
+            "offset": "0xF9BA0"
+        },
+        "ft_black_done": {
+            "offset": "0xF0BD0"
+        },
+        "ft_black_new": {
+            "offset": "0xF0B80"
+        },
+        "ft_black_render": {
+            "offset": "0xF25D0"
+        },
+        "ft_black_reset": {
+            "offset": "0x50B0"
+        },
+        "ft_black_set_mode": {
+            "offset": "0xCD310"
+        },
+        "ft_bsdf_render": {
+            "offset": "0xF4F10"
+        },
+        "ft_cmap_done_internal": {
+            "offset": "0x9C3E0"
+        },
+        "ft_corner_is_flat": {
+            "offset": "0x9C420"
+        },
+        "ft_corner_orientation": {
+            "offset": "0x9C4E0"
+        },
+        "ft_glyphslot_alloc_bitmap": {
+            "offset": "0x9C510"
+        },
+        "ft_glyphslot_done": {
+            "offset": "0x9C5C0"
+        },
+        "ft_glyphslot_free_bitmap": {
+            "offset": "0x9C6F0"
+        },
+        "ft_glyphslot_preset_bitmap": {
+            "offset": "0x9C750"
+        },
+        "ft_glyphslot_set_bitmap": {
+            "offset": "0x9CB00"
+        },
+        "ft_gzip_alloc": {
+            "offset": "0xFA800"
+        },
+        "ft_gzip_check_header": {
+            "offset": "0xFA820"
+        },
+        "ft_gzip_file_done": {
+            "offset": "0xFA990"
+        },
+        "ft_gzip_file_fill_output": {
+            "offset": "0xFAA50"
+        },
+        "ft_gzip_file_init": {
+            "offset": "0xFAB60"
+        },
+        "ft_gzip_file_io": {
+            "offset": "0xFADE0"
+        },
+        "ft_gzip_file_skip_output": {
+            "offset": "0xFAEF0"
+        },
+        "ft_gzip_free": {
+            "offset": "0xFB060"
+        },
+        "ft_gzip_stream_close": {
+            "offset": "0xFB070"
+        },
+        "ft_gzip_stream_io": {
+            "offset": "0xFB0E0"
+        },
+        "ft_hash_num_init": {
+            "offset": "0x9CB80"
+        },
+        "ft_hash_num_insert": {
+            "offset": "0x9CC00"
+        },
+        "ft_hash_num_lookup": {
+            "offset": "0x9CC20"
+        },
+        "ft_hash_str_free": {
+            "offset": "0x9CC50"
+        },
+        "ft_hash_str_init": {
+            "offset": "0x9CCD0"
+        },
+        "ft_hash_str_insert": {
+            "offset": "0x9CD50"
+        },
+        "ft_hash_str_lookup": {
+            "offset": "0x9CD60"
+        },
+        "ft_lcd_padding": {
+            "offset": "0x9CD80"
+        },
+        "ft_lookup_PS_in_sfnt_stream": {
+            "offset": "0x9CE70"
+        },
+        "ft_lzw_file_skip_output": {
+            "offset": "0xFD8E0"
+        },
+        "ft_lzw_stream_close": {
+            "offset": "0xFDD00"
+        },
+        "ft_lzw_stream_io": {
+            "offset": "0xFDDD0"
+        },
+        "ft_lzwstate_get_code": {
+            "offset": "0xFDF10"
+        },
+        "ft_lzwstate_io": {
+            "offset": "0xFE080"
+        },
+        "ft_lzwstate_stack_grow": {
+            "offset": "0xFE3E0"
+        },
+        "ft_mem_alloc": {
+            "offset": "0x9D1B0"
+        },
+        "ft_mem_free": {
+            "offset": "0x9D230"
+        },
+        "ft_mem_qalloc": {
+            "offset": "0x9D240"
+        },
+        "ft_mem_qrealloc": {
+            "offset": "0x9D290"
+        },
+        "ft_mem_realloc": {
+            "offset": "0x9D340"
+        },
+        "ft_mem_strcpyn": {
+            "offset": "0x9D430"
+        },
+        "ft_mem_strdup": {
+            "offset": "0x9D460"
+        },
+        "ft_module_get_service": {
+            "offset": "0x9D510"
+        },
+        "ft_open_face_internal": {
+            "offset": "0x9D5D0"
+        },
+        "ft_raccess_sort_ref_by_id": {
+            "offset": "0x9E040"
+        },
+        "ft_raster1_get_cbox": {
+            "offset": "0xF0C50"
+        },
+        "ft_raster1_init": {
+            "offset": "0xF27A0"
+        },
+        "ft_raster1_render": {
+            "offset": "0xF27C0"
+        },
+        "ft_raster1_set_mode": {
+            "offset": "0xF0BE0"
+        },
+        "ft_raster1_transform": {
+            "offset": "0xF0BF0"
+        },
+        "ft_recompute_scaled_metrics": {
+            "offset": "0x9E050"
+        },
+        "ft_sdf_done": {
+            "offset": "0x50B0"
+        },
+        "ft_sdf_get_cbox": {
+            "offset": "0xF0C50"
+        },
+        "ft_sdf_init": {
+            "offset": "0xF4CA0"
+        },
+        "ft_sdf_render": {
+            "offset": "0xF4CC0"
+        },
+        "ft_sdf_requester": {
+            "offset": "0xF4C90"
+        },
+        "ft_sdf_set_mode": {
+            "offset": "0xF0BE0"
+        },
+        "ft_sdf_transform": {
+            "offset": "0xF0BF0"
+        },
+        "ft_service_list_lookup": {
+            "offset": "0x9E100"
+        },
+        "ft_smooth_get_cbox": {
+            "offset": "0xF0C50"
+        },
+        "ft_smooth_init": {
+            "offset": "0xF0C70"
+        },
+        "ft_smooth_lcd_spans": {
+            "offset": "0xF1160"
+        },
+        "ft_smooth_overlap_spans": {
+            "offset": "0xF11C0"
+        },
+        "ft_smooth_raster_lcdv": {
+            "offset": "0xF1260"
+        },
+        "ft_smooth_render": {
+            "offset": "0xF0CC0"
+        },
+        "ft_smooth_set_mode": {
+            "offset": "0xF0BE0"
+        },
+        "ft_smooth_transform": {
+            "offset": "0xF0BF0"
+        },
+        "ft_svg_done": {
+            "offset": "0xF8C60"
+        },
+        "ft_svg_get_interface": {
+            "offset": "0xF8F90"
+        },
+        "ft_svg_init": {
+            "offset": "0xF8C50"
+        },
+        "ft_svg_preset_slot": {
+            "offset": "0xF8CA0"
+        },
+        "ft_svg_property_get": {
+            "offset": "0xF8F30"
+        },
+        "ft_svg_property_set": {
+            "offset": "0xF8E80"
+        },
+        "ft_svg_render": {
+            "offset": "0xF8D30"
+        },
+        "ft_svg_transform": {
+            "offset": "0xF8FA0"
+        },
+        "ft_synthesize_vertical_metrics": {
+            "offset": "0x9E160"
+        },
+        "ft_trig_pseudo_polarize": {
+            "offset": "0x9E1D0"
+        },
+        "ft_validator_error": {
+            "offset": "0x9E2D0"
+        },
+        "ft_validator_init": {
+            "offset": "0x9E2F0"
+        },
+        "ft_var_apply_tuple": {
+            "offset": "0xB1DF0"
+        },
+        "ft_var_done_item_variation_store": {
+            "offset": "0xB1EF0"
+        },
+        "ft_var_get_item_delta": {
+            "offset": "0xB1FF0"
+        },
+        "ft_var_get_value_pointer": {
+            "offset": "0xB2150"
+        },
+        "ft_var_load_avar": {
+            "offset": "0xB24C0"
+        },
+        "ft_var_load_delta_set_index_mapping": {
+            "offset": "0xB26C0"
+        },
+        "ft_var_load_gvar": {
+            "offset": "0xB28E0"
+        },
+        "ft_var_load_hvvar": {
+            "offset": "0xB2C40"
+        },
+        "ft_var_load_item_variation_store": {
+            "offset": "0xB2DE0"
+        },
+        "ft_var_load_mvar": {
+            "offset": "0xB32F0"
+        },
+        "ft_var_readpackeddeltas": {
+            "offset": "0xB3570"
+        },
+        "ft_var_readpackedpoints": {
+            "offset": "0xB36E0"
+        },
+        "ft_var_to_design": {
+            "offset": "0xB3850"
+        },
+        "ft_var_to_normalized": {
+            "offset": "0xB39D0"
+        },
+        "get_apple_string": {
+            "offset": "0xEBEA0"
+        },
+        "get_control_box": {
+            "offset": "0xF70E0"
+        },
+        "get_min_distance_conic": {
+            "offset": "0xF71F0"
+        },
+        "get_min_distance_cubic": {
+            "offset": "0xF7550"
+        },
+        "get_min_distance_line": {
+            "offset": "0xF79A0"
+        },
+        "get_sfnt_table": {
+            "offset": "0xEAD90"
+        },
+        "get_win_string": {
+            "offset": "0xEBFB0"
+        },
+        "gray_conic_to": {
+            "offset": "0xF0910"
+        },
+        "gray_convert_glyph": {
+            "offset": "0xF13D0"
+        },
+        "gray_convert_glyph_inner": {
+            "offset": "0xF16B0"
+        },
+        "gray_cubic_to": {
+            "offset": "0xF0930"
+        },
+        "gray_line_to": {
+            "offset": "0xF08E0"
+        },
+        "gray_move_to": {
+            "offset": "0xF0890"
+        },
+        "gray_raster_done": {
+            "offset": "0xF0BD0"
+        },
+        "gray_raster_new": {
+            "offset": "0xF0B80"
+        },
+        "gray_raster_render": {
+            "offset": "0xF0950"
+        },
+        "gray_raster_reset": {
+            "offset": "0x50B0"
+        },
+        "gray_raster_set_mode": {
+            "offset": "0xCD310"
+        },
+        "gray_render_conic": {
+            "offset": "0xF1710"
+        },
+        "gray_render_cubic": {
+            "offset": "0xF19C0"
+        },
+        "gray_render_line": {
+            "offset": "0xF1C60"
+        },
+        "gray_set_cell": {
+            "offset": "0xF2060"
+        },
+        "gray_sweep": {
+            "offset": "0xF2110"
+        },
+        "gray_sweep_direct": {
+            "offset": "0xF2380"
+        },
+        "hash_bucket": {
+            "offset": "0x9E310"
+        },
+        "hash_insert": {
+            "offset": "0x9E390"
+        },
+        "hash_num_compare": {
+            "offset": "0x9E540"
+        },
+        "hash_num_lookup": {
+            "offset": "0x9E550"
+        },
+        "hash_str_compare": {
+            "offset": "0x9E580"
+        },
+        "hash_str_lookup": {
+            "offset": "0x9E5B0"
+        },
+        "inflate": {
+            "offset": "0xFB0F0"
+        },
+        "inflateReset": {
+            "offset": "0xFC9D0"
+        },
+        "inflate_fast": {
+            "offset": "0xFCAE0"
+        },
+        "inflate_table": {
+            "offset": "0xFCFE0"
+        },
+        "load_face_in_embedded_rfork": {
+            "offset": "0x9E5E0"
+        },
+        "load_format_20": {
+            "offset": "0xEC0D0"
+        },
+        "load_post_names": {
+            "offset": "0xEC3E0"
+        },
+        "load_truetype_glyph": {
+            "offset": "0xB3B40"
+        },
+        "memory_stream_close": {
+            "offset": "0x9E8D0"
+        },
+        "mm_axis_unmap": {
+            "offset": "0xBCBB0"
+        },
+        "mm_weights_unmap": {
+            "offset": "0xBCC60"
+        },
+        "murmur_hash_3_128": {
+            "offset": "0xEC580"
+        },
+        "open_face": {
+            "offset": "0x9E900"
+        },
+        "open_face_PS_from_sfnt_stream": {
+            "offset": "0x9EB10"
+        },
+        "open_face_from_buffer": {
+            "offset": "0x9EC70"
+        },
+        "parse_blend_axis_types": {
+            "offset": "0xBA0F0"
+        },
+        "parse_blend_design_map": {
+            "offset": "0xBA530"
+        },
+        "parse_blend_design_positions": {
+            "offset": "0xBA270"
+        },
+        "parse_buildchar": {
+            "offset": "0xBA930"
+        },
+        "parse_charstrings": {
+            "offset": "0xBB2D0"
+        },
+        "parse_dict": {
+            "offset": "0xBCD30"
+        },
+        "parse_encoding": {
+            "offset": "0xBAAB0"
+        },
+        "parse_fd_array": {
+            "offset": "0xC51D0"
+        },
+        "parse_font_name": {
+            "offset": "0x50B0"
+        },
+        "parse_private": {
+            "offset": "0xBA960"
+        },
+        "parse_subrs": {
+            "offset": "0xBAF40"
+        },
+        "pcf_cmap_char_index": {
+            "offset": "0xCC9C0"
+        },
+        "pcf_cmap_char_next": {
+            "offset": "0xCCA30"
+        },
+        "pcf_cmap_done": {
+            "offset": "0xBE110"
+        },
+        "pcf_cmap_init": {
+            "offset": "0xCC9B0"
+        },
+        "pcf_driver_done": {
+            "offset": "0x50B0"
+        },
+        "pcf_driver_init": {
+            "offset": "0xCD310"
+        },
+        "pcf_driver_requester": {
+            "offset": "0xCD300"
+        },
+        "pcf_find_property": {
+            "offset": "0xCD320"
+        },
+        "pcf_get_accel": {
+            "offset": "0xCD3D0"
+        },
+        "pcf_get_bdf_property": {
+            "offset": "0xCD280"
+        },
+        "pcf_get_bitmaps": {
+            "offset": "0xCD580"
+        },
+        "pcf_get_charset_id": {
+            "offset": "0xCD2D0"
+        },
+        "pcf_get_encodings": {
+            "offset": "0xCD790"
+        },
+        "pcf_get_metric": {
+            "offset": "0xCDA60"
+        },
+        "pcf_get_metrics": {
+            "offset": "0xCDB00"
+        },
+        "pcf_get_properties": {
+            "offset": "0xCDD40"
+        },
+        "pcf_interpret_style": {
+            "offset": "0xCE0C0"
+        },
+        "pcf_load_font": {
+            "offset": "0xCE3A0"
+        },
+        "pcf_property_get": {
+            "offset": "0xCD2F0"
+        },
+        "pcf_property_set": {
+            "offset": "0xCD2F0"
+        },
+        "pcf_read_TOC": {
+            "offset": "0xCE7E0"
+        },
+        "pfr_aux_name_load": {
+            "offset": "0xC7A10"
+        },
+        "pfr_cmap_char_index": {
+            "offset": "0xC7270"
+        },
+        "pfr_cmap_char_next": {
+            "offset": "0xC72D0"
+        },
+        "pfr_cmap_done": {
+            "offset": "0xC7260"
+        },
+        "pfr_cmap_init": {
+            "offset": "0xC7200"
+        },
+        "pfr_extra_item_load_bitmap_info": {
+            "offset": "0xC74D0"
+        },
+        "pfr_extra_item_load_font_id": {
+            "offset": "0xC76E0"
+        },
+        "pfr_extra_item_load_kerning_pairs": {
+            "offset": "0xC7870"
+        },
+        "pfr_extra_item_load_stem_snaps": {
+            "offset": "0xC7770"
+        },
+        "pfr_face_done": {
+            "offset": "0xC6AE0"
+        },
+        "pfr_face_get_kerning": {
+            "offset": "0xC6C60"
+        },
+        "pfr_face_init": {
+            "offset": "0xC66C0"
+        },
+        "pfr_get_advance": {
+            "offset": "0xC73E0"
+        },
+        "pfr_get_kerning": {
+            "offset": "0xC7380"
+        },
+        "pfr_get_metrics": {
+            "offset": "0xC7420"
+        },
+        "pfr_get_service": {
+            "offset": "0xC74C0"
+        },
+        "pfr_glyph_close_contour": {
+            "offset": "0xC7AF0"
+        },
+        "pfr_glyph_load_compound": {
+            "offset": "0xC7B80"
+        },
+        "pfr_glyph_load_rec": {
+            "offset": "0xC7E50"
+        },
+        "pfr_glyph_load_simple": {
+            "offset": "0xC8050"
+        },
+        "pfr_load_bitmap_metrics": {
+            "offset": "0xC8640"
+        },
+        "pfr_log_font_load": {
+            "offset": "0xC88C0"
+        },
+        "pfr_lookup_bitmap_data": {
+            "offset": "0xC8BC0"
+        },
+        "pfr_phy_font_load": {
+            "offset": "0xC8D50"
+        },
+        "pfr_slot_done": {
+            "offset": "0xC6F00"
+        },
+        "pfr_slot_init": {
+            "offset": "0xC6EB0"
+        },
+        "pfr_slot_load": {
+            "offset": "0xC6F80"
+        },
+        "pfr_slot_load_bitmap": {
+            "offset": "0xC9330"
+        },
+        "ps_builder_add_point1": {
+            "offset": "0xD4B80"
+        },
+        "ps_builder_close_contour": {
+            "offset": "0xD4960"
+        },
+        "ps_builder_done": {
+            "offset": "0xD45F0"
+        },
+        "ps_builder_init": {
+            "offset": "0xD4DC0"
+        },
+        "ps_builder_start_point": {
+            "offset": "0xDF080"
+        },
+        "ps_decoder_init": {
+            "offset": "0xD4E90"
+        },
+        "ps_dimension_add_counter": {
+            "offset": "0xE0060"
+        },
+        "ps_dimension_add_t1stem": {
+            "offset": "0xE02E0"
+        },
+        "ps_dimension_set_mask_bits": {
+            "offset": "0xE0460"
+        },
+        "ps_get_macintosh_name": {
+            "offset": "0xDFDD0"
+        },
+        "ps_get_standard_strings": {
+            "offset": "0xDFE00"
+        },
+        "ps_hinter_done": {
+            "offset": "0xDFE80"
+        },
+        "ps_hinter_init": {
+            "offset": "0xDFF20"
+        },
+        "ps_hints_apply": {
+            "offset": "0xE05B0"
+        },
+        "ps_hints_close": {
+            "offset": "0xE1020"
+        },
+        "ps_hints_stem": {
+            "offset": "0xE10A0"
+        },
+        "ps_hints_t1reset": {
+            "offset": "0xE1300"
+        },
+        "ps_hints_t1stem3": {
+            "offset": "0xE13A0"
+        },
+        "ps_hints_t2counter": {
+            "offset": "0xE14B0"
+        },
+        "ps_hints_t2mask": {
+            "offset": "0xE1550"
+        },
+        "ps_mask_ensure": {
+            "offset": "0xE15F0"
+        },
+        "ps_mask_table_alloc": {
+            "offset": "0xE1670"
+        },
+        "ps_mask_table_done": {
+            "offset": "0xE1740"
+        },
+        "ps_mask_table_merge_all": {
+            "offset": "0xE17C0"
+        },
+        "ps_parser_done": {
+            "offset": "0x50B0"
+        },
+        "ps_parser_init": {
+            "offset": "0xD44A0"
+        },
+        "ps_parser_load_field": {
+            "offset": "0xD38F0"
+        },
+        "ps_parser_load_field_table": {
+            "offset": "0xD3F00"
+        },
+        "ps_parser_skip_PS_token": {
+            "offset": "0xD32B0"
+        },
+        "ps_parser_skip_spaces": {
+            "offset": "0xD3250"
+        },
+        "ps_parser_to_bytes": {
+            "offset": "0xD40B0"
+        },
+        "ps_parser_to_coord_array": {
+            "offset": "0xD4290"
+        },
+        "ps_parser_to_fixed": {
+            "offset": "0xD4220"
+        },
+        "ps_parser_to_fixed_array": {
+            "offset": "0xD4410"
+        },
+        "ps_parser_to_int": {
+            "offset": "0xD4050"
+        },
+        "ps_parser_to_token": {
+            "offset": "0xD3450"
+        },
+        "ps_parser_to_token_array": {
+            "offset": "0xD3620"
+        },
+        "ps_property_get": {
+            "offset": "0x9EDF0"
+        },
+        "ps_property_set": {
+            "offset": "0x9EED0"
+        },
+        "ps_table_add": {
+            "offset": "0xD30D0"
+        },
+        "ps_table_done": {
+            "offset": "0xD31D0"
+        },
+        "ps_table_new": {
+            "offset": "0xD2FF0"
+        },
+        "ps_table_realloc": {
+            "offset": "0xDF170"
+        },
+        "ps_table_release": {
+            "offset": "0xD31E0"
+        },
+        "ps_tofixedarray": {
+            "offset": "0xDF210"
+        },
+        "ps_unicode_value": {
+            "offset": "0xDF740"
+        },
+        "ps_unicodes_char_index": {
+            "offset": "0xDFCA0"
+        },
+        "ps_unicodes_char_next": {
+            "offset": "0xDFD20"
+        },
+        "ps_unicodes_init": {
+            "offset": "0xDF950"
+        },
+        "psaux_get_glyph_name": {
+            "offset": "0xDF360"
+        },
+        "psh_blues_scale_zones": {
+            "offset": "0xE19C0"
+        },
+        "psh_blues_set_zones": {
+            "offset": "0xE1BC0"
+        },
+        "psh_blues_set_zones_0": {
+            "offset": "0xE1D60"
+        },
+        "psh_globals_destroy": {
+            "offset": "0xE1EA0"
+        },
+        "psh_globals_new": {
+            "offset": "0xE1EE0"
+        },
+        "psh_globals_scale_widths": {
+            "offset": "0xE2190"
+        },
+        "psh_globals_set_scale": {
+            "offset": "0xE2230"
+        },
+        "psh_glyph_compute_extrema": {
+            "offset": "0xE22C0"
+        },
+        "psh_glyph_init": {
+            "offset": "0xE2400"
+        },
+        "psh_glyph_interpolate_normal_points": {
+            "offset": "0xE2940"
+        },
+        "psh_hint_align": {
+            "offset": "0xE2BC0"
+        },
+        "psh_hint_table_activate_mask": {
+            "offset": "0xE2FF0"
+        },
+        "psh_hint_table_find_strong_points": {
+            "offset": "0xE30F0"
+        },
+        "psh_hint_table_init": {
+            "offset": "0xE3310"
+        },
+        "pshinter_get_globals_funcs": {
+            "offset": "0xE0030"
+        },
+        "pshinter_get_t1_funcs": {
+            "offset": "0xE0040"
+        },
+        "pshinter_get_t2_funcs": {
+            "offset": "0xE0050"
+        },
+        "psnames_get_service": {
+            "offset": "0xDFE30"
+        },
+        "raccess_guess_apple_double": {
+            "offset": "0x94DE0"
+        },
+        "raccess_guess_apple_generic": {
+            "offset": "0x9F170"
+        },
+        "raccess_guess_apple_single": {
+            "offset": "0x94E00"
+        },
+        "raccess_guess_darwin_hfsplus": {
+            "offset": "0x94F50"
+        },
+        "raccess_guess_darwin_newvfs": {
+            "offset": "0x94EA0"
+        },
+        "raccess_guess_darwin_ufs_export": {
+            "offset": "0x94E20"
+        },
+        "raccess_guess_linux_cap": {
+            "offset": "0x95050"
+        },
+        "raccess_guess_linux_double": {
+            "offset": "0x950A0"
+        },
+        "raccess_guess_linux_double_from_file_name": {
+            "offset": "0x9F3D0"
+        },
+        "raccess_guess_linux_netatalk": {
+            "offset": "0x95120"
+        },
+        "raccess_guess_vfat": {
+            "offset": "0x95000"
+        },
+        "raccess_make_file_name": {
+            "offset": "0x9F4C0"
+        },
+        "read_paint": {
+            "offset": "0xEC890"
+        },
+        "rect_height_compare": {
+            "offset": "0x67F40"
+        },
+        "rect_original_order": {
+            "offset": "0x67F70"
+        },
+        "remove_style": {
+            "offset": "0xC4540"
+        },
+        "sdf_conic_to": {
+            "offset": "0xF5540"
+        },
+        "sdf_cubic_to": {
+            "offset": "0xF56D0"
+        },
+        "sdf_generate_bounding_box": {
+            "offset": "0xF7B60"
+        },
+        "sdf_line_to": {
+            "offset": "0xF5460"
+        },
+        "sdf_move_to": {
+            "offset": "0xF53C0"
+        },
+        "sdf_property_get": {
+            "offset": "0xF4B90"
+        },
+        "sdf_property_set": {
+            "offset": "0xF4A70"
+        },
+        "sdf_raster_done": {
+            "offset": "0xF0BD0"
+        },
+        "sdf_raster_new": {
+            "offset": "0xF0B80"
+        },
+        "sdf_raster_render": {
+            "offset": "0xF57C0"
+        },
+        "sdf_raster_reset": {
+            "offset": "0x50B0"
+        },
+        "sdf_raster_set_mode": {
+            "offset": "0xCD310"
+        },
+        "second_pass": {
+            "offset": "0xF80D0"
+        },
+        "sfnt_done_face": {
+            "offset": "0xE79D0"
+        },
+        "sfnt_get_charset_id": {
+            "offset": "0xEB290"
+        },
+        "sfnt_get_glyph_name": {
+            "offset": "0xEAE90"
+        },
+        "sfnt_get_interface": {
+            "offset": "0xEB320"
+        },
+        "sfnt_get_name_id": {
+            "offset": "0xEB050"
+        },
+        "sfnt_get_name_index": {
+            "offset": "0xEAEE0"
+        },
+        "sfnt_get_ps_name": {
+            "offset": "0xEB110"
+        },
+        "sfnt_get_var_ps_name": {
+            "offset": "0xED010"
+        },
+        "sfnt_init_face": {
+            "offset": "0xE69E0"
+        },
+        "sfnt_is_alphanumeric": {
+            "offset": "0xED670"
+        },
+        "sfnt_is_postscript": {
+            "offset": "0xED6A0"
+        },
+        "sfnt_load_face": {
+            "offset": "0xE6F00"
+        },
+        "sfnt_open_font": {
+            "offset": "0xED6D0"
+        },
+        "sfnt_stream_close": {
+            "offset": "0xED920"
+        },
+        "sfnt_table_info": {
+            "offset": "0xEAE30"
+        },
+        "skip_literal_string": {
+            "offset": "0xDF370"
+        },
+        "skip_procedure": {
+            "offset": "0xDF490"
+        },
+        "skip_string": {
+            "offset": "0xDF600"
+        },
+        "split_cubic": {
+            "offset": "0xF8370"
+        },
+        "split_sdf_conic": {
+            "offset": "0xF8450"
+        },
+        "split_sdf_cubic": {
+            "offset": "0xF8640"
+        },
+        "split_sdf_shape": {
+            "offset": "0xF8900"
+        },
+        "sprintf": {
+            "offset": "0x5A560"
+        },
+        "square_root": {
+            "offset": "0xF8C00"
+        },
+        "sscanf": {
+            "offset": "0x3E890"
+        },
+        "stb__lit": {
+            "offset": "0x68470"
+        },
+        "stb__match": {
+            "offset": "0x684D0"
+        },
+        "stb_decompress_token": {
+            "offset": "0x68530"
+        },
+        "stbrp__skyline_find_best_pos": {
+            "offset": "0x68780"
+        },
+        "stbrp__skyline_find_min_y": {
+            "offset": "0x68AB0"
+        },
+        "stbrp_init_target": {
+            "offset": "0x94A10"
+        },
+        "stbrp_pack_rects": {
+            "offset": "0x94BE0"
+        },
+        "t1_allocate_blend": {
+            "offset": "0xBD0F0"
+        },
+        "t1_builder_add_contour": {
+            "offset": "0xD4790"
+        },
+        "t1_builder_add_point": {
+            "offset": "0xD4650"
+        },
+        "t1_builder_add_point1": {
+            "offset": "0xD46E0"
+        },
+        "t1_builder_check_points": {
+            "offset": "0xD4620"
+        },
+        "t1_builder_close_contour": {
+            "offset": "0xD4960"
+        },
+        "t1_builder_done": {
+            "offset": "0xD45F0"
+        },
+        "t1_builder_init": {
+            "offset": "0xD4510"
+        },
+        "t1_builder_start_point": {
+            "offset": "0xD4810"
+        },
+        "t1_cmap_custom_char_index": {
+            "offset": "0xD2950"
+        },
+        "t1_cmap_custom_char_next": {
+            "offset": "0xD2970"
+        },
+        "t1_cmap_custom_done": {
+            "offset": "0xD2940"
+        },
+        "t1_cmap_custom_init": {
+            "offset": "0xD2910"
+        },
+        "t1_cmap_expert_init": {
+            "offset": "0xD28D0"
+        },
+        "t1_cmap_standard_init": {
+            "offset": "0xD2890"
+        },
+        "t1_cmap_std_char_index": {
+            "offset": "0xD2740"
+        },
+        "t1_cmap_std_char_next": {
+            "offset": "0xD27C0"
+        },
+        "t1_cmap_std_done": {
+            "offset": "0xD2720"
+        },
+        "t1_cmap_unicode_char_index": {
+            "offset": "0xD2A30"
+        },
+        "t1_cmap_unicode_char_next": {
+            "offset": "0xD2A40"
+        },
+        "t1_cmap_unicode_done": {
+            "offset": "0xBE1F0"
+        },
+        "t1_cmap_unicode_init": {
+            "offset": "0xD29D0"
+        },
+        "t1_decoder_done": {
+            "offset": "0xD59B0"
+        },
+        "t1_decoder_init": {
+            "offset": "0xD5830"
+        },
+        "t1_decoder_parse_metrics": {
+            "offset": "0xD5360"
+        },
+        "t1_decrypt": {
+            "offset": "0xD52E0"
+        },
+        "t1_get_glyph_name": {
+            "offset": "0xB94E0"
+        },
+        "t1_get_index": {
+            "offset": "0xBD2E0"
+        },
+        "t1_get_name_index": {
+            "offset": "0xB9510"
+        },
+        "t1_get_ps_name": {
+            "offset": "0xB95A0"
+        },
+        "t1_hints_open": {
+            "offset": "0xE3620"
+        },
+        "t1_hints_stem": {
+            "offset": "0xE3640"
+        },
+        "t1_load_keyword": {
+            "offset": "0xBD390"
+        },
+        "t1_lookup_glyph_by_stdcharcode_ps": {
+            "offset": "0xDF6A0"
+        },
+        "t1_make_subfont": {
+            "offset": "0xD5070"
+        },
+        "t1_parse_font_matrix": {
+            "offset": "0xBA970"
+        },
+        "t1_ps_get_font_extra": {
+            "offset": "0xB95E0"
+        },
+        "t1_ps_get_font_info": {
+            "offset": "0xB95B0"
+        },
+        "t1_ps_get_font_private": {
+            "offset": "0xB9600"
+        },
+        "t1_ps_get_font_value": {
+            "offset": "0xB9680"
+        },
+        "t1_ps_has_glyph_names": {
+            "offset": "0xB95F0"
+        },
+        "t1_set_mm_blend": {
+            "offset": "0xBD520"
+        },
+        "t2_hints_open": {
+            "offset": "0xE36A0"
+        },
+        "t2_hints_stems": {
+            "offset": "0xE36C0"
+        },
+        "t42_get_glyph_name": {
+            "offset": "0xB94E0"
+        },
+        "t42_get_name_index": {
+            "offset": "0xCA260"
+        },
+        "t42_get_ps_font_name": {
+            "offset": "0xB95A0"
+        },
+        "t42_parse_charstrings": {
+            "offset": "0xCA830"
+        },
+        "t42_parse_dict": {
+            "offset": "0xCB640"
+        },
+        "t42_parse_encoding": {
+            "offset": "0xCA450"
+        },
+        "t42_parse_font_matrix": {
+            "offset": "0xCA320"
+        },
+        "t42_parse_sfnts": {
+            "offset": "0xCACB0"
+        },
+        "t42_ps_get_font_extra": {
+            "offset": "0xB95E0"
+        },
+        "t42_ps_get_font_info": {
+            "offset": "0xB95B0"
+        },
+        "t42_ps_has_glyph_names": {
+            "offset": "0xB95F0"
+        },
+        "tt_apply_mvar": {
+            "offset": "0xA9260"
+        },
+        "tt_check_single_notdef": {
+            "offset": "0xB4830"
+        },
+        "tt_check_trickyness_sfnt_ids": {
+            "offset": "0xB4A10"
+        },
+        "tt_cmap0_char_index": {
+            "offset": "0xEB400"
+        },
+        "tt_cmap0_char_next": {
+            "offset": "0xEB420"
+        },
+        "tt_cmap0_get_info": {
+            "offset": "0xEB470"
+        },
+        "tt_cmap0_validate": {
+            "offset": "0xEB340"
+        },
+        "tt_cmap10_char_index": {
+            "offset": "0xE4B00"
+        },
+        "tt_cmap10_char_next": {
+            "offset": "0xE4B80"
+        },
+        "tt_cmap10_get_info": {
+            "offset": "0xE4C50"
+        },
+        "tt_cmap10_validate": {
+            "offset": "0xE49E0"
+        },
+        "tt_cmap12_char_index": {
+            "offset": "0xE4EA0"
+        },
+        "tt_cmap12_char_map_binary": {
+            "offset": "0xED950"
+        },
+        "tt_cmap12_char_next": {
+            "offset": "0xE4EC0"
+        },
+        "tt_cmap12_get_info": {
+            "offset": "0xE4F20"
+        },
+        "tt_cmap12_init": {
+            "offset": "0xE4C90"
+        },
+        "tt_cmap12_next": {
+            "offset": "0xEDB20"
+        },
+        "tt_cmap12_validate": {
+            "offset": "0xE4CD0"
+        },
+        "tt_cmap13_char_index": {
+            "offset": "0xE5110"
+        },
+        "tt_cmap13_char_map_binary": {
+            "offset": "0xEDC50"
+        },
+        "tt_cmap13_char_next": {
+            "offset": "0xE5130"
+        },
+        "tt_cmap13_get_info": {
+            "offset": "0xE5190"
+        },
+        "tt_cmap13_init": {
+            "offset": "0xE4C90"
+        },
+        "tt_cmap13_next": {
+            "offset": "0xEDE10"
+        },
+        "tt_cmap13_validate": {
+            "offset": "0xE4F60"
+        },
+        "tt_cmap14_char_index": {
+            "offset": "0xCD310"
+        },
+        "tt_cmap14_char_map_def_binary": {
+            "offset": "0xEDF10"
+        },
+        "tt_cmap14_char_map_nondef_binary": {
+            "offset": "0xEDFB0"
+        },
+        "tt_cmap14_char_next": {
+            "offset": "0xE55C0"
+        },
+        "tt_cmap14_char_var_index": {
+            "offset": "0xE55E0"
+        },
+        "tt_cmap14_char_var_isdefault": {
+            "offset": "0xE56A0"
+        },
+        "tt_cmap14_char_variants": {
+            "offset": "0xE5860"
+        },
+        "tt_cmap14_def_char_count": {
+            "offset": "0xEE050"
+        },
+        "tt_cmap14_done": {
+            "offset": "0xE51D0"
+        },
+        "tt_cmap14_ensure": {
+            "offset": "0xEE0A0"
+        },
+        "tt_cmap14_find_variant": {
+            "offset": "0xEE110"
+        },
+        "tt_cmap14_get_def_chars": {
+            "offset": "0xEE1A0"
+        },
+        "tt_cmap14_get_info": {
+            "offset": "0xE55D0"
+        },
+        "tt_cmap14_get_nondef_chars": {
+            "offset": "0xEE2C0"
+        },
+        "tt_cmap14_init": {
+            "offset": "0xE5210"
+        },
+        "tt_cmap14_validate": {
+            "offset": "0xE5250"
+        },
+        "tt_cmap14_variant_chars": {
+            "offset": "0xE59D0"
+        },
+        "tt_cmap14_variants": {
+            "offset": "0xE5780"
+        },
+        "tt_cmap2_char_index": {
+            "offset": "0xEB6B0"
+        },
+        "tt_cmap2_char_next": {
+            "offset": "0xEB7A0"
+        },
+        "tt_cmap2_get_info": {
+            "offset": "0xE3820"
+        },
+        "tt_cmap2_validate": {
+            "offset": "0xEB490"
+        },
+        "tt_cmap4_char_index": {
+            "offset": "0xE3D00"
+        },
+        "tt_cmap4_char_map_binary": {
+            "offset": "0xEE3B0"
+        },
+        "tt_cmap4_char_next": {
+            "offset": "0xE3F40"
+        },
+        "tt_cmap4_get_info": {
+            "offset": "0xE41E0"
+        },
+        "tt_cmap4_init": {
+            "offset": "0xE3840"
+        },
+        "tt_cmap4_next": {
+            "offset": "0xEE880"
+        },
+        "tt_cmap4_set_range": {
+            "offset": "0xEE9C0"
+        },
+        "tt_cmap4_validate": {
+            "offset": "0xE3880"
+        },
+        "tt_cmap6_char_index": {
+            "offset": "0xE42F0"
+        },
+        "tt_cmap6_char_next": {
+            "offset": "0xE4340"
+        },
+        "tt_cmap6_get_info": {
+            "offset": "0xE4420"
+        },
+        "tt_cmap6_validate": {
+            "offset": "0xE4200"
+        },
+        "tt_cmap8_char_index": {
+            "offset": "0xE4710"
+        },
+        "tt_cmap8_char_next": {
+            "offset": "0xE4830"
+        },
+        "tt_cmap8_get_info": {
+            "offset": "0xE49A0"
+        },
+        "tt_cmap8_validate": {
+            "offset": "0xE4440"
+        },
+        "tt_cmap_init": {
+            "offset": "0xEB330"
+        },
+        "tt_cmap_unicode_char_index": {
+            "offset": "0xE5D60"
+        },
+        "tt_cmap_unicode_char_next": {
+            "offset": "0xE5D70"
+        },
+        "tt_cmap_unicode_done": {
+            "offset": "0xBE1F0"
+        },
+        "tt_cmap_unicode_init": {
+            "offset": "0xE5D10"
+        },
+        "tt_cvt_ready_iterator": {
+            "offset": "0xB4C90"
+        },
+        "tt_delta_interpolate": {
+            "offset": "0xB4CB0"
+        },
+        "tt_done_blend": {
+            "offset": "0xA9430"
+        },
+        "tt_driver_done": {
+            "offset": "0x50B0"
+        },
+        "tt_driver_init": {
+            "offset": "0xA84C0"
+        },
+        "tt_face_build_cmaps": {
+            "offset": "0xEEAF0"
+        },
+        "tt_face_colr_blend_layer": {
+            "offset": "0xE9320"
+        },
+        "tt_face_done": {
+            "offset": "0xA8360"
+        },
+        "tt_face_find_bdf_prop": {
+            "offset": "0xEA3E0"
+        },
+        "tt_face_free_colr": {
+            "offset": "0xE8AF0"
+        },
+        "tt_face_free_cpal": {
+            "offset": "0xE9CC0"
+        },
+        "tt_face_free_name": {
+            "offset": "0xE6730"
+        },
+        "tt_face_free_ps_names": {
+            "offset": "0xEA2D0"
+        },
+        "tt_face_free_sbit": {
+            "offset": "0xE8220"
+        },
+        "tt_face_free_svg": {
+            "offset": "0xE9F60"
+        },
+        "tt_face_get_color_glyph_clipbox": {
+            "offset": "0xE8DA0"
+        },
+        "tt_face_get_colorline_stops": {
+            "offset": "0xE9130"
+        },
+        "tt_face_get_colr_glyph_paint": {
+            "offset": "0xE8CA0"
+        },
+        "tt_face_get_colr_layer": {
+            "offset": "0xE8B40"
+        },
+        "tt_face_get_kerning": {
+            "offset": "0xEA840"
+        },
+        "tt_face_get_location": {
+            "offset": "0xA84E0"
+        },
+        "tt_face_get_metrics": {
+            "offset": "0xEAB90"
+        },
+        "tt_face_get_name": {
+            "offset": "0xE7C60"
+        },
+        "tt_face_get_paint": {
+            "offset": "0xE91D0"
+        },
+        "tt_face_get_paint_layers": {
+            "offset": "0xE9040"
+        },
+        "tt_face_get_ps_name": {
+            "offset": "0xEA190"
+        },
+        "tt_face_goto_table": {
+            "offset": "0xE5D80"
+        },
+        "tt_face_init": {
+            "offset": "0xA7CD0"
+        },
+        "tt_face_load_any": {
+            "offset": "0xE6010"
+        },
+        "tt_face_load_bdf_props": {
+            "offset": "0xEEDF0"
+        },
+        "tt_face_load_bhed": {
+            "offset": "0xE6990"
+        },
+        "tt_face_load_cmap": {
+            "offset": "0xE6110"
+        },
+        "tt_face_load_colr": {
+            "offset": "0xE87A0"
+        },
+        "tt_face_load_cpal": {
+            "offset": "0xE97E0"
+        },
+        "tt_face_load_cvt": {
+            "offset": "0xB4E80"
+        },
+        "tt_face_load_font_dir": {
+            "offset": "0xE5DD0"
+        },
+        "tt_face_load_gasp": {
+            "offset": "0xE6830"
+        },
+        "tt_face_load_head": {
+            "offset": "0xE60C0"
+        },
+        "tt_face_load_hhea": {
+            "offset": "0xEAA80"
+        },
+        "tt_face_load_hmtx": {
+            "offset": "0xEAB00"
+        },
+        "tt_face_load_kern": {
+            "offset": "0xEA620"
+        },
+        "tt_face_load_loca": {
+            "offset": "0xB4F90"
+        },
+        "tt_face_load_maxp": {
+            "offset": "0xE6180"
+        },
+        "tt_face_load_name": {
+            "offset": "0xE6220"
+        },
+        "tt_face_load_os2": {
+            "offset": "0xE65A0"
+        },
+        "tt_face_load_pclt": {
+            "offset": "0xE66E0"
+        },
+        "tt_face_load_post": {
+            "offset": "0xE6660"
+        },
+        "tt_face_load_sbit": {
+            "offset": "0xE7EA0"
+        },
+        "tt_face_load_sbit_image": {
+            "offset": "0xE8520"
+        },
+        "tt_face_load_sbix_image": {
+            "offset": "0xEF010"
+        },
+        "tt_face_load_strike_metrics": {
+            "offset": "0xE8270"
+        },
+        "tt_face_load_svg": {
+            "offset": "0xE9DE0"
+        },
+        "tt_face_load_svg_doc": {
+            "offset": "0xE9FB0"
+        },
+        "tt_face_palette_set": {
+            "offset": "0xE9D10"
+        },
+        "tt_face_set_sbit_strike": {
+            "offset": "0xE8260"
+        },
+        "tt_face_vary_cvt": {
+            "offset": "0xB5110"
+        },
+        "tt_get_advances": {
+            "offset": "0xA9730"
+        },
+        "tt_get_cmap_info": {
+            "offset": "0xEA600"
+        },
+        "tt_get_glyph_name": {
+            "offset": "0xEF220"
+        },
+        "tt_get_interface": {
+            "offset": "0xA9B00"
+        },
+        "tt_get_kerning": {
+            "offset": "0xA9700"
+        },
+        "tt_get_metrics_incremental": {
+            "offset": "0xB56E0"
+        },
+        "tt_get_var_blend": {
+            "offset": "0xA93B0"
+        },
+        "tt_glyph_load": {
+            "offset": "0xA9A60"
+        },
+        "tt_glyphzone_done": {
+            "offset": "0xB5790"
+        },
+        "tt_hadvance_adjust": {
+            "offset": "0xA9240"
+        },
+        "tt_hvadvance_adjust": {
+            "offset": "0xB5820"
+        },
+        "tt_interpolate_deltas": {
+            "offset": "0xB5940"
+        },
+        "tt_loader_init": {
+            "offset": "0xB5B40"
+        },
+        "tt_loader_set_pp": {
+            "offset": "0xB5FA0"
+        },
+        "tt_name_ascii_from_other": {
+            "offset": "0xEF250"
+        },
+        "tt_name_ascii_from_utf16": {
+            "offset": "0xEF2F0"
+        },
+        "tt_property_get": {
+            "offset": "0xA96B0"
+        },
+        "tt_property_set": {
+            "offset": "0xA9620"
+        },
+        "tt_sbit_decoder_load_bit_aligned": {
+            "offset": "0xEF3B0"
+        },
+        "tt_sbit_decoder_load_bitmap": {
+            "offset": "0xEF600"
+        },
+        "tt_sbit_decoder_load_byte_aligned": {
+            "offset": "0xEF9B0"
+        },
+        "tt_sbit_decoder_load_compound": {
+            "offset": "0xEFB90"
+        },
+        "tt_sbit_decoder_load_image": {
+            "offset": "0xEFD30"
+        },
+        "tt_set_mm_blend": {
+            "offset": "0xB6040"
+        },
+        "tt_size_done": {
+            "offset": "0xA84A0"
+        },
+        "tt_size_done_bytecode": {
+            "offset": "0xB68D0"
+        },
+        "tt_size_init": {
+            "offset": "0xA8480"
+        },
+        "tt_size_init_bytecode": {
+            "offset": "0xB69B0"
+        },
+        "tt_size_request": {
+            "offset": "0xA9940"
+        },
+        "tt_size_reset": {
+            "offset": "0xB6F70"
+        },
+        "tt_size_reset_iterator": {
+            "offset": "0xB7140"
+        },
+        "tt_size_run_prep": {
+            "offset": "0xB7160"
+        },
+        "tt_size_select": {
+            "offset": "0xA98E0"
+        },
+        "tt_slot_init": {
+            "offset": "0xA84D0"
+        },
+        "tt_vadvance_adjust": {
+            "offset": "0xA9250"
+        },
+        "updatewindow": {
+            "offset": "0xFD580"
+        },
+        "winfnt_get_header": {
+            "offset": "0xCC060"
+        },
+        "winfnt_get_service": {
+            "offset": "0xCC0E0"
+        },
+        "woff_open_font": {
+            "offset": "0xF0240"
+        }
+    }
+}

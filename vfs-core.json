@@ -1,0 +1,1858 @@
+{
+    "vfs-core.dll": {
+        "CfxState::CfxState": {
+            "offset": "0x1BFC0"
+        },
+        "Component::As": {
+            "offset": "0xDDA0"
+        },
+        "Component::IsA": {
+            "offset": "0xDE60"
+        },
+        "Component::SetCommandLine": {
+            "offset": "0x9CC0"
+        },
+        "Component::SetUserData": {
+            "offset": "0xDE70"
+        },
+        "ComponentInstance::DoGameLoad": {
+            "offset": "0xDE40"
+        },
+        "ComponentInstance::Initialize": {
+            "offset": "0xDE50"
+        },
+        "ComponentInstance::Shutdown": {
+            "offset": "0xDE70"
+        },
+        "CoreGetComponentRegistry": {
+            "offset": "0xAEF0"
+        },
+        "CoreGetGlobalInstanceRegistry": {
+            "offset": "0xAF80"
+        },
+        "CreateComponent": {
+            "offset": "0xDE80"
+        },
+        "DllMain": {
+            "offset": "0x26FAC"
+        },
+        "DoNtRaiseException": {
+            "offset": "0x1E460"
+        },
+        "FatalErrorNoExceptRealV": {
+            "offset": "0xB390"
+        },
+        "FatalErrorRealV": {
+            "offset": "0xB3C0"
+        },
+        "FormatErrorPickup<std::tuple<std::basic_string_view<char,std::char_traits<char> >,int,unsigned int> >": {
+            "offset": "0x1AF0"
+        },
+        "GetAbsoluteCitPath": {
+            "offset": "0x1C980"
+        },
+        "GlobalErrorHandler": {
+            "offset": "0xB600"
+        },
+        "HookFunctionBase::RunAll": {
+            "offset": "0x1F230"
+        },
+        "HostSharedData<CfxState>::HostSharedData<CfxState>": {
+            "offset": "0x1BB20"
+        },
+        "HostSharedData<CfxState>::~HostSharedData<CfxState>": {
+            "offset": "0x1C080"
+        },
+        "InitFunctionBase::RunAll": {
+            "offset": "0x1E5D0"
+        },
+        "MakeRelativeCitPath": {
+            "offset": "0xBCA0"
+        },
+        "Microsoft::WRL::ComPtr<VfsStream>::~ComPtr<VfsStream>": {
+            "offset": "0xF160"
+        },
+        "Microsoft::WRL::Details::MakeAllocator<VfsStream>::~MakeAllocator<VfsStream>": {
+            "offset": "0xF190"
+        },
+        "Microsoft::WRL::Details::RuntimeClassImpl<Microsoft::WRL::RuntimeClassFlags<2>,1,0,1,IStream>::AddRef": {
+            "offset": "0xF250"
+        },
+        "Microsoft::WRL::Details::RuntimeClassImpl<Microsoft::WRL::RuntimeClassFlags<2>,1,0,1,IStream>::QueryInterface": {
+            "offset": "0xF460"
+        },
+        "Microsoft::WRL::Details::RuntimeClassImpl<Microsoft::WRL::RuntimeClassFlags<2>,1,0,1,IStream>::Release": {
+            "offset": "0xF510"
+        },
+        "Microsoft::WRL::RuntimeClass<Microsoft::WRL::RuntimeClassFlags<2>,IStream>::~RuntimeClass<Microsoft::WRL::RuntimeClassFlags<2>,IStream>": {
+            "offset": "0xF1B0"
+        },
+        "RaiseDebugException": {
+            "offset": "0x1E540"
+        },
+        "ScopedError::~ScopedError": {
+            "offset": "0x9EB0"
+        },
+        "SysError": {
+            "offset": "0xC220"
+        },
+        "ToNarrow": {
+            "offset": "0x1E600"
+        },
+        "ToWide": {
+            "offset": "0x1E6F0"
+        },
+        "TraceRealV": {
+            "offset": "0x1EA00"
+        },
+        "VfsStream::Clone": {
+            "offset": "0xF280"
+        },
+        "VfsStream::Commit": {
+            "offset": "0xF280"
+        },
+        "VfsStream::CopyTo": {
+            "offset": "0xF280"
+        },
+        "VfsStream::LockRegion": {
+            "offset": "0xF280"
+        },
+        "VfsStream::Read": {
+            "offset": "0xF4F0"
+        },
+        "VfsStream::Revert": {
+            "offset": "0xF280"
+        },
+        "VfsStream::Seek": {
+            "offset": "0xF580"
+        },
+        "VfsStream::SetSize": {
+            "offset": "0xF280"
+        },
+        "VfsStream::Stat": {
+            "offset": "0xF5B0"
+        },
+        "VfsStream::UnlockRegion": {
+            "offset": "0xF280"
+        },
+        "VfsStream::Write": {
+            "offset": "0xF5E0"
+        },
+        "Win32TrapAndJump64": {
+            "offset": "0x1F260"
+        },
+        "_DllMainCRTStartup": {
+            "offset": "0x26840"
+        },
+        "_Init_thread_abort": {
+            "offset": "0x25B54"
+        },
+        "_Init_thread_footer": {
+            "offset": "0x25B84"
+        },
+        "_Init_thread_header": {
+            "offset": "0x25BE4"
+        },
+        "_Init_thread_notify": {
+            "offset": "0x25C4C"
+        },
+        "_Init_thread_wait": {
+            "offset": "0x25C90"
+        },
+        "_RTC_Initialize": {
+            "offset": "0x27018"
+        },
+        "_RTC_Terminate": {
+            "offset": "0x27054"
+        },
+        "_Smtx_lock_exclusive": {
+            "offset": "0x259D8"
+        },
+        "_Smtx_unlock_exclusive": {
+            "offset": "0x259E0"
+        },
+        "__ArrayUnwind": {
+            "offset": "0x26438"
+        },
+        "__GSHandlerCheck": {
+            "offset": "0x26270"
+        },
+        "__GSHandlerCheckCommon": {
+            "offset": "0x26290"
+        },
+        "__GSHandlerCheck_EH": {
+            "offset": "0x262EC"
+        },
+        "__GSHandlerCheck_SEH": {
+            "offset": "0x26B1C"
+        },
+        "__chkstk": {
+            "offset": "0x264D0"
+        },
+        "__crt_debugger_hook": {
+            "offset": "0x26D50"
+        },
+        "__dyn_tls_init": {
+            "offset": "0x260B8"
+        },
+        "__dyn_tls_on_demand_init": {
+            "offset": "0x26120"
+        },
+        "__isa_available_init": {
+            "offset": "0x26BA4"
+        },
+        "__local_stdio_printf_options": {
+            "offset": "0xDC80"
+        },
+        "__local_stdio_scanf_options": {
+            "offset": "0x26FEC"
+        },
+        "__raise_securityfailure": {
+            "offset": "0x26880"
+        },
+        "__report_gsfailure": {
+            "offset": "0x268B4"
+        },
+        "__report_rangecheckfailure": {
+            "offset": "0x26988"
+        },
+        "__report_securityfailure": {
+            "offset": "0x2699C"
+        },
+        "__scrt_acquire_startup_lock": {
+            "offset": "0x25D38"
+        },
+        "__scrt_dllmain_after_initialize_c": {
+            "offset": "0x25D74"
+        },
+        "__scrt_dllmain_before_initialize_c": {
+            "offset": "0x25DA8"
+        },
+        "__scrt_dllmain_crt_thread_attach": {
+            "offset": "0x25DC0"
+        },
+        "__scrt_dllmain_crt_thread_detach": {
+            "offset": "0x25DE8"
+        },
+        "__scrt_dllmain_exception_filter": {
+            "offset": "0x25E00"
+        },
+        "__scrt_dllmain_uninitialize_c": {
+            "offset": "0x25E60"
+        },
+        "__scrt_dllmain_uninitialize_critical": {
+            "offset": "0x25E90"
+        },
+        "__scrt_fastfail": {
+            "offset": "0x26D58"
+        },
+        "__scrt_get_dyn_tls_init_callback": {
+            "offset": "0x27010"
+        },
+        "__scrt_initialize_crt": {
+            "offset": "0x25EA4"
+        },
+        "__scrt_initialize_default_local_stdio_options": {
+            "offset": "0x26FF4"
+        },
+        "__scrt_initialize_onexit_tables": {
+            "offset": "0x25EF0"
+        },
+        "__scrt_initialize_thread_safe_statics": {
+            "offset": "0x25A5C"
+        },
+        "__scrt_initialize_type_info": {
+            "offset": "0x26FD0"
+        },
+        "__scrt_is_nonwritable_in_current_image": {
+            "offset": "0x25F7C"
+        },
+        "__scrt_is_nonwritable_in_current_image$filt$0": {
+            "offset": "0x2C248"
+        },
+        "__scrt_is_ucrt_dll_in_use": {
+            "offset": "0x26EF4"
+        },
+        "__scrt_release_startup_lock": {
+            "offset": "0x26014"
+        },
+        "__scrt_stub_for_acrt_initialize": {
+            "offset": "0xDE70"
+        },
+        "__scrt_stub_for_acrt_thread_attach": {
+            "offset": "0xDE70"
+        },
+        "__scrt_stub_for_acrt_thread_detach": {
+            "offset": "0xDE70"
+        },
+        "__scrt_stub_for_acrt_uninitialize": {
+            "offset": "0xDE70"
+        },
+        "__scrt_stub_for_acrt_uninitialize_critical": {
+            "offset": "0xDE70"
+        },
+        "__scrt_stub_for_is_c_termination_complete": {
+            "offset": "0xDDA0"
+        },
+        "__scrt_throw_std_bad_alloc": {
+            "offset": "0x26EC4"
+        },
+        "__scrt_throw_std_bad_array_new_length": {
+            "offset": "0xCA20"
+        },
+        "__scrt_uninitialize_crt": {
+            "offset": "0x26038"
+        },
+        "__scrt_uninitialize_thread_safe_statics": {
+            "offset": "0x25B2C"
+        },
+        "__scrt_uninitialize_type_info": {
+            "offset": "0x26FE0"
+        },
+        "__security_check_cookie": {
+            "offset": "0x26380"
+        },
+        "__security_init_cookie": {
+            "offset": "0x26F00"
+        },
+        "__std_find_trivial_1": {
+            "offset": "0x25900"
+        },
+        "_get_startup_argv_mode": {
+            "offset": "0x26EEC"
+        },
+        "_guard_check_icall_nop": {
+            "offset": "0x9CC0"
+        },
+        "_guard_dispatch_icall_nop": {
+            "offset": "0x2B7F0"
+        },
+        "_guard_xfg_dispatch_icall_nop": {
+            "offset": "0x2B810"
+        },
+        "_onexit": {
+            "offset": "0x26064"
+        },
+        "_tr_align": {
+            "offset": "0x29B00"
+        },
+        "_tr_flush_bits": {
+            "offset": "0x29BF0"
+        },
+        "_tr_flush_block": {
+            "offset": "0x29C00"
+        },
+        "_tr_init": {
+            "offset": "0x29F60"
+        },
+        "_tr_stored_block": {
+            "offset": "0x29FD0"
+        },
+        "_wwassert": {
+            "offset": "0x1CD00"
+        },
+        "`__ArrayUnwind'::`1'::filt$0": {
+            "offset": "0x2C28C"
+        },
+        "`dllmain_crt_process_attach'::`1'::fin$0": {
+            "offset": "0x2C309"
+        },
+        "`dllmain_crt_process_detach'::`1'::fin$0": {
+            "offset": "0x2C320"
+        },
+        "`dllmain_crt_process_detach'::`1'::fin$1": {
+            "offset": "0x2C339"
+        },
+        "`dllmain_dispatch'::`1'::filt$0": {
+            "offset": "0x2C34D"
+        },
+        "`dynamic initializer for '_init_instance_0''": {
+            "offset": "0x1000"
+        },
+        "`dynamic initializer for 'g_thisError''": {
+            "offset": "0x1030"
+        },
+        "`dynamic initializer for 'initIoBuf''": {
+            "offset": "0x1340"
+        },
+        "adler32": {
+            "offset": "0x20F10"
+        },
+        "adler32_z": {
+            "offset": "0x20F20"
+        },
+        "atexit": {
+            "offset": "0x260A0"
+        },
+        "bi_flush": {
+            "offset": "0x2A120"
+        },
+        "bi_windup": {
+            "offset": "0x2A1A0"
+        },
+        "build_tree": {
+            "offset": "0x2A200"
+        },
+        "capture_current_context": {
+            "offset": "0x26A38"
+        },
+        "capture_previous_context": {
+            "offset": "0x26AA8"
+        },
+        "compress_block": {
+            "offset": "0x2A440"
+        },
+        "crc32": {
+            "offset": "0x21200"
+        },
+        "crc32_z": {
+            "offset": "0x21210"
+        },
+        "deflate": {
+            "offset": "0x28040"
+        },
+        "deflateEnd": {
+            "offset": "0x28AA0"
+        },
+        "deflateInit2_": {
+            "offset": "0x28B90"
+        },
+        "deflateReset": {
+            "offset": "0x28E10"
+        },
+        "deflate_fast": {
+            "offset": "0x27610"
+        },
+        "deflate_huff": {
+            "offset": "0x28FB0"
+        },
+        "deflate_rle": {
+            "offset": "0x29200"
+        },
+        "deflate_slow": {
+            "offset": "0x27AC0"
+        },
+        "deflate_stored": {
+            "offset": "0x27180"
+        },
+        "dllmain_crt_dispatch": {
+            "offset": "0x26520"
+        },
+        "dllmain_crt_process_attach": {
+            "offset": "0x26570"
+        },
+        "dllmain_crt_process_detach": {
+            "offset": "0x26688"
+        },
+        "dllmain_dispatch": {
+            "offset": "0x2670C"
+        },
+        "fill_window": {
+            "offset": "0x295A0"
+        },
+        "flush_pending": {
+            "offset": "0x29820"
+        },
+        "fmt::v8::basic_memory_buffer<char,500,std::allocator<char> >::grow": {
+            "offset": "0xD060"
+        },
+        "fmt::v8::basic_memory_buffer<char,500,std::allocator<char> >::~basic_memory_buffer<char,500,std::allocator<char> >": {
+            "offset": "0x9D80"
+        },
+        "fmt::v8::basic_memory_buffer<unsigned int,32,std::allocator<unsigned int> >::grow": {
+            "offset": "0x1B340"
+        },
+        "fmt::v8::basic_memory_buffer<unsigned int,32,std::allocator<unsigned int> >::~basic_memory_buffer<unsigned int,32,std::allocator<unsigned int> >": {
+            "offset": "0x1A980"
+        },
+        "fmt::v8::detail::add_compare": {
+            "offset": "0x1AB50"
+        },
+        "fmt::v8::detail::assert_fail": {
+            "offset": "0x1AC90"
+        },
+        "fmt::v8::detail::bigint::assign_pow10": {
+            "offset": "0x1ACE0"
+        },
+        "fmt::v8::detail::bigint::divmod_assign": {
+            "offset": "0x1AEB0"
+        },
+        "fmt::v8::detail::bigint::square": {
+            "offset": "0x1B710"
+        },
+        "fmt::v8::detail::bigint::~bigint": {
+            "offset": "0x1A980"
+        },
+        "fmt::v8::detail::buffer<char>::append<char>": {
+            "offset": "0x2590"
+        },
+        "fmt::v8::detail::buffer<char>::try_resize": {
+            "offset": "0x1B9D0"
+        },
+        "fmt::v8::detail::compare": {
+            "offset": "0x1AE10"
+        },
+        "fmt::v8::detail::count_digits": {
+            "offset": "0xCE40"
+        },
+        "fmt::v8::detail::decimal_point_impl<char>": {
+            "offset": "0x174D0"
+        },
+        "fmt::v8::detail::do_throw<fmt::v8::format_error>": {
+            "offset": "0x2640"
+        },
+        "fmt::v8::detail::dragonbox::cache_accessor<double>::get_cached_power": {
+            "offset": "0x1B210"
+        },
+        "fmt::v8::detail::dragonbox::is_endpoint_integer<double>": {
+            "offset": "0x193A0"
+        },
+        "fmt::v8::detail::dragonbox::remove_trailing_zeros": {
+            "offset": "0x1B4F0"
+        },
+        "fmt::v8::detail::dragonbox::shorter_interval_case<float>": {
+            "offset": "0x193D0"
+        },
+        "fmt::v8::detail::dragonbox::to_decimal<double>": {
+            "offset": "0x1A090"
+        },
+        "fmt::v8::detail::dragonbox::to_decimal<float>": {
+            "offset": "0x19C60"
+        },
+        "fmt::v8::detail::error_handler::on_error": {
+            "offset": "0x1B470"
+        },
+        "fmt::v8::detail::fallback_format<double>": {
+            "offset": "0x175E0"
+        },
+        "fmt::v8::detail::fallback_format<long double>": {
+            "offset": "0x175E0"
+        },
+        "fmt::v8::detail::fmt_snprintf": {
+            "offset": "0x1B1A0"
+        },
+        "fmt::v8::detail::for_each_codepoint<`fmt::v8::detail::compute_width'::`2'::count_code_points>": {
+            "offset": "0x2670"
+        },
+        "fmt::v8::detail::format_decimal<char,unsigned __int64,fmt::v8::appender,0>": {
+            "offset": "0x18A90"
+        },
+        "fmt::v8::detail::format_decimal<char,unsigned __int64>": {
+            "offset": "0x2940"
+        },
+        "fmt::v8::detail::format_decimal<char,unsigned int,fmt::v8::appender,0>": {
+            "offset": "0x18970"
+        },
+        "fmt::v8::detail::format_float<double>": {
+            "offset": "0x17020"
+        },
+        "fmt::v8::detail::format_float<long double>": {
+            "offset": "0x18BD0"
+        },
+        "fmt::v8::detail::format_uint<4,char,fmt::v8::appender,unsigned __int64>": {
+            "offset": "0x2A20"
+        },
+        "fmt::v8::detail::grisu_gen_digits<fmt::v8::detail::fixed_handler>": {
+            "offset": "0x18F30"
+        },
+        "fmt::v8::detail::parse_float_type_spec<fmt::v8::detail::error_handler,char>": {
+            "offset": "0x2B40"
+        },
+        "fmt::v8::detail::parse_header<char,<lambda_10b59f138e704e35b5296527d0235f76> >": {
+            "offset": "0x2CA0"
+        },
+        "fmt::v8::detail::parse_nonnegative_int<char>": {
+            "offset": "0x2F00"
+        },
+        "fmt::v8::detail::printf_arg_formatter<fmt::v8::appender,char>::write_null_pointer": {
+            "offset": "0xDBD0"
+        },
+        "fmt::v8::detail::snprintf_float<double>": {
+            "offset": "0x195E0"
+        },
+        "fmt::v8::detail::snprintf_float<long double>": {
+            "offset": "0x19860"
+        },
+        "fmt::v8::detail::thousands_sep_impl<char>": {
+            "offset": "0x19AF0"
+        },
+        "fmt::v8::detail::thousands_sep_result<char>::~thousands_sep_result<char>": {
+            "offset": "0x9DE0"
+        },
+        "fmt::v8::detail::to_unsigned<int>": {
+            "offset": "0x2FD0"
+        },
+        "fmt::v8::detail::utf8_decode": {
+            "offset": "0xDA10"
+        },
+        "fmt::v8::detail::vprintf<char,fmt::v8::basic_printf_context<fmt::v8::appender,char> >": {
+            "offset": "0x45D0"
+        },
+        "fmt::v8::detail::write<char,fmt::v8::appender,double,0>": {
+            "offset": "0x55D0"
+        },
+        "fmt::v8::detail::write<char,fmt::v8::appender,float,0>": {
+            "offset": "0x5180"
+        },
+        "fmt::v8::detail::write<char,fmt::v8::appender,long double,0>": {
+            "offset": "0x5A10"
+        },
+        "fmt::v8::detail::write<char,fmt::v8::appender,unsigned __int64,0>": {
+            "offset": "0x1A6F0"
+        },
+        "fmt::v8::detail::write<char,fmt::v8::appender,unsigned int,0>": {
+            "offset": "0x1A5D0"
+        },
+        "fmt::v8::detail::write<char,fmt::v8::appender>": {
+            "offset": "0x50B0"
+        },
+        "fmt::v8::detail::write_char<char,fmt::v8::appender>": {
+            "offset": "0x5E50"
+        },
+        "fmt::v8::detail::write_exponent<char,fmt::v8::appender>": {
+            "offset": "0x5E90"
+        },
+        "fmt::v8::detail::write_float<fmt::v8::appender,fmt::v8::detail::big_decimal_fp,char>": {
+            "offset": "0x6020"
+        },
+        "fmt::v8::detail::write_int<char,fmt::v8::appender,unsigned __int64>": {
+            "offset": "0x69E0"
+        },
+        "fmt::v8::detail::write_int<char,fmt::v8::appender,unsigned int>": {
+            "offset": "0x63F0"
+        },
+        "fmt::v8::detail::write_int_data<char>::write_int_data<char>": {
+            "offset": "0x9970"
+        },
+        "fmt::v8::detail::write_int_localized<fmt::v8::appender,unsigned __int64,char>": {
+            "offset": "0x7110"
+        },
+        "fmt::v8::detail::write_padded<1,fmt::v8::appender,char,<lambda_051aec1ce4ed0271119623a7e83ac6a5> &>": {
+            "offset": "0x7530"
+        },
+        "fmt::v8::detail::write_padded<1,fmt::v8::appender,char,<lambda_22cb150d85fca5a3ac6a96f517638e39> &>": {
+            "offset": "0x7700"
+        },
+        "fmt::v8::detail::write_padded<1,fmt::v8::appender,char,<lambda_69652fb90da4a77ba8cf5fef5ea19cdd> >": {
+            "offset": "0x78A0"
+        },
+        "fmt::v8::detail::write_padded<1,fmt::v8::appender,char,<lambda_fbd162939e03e0c955beb05a33c24f5e> &>": {
+            "offset": "0x78A0"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_02a1634acea1c2868026d163185cc0d5> &>": {
+            "offset": "0x7A30"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_06b2adfe852a46c8d65fe26cc7c8ca5d> &>": {
+            "offset": "0x7C50"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_06f64a48a5b4f184684d74740837f1c7> &>": {
+            "offset": "0x7DD0"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_2d30ec7f416bbcee3bc8a87df0c22c03> >": {
+            "offset": "0x9560"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_33ba7a720adff5c90e1946d777cb5230> &>": {
+            "offset": "0x7F60"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_4ea56d52f8212d84933fa76e5a159b3f> &>": {
+            "offset": "0x8180"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_514469ad4ff2f796c2a70ef6994dff64> &>": {
+            "offset": "0x8420"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_596cc5dacf733e82dcb56ca6ee54b81f> &>": {
+            "offset": "0x8640"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_686459aaae64d4cbdde6763d637485ac> &>": {
+            "offset": "0x87C0"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_694eb9c30a49e7dae164c077f09b5a7f> &>": {
+            "offset": "0x89E0"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_8cce229a1891be08a4c6e75623ca3fd6> &>": {
+            "offset": "0x8C00"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_b9c069f91a736dafbdb5ba8344e9f4c8> &>": {
+            "offset": "0x8D80"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_cb4d4b26b782de201d2a0edc777aea57> &>": {
+            "offset": "0x8FA0"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_de0fdbc03b7ebc9cd9291e836878da40> &>": {
+            "offset": "0x9120"
+        },
+        "fmt::v8::detail::write_padded<2,fmt::v8::appender,char,<lambda_f811a0db88237a09377d34dce98c0f31> &>": {
+            "offset": "0x9340"
+        },
+        "fmt::v8::detail::write_ptr<char,fmt::v8::appender,unsigned __int64>": {
+            "offset": "0x96F0"
+        },
+        "fmt::v8::format_error::format_error": {
+            "offset": "0x9B70"
+        },
+        "fmt::v8::format_error::~format_error": {
+            "offset": "0x9F10"
+        },
+        "fmt::v8::sprintf<char [43],std::basic_string_view<char,std::char_traits<char> >,char const *,char>": {
+            "offset": "0x1D8B0"
+        },
+        "fmt::v8::visit_format_arg<fmt::v8::detail::arg_converter<__int64,fmt::v8::basic_printf_context<fmt::v8::appender,char> >,fmt::v8::basic_printf_context<fmt::v8::appender,char> >": {
+            "offset": "0x3440"
+        },
+        "fmt::v8::visit_format_arg<fmt::v8::detail::arg_converter<long,fmt::v8::basic_printf_context<fmt::v8::appender,char> >,fmt::v8::basic_printf_context<fmt::v8::appender,char> >": {
+            "offset": "0x3220"
+        },
+        "fmt::v8::visit_format_arg<fmt::v8::detail::arg_converter<short,fmt::v8::basic_printf_context<fmt::v8::appender,char> >,fmt::v8::basic_printf_context<fmt::v8::appender,char> >": {
+            "offset": "0x30F0"
+        },
+        "fmt::v8::visit_format_arg<fmt::v8::detail::arg_converter<signed char,fmt::v8::basic_printf_context<fmt::v8::appender,char> >,fmt::v8::basic_printf_context<fmt::v8::appender,char> >": {
+            "offset": "0x3000"
+        },
+        "fmt::v8::visit_format_arg<fmt::v8::detail::arg_converter<unsigned __int64,fmt::v8::basic_printf_context<fmt::v8::appender,char> >,fmt::v8::basic_printf_context<fmt::v8::appender,char> >": {
+            "offset": "0x3440"
+        },
+        "fmt::v8::visit_format_arg<fmt::v8::detail::arg_converter<void,fmt::v8::basic_printf_context<fmt::v8::appender,char> >,fmt::v8::basic_printf_context<fmt::v8::appender,char> >": {
+            "offset": "0x3310"
+        },
+        "fmt::v8::visit_format_arg<fmt::v8::detail::printf_arg_formatter<fmt::v8::appender,char>,fmt::v8::basic_printf_context<fmt::v8::appender,char> >": {
+            "offset": "0x3570"
+        },
+        "fmt::v8::visit_format_arg<fmt::v8::detail::printf_precision_handler,fmt::v8::basic_printf_context<fmt::v8::appender,char> >": {
+            "offset": "0x40D0"
+        },
+        "fmt::v8::visit_format_arg<fmt::v8::detail::printf_width_handler<char>,fmt::v8::basic_printf_context<fmt::v8::appender,char> >": {
+            "offset": "0x3B00"
+        },
+        "fmt::v8::vsprintf<fmt::v8::basic_string_view<char>,char>": {
+            "offset": "0x10620"
+        },
+        "fmt::v8::vsprintf<std::basic_string_view<char,std::char_traits<char> >,char>": {
+            "offset": "0x1E150"
+        },
+        "fprintf": {
+            "offset": "0xDC90"
+        },
+        "fwPlatformString::~fwPlatformString": {
+            "offset": "0x9F30"
+        },
+        "fwRefContainer<vfs::Device>::~fwRefContainer<vfs::Device>": {
+            "offset": "0xE190"
+        },
+        "fwRefContainer<vfs::Stream>::~fwRefContainer<vfs::Stream>": {
+            "offset": "0xE190"
+        },
+        "fwRefCountable::AddRef": {
+            "offset": "0x1F1F0"
+        },
+        "fwRefCountable::Release": {
+            "offset": "0x1F200"
+        },
+        "fwRefCountable::~fwRefCountable": {
+            "offset": "0x1F1E0"
+        },
+        "gen_bitlen": {
+            "offset": "0x2A8A0"
+        },
+        "gen_codes": {
+            "offset": "0x2AAB0"
+        },
+        "inflate": {
+            "offset": "0x1F280"
+        },
+        "inflateEnd": {
+            "offset": "0x20B00"
+        },
+        "inflateInit2_": {
+            "offset": "0x20B80"
+        },
+        "inflate_fast": {
+            "offset": "0x21C80"
+        },
+        "inflate_table": {
+            "offset": "0x216E0"
+        },
+        "init_block": {
+            "offset": "0x2AC00"
+        },
+        "launch::IsSDKGuest": {
+            "offset": "0x1CC80"
+        },
+        "longest_match": {
+            "offset": "0x298A0"
+        },
+        "mz_stream_close": {
+            "offset": "0x22480"
+        },
+        "mz_stream_copy": {
+            "offset": "0x224E0"
+        },
+        "mz_stream_crc32_close": {
+            "offset": "0x24FA0"
+        },
+        "mz_stream_crc32_create": {
+            "offset": "0x24FF0"
+        },
+        "mz_stream_crc32_delete": {
+            "offset": "0x22450"
+        },
+        "mz_stream_crc32_error": {
+            "offset": "0x24FB0"
+        },
+        "mz_stream_crc32_get_prop_int64": {
+            "offset": "0x24FC0"
+        },
+        "mz_stream_crc32_get_value": {
+            "offset": "0x25060"
+        },
+        "mz_stream_crc32_is_open": {
+            "offset": "0x24EC0"
+        },
+        "mz_stream_crc32_open": {
+            "offset": "0x24EB0"
+        },
+        "mz_stream_crc32_read": {
+            "offset": "0x24ED0"
+        },
+        "mz_stream_crc32_seek": {
+            "offset": "0x24F80"
+        },
+        "mz_stream_crc32_tell": {
+            "offset": "0x24F70"
+        },
+        "mz_stream_crc32_write": {
+            "offset": "0x24F20"
+        },
+        "mz_stream_delete": {
+            "offset": "0x225F0"
+        },
+        "mz_stream_error": {
+            "offset": "0x22630"
+        },
+        "mz_stream_get_prop_int64": {
+            "offset": "0x22650"
+        },
+        "mz_stream_mem_close": {
+            "offset": "0xDDA0"
+        },
+        "mz_stream_mem_create": {
+            "offset": "0x25280"
+        },
+        "mz_stream_mem_delete": {
+            "offset": "0x252D0"
+        },
+        "mz_stream_mem_error": {
+            "offset": "0xDDA0"
+        },
+        "mz_stream_mem_get_buffer": {
+            "offset": "0x25320"
+        },
+        "mz_stream_mem_get_buffer_at": {
+            "offset": "0x25340"
+        },
+        "mz_stream_mem_is_open": {
+            "offset": "0x25100"
+        },
+        "mz_stream_mem_open": {
+            "offset": "0x25070"
+        },
+        "mz_stream_mem_read": {
+            "offset": "0x25110"
+        },
+        "mz_stream_mem_seek": {
+            "offset": "0x25210"
+        },
+        "mz_stream_mem_set_buffer": {
+            "offset": "0x25370"
+        },
+        "mz_stream_mem_set_size": {
+            "offset": "0x25380"
+        },
+        "mz_stream_mem_tell": {
+            "offset": "0x25200"
+        },
+        "mz_stream_mem_write": {
+            "offset": "0x25170"
+        },
+        "mz_stream_open": {
+            "offset": "0x22670"
+        },
+        "mz_stream_raw_close": {
+            "offset": "0xDDA0"
+        },
+        "mz_stream_raw_create": {
+            "offset": "0x22400"
+        },
+        "mz_stream_raw_delete": {
+            "offset": "0x22450"
+        },
+        "mz_stream_raw_error": {
+            "offset": "0x22380"
+        },
+        "mz_stream_raw_get_prop_int64": {
+            "offset": "0x223B0"
+        },
+        "mz_stream_raw_is_open": {
+            "offset": "0x22180"
+        },
+        "mz_stream_raw_open": {
+            "offset": "0xDDA0"
+        },
+        "mz_stream_raw_read": {
+            "offset": "0x221B0"
+        },
+        "mz_stream_raw_seek": {
+            "offset": "0x222F0"
+        },
+        "mz_stream_raw_set_prop_int64": {
+            "offset": "0x223E0"
+        },
+        "mz_stream_raw_tell": {
+            "offset": "0x22290"
+        },
+        "mz_stream_raw_write": {
+            "offset": "0x22260"
+        },
+        "mz_stream_read": {
+            "offset": "0x22690"
+        },
+        "mz_stream_read_uint16": {
+            "offset": "0x22720"
+        },
+        "mz_stream_read_uint32": {
+            "offset": "0x22760"
+        },
+        "mz_stream_read_uint64": {
+            "offset": "0x22790"
+        },
+        "mz_stream_read_value": {
+            "offset": "0x227A0"
+        },
+        "mz_stream_seek": {
+            "offset": "0x22890"
+        },
+        "mz_stream_set_base": {
+            "offset": "0x22920"
+        },
+        "mz_stream_set_prop_int64": {
+            "offset": "0x22930"
+        },
+        "mz_stream_tell": {
+            "offset": "0x22950"
+        },
+        "mz_stream_vfs_close": {
+            "offset": "0x14F40"
+        },
+        "mz_stream_vfs_create": {
+            "offset": "0x14FA0"
+        },
+        "mz_stream_vfs_delete": {
+            "offset": "0x14FE0"
+        },
+        "mz_stream_vfs_error": {
+            "offset": "0x14F90"
+        },
+        "mz_stream_vfs_is_open": {
+            "offset": "0x14E00"
+        },
+        "mz_stream_vfs_open": {
+            "offset": "0x14B80"
+        },
+        "mz_stream_vfs_read": {
+            "offset": "0x14E20"
+        },
+        "mz_stream_vfs_reuse": {
+            "offset": "0x16F80"
+        },
+        "mz_stream_vfs_seek": {
+            "offset": "0x14EB0"
+        },
+        "mz_stream_vfs_tell": {
+            "offset": "0x14E90"
+        },
+        "mz_stream_vfs_write": {
+            "offset": "0x14E80"
+        },
+        "mz_stream_write": {
+            "offset": "0x229B0"
+        },
+        "mz_stream_write_uint16": {
+            "offset": "0x22A50"
+        },
+        "mz_stream_write_uint32": {
+            "offset": "0x22A60"
+        },
+        "mz_stream_write_uint64": {
+            "offset": "0x22A70"
+        },
+        "mz_stream_write_uint8": {
+            "offset": "0x22A80"
+        },
+        "mz_stream_write_value": {
+            "offset": "0x22A90"
+        },
+        "mz_stream_zlib_close": {
+            "offset": "0x256C0"
+        },
+        "mz_stream_zlib_crc32": {
+            "offset": "0x258E0"
+        },
+        "mz_stream_zlib_create": {
+            "offset": "0x25880"
+        },
+        "mz_stream_zlib_delete": {
+            "offset": "0x22450"
+        },
+        "mz_stream_zlib_error": {
+            "offset": "0x257F0"
+        },
+        "mz_stream_zlib_get_crc32_update": {
+            "offset": "0x258F0"
+        },
+        "mz_stream_zlib_get_prop_int64": {
+            "offset": "0x25800"
+        },
+        "mz_stream_zlib_is_open": {
+            "offset": "0x254D0"
+        },
+        "mz_stream_zlib_open": {
+            "offset": "0x253E0"
+        },
+        "mz_stream_zlib_read": {
+            "offset": "0x254E0"
+        },
+        "mz_stream_zlib_seek": {
+            "offset": "0x14E80"
+        },
+        "mz_stream_zlib_set_prop_int64": {
+            "offset": "0x25850"
+        },
+        "mz_stream_zlib_tell": {
+            "offset": "0xF600"
+        },
+        "mz_stream_zlib_write": {
+            "offset": "0x255F0"
+        },
+        "mz_zip_attrib_is_dir": {
+            "offset": "0x22B60"
+        },
+        "mz_zip_close": {
+            "offset": "0x22BC0"
+        },
+        "mz_zip_create": {
+            "offset": "0x22CB0"
+        },
+        "mz_zip_delete": {
+            "offset": "0x22450"
+        },
+        "mz_zip_entry_close_raw": {
+            "offset": "0x22D00"
+        },
+        "mz_zip_entry_get_info": {
+            "offset": "0x22F30"
+        },
+        "mz_zip_entry_open_int": {
+            "offset": "0x22F50"
+        },
+        "mz_zip_entry_read": {
+            "offset": "0x23160"
+        },
+        "mz_zip_entry_read_header": {
+            "offset": "0x23190"
+        },
+        "mz_zip_entry_read_open": {
+            "offset": "0x23840"
+        },
+        "mz_zip_entry_write_header": {
+            "offset": "0x23930"
+        },
+        "mz_zip_get_entry": {
+            "offset": "0x24050"
+        },
+        "mz_zip_goto_entry": {
+            "offset": "0x24070"
+        },
+        "mz_zip_goto_first_entry": {
+            "offset": "0x240A0"
+        },
+        "mz_zip_goto_next_entry": {
+            "offset": "0x24130"
+        },
+        "mz_zip_goto_next_entry_int": {
+            "offset": "0x241D0"
+        },
+        "mz_zip_open": {
+            "offset": "0x24250"
+        },
+        "mz_zip_read_cd": {
+            "offset": "0x24480"
+        },
+        "mz_zip_write_cd": {
+            "offset": "0x24AB0"
+        },
+        "pqdownheap": {
+            "offset": "0x2ADD0"
+        },
+        "rapidjson::GenericDocument<rapidjson::UTF8<char>,rapidjson::MemoryPoolAllocator<rapidjson::CrtAllocator>,rapidjson::CrtAllocator>::~GenericDocument<rapidjson::UTF8<char>,rapidjson::MemoryPoolAllocator<rapidjson::CrtAllocator>,rapidjson::CrtAllocator>": {
+            "offset": "0x9BF0"
+        },
+        "rapidjson::GenericStringBuffer<rapidjson::UTF8<char>,rapidjson::CrtAllocator>::~GenericStringBuffer<rapidjson::UTF8<char>,rapidjson::CrtAllocator>": {
+            "offset": "0x9C90"
+        },
+        "rapidjson::GenericValue<rapidjson::UTF8<char>,rapidjson::MemoryPoolAllocator<rapidjson::CrtAllocator> >::Accept<rapidjson::Writer<rapidjson::GenericStringBuffer<rapidjson::UTF8<char>,rapidjson::CrtAllocator>,rapidjson::UTF8<char>,rapidjson::UTF8<char>,rapidjson::CrtAllocator,0> >": {
+            "offset": "0x1500"
+        },
+        "rapidjson::GenericValue<rapidjson::UTF8<char>,rapidjson::MemoryPoolAllocator<rapidjson::CrtAllocator> >::AddMember": {
+            "offset": "0xAD60"
+        },
+        "rapidjson::GenericValue<rapidjson::UTF8<char>,rapidjson::MemoryPoolAllocator<rapidjson::CrtAllocator> >::~GenericValue<rapidjson::UTF8<char>,rapidjson::MemoryPoolAllocator<rapidjson::CrtAllocator> >": {
+            "offset": "0x9CC0"
+        },
+        "rapidjson::MemoryPoolAllocator<rapidjson::CrtAllocator>::Malloc": {
+            "offset": "0xBEB0"
+        },
+        "rapidjson::Writer<rapidjson::GenericStringBuffer<rapidjson::UTF8<char>,rapidjson::CrtAllocator>,rapidjson::UTF8<char>,rapidjson::UTF8<char>,rapidjson::CrtAllocator,0>::Prefix": {
+            "offset": "0xBF70"
+        },
+        "rapidjson::Writer<rapidjson::GenericStringBuffer<rapidjson::UTF8<char>,rapidjson::CrtAllocator>,rapidjson::UTF8<char>,rapidjson::UTF8<char>,rapidjson::CrtAllocator,0>::String": {
+            "offset": "0xC1E0"
+        },
+        "rapidjson::Writer<rapidjson::GenericStringBuffer<rapidjson::UTF8<char>,rapidjson::CrtAllocator>,rapidjson::UTF8<char>,rapidjson::UTF8<char>,rapidjson::CrtAllocator,0>::WriteString": {
+            "offset": "0xC680"
+        },
+        "rapidjson::Writer<rapidjson::GenericStringBuffer<rapidjson::UTF8<char>,rapidjson::CrtAllocator>,rapidjson::UTF8<char>,rapidjson::UTF8<char>,rapidjson::CrtAllocator,0>::~Writer<rapidjson::GenericStringBuffer<rapidjson::UTF8<char>,rapidjson::CrtAllocator>,rapidjson::UTF8<char>,rapidjson::UTF8<char>,rapidjson::CrtAllocator,0>": {
+            "offset": "0x9CD0"
+        },
+        "rapidjson::internal::DigitGen": {
+            "offset": "0xB010"
+        },
+        "rapidjson::internal::Grisu2": {
+            "offset": "0xBAC0"
+        },
+        "rapidjson::internal::Prettify": {
+            "offset": "0xC020"
+        },
+        "rapidjson::internal::Stack<rapidjson::CrtAllocator>::Push<rapidjson::Writer<rapidjson::GenericStringBuffer<rapidjson::UTF8<char>,rapidjson::CrtAllocator>,rapidjson::UTF8<char>,rapidjson::UTF8<char>,rapidjson::CrtAllocator,0>::Level>": {
+            "offset": "0x1F90"
+        },
+        "rapidjson::internal::Stack<rapidjson::CrtAllocator>::Reserve<char>": {
+            "offset": "0x2060"
+        },
+        "rapidjson::internal::Stack<rapidjson::CrtAllocator>::~Stack<rapidjson::CrtAllocator>": {
+            "offset": "0x9C90"
+        },
+        "rapidjson::internal::WriteExponent": {
+            "offset": "0xC5F0"
+        },
+        "rapidjson::internal::u32toa": {
+            "offset": "0xD150"
+        },
+        "rapidjson::internal::u64toa": {
+            "offset": "0xD3C0"
+        },
+        "read_buf": {
+            "offset": "0x29A60"
+        },
+        "scan_tree": {
+            "offset": "0x2AEC0"
+        },
+        "send_all_trees": {
+            "offset": "0x2AFD0"
+        },
+        "send_tree": {
+            "offset": "0x2B270"
+        },
+        "std::_Alloc_construct_ptr<std::allocator<std::_List_node<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char> > const ,vfs::ZipFile::Entry>,void *> > >::~_Alloc_construct_ptr<std::allocator<std::_List_node<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char> > const ,vfs::ZipFile::Entry>,void *> > >": {
+            "offset": "0x9D00"
+        },
+        "std::_Alloc_construct_ptr<std::allocator<std::_Tree_node<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier>,void *> > >::~_Alloc_construct_ptr<std::allocator<std::_Tree_node<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier>,void *> > >": {
+            "offset": "0x9D00"
+        },
+        "std::_Facet_Register": {
+            "offset": "0x25A0C"
+        },
+        "std::_Hash<std::_Umap_traits<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,vfs::ZipFile::Entry,std::_Uhash_compare<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::hash<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >,std::equal_to<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >,std::allocator<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char> > const ,vfs::ZipFile::Entry> >,0> >::_Find_last<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >": {
+            "offset": "0x15210"
+        },
+        "std::_Hash<std::_Umap_traits<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,vfs::ZipFile::Entry,std::_Uhash_compare<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::hash<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >,std::equal_to<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >,std::allocator<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char> > const ,vfs::ZipFile::Entry> >,0> >::_Forced_rehash": {
+            "offset": "0x16BC0"
+        },
+        "std::_Hash<std::_Umap_traits<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,vfs::ZipFile::Entry,std::_Uhash_compare<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::hash<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >,std::equal_to<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >,std::allocator<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char> > const ,vfs::ZipFile::Entry> >,0> >::_Try_emplace<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >": {
+            "offset": "0x15380"
+        },
+        "std::_Hash<std::_Umap_traits<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,vfs::ZipFile::Entry,std::_Uhash_compare<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::hash<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >,std::equal_to<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >,std::allocator<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char> > const ,vfs::ZipFile::Entry> >,0> >::~_Hash<std::_Umap_traits<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,vfs::ZipFile::Entry,std::_Uhash_compare<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::hash<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >,std::equal_to<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >,std::allocator<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char> > const ,vfs::ZipFile::Entry> >,0> >": {
+            "offset": "0x15850"
+        },
+        "std::_Hash_vec<std::allocator<std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char> > const ,vfs::ZipFile::Entry> > > > > >::_Assign_grow": {
+            "offset": "0x16A80"
+        },
+        "std::_Hash_vec<std::allocator<std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char> > const ,vfs::ZipFile::Entry> > > > > >::~_Hash_vec<std::allocator<std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char> > const ,vfs::ZipFile::Entry> > > > > >": {
+            "offset": "0x158D0"
+        },
+        "std::_List_node<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char> > const ,vfs::ZipFile::Entry>,void *>::_Free_non_head<std::allocator<std::_List_node<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char> > const ,vfs::ZipFile::Entry>,void *> > >": {
+            "offset": "0x152E0"
+        },
+        "std::_List_node_emplace_op2<std::allocator<std::_List_node<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char> > const ,vfs::ZipFile::Entry>,void *> > >::~_List_node_emplace_op2<std::allocator<std::_List_node<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char> > const ,vfs::ZipFile::Entry>,void *> > >": {
+            "offset": "0x15930"
+        },
+        "std::_Maklocstr<char>": {
+            "offset": "0xDCE0"
+        },
+        "std::_String_val<std::_Simple_types<char> >::_Xran": {
+            "offset": "0xF140"
+        },
+        "std::_Throw_bad_array_new_length": {
+            "offset": "0xCA20"
+        },
+        "std::_Throw_tree_length_error": {
+            "offset": "0xCA40"
+        },
+        "std::_Tidy_guard<std::numpunct<char> >::~_Tidy_guard<std::numpunct<char> >": {
+            "offset": "0x1A940"
+        },
+        "std::_Tree<std::_Tmap_traits<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> >,0> >::_Find_hint<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >": {
+            "offset": "0x2230"
+        },
+        "std::_Tree<std::_Tmap_traits<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> >,0> >::_Find_lower_bound<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >": {
+            "offset": "0x24B0"
+        },
+        "std::_Tree<std::_Tmap_traits<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> >,0> >::~_Tree<std::_Tmap_traits<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> >,0> >": {
+            "offset": "0x9D20"
+        },
+        "std::_Tree_val<std::_Tree_simple_types<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> > >::_Erase_tree<std::allocator<std::_Tree_node<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier>,void *> > >": {
+            "offset": "0x21D0"
+        },
+        "std::_Tree_val<std::_Tree_simple_types<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> > >::_Insert_node": {
+            "offset": "0xC7C0"
+        },
+        "std::_Uninitialized_value_construct_n<std::allocator<vfs::RagePackfile7::Entry> >": {
+            "offset": "0x105D0"
+        },
+        "std::_Uninitialized_value_construct_n<std::allocator<vfs::RagePackfile::Entry> >": {
+            "offset": "0x105D0"
+        },
+        "std::_Xlen_string": {
+            "offset": "0xCA60"
+        },
+        "std::allocator<char>::allocate": {
+            "offset": "0xCA80"
+        },
+        "std::allocator<char>::deallocate": {
+            "offset": "0x12580"
+        },
+        "std::allocator<unsigned char>::deallocate": {
+            "offset": "0x12580"
+        },
+        "std::allocator<vfs::RagePackfile7::Entry>::deallocate": {
+            "offset": "0x125C0"
+        },
+        "std::allocator<vfs::RagePackfile7::HandleData>::deallocate": {
+            "offset": "0x14610"
+        },
+        "std::allocator<vfs::RagePackfile::Entry>::deallocate": {
+            "offset": "0x125C0"
+        },
+        "std::allocator<vfs::RagePackfile::HandleData>::allocate": {
+            "offset": "0x12510"
+        },
+        "std::allocator<vfs::RagePackfile::HandleData>::deallocate": {
+            "offset": "0x12610"
+        },
+        "std::allocator<vfs::ZipFile::HandleData>::allocate": {
+            "offset": "0x16EC0"
+        },
+        "std::allocator<vfs::ZipFile::HandleData>::deallocate": {
+            "offset": "0x16F30"
+        },
+        "std::allocator<wchar_t>::allocate": {
+            "offset": "0xCAE0"
+        },
+        "std::bad_alloc::bad_alloc": {
+            "offset": "0x26EA4"
+        },
+        "std::bad_alloc::~bad_alloc": {
+            "offset": "0x9F10"
+        },
+        "std::bad_array_new_length::bad_array_new_length": {
+            "offset": "0x9B00"
+        },
+        "std::bad_array_new_length::~bad_array_new_length": {
+            "offset": "0x9F10"
+        },
+        "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::_Construct<1,char const *>": {
+            "offset": "0x2110"
+        },
+        "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::_Reallocate_grow_by<<lambda_319d5e083f45f90dcdce5dce53cbb275>,char>": {
+            "offset": "0x1D060"
+        },
+        "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::_Reallocate_grow_by<<lambda_9013ee9e23efe4882b67eff5b0ecf103> >": {
+            "offset": "0x1D1D0"
+        },
+        "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::_Reallocate_grow_by<<lambda_f3a66ab6a0570788f31503db83886f49>,unsigned __int64,char const *,unsigned __int64>": {
+            "offset": "0xDEB0"
+        },
+        "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::assign": {
+            "offset": "0xCCD0"
+        },
+        "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::basic_string<char,std::char_traits<char>,std::allocator<char> >": {
+            "offset": "0x98A0"
+        },
+        "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::~basic_string<char,std::char_traits<char>,std::allocator<char> >": {
+            "offset": "0x9DE0"
+        },
+        "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >::_Construct<1,wchar_t const *>": {
+            "offset": "0x17400"
+        },
+        "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >::append": {
+            "offset": "0xCB50"
+        },
+        "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >": {
+            "offset": "0x1BEF0"
+        },
+        "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >::push_back": {
+            "offset": "0x1EEA0"
+        },
+        "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >::reserve": {
+            "offset": "0x1F000"
+        },
+        "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >::~basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >": {
+            "offset": "0x9E40"
+        },
+        "std::exception::exception": {
+            "offset": "0x9B30"
+        },
+        "std::exception::what": {
+            "offset": "0xDBB0"
+        },
+        "std::fill<std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char> > const ,vfs::ZipFile::Entry> > > > *,std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char> > const ,vfs::ZipFile::Entry> > > > >": {
+            "offset": "0x15690"
+        },
+        "std::list<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char> > const ,vfs::ZipFile::Entry>,std::allocator<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char> > const ,vfs::ZipFile::Entry> > >::~list<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char> > const ,vfs::ZipFile::Entry>,std::allocator<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char> > const ,vfs::ZipFile::Entry> > >": {
+            "offset": "0x159C0"
+        },
+        "std::locale::~locale": {
+            "offset": "0x1AA00"
+        },
+        "std::numpunct<char>::do_decimal_point": {
+            "offset": "0x1B0C0"
+        },
+        "std::numpunct<char>::do_falsename": {
+            "offset": "0x1B0D0"
+        },
+        "std::numpunct<char>::do_grouping": {
+            "offset": "0x1B110"
+        },
+        "std::numpunct<char>::do_thousands_sep": {
+            "offset": "0x1B150"
+        },
+        "std::numpunct<char>::do_truename": {
+            "offset": "0x1B160"
+        },
+        "std::numpunct<char>::numpunct<char>": {
+            "offset": "0x1A790"
+        },
+        "std::runtime_error::runtime_error": {
+            "offset": "0x9BB0"
+        },
+        "std::unique_lock<std::mutex>::~unique_lock<std::mutex>": {
+            "offset": "0x129A0"
+        },
+        "std::unique_lock<std::shared_mutex>::~unique_lock<std::shared_mutex>": {
+            "offset": "0x109D0"
+        },
+        "std::unique_ptr<std::_Facet_base,std::default_delete<std::_Facet_base> >::~unique_ptr<std::_Facet_base,std::default_delete<std::_Facet_base> >": {
+            "offset": "0x1A9E0"
+        },
+        "std::use_facet<std::numpunct<char> >": {
+            "offset": "0x1A460"
+        },
+        "updatewindow": {
+            "offset": "0x20E00"
+        },
+        "utf8::exception::exception": {
+            "offset": "0x1E280"
+        },
+        "utf8::internal::append<std::back_insert_iterator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >,char>": {
+            "offset": "0x1D320"
+        },
+        "utf8::internal::validate_next<std::_String_view_iterator<std::char_traits<char> > >": {
+            "offset": "0x1DC50"
+        },
+        "utf8::invalid_code_point::invalid_code_point": {
+            "offset": "0x1E310"
+        },
+        "utf8::invalid_code_point::what": {
+            "offset": "0x1F1B0"
+        },
+        "utf8::invalid_code_point::~invalid_code_point": {
+            "offset": "0x9F10"
+        },
+        "utf8::invalid_utf8::invalid_utf8": {
+            "offset": "0x1E380"
+        },
+        "utf8::invalid_utf8::what": {
+            "offset": "0x1F1C0"
+        },
+        "utf8::invalid_utf8::~invalid_utf8": {
+            "offset": "0x9F10"
+        },
+        "utf8::not_enough_room::not_enough_room": {
+            "offset": "0x1E3E0"
+        },
+        "utf8::not_enough_room::what": {
+            "offset": "0x1F1D0"
+        },
+        "utf8::not_enough_room::~not_enough_room": {
+            "offset": "0x9F10"
+        },
+        "va_impl<char,fmt::v8::basic_format_args<fmt::v8::basic_printf_context<fmt::v8::appender,char> > >": {
+            "offset": "0x1DA30"
+        },
+        "vfs::Create": {
+            "offset": "0xF940"
+        },
+        "vfs::CreateComStream": {
+            "offset": "0xF320"
+        },
+        "vfs::Device::CloseBulk": {
+            "offset": "0xDE60"
+        },
+        "vfs::Device::Create": {
+            "offset": "0xF600"
+        },
+        "vfs::Device::Device": {
+            "offset": "0xE060"
+        },
+        "vfs::Device::ExtensionCtl": {
+            "offset": "0xDE60"
+        },
+        "vfs::Device::Flush": {
+            "offset": "0xDE60"
+        },
+        "vfs::Device::GetAttributes": {
+            "offset": "0xF610"
+        },
+        "vfs::Device::GetLength": {
+            "offset": "0xF6C0"
+        },
+        "vfs::Device::GetModifiedTime": {
+            "offset": "0xDDA0"
+        },
+        "vfs::Device::OpenBulk": {
+            "offset": "0xF600"
+        },
+        "vfs::Device::ReadBulk": {
+            "offset": "0xF600"
+        },
+        "vfs::Device::RemoveFile": {
+            "offset": "0xDE60"
+        },
+        "vfs::Device::RenameFile": {
+            "offset": "0xDE60"
+        },
+        "vfs::Device::SetPathPrefix": {
+            "offset": "0x9CC0"
+        },
+        "vfs::Device::Truncate": {
+            "offset": "0xDE60"
+        },
+        "vfs::Device::Write": {
+            "offset": "0xF600"
+        },
+        "vfs::Device::WriteBulk": {
+            "offset": "0xF600"
+        },
+        "vfs::Device::~Device": {
+            "offset": "0xE1D0"
+        },
+        "vfs::FindDevice": {
+            "offset": "0xF9F0"
+        },
+        "vfs::GetDevice": {
+            "offset": "0xFA80"
+        },
+        "vfs::GetLastError": {
+            "offset": "0x11720"
+        },
+        "vfs::GetLastErrorExtension::~GetLastErrorExtension": {
+            "offset": "0x9DE0"
+        },
+        "vfs::GetNativeDevice": {
+            "offset": "0xFB20"
+        },
+        "vfs::Manager::Create": {
+            "offset": "0xF860"
+        },
+        "vfs::Manager::GetNativeDevice": {
+            "offset": "0xFB00"
+        },
+        "vfs::Manager::Manager": {
+            "offset": "0xE080"
+        },
+        "vfs::Manager::OpenRead": {
+            "offset": "0xFC60"
+        },
+        "vfs::Manager::OpenWrite": {
+            "offset": "0xFDB0"
+        },
+        "vfs::Manager::RemoveFile": {
+            "offset": "0xFF20"
+        },
+        "vfs::Manager::RenameFile": {
+            "offset": "0xFFF0"
+        },
+        "vfs::Manager::~Manager": {
+            "offset": "0xE1D0"
+        },
+        "vfs::Mount": {
+            "offset": "0xFBA0"
+        },
+        "vfs::OpenRead": {
+            "offset": "0xFD30"
+        },
+        "vfs::OpenWrite": {
+            "offset": "0xFE90"
+        },
+        "vfs::RagePackfile7::AllocateHandle": {
+            "offset": "0x12DF0"
+        },
+        "vfs::RagePackfile7::Close": {
+            "offset": "0x12F40"
+        },
+        "vfs::RagePackfile7::CloseBulk": {
+            "offset": "0xDE70"
+        },
+        "vfs::RagePackfile7::ExtensionCtl": {
+            "offset": "0x13040"
+        },
+        "vfs::RagePackfile7::FillFindData": {
+            "offset": "0x13140"
+        },
+        "vfs::RagePackfile7::FindClose": {
+            "offset": "0x131A0"
+        },
+        "vfs::RagePackfile7::FindEntry": {
+            "offset": "0x131F0"
+        },
+        "vfs::RagePackfile7::FindFirst": {
+            "offset": "0x13660"
+        },
+        "vfs::RagePackfile7::FindNext": {
+            "offset": "0x13750"
+        },
+        "vfs::RagePackfile7::Flush": {
+            "offset": "0xDE70"
+        },
+        "vfs::RagePackfile7::GetAbsolutePath": {
+            "offset": "0x116D0"
+        },
+        "vfs::RagePackfile7::GetHandle": {
+            "offset": "0x13820"
+        },
+        "vfs::RagePackfile7::GetLength": {
+            "offset": "0x138B0"
+        },
+        "vfs::RagePackfile7::InternalRead": {
+            "offset": "0x13900"
+        },
+        "vfs::RagePackfile7::Open": {
+            "offset": "0x13A50"
+        },
+        "vfs::RagePackfile7::OpenArchive": {
+            "offset": "0x13B10"
+        },
+        "vfs::RagePackfile7::OpenBulk": {
+            "offset": "0x140A0"
+        },
+        "vfs::RagePackfile7::RagePackfile7": {
+            "offset": "0x128E0"
+        },
+        "vfs::RagePackfile7::Read": {
+            "offset": "0x140E0"
+        },
+        "vfs::RagePackfile7::ReadBulk": {
+            "offset": "0x122B0"
+        },
+        "vfs::RagePackfile7::Seek": {
+            "offset": "0x14210"
+        },
+        "vfs::RagePackfile7::SetPathPrefix": {
+            "offset": "0x14400"
+        },
+        "vfs::RagePackfile7::SetValidationCallback": {
+            "offset": "0x14600"
+        },
+        "vfs::RagePackfile7::~RagePackfile7": {
+            "offset": "0x12A30"
+        },
+        "vfs::RagePackfile::AllocateHandle": {
+            "offset": "0x10D30"
+        },
+        "vfs::RagePackfile::Close": {
+            "offset": "0x10E40"
+        },
+        "vfs::RagePackfile::CloseBulk": {
+            "offset": "0xDE70"
+        },
+        "vfs::RagePackfile::ExtensionCtl": {
+            "offset": "0x10F10"
+        },
+        "vfs::RagePackfile::FillFindData": {
+            "offset": "0x11060"
+        },
+        "vfs::RagePackfile::FindClose": {
+            "offset": "0x110B0"
+        },
+        "vfs::RagePackfile::FindEntry": {
+            "offset": "0x110E0"
+        },
+        "vfs::RagePackfile::FindFirst": {
+            "offset": "0x11580"
+        },
+        "vfs::RagePackfile::FindNext": {
+            "offset": "0x11620"
+        },
+        "vfs::RagePackfile::Flush": {
+            "offset": "0xDE70"
+        },
+        "vfs::RagePackfile::GetAbsolutePath": {
+            "offset": "0x116D0"
+        },
+        "vfs::RagePackfile::GetHandle": {
+            "offset": "0x116F0"
+        },
+        "vfs::RagePackfile::GetLength": {
+            "offset": "0x11910"
+        },
+        "vfs::RagePackfile::GetLengthForHandle": {
+            "offset": "0x11920"
+        },
+        "vfs::RagePackfile::Open": {
+            "offset": "0x11960"
+        },
+        "vfs::RagePackfile::OpenArchive": {
+            "offset": "0x119E0"
+        },
+        "vfs::RagePackfile::OpenBulk": {
+            "offset": "0x121D0"
+        },
+        "vfs::RagePackfile::RagePackfile": {
+            "offset": "0x10740"
+        },
+        "vfs::RagePackfile::Read": {
+            "offset": "0x12200"
+        },
+        "vfs::RagePackfile::ReadBulk": {
+            "offset": "0x122B0"
+        },
+        "vfs::RagePackfile::Seek": {
+            "offset": "0x122D0"
+        },
+        "vfs::RagePackfile::SetPathPrefix": {
+            "offset": "0x12350"
+        },
+        "vfs::RagePackfile::~RagePackfile": {
+            "offset": "0x10A40"
+        },
+        "vfs::RelativeDevice::Close": {
+            "offset": "0xE3F0"
+        },
+        "vfs::RelativeDevice::CloseBulk": {
+            "offset": "0xE400"
+        },
+        "vfs::RelativeDevice::Create": {
+            "offset": "0xE4A0"
+        },
+        "vfs::RelativeDevice::ExtensionCtl": {
+            "offset": "0xE600"
+        },
+        "vfs::RelativeDevice::FindClose": {
+            "offset": "0xE730"
+        },
+        "vfs::RelativeDevice::FindFirst": {
+            "offset": "0xE740"
+        },
+        "vfs::RelativeDevice::FindNext": {
+            "offset": "0xE7F0"
+        },
+        "vfs::RelativeDevice::Flush": {
+            "offset": "0xE800"
+        },
+        "vfs::RelativeDevice::GetAbsolutePath": {
+            "offset": "0xE810"
+        },
+        "vfs::RelativeDevice::GetAttributes": {
+            "offset": "0xE830"
+        },
+        "vfs::RelativeDevice::GetLength": {
+            "offset": "0xE9D0"
+        },
+        "vfs::RelativeDevice::GetModifiedTime": {
+            "offset": "0xE9E0"
+        },
+        "vfs::RelativeDevice::Open": {
+            "offset": "0xEA90"
+        },
+        "vfs::RelativeDevice::OpenBulk": {
+            "offset": "0xEB40"
+        },
+        "vfs::RelativeDevice::Read": {
+            "offset": "0xEBF0"
+        },
+        "vfs::RelativeDevice::ReadBulk": {
+            "offset": "0xEC00"
+        },
+        "vfs::RelativeDevice::RelativeDevice": {
+            "offset": "0xE110"
+        },
+        "vfs::RelativeDevice::RemoveFile": {
+            "offset": "0xECC0"
+        },
+        "vfs::RelativeDevice::RenameFile": {
+            "offset": "0xED70"
+        },
+        "vfs::RelativeDevice::Seek": {
+            "offset": "0xEE80"
+        },
+        "vfs::RelativeDevice::SetPathPrefix": {
+            "offset": "0xEE90"
+        },
+        "vfs::RelativeDevice::TranslatePath": {
+            "offset": "0xEEB0"
+        },
+        "vfs::RelativeDevice::Truncate": {
+            "offset": "0xF110"
+        },
+        "vfs::RelativeDevice::Write": {
+            "offset": "0xF120"
+        },
+        "vfs::RelativeDevice::WriteBulk": {
+            "offset": "0xF130"
+        },
+        "vfs::RelativeDevice::~RelativeDevice": {
+            "offset": "0xE1E0"
+        },
+        "vfs::RemoveFile": {
+            "offset": "0xFF80"
+        },
+        "vfs::RenameFile": {
+            "offset": "0x10060"
+        },
+        "vfs::Stream::Close": {
+            "offset": "0x147F0"
+        },
+        "vfs::Stream::Flush": {
+            "offset": "0x14820"
+        },
+        "vfs::Stream::GetDevice": {
+            "offset": "0xE8E0"
+        },
+        "vfs::Stream::GetHandle": {
+            "offset": "0xE910"
+        },
+        "vfs::Stream::GetLength": {
+            "offset": "0x14840"
+        },
+        "vfs::Stream::Read": {
+            "offset": "0x14960"
+        },
+        "vfs::Stream::ReadToEnd": {
+            "offset": "0x14980"
+        },
+        "vfs::Stream::ReadToEndBuffered": {
+            "offset": "0x14A10"
+        },
+        "vfs::Stream::Seek": {
+            "offset": "0x14AB0"
+        },
+        "vfs::Stream::Stream": {
+            "offset": "0x14660"
+        },
+        "vfs::Stream::Write": {
+            "offset": "0x14AD0"
+        },
+        "vfs::Stream::~Stream": {
+            "offset": "0x146E0"
+        },
+        "vfs::Unmount": {
+            "offset": "0x100E0"
+        },
+        "vfs::ZipFile::AllocateHandle": {
+            "offset": "0x15C60"
+        },
+        "vfs::ZipFile::Close": {
+            "offset": "0x15D90"
+        },
+        "vfs::ZipFile::CloseBulk": {
+            "offset": "0xDE70"
+        },
+        "vfs::ZipFile::FillFindData": {
+            "offset": "0x9CC0"
+        },
+        "vfs::ZipFile::FindClose": {
+            "offset": "0x15EB0"
+        },
+        "vfs::ZipFile::FindEntry": {
+            "offset": "0x15F00"
+        },
+        "vfs::ZipFile::FindFirst": {
+            "offset": "0xF600"
+        },
+        "vfs::ZipFile::FindNext": {
+            "offset": "0xDE60"
+        },
+        "vfs::ZipFile::Flush": {
+            "offset": "0xDE70"
+        },
+        "vfs::ZipFile::GetAbsolutePath": {
+            "offset": "0x16150"
+        },
+        "vfs::ZipFile::GetHandle": {
+            "offset": "0x16170"
+        },
+        "vfs::ZipFile::GetLength": {
+            "offset": "0x161F0"
+        },
+        "vfs::ZipFile::Open": {
+            "offset": "0x16240"
+        },
+        "vfs::ZipFile::OpenArchive": {
+            "offset": "0x16410"
+        },
+        "vfs::ZipFile::OpenBulk": {
+            "offset": "0xF600"
+        },
+        "vfs::ZipFile::Read": {
+            "offset": "0x16700"
+        },
+        "vfs::ZipFile::ReadBulk": {
+            "offset": "0xF600"
+        },
+        "vfs::ZipFile::Seek": {
+            "offset": "0x16790"
+        },
+        "vfs::ZipFile::SetPathPrefix": {
+            "offset": "0x16880"
+        },
+        "vfs::ZipFile::ZipFile": {
+            "offset": "0x15720"
+        },
+        "vfs::ZipFile::~ZipFile": {
+            "offset": "0x15A00"
+        },
+        "vfs::`dynamic initializer for 'g_validationCallback''": {
+            "offset": "0x1300"
+        },
+        "vva": {
+            "offset": "0x1F190"
+        },
+        "xbr::`dynamic initializer for 'kGameBuildUniquifiers''": {
+            "offset": "0x1060"
+        },
+        "zcalloc": {
+            "offset": "0x216C0"
+        },
+        "zcfree": {
+            "offset": "0x216D0"
+        }
+    }
+}

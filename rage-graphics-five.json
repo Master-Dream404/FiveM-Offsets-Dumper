@@ -10,52 +10,52 @@
             "offset": "0xBB90"
         },
         "AddCrashometry": {
-            "offset": "0x5A830"
+            "offset": "0x5A910"
         },
         "AddCrashometryV": {
-            "offset": "0x5A9B0"
+            "offset": "0x5AA90"
         },
         "AddTextureOverride": {
-            "offset": "0x3AD20"
+            "offset": "0x3AE00"
         },
         "AllocateBuffer": {
-            "offset": "0x5F900"
+            "offset": "0x5F9E0"
         },
         "BufferBackedDXGISwapChain::GetBuffer": {
-            "offset": "0x368B0"
+            "offset": "0x36990"
         },
         "BufferBackedDXGISwapChain::GetContainingOutput": {
             "offset": "0x10030"
         },
         "BufferBackedDXGISwapChain::GetDesc": {
-            "offset": "0x36900"
+            "offset": "0x369E0"
         },
         "BufferBackedDXGISwapChain::GetDevice": {
-            "offset": "0x36480"
+            "offset": "0x36560"
         },
         "BufferBackedDXGISwapChain::GetFrameStatistics": {
             "offset": "0x10030"
         },
         "BufferBackedDXGISwapChain::GetFullscreenState": {
-            "offset": "0x368F0"
+            "offset": "0x369D0"
         },
         "BufferBackedDXGISwapChain::GetLastPresentCount": {
             "offset": "0x10030"
         },
         "BufferBackedDXGISwapChain::GetParent": {
-            "offset": "0x36470"
+            "offset": "0x36550"
         },
         "BufferBackedDXGISwapChain::GetPrivateData": {
-            "offset": "0x36470"
+            "offset": "0x36550"
         },
         "BufferBackedDXGISwapChain::Present": {
-            "offset": "0x36520"
+            "offset": "0x36600"
         },
         "BufferBackedDXGISwapChain::RecreateFromDesc": {
-            "offset": "0x3F130"
+            "offset": "0x3F210"
         },
         "BufferBackedDXGISwapChain::ResizeBuffers": {
-            "offset": "0x36930"
+            "offset": "0x36A10"
         },
         "BufferBackedDXGISwapChain::ResizeTarget": {
             "offset": "0x10030"
@@ -64,22 +64,22 @@
             "offset": "0x10030"
         },
         "BufferBackedDXGISwapChain::SetPrivateData": {
-            "offset": "0x36470"
+            "offset": "0x36550"
         },
         "BufferBackedDXGISwapChain::SetPrivateDataInterface": {
-            "offset": "0x36470"
+            "offset": "0x36550"
         },
         "CaptureBufferOutput": {
-            "offset": "0x3AD70"
+            "offset": "0x3AE50"
         },
         "CaptureInternalScreenshot": {
-            "offset": "0x3B1D0"
+            "offset": "0x3B2B0"
         },
         "CfxState::CfxState": {
-            "offset": "0x38980"
+            "offset": "0x38A60"
         },
         "ClearRenderTarget": {
-            "offset": "0x54E10"
+            "offset": "0x54EF0"
         },
         "Component::As": {
             "offset": "0x10030"
@@ -103,61 +103,61 @@
             "offset": "0x10100"
         },
         "Concurrency::concurrent_queue<std::function<void __cdecl(void)>,std::allocator<std::function<void __cdecl(void)> > >::_Allocate_page": {
-            "offset": "0x41270"
+            "offset": "0x41350"
         },
         "Concurrency::concurrent_queue<std::function<void __cdecl(void)>,std::allocator<std::function<void __cdecl(void)> > >::_Assign_and_destroy_item": {
-            "offset": "0x41400"
+            "offset": "0x414E0"
         },
         "Concurrency::concurrent_queue<std::function<void __cdecl(void)>,std::allocator<std::function<void __cdecl(void)> > >::_Copy_item": {
-            "offset": "0x41390"
+            "offset": "0x41470"
         },
         "Concurrency::concurrent_queue<std::function<void __cdecl(void)>,std::allocator<std::function<void __cdecl(void)> > >::_Deallocate_page": {
-            "offset": "0x41300"
-        },
-        "Concurrency::concurrent_queue<std::function<void __cdecl(void)>,std::allocator<std::function<void __cdecl(void)> > >::_Move_item": {
             "offset": "0x413E0"
         },
+        "Concurrency::concurrent_queue<std::function<void __cdecl(void)>,std::allocator<std::function<void __cdecl(void)> > >::_Move_item": {
+            "offset": "0x414C0"
+        },
         "Concurrency::concurrent_queue<std::function<void __cdecl(void)>,std::allocator<std::function<void __cdecl(void)> > >::~concurrent_queue<std::function<void __cdecl(void)>,std::allocator<std::function<void __cdecl(void)> > >": {
-            "offset": "0x415D0"
+            "offset": "0x416B0"
         },
         "Concurrency::concurrent_queue<std::tuple<HWND__ *,unsigned int,unsigned __int64,__int64,std::function<void __cdecl(__int64)> >,std::allocator<std::tuple<HWND__ *,unsigned int,unsigned __int64,__int64,std::function<void __cdecl(__int64)> > > >::_Allocate_page": {
-            "offset": "0x41270"
+            "offset": "0x41350"
         },
         "Concurrency::concurrent_queue<std::tuple<HWND__ *,unsigned int,unsigned __int64,__int64,std::function<void __cdecl(__int64)> >,std::allocator<std::tuple<HWND__ *,unsigned int,unsigned __int64,__int64,std::function<void __cdecl(__int64)> > > >::_Assign_and_destroy_item": {
-            "offset": "0x41200"
+            "offset": "0x412E0"
         },
         "Concurrency::concurrent_queue<std::tuple<HWND__ *,unsigned int,unsigned __int64,__int64,std::function<void __cdecl(__int64)> >,std::allocator<std::tuple<HWND__ *,unsigned int,unsigned __int64,__int64,std::function<void __cdecl(__int64)> > > >::_Copy_item": {
-            "offset": "0x41120"
+            "offset": "0x41200"
         },
         "Concurrency::concurrent_queue<std::tuple<HWND__ *,unsigned int,unsigned __int64,__int64,std::function<void __cdecl(__int64)> >,std::allocator<std::tuple<HWND__ *,unsigned int,unsigned __int64,__int64,std::function<void __cdecl(__int64)> > > >::_Deallocate_page": {
-            "offset": "0x41300"
+            "offset": "0x413E0"
         },
         "Concurrency::concurrent_queue<std::tuple<HWND__ *,unsigned int,unsigned __int64,__int64,std::function<void __cdecl(__int64)> >,std::allocator<std::tuple<HWND__ *,unsigned int,unsigned __int64,__int64,std::function<void __cdecl(__int64)> > > >::_Move_item": {
-            "offset": "0x411A0"
+            "offset": "0x41280"
         },
         "Concurrency::concurrent_queue<std::tuple<HWND__ *,unsigned int,unsigned __int64,__int64,std::function<void __cdecl(__int64)> >,std::allocator<std::tuple<HWND__ *,unsigned int,unsigned __int64,__int64,std::function<void __cdecl(__int64)> > > >::~concurrent_queue<std::tuple<HWND__ *,unsigned int,unsigned __int64,__int64,std::function<void __cdecl(__int64)> >,std::allocator<std::tuple<HWND__ *,unsigned int,unsigned __int64,__int64,std::function<void __cdecl(__int64)> > > >": {
-            "offset": "0x41640"
+            "offset": "0x41720"
         },
         "Concurrency::details::_Concurrent_hash<Concurrency::details::_Concurrent_unordered_map_traits<void *,bool,Concurrency::details::_Hash_compare<void *,std::hash<void *>,std::equal_to<void *> >,std::allocator<std::pair<void * const,bool> >,0> >::_Find": {
-            "offset": "0x40580"
+            "offset": "0x40660"
         },
         "Concurrency::details::_Concurrent_hash<Concurrency::details::_Concurrent_unordered_map_traits<void *,bool,Concurrency::details::_Hash_compare<void *,std::hash<void *>,std::equal_to<void *> >,std::allocator<std::pair<void * const,bool> >,0> >::_Initialize_bucket": {
-            "offset": "0x40AC0"
+            "offset": "0x40BA0"
         },
         "Concurrency::details::_Concurrent_hash<Concurrency::details::_Concurrent_unordered_map_traits<void *,bool,Concurrency::details::_Hash_compare<void *,std::hash<void *>,std::equal_to<void *> >,std::allocator<std::pair<void * const,bool> >,0> >::_Insert<std::pair<void *,bool> >": {
-            "offset": "0x37510"
+            "offset": "0x375F0"
         },
         "Concurrency::details::_Concurrent_hash<Concurrency::details::_Concurrent_unordered_map_traits<void *,bool,Concurrency::details::_Hash_compare<void *,std::hash<void *>,std::equal_to<void *> >,std::allocator<std::pair<void * const,bool> >,0> >::_Set_bucket": {
-            "offset": "0x40C80"
+            "offset": "0x40D60"
         },
         "Concurrency::details::_Concurrent_hash<Concurrency::details::_Concurrent_unordered_map_traits<void *,bool,Concurrency::details::_Hash_compare<void *,std::hash<void *>,std::equal_to<void *> >,std::allocator<std::pair<void * const,bool> >,0> >::~_Concurrent_hash<Concurrency::details::_Concurrent_unordered_map_traits<void *,bool,Concurrency::details::_Hash_compare<void *,std::hash<void *>,std::equal_to<void *> >,std::allocator<std::pair<void * const,bool> >,0> >": {
-            "offset": "0x38BC0"
+            "offset": "0x38CA0"
         },
         "Concurrency::details::_Split_order_list_value<std::pair<void * const,bool>,std::allocator<std::pair<void * const,bool> > >::_Buynode<std::pair<void *,bool> >": {
-            "offset": "0x37100"
+            "offset": "0x371E0"
         },
         "Concurrency::details::_Split_ordered_list<std::pair<void * const,bool>,std::allocator<std::pair<void * const,bool> > >::~_Split_ordered_list<std::pair<void * const,bool>,std::allocator<std::pair<void * const,bool> > >": {
-            "offset": "0x38D40"
+            "offset": "0x38E20"
         },
         "ConsoleArgumentType<bool,void>::Parse": {
             "offset": "0x34800"
@@ -184,124 +184,124 @@
             "offset": "0x10110"
         },
         "CreateD3D11DeviceWrap": {
-            "offset": "0x3B9A0"
+            "offset": "0x3BA80"
         },
         "CreateD3D11DeviceWrapOrig": {
-            "offset": "0x3BB30"
+            "offset": "0x3BC10"
         },
         "CreateRasterizerState": {
             "offset": "0x1EF10"
         },
         "CreateRenderTarget": {
-            "offset": "0x54E30"
+            "offset": "0x54F10"
         },
         "CreateSamplerState": {
             "offset": "0x1EF20"
         },
         "CreateTrampolineFunction": {
-            "offset": "0x5FCA0"
+            "offset": "0x5FD80"
         },
         "CreateVariableEntry<bool>": {
             "offset": "0x2A460"
         },
         "CreateWindowExWStub": {
-            "offset": "0x425F0"
+            "offset": "0x426D0"
         },
         "D3D11CreateDeviceWoo": {
             "offset": "0x290E0"
         },
         "D3DPresent": {
-            "offset": "0x3C3F0"
+            "offset": "0x3C4D0"
         },
         "DXGetErrorDescriptionW": {
-            "offset": "0x43260"
+            "offset": "0x43340"
         },
         "DXGetErrorStringW": {
-            "offset": "0x446A0"
+            "offset": "0x44780"
         },
         "DeferredFullscreenSwapChain::GetBuffer": {
-            "offset": "0x369F0"
+            "offset": "0x36AD0"
         },
         "DeferredFullscreenSwapChain::GetContainingOutput": {
-            "offset": "0x36470"
+            "offset": "0x36550"
         },
         "DeferredFullscreenSwapChain::GetDesc": {
-            "offset": "0x36B10"
+            "offset": "0x36BF0"
         },
         "DeferredFullscreenSwapChain::GetDevice": {
-            "offset": "0x36470"
+            "offset": "0x36550"
         },
         "DeferredFullscreenSwapChain::GetFrameStatistics": {
-            "offset": "0x36470"
+            "offset": "0x36550"
         },
         "DeferredFullscreenSwapChain::GetFullscreenState": {
-            "offset": "0x36A20"
+            "offset": "0x36B00"
         },
         "DeferredFullscreenSwapChain::GetLastPresentCount": {
-            "offset": "0x36470"
+            "offset": "0x36550"
         },
         "DeferredFullscreenSwapChain::GetParent": {
-            "offset": "0x36470"
+            "offset": "0x36550"
         },
         "DeferredFullscreenSwapChain::GetPrivateData": {
-            "offset": "0x36470"
+            "offset": "0x36550"
         },
         "DeferredFullscreenSwapChain::Present": {
-            "offset": "0x369E0"
+            "offset": "0x36AC0"
         },
         "DeferredFullscreenSwapChain::ResizeBuffers": {
-            "offset": "0x36B20"
+            "offset": "0x36C00"
         },
         "DeferredFullscreenSwapChain::ResizeTarget": {
-            "offset": "0x36B30"
+            "offset": "0x36C10"
         },
         "DeferredFullscreenSwapChain::SetFullscreenState": {
-            "offset": "0x36A00"
+            "offset": "0x36AE0"
         },
         "DeferredFullscreenSwapChain::SetPrivateData": {
-            "offset": "0x36470"
+            "offset": "0x36550"
         },
         "DeferredFullscreenSwapChain::SetPrivateDataInterface": {
-            "offset": "0x36470"
+            "offset": "0x36550"
         },
         "DispatchMessageWFake": {
-            "offset": "0x428F0"
+            "offset": "0x429D0"
         },
         "DisplayD3DCrashMessageENBSeries": {
-            "offset": "0x3C840"
+            "offset": "0x3C920"
         },
         "DisplayD3DCrashMessageGeneric": {
-            "offset": "0x3C8F0"
+            "offset": "0x3C9D0"
         },
         "DisplayD3DCrashMessageGraphicsMods": {
-            "offset": "0x3C9A0"
+            "offset": "0x3CA80"
         },
         "DisplayD3DCrashMessageReShade": {
-            "offset": "0x3CA50"
+            "offset": "0x3CB30"
         },
         "DisplayD3DCrashMessageReShadeENBSeries": {
-            "offset": "0x3CB00"
+            "offset": "0x3CBE0"
         },
         "DisplayD3DCrashMessageWrap": {
-            "offset": "0x3CBB0"
+            "offset": "0x3CC90"
         },
         "DllMain": {
-            "offset": "0x6201C"
+            "offset": "0x620FC"
         },
         "DoNtRaiseException": {
-            "offset": "0x5D070"
+            "offset": "0x5D150"
         },
         "DrawImSprite": {
             "offset": "0x1F270"
         },
         "EnableAllHooksLL": {
-            "offset": "0x5EDA0"
+            "offset": "0x5EE80"
         },
         "EnableHook": {
-            "offset": "0x5EEF0"
+            "offset": "0x5EFD0"
         },
         "EnableHookLL": {
-            "offset": "0x5F010"
+            "offset": "0x5F0F0"
         },
         "EnqueueGenericDrawCommand": {
             "offset": "0x203A0"
@@ -319,25 +319,25 @@
             "offset": "0x38A0"
         },
         "FreeBuffer": {
-            "offset": "0x5F930"
+            "offset": "0x5FA10"
         },
         "Freeze": {
-            "offset": "0x5F120"
+            "offset": "0x5F200"
         },
         "GenerateLineStrip": {
             "offset": "0x20840"
         },
         "GetAbsoluteCitPath": {
-            "offset": "0x5AC50"
+            "offset": "0x5AD30"
         },
         "GetAbsoluteGamePath": {
-            "offset": "0x5AF50"
+            "offset": "0x5B030"
         },
         "GetBlendState": {
             "offset": "0x20D00"
         },
         "GetCursorInfoFake": {
-            "offset": "0x42960"
+            "offset": "0x42A40"
         },
         "GetD3D11Device": {
             "offset": "0x20D10"
@@ -352,19 +352,19 @@
             "offset": "0x20E40"
         },
         "GetGraphicsModDetails": {
-            "offset": "0x3D920"
+            "offset": "0x3DA00"
         },
         "GetImDiffuseSamplerState": {
             "offset": "0x20ED0"
         },
         "GetInvariantD3D11Device": {
-            "offset": "0x3DEC0"
+            "offset": "0x3DFA0"
         },
         "GetInvariantD3D11DeviceContext": {
-            "offset": "0x3DF90"
+            "offset": "0x3E070"
         },
         "GetMemoryBlock": {
-            "offset": "0x5F9B0"
+            "offset": "0x5FA90"
         },
         "GetProcAddressStub": {
             "offset": "0x29100"
@@ -379,37 +379,37 @@
             "offset": "0x29160"
         },
         "GfxForceVsync": {
-            "offset": "0x3E190"
+            "offset": "0x3E270"
         },
         "GlobalErrorHandler": {
             "offset": "0xD3B0"
         },
         "GoGetAdapter": {
-            "offset": "0x3E1A0"
+            "offset": "0x3E280"
         },
         "HandleMessageLoop": {
-            "offset": "0x42980"
+            "offset": "0x42A60"
         },
         "HookClipCursor": {
-            "offset": "0x3E370"
+            "offset": "0x3E450"
         },
         "HookCreateWindowExW": {
-            "offset": "0x3E380"
+            "offset": "0x3E460"
         },
         "HookFunction::Run": {
             "offset": "0x10140"
         },
         "HookFunctionBase::Register": {
-            "offset": "0x5E790"
+            "offset": "0x5E870"
         },
         "HookFunctionBase::RunAll": {
-            "offset": "0x5E7B0"
+            "offset": "0x5E890"
         },
         "HookGetCursorPos": {
-            "offset": "0x3E780"
+            "offset": "0x3E860"
         },
         "HookGetForegroundWindow": {
-            "offset": "0x3E7B0"
+            "offset": "0x3E890"
         },
         "HookSetCapture": {
             "offset": "0x10030"
@@ -418,67 +418,67 @@
             "offset": "0x16C00"
         },
         "HookShowCursor": {
-            "offset": "0x3E910"
+            "offset": "0x3E9F0"
         },
         "HookShowWindow": {
-            "offset": "0x3E370"
+            "offset": "0x3E450"
         },
         "HostSharedData<CfxState>::HostSharedData<CfxState>": {
-            "offset": "0x38280"
+            "offset": "0x38360"
         },
         "HostSharedData<CfxState>::~HostSharedData<CfxState>": {
-            "offset": "0x5A050"
+            "offset": "0x5A130"
         },
         "HostSharedData<GameRenderData>::HostSharedData<GameRenderData>": {
-            "offset": "0x384D0"
+            "offset": "0x385B0"
         },
         "HostSharedData<ReverseGameData>::HostSharedData<ReverseGameData>": {
-            "offset": "0x38730"
+            "offset": "0x38810"
         },
         "InitFunction::Run": {
             "offset": "0xFB10"
         },
         "InitFunctionBase::InitFunctionBase": {
-            "offset": "0x5CE80"
+            "offset": "0x5CF60"
         },
         "InitFunctionBase::Register": {
-            "offset": "0x5D1E0"
+            "offset": "0x5D2C0"
         },
         "InitFunctionBase::RunAll": {
-            "offset": "0x5D230"
+            "offset": "0x5D310"
         },
         "InitializeBuffer": {
             "offset": "0xBA70"
         },
         "InvokeRender": {
-            "offset": "0x3E920"
+            "offset": "0x3EA00"
         },
         "IsCL2": {
-            "offset": "0x3EB10"
+            "offset": "0x3EBF0"
         },
         "IsCodePadding": {
-            "offset": "0x60050"
+            "offset": "0x60130"
         },
         "IsExecutableAddress": {
-            "offset": "0x5FC10"
+            "offset": "0x5FCF0"
         },
         "IsInRenderQuery": {
-            "offset": "0x3EB90"
+            "offset": "0x3EC70"
         },
         "IsOnRenderThread": {
             "offset": "0x210A0"
         },
         "IsSafeToUseDXGI": {
-            "offset": "0x3EC20"
+            "offset": "0x3ED00"
         },
         "IsValidGraphicsLibrary": {
             "offset": "0x338A0"
         },
         "IsWindows10OrGreater": {
-            "offset": "0x3EDF0"
+            "offset": "0x3EED0"
         },
         "LimitFrameTime": {
-            "offset": "0x3EEB0"
+            "offset": "0x3EF90"
         },
         "LoadLibraryAHook": {
             "offset": "0x34680"
@@ -487,115 +487,115 @@
             "offset": "0x29190"
         },
         "MH_CreateHook": {
-            "offset": "0x5F2D0"
+            "offset": "0x5F3B0"
         },
         "MH_EnableHook": {
-            "offset": "0x5F560"
+            "offset": "0x5F640"
         },
         "MH_Initialize": {
-            "offset": "0x5F570"
+            "offset": "0x5F650"
         },
         "MH_Uninitialize": {
-            "offset": "0x5F610"
+            "offset": "0x5F6F0"
         },
         "MakeRelativeCitPath": {
             "offset": "0xDA50"
         },
         "MakeRelativeGamePath": {
-            "offset": "0x3EFB0"
+            "offset": "0x3F090"
         },
         "Microsoft::WRL::ComPtr<BufferBackedDXGISwapChain>::~ComPtr<BufferBackedDXGISwapChain>": {
-            "offset": "0x38B40"
+            "offset": "0x38C20"
         },
         "Microsoft::WRL::ComPtr<DeferredFullscreenSwapChain>::~ComPtr<DeferredFullscreenSwapChain>": {
-            "offset": "0x38B40"
+            "offset": "0x38C20"
         },
         "Microsoft::WRL::ComPtr<ID3D11BlendState>::~ComPtr<ID3D11BlendState>": {
-            "offset": "0x38B40"
+            "offset": "0x38C20"
         },
         "Microsoft::WRL::ComPtr<ID3D11DepthStencilView>::~ComPtr<ID3D11DepthStencilView>": {
-            "offset": "0x38B40"
+            "offset": "0x38C20"
         },
         "Microsoft::WRL::ComPtr<ID3D11Device>::~ComPtr<ID3D11Device>": {
-            "offset": "0x38B40"
+            "offset": "0x38C20"
         },
         "Microsoft::WRL::ComPtr<ID3D11DeviceContext>::~ComPtr<ID3D11DeviceContext>": {
-            "offset": "0x38B40"
+            "offset": "0x38C20"
         },
         "Microsoft::WRL::ComPtr<ID3D11PixelShader>::~ComPtr<ID3D11PixelShader>": {
-            "offset": "0x38B40"
+            "offset": "0x38C20"
         },
         "Microsoft::WRL::ComPtr<ID3D11RenderTargetView>::~ComPtr<ID3D11RenderTargetView>": {
-            "offset": "0x38B40"
+            "offset": "0x38C20"
         },
         "Microsoft::WRL::ComPtr<ID3D11SamplerState>::~ComPtr<ID3D11SamplerState>": {
-            "offset": "0x38B40"
+            "offset": "0x38C20"
         },
         "Microsoft::WRL::ComPtr<ID3D11ShaderResourceView>::~ComPtr<ID3D11ShaderResourceView>": {
-            "offset": "0x38B40"
+            "offset": "0x38C20"
         },
         "Microsoft::WRL::ComPtr<ID3D11Texture2D>::ComPtr<ID3D11Texture2D>": {
-            "offset": "0x38270"
+            "offset": "0x38350"
         },
         "Microsoft::WRL::ComPtr<ID3D11Texture2D>::~ComPtr<ID3D11Texture2D>": {
-            "offset": "0x38B40"
+            "offset": "0x38C20"
         },
         "Microsoft::WRL::ComPtr<ID3D11VertexShader>::~ComPtr<ID3D11VertexShader>": {
-            "offset": "0x38B40"
+            "offset": "0x38C20"
         },
         "Microsoft::WRL::ComPtr<ID3DUserDefinedAnnotation>::~ComPtr<ID3DUserDefinedAnnotation>": {
-            "offset": "0x38B40"
+            "offset": "0x38C20"
         },
         "Microsoft::WRL::ComPtr<IDXGIAdapter1>::~ComPtr<IDXGIAdapter1>": {
-            "offset": "0x38B40"
+            "offset": "0x38C20"
         },
         "Microsoft::WRL::ComPtr<IDXGIAdapter>::~ComPtr<IDXGIAdapter>": {
-            "offset": "0x38B40"
+            "offset": "0x38C20"
         },
         "Microsoft::WRL::ComPtr<IDXGIDevice>::~ComPtr<IDXGIDevice>": {
-            "offset": "0x38B40"
+            "offset": "0x38C20"
         },
         "Microsoft::WRL::ComPtr<IDXGIKeyedMutex>::~ComPtr<IDXGIKeyedMutex>": {
-            "offset": "0x38B40"
+            "offset": "0x38C20"
         },
         "Microsoft::WRL::ComPtr<IDXGIOutput>::~ComPtr<IDXGIOutput>": {
-            "offset": "0x38B40"
+            "offset": "0x38C20"
         },
         "Microsoft::WRL::ComPtr<IDXGIResource>::~ComPtr<IDXGIResource>": {
-            "offset": "0x38B40"
+            "offset": "0x38C20"
         },
         "Microsoft::WRL::ComPtr<IDXGISwapChain1>::~ComPtr<IDXGISwapChain1>": {
-            "offset": "0x38B40"
+            "offset": "0x38C20"
         },
         "Microsoft::WRL::ComPtr<IUnknown>::~ComPtr<IUnknown>": {
-            "offset": "0x38B40"
+            "offset": "0x38C20"
         },
         "Microsoft::WRL::Details::MakeAllocator<BufferBackedDXGISwapChain>::~MakeAllocator<BufferBackedDXGISwapChain>": {
-            "offset": "0x38B70"
+            "offset": "0x38C50"
         },
         "Microsoft::WRL::Details::RuntimeClassImpl<Microsoft::WRL::RuntimeClassFlags<2>,1,0,1,IDXGISwapChain>::AddRef": {
-            "offset": "0x363A0"
+            "offset": "0x36480"
         },
         "Microsoft::WRL::Details::RuntimeClassImpl<Microsoft::WRL::RuntimeClassFlags<2>,1,0,1,IDXGISwapChain>::QueryInterface": {
-            "offset": "0x36300"
+            "offset": "0x363E0"
         },
         "Microsoft::WRL::Details::RuntimeClassImpl<Microsoft::WRL::RuntimeClassFlags<2>,1,0,1,IDXGISwapChain>::Release": {
-            "offset": "0x363D0"
+            "offset": "0x364B0"
         },
         "Microsoft::WRL::RuntimeClass<Microsoft::WRL::RuntimeClassFlags<2>,IDXGISwapChain>::~RuntimeClass<Microsoft::WRL::RuntimeClassFlags<2>,IDXGISwapChain>": {
-            "offset": "0x38B90"
+            "offset": "0x38C70"
         },
         "NewWndProc": {
-            "offset": "0x42A70"
+            "offset": "0x42B50"
         },
         "PeekMessageWFake": {
-            "offset": "0x42CE0"
+            "offset": "0x42DC0"
         },
         "PopDrawBlitImShader": {
             "offset": "0x23560"
         },
         "ProcessThreadIPs": {
-            "offset": "0x5F6D0"
+            "offset": "0x5F7B0"
         },
         "ProtectedMemmove": {
             "offset": "0xFED0"
@@ -604,25 +604,25 @@
             "offset": "0x23BF0"
         },
         "RagePresentWrap": {
-            "offset": "0x3F110"
+            "offset": "0x3F1F0"
         },
         "RaiseDebugException": {
-            "offset": "0x5D150"
+            "offset": "0x5D230"
         },
         "RemoveTextureOverride": {
-            "offset": "0x3F450"
+            "offset": "0x3F530"
         },
         "RenderBufferToBuffer": {
-            "offset": "0x3F590"
+            "offset": "0x3F670"
         },
         "RenderThreadKickStub": {
-            "offset": "0x42EB0"
+            "offset": "0x42F90"
         },
         "RenderThreadWaitStub": {
-            "offset": "0x42F10"
+            "offset": "0x42FF0"
         },
         "ReverseGameData::ReverseGameData": {
-            "offset": "0x38A40"
+            "offset": "0x38B20"
         },
         "RootCheckPresented": {
             "offset": "0x291D0"
@@ -655,190 +655,190 @@
             "offset": "0x25D20"
         },
         "SetTextureHook": {
-            "offset": "0x3FC40"
+            "offset": "0x3FD20"
         },
         "SetThreadName": {
-            "offset": "0x5B300"
+            "offset": "0x5B3E0"
         },
         "SetWindowLongPtrAHook": {
-            "offset": "0x3FD70"
+            "offset": "0x3FE50"
         },
         "SetWorldMatrix": {
             "offset": "0x25D80"
         },
         "SetupQueryHook": {
-            "offset": "0x3FD90"
+            "offset": "0x3FE70"
         },
         "ShowCursorWrap": {
-            "offset": "0x42F40"
+            "offset": "0x43020"
         },
         "ShowWindowWrap": {
-            "offset": "0x430A0"
+            "offset": "0x43180"
         },
         "SysError": {
             "offset": "0xDFD0"
         },
         "ToNarrow": {
-            "offset": "0x5D260"
+            "offset": "0x5D340"
         },
         "ToWide": {
-            "offset": "0x5D350"
+            "offset": "0x5D430"
         },
         "TraceRealV": {
-            "offset": "0x5D660"
+            "offset": "0x5D740"
         },
         "TranslateMessageFake": {
             "offset": "0xBA70"
         },
         "UiDone": {
-            "offset": "0x3FE00"
+            "offset": "0x3FEE0"
         },
         "Unfreeze": {
-            "offset": "0x5F880"
+            "offset": "0x5F960"
         },
         "UninitializeBuffer": {
-            "offset": "0x5FC50"
+            "offset": "0x5FD30"
         },
         "WaitForQueryHook": {
-            "offset": "0x40090"
+            "offset": "0x40170"
         },
         "WaitableTimer::~WaitableTimer": {
-            "offset": "0x38F60"
+            "offset": "0x39040"
         },
         "WakeWindowThreadFor": {
-            "offset": "0x43190"
+            "offset": "0x43270"
         },
         "Win32TrapAndJump64": {
-            "offset": "0x5ED80"
+            "offset": "0x5EE60"
         },
         "WrapCreateBackbuffer": {
-            "offset": "0x40180"
+            "offset": "0x40260"
         },
         "WrapVideoModeChange": {
-            "offset": "0x402B0"
+            "offset": "0x40390"
         },
         "_DllMainCRTStartup": {
-            "offset": "0x61A60"
+            "offset": "0x61B40"
         },
         "_Init_thread_abort": {
-            "offset": "0x60C64"
+            "offset": "0x60D44"
         },
         "_Init_thread_footer": {
-            "offset": "0x60C94"
+            "offset": "0x60D74"
         },
         "_Init_thread_header": {
-            "offset": "0x60CF4"
+            "offset": "0x60DD4"
         },
         "_Init_thread_notify": {
-            "offset": "0x60D5C"
+            "offset": "0x60E3C"
         },
         "_Init_thread_wait": {
-            "offset": "0x60DA0"
+            "offset": "0x60E80"
         },
         "_RTC_Initialize": {
-            "offset": "0x6206C"
+            "offset": "0x6214C"
         },
         "_RTC_Terminate": {
-            "offset": "0x620A8"
+            "offset": "0x62188"
         },
         "__ArrayUnwind": {
-            "offset": "0x61640"
+            "offset": "0x61720"
         },
         "__GSHandlerCheck": {
-            "offset": "0x61380"
+            "offset": "0x61460"
         },
         "__GSHandlerCheckCommon": {
-            "offset": "0x613A0"
+            "offset": "0x61480"
         },
         "__GSHandlerCheck_EH": {
-            "offset": "0x613FC"
-        },
-        "__GSHandlerCheck_SEH": {
             "offset": "0x614DC"
         },
+        "__GSHandlerCheck_SEH": {
+            "offset": "0x615BC"
+        },
         "__chkstk": {
-            "offset": "0x616F0"
+            "offset": "0x617D0"
         },
         "__crt_debugger_hook": {
-            "offset": "0x61DC8"
+            "offset": "0x61EA8"
         },
         "__dyn_tls_init": {
-            "offset": "0x611C8"
+            "offset": "0x612A8"
         },
         "__dyn_tls_on_demand_init": {
-            "offset": "0x61230"
+            "offset": "0x61310"
         },
         "__isa_available_init": {
-            "offset": "0x61C1C"
+            "offset": "0x61CFC"
         },
         "__local_stdio_printf_options": {
             "offset": "0xFA30"
         },
         "__local_stdio_scanf_options": {
-            "offset": "0x62040"
+            "offset": "0x62120"
         },
         "__raise_securityfailure": {
-            "offset": "0x61AA0"
+            "offset": "0x61B80"
         },
         "__report_gsfailure": {
-            "offset": "0x61AD4"
+            "offset": "0x61BB4"
         },
         "__scrt_acquire_startup_lock": {
-            "offset": "0x60E48"
+            "offset": "0x60F28"
         },
         "__scrt_dllmain_after_initialize_c": {
-            "offset": "0x60E84"
+            "offset": "0x60F64"
         },
         "__scrt_dllmain_before_initialize_c": {
-            "offset": "0x60EB8"
+            "offset": "0x60F98"
         },
         "__scrt_dllmain_crt_thread_attach": {
-            "offset": "0x60ED0"
+            "offset": "0x60FB0"
         },
         "__scrt_dllmain_crt_thread_detach": {
-            "offset": "0x60EF8"
+            "offset": "0x60FD8"
         },
         "__scrt_dllmain_exception_filter": {
-            "offset": "0x60F10"
+            "offset": "0x60FF0"
         },
         "__scrt_dllmain_uninitialize_c": {
-            "offset": "0x60F70"
+            "offset": "0x61050"
         },
         "__scrt_dllmain_uninitialize_critical": {
-            "offset": "0x60FA0"
+            "offset": "0x61080"
         },
         "__scrt_fastfail": {
-            "offset": "0x61DD0"
+            "offset": "0x61EB0"
         },
         "__scrt_get_dyn_tls_init_callback": {
-            "offset": "0x62064"
+            "offset": "0x62144"
         },
         "__scrt_initialize_crt": {
-            "offset": "0x60FB4"
+            "offset": "0x61094"
         },
         "__scrt_initialize_default_local_stdio_options": {
-            "offset": "0x62048"
+            "offset": "0x62128"
         },
         "__scrt_initialize_onexit_tables": {
-            "offset": "0x61000"
+            "offset": "0x610E0"
         },
         "__scrt_initialize_thread_safe_statics": {
-            "offset": "0x60B6C"
+            "offset": "0x60C4C"
         },
         "__scrt_initialize_type_info": {
-            "offset": "0x616A4"
+            "offset": "0x61784"
         },
         "__scrt_is_nonwritable_in_current_image": {
-            "offset": "0x6108C"
+            "offset": "0x6116C"
         },
         "__scrt_is_nonwritable_in_current_image$filt$0": {
-            "offset": "0x63F4C"
+            "offset": "0x6401C"
         },
         "__scrt_is_ucrt_dll_in_use": {
-            "offset": "0x61F64"
+            "offset": "0x62044"
         },
         "__scrt_release_startup_lock": {
-            "offset": "0x61124"
+            "offset": "0x61204"
         },
         "__scrt_stub_for_acrt_initialize": {
             "offset": "0x10100"
@@ -859,73 +859,73 @@
             "offset": "0x10030"
         },
         "__scrt_throw_std_bad_alloc": {
-            "offset": "0x61F3C"
+            "offset": "0x6201C"
         },
         "__scrt_throw_std_bad_array_new_length": {
             "offset": "0xE7D0"
         },
         "__scrt_uninitialize_crt": {
-            "offset": "0x61148"
+            "offset": "0x61228"
         },
         "__scrt_uninitialize_thread_safe_statics": {
-            "offset": "0x60C3C"
+            "offset": "0x60D1C"
         },
         "__scrt_uninitialize_type_info": {
-            "offset": "0x616B4"
+            "offset": "0x61794"
         },
         "__security_check_cookie": {
-            "offset": "0x61490"
+            "offset": "0x61570"
         },
         "__security_init_cookie": {
-            "offset": "0x61F70"
+            "offset": "0x62050"
         },
         "__std_find_trivial_1": {
-            "offset": "0x60850"
+            "offset": "0x60930"
         },
         "__std_find_trivial_2": {
-            "offset": "0x60920"
+            "offset": "0x60A00"
         },
         "__std_find_trivial_8": {
-            "offset": "0x609F0"
+            "offset": "0x60AD0"
         },
         "__std_init_once_link_alternate_names_and_abort": {
-            "offset": "0x60B10"
+            "offset": "0x60BF0"
         },
         "_get_startup_argv_mode": {
-            "offset": "0x3E370"
+            "offset": "0x3E450"
         },
         "_guard_check_icall_nop": {
             "offset": "0xBA70"
         },
         "_guard_dispatch_icall_nop": {
-            "offset": "0x62250"
+            "offset": "0x62330"
         },
         "_guard_xfg_dispatch_icall_nop": {
-            "offset": "0x62270"
+            "offset": "0x62350"
         },
         "_onexit": {
-            "offset": "0x61174"
+            "offset": "0x61254"
         },
         "_wwassert": {
-            "offset": "0x5B4F0"
+            "offset": "0x5B5D0"
         },
         "`LimitFrameTime'::`2'::ReturnToken::~ReturnToken": {
-            "offset": "0x38EF0"
+            "offset": "0x38FD0"
         },
         "`__ArrayUnwind'::`1'::filt$0": {
-            "offset": "0x63FBC"
+            "offset": "0x6408C"
         },
         "`dllmain_crt_process_attach'::`1'::fin$0": {
-            "offset": "0x64039"
+            "offset": "0x64109"
         },
         "`dllmain_crt_process_detach'::`1'::fin$0": {
-            "offset": "0x64050"
+            "offset": "0x64120"
         },
         "`dllmain_crt_process_detach'::`1'::fin$1": {
-            "offset": "0x64069"
+            "offset": "0x64139"
         },
         "`dllmain_dispatch'::`1'::filt$0": {
-            "offset": "0x6407D"
+            "offset": "0x6414D"
         },
         "`dynamic initializer for 'HostSharedData<ReverseGameData>::m_fakeData''": {
             "offset": "0x2190"
@@ -1159,10 +1159,10 @@
             "offset": "0x31930"
         },
         "atexit": {
-            "offset": "0x611B0"
+            "offset": "0x61290"
         },
         "capture_previous_context": {
-            "offset": "0x61BA8"
+            "offset": "0x61C88"
         },
         "console::PrintWarning<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >": {
             "offset": "0x2A740"
@@ -1177,16 +1177,16 @@
             "offset": "0x348F0"
         },
         "dllmain_crt_dispatch": {
-            "offset": "0x61740"
+            "offset": "0x61820"
         },
         "dllmain_crt_process_attach": {
-            "offset": "0x61790"
+            "offset": "0x61870"
         },
         "dllmain_crt_process_detach": {
-            "offset": "0x618A8"
+            "offset": "0x61988"
         },
         "dllmain_dispatch": {
-            "offset": "0x6192C"
+            "offset": "0x61A0C"
         },
         "fmt::v8::basic_memory_buffer<char,500,std::allocator<char> >::grow": {
             "offset": "0xEE10"
@@ -1195,46 +1195,46 @@
             "offset": "0xBB30"
         },
         "fmt::v8::basic_memory_buffer<unsigned int,32,std::allocator<unsigned int> >::grow": {
-            "offset": "0x59870"
+            "offset": "0x59950"
         },
         "fmt::v8::basic_memory_buffer<unsigned int,32,std::allocator<unsigned int> >::~basic_memory_buffer<unsigned int,32,std::allocator<unsigned int> >": {
-            "offset": "0x58BA0"
+            "offset": "0x58C80"
         },
         "fmt::v8::basic_memory_buffer<wchar_t,500,std::allocator<wchar_t> >::grow": {
-            "offset": "0x35FD0"
+            "offset": "0x35F00"
         },
         "fmt::v8::basic_memory_buffer<wchar_t,500,std::allocator<wchar_t> >::~basic_memory_buffer<wchar_t,500,std::allocator<wchar_t> >": {
             "offset": "0x31740"
         },
         "fmt::v8::detail::add_compare": {
-            "offset": "0x58FE0"
+            "offset": "0x590C0"
         },
         "fmt::v8::detail::assert_fail": {
-            "offset": "0x59120"
+            "offset": "0x59200"
         },
         "fmt::v8::detail::bigint::assign_pow10": {
-            "offset": "0x59170"
+            "offset": "0x59250"
         },
         "fmt::v8::detail::bigint::divmod_assign": {
-            "offset": "0x59340"
+            "offset": "0x59420"
         },
         "fmt::v8::detail::bigint::square": {
-            "offset": "0x59C40"
+            "offset": "0x59D20"
         },
         "fmt::v8::detail::bigint::~bigint": {
-            "offset": "0x58BA0"
+            "offset": "0x58C80"
         },
         "fmt::v8::detail::buffer<char>::append<char>": {
             "offset": "0x4340"
         },
         "fmt::v8::detail::buffer<char>::try_resize": {
-            "offset": "0x59F00"
+            "offset": "0x59FE0"
         },
         "fmt::v8::detail::check_int_type_spec<fmt::v8::detail::error_handler &>": {
             "offset": "0x2B070"
         },
         "fmt::v8::detail::compare": {
-            "offset": "0x592A0"
+            "offset": "0x59380"
         },
         "fmt::v8::detail::copy_str<wchar_t,char const *,std::back_insert_iterator<fmt::v8::detail::buffer<wchar_t> > >": {
             "offset": "0x2B130"
@@ -1243,40 +1243,40 @@
             "offset": "0xEBF0"
         },
         "fmt::v8::detail::decimal_point_impl<char>": {
-            "offset": "0x553D0"
+            "offset": "0x554B0"
         },
         "fmt::v8::detail::decimal_point_impl<wchar_t>": {
-            "offset": "0x554E0"
+            "offset": "0x555C0"
         },
         "fmt::v8::detail::do_throw<fmt::v8::format_error>": {
             "offset": "0x43F0"
         },
         "fmt::v8::detail::dragonbox::cache_accessor<double>::get_cached_power": {
-            "offset": "0x59740"
+            "offset": "0x59820"
         },
         "fmt::v8::detail::dragonbox::is_endpoint_integer<double>": {
-            "offset": "0x57350"
+            "offset": "0x57430"
         },
         "fmt::v8::detail::dragonbox::remove_trailing_zeros": {
-            "offset": "0x59A20"
+            "offset": "0x59B00"
         },
         "fmt::v8::detail::dragonbox::shorter_interval_case<float>": {
-            "offset": "0x57380"
+            "offset": "0x57460"
         },
         "fmt::v8::detail::dragonbox::to_decimal<double>": {
-            "offset": "0x58150"
+            "offset": "0x58230"
         },
         "fmt::v8::detail::dragonbox::to_decimal<float>": {
-            "offset": "0x57D20"
+            "offset": "0x57E00"
         },
         "fmt::v8::detail::error_handler::on_error": {
-            "offset": "0x599A0"
+            "offset": "0x59A80"
         },
         "fmt::v8::detail::fallback_format<double>": {
-            "offset": "0x55590"
+            "offset": "0x55670"
         },
         "fmt::v8::detail::fallback_format<long double>": {
-            "offset": "0x55590"
+            "offset": "0x55670"
         },
         "fmt::v8::detail::fill<std::back_insert_iterator<fmt::v8::detail::buffer<wchar_t> >,wchar_t>": {
             "offset": "0x2B200"
@@ -1285,25 +1285,25 @@
             "offset": "0x2B2C0"
         },
         "fmt::v8::detail::fmt_snprintf": {
-            "offset": "0x596D0"
+            "offset": "0x597B0"
         },
         "fmt::v8::detail::for_each_codepoint<`fmt::v8::detail::compute_width'::`2'::count_code_points>": {
             "offset": "0x4420"
         },
         "fmt::v8::detail::format_decimal<char,unsigned __int64,fmt::v8::appender,0>": {
-            "offset": "0x56A40"
+            "offset": "0x56B20"
         },
         "fmt::v8::detail::format_decimal<char,unsigned __int64>": {
             "offset": "0x46F0"
         },
         "fmt::v8::detail::format_decimal<char,unsigned int,fmt::v8::appender,0>": {
-            "offset": "0x56920"
+            "offset": "0x56A00"
         },
         "fmt::v8::detail::format_float<double>": {
-            "offset": "0x54EE0"
+            "offset": "0x54FC0"
         },
         "fmt::v8::detail::format_float<long double>": {
-            "offset": "0x56B80"
+            "offset": "0x56C60"
         },
         "fmt::v8::detail::format_uint<4,char,fmt::v8::appender,unsigned __int64>": {
             "offset": "0x47D0"
@@ -1312,7 +1312,7 @@
             "offset": "0x2B340"
         },
         "fmt::v8::detail::grisu_gen_digits<fmt::v8::detail::fixed_handler>": {
-            "offset": "0x56EE0"
+            "offset": "0x56FC0"
         },
         "fmt::v8::detail::parse_float_type_spec<fmt::v8::detail::error_handler,char>": {
             "offset": "0x48F0"
@@ -1336,19 +1336,19 @@
             "offset": "0xF980"
         },
         "fmt::v8::detail::printf_arg_formatter<std::back_insert_iterator<fmt::v8::detail::buffer<wchar_t> >,wchar_t>::write_null_pointer": {
-            "offset": "0x36250"
+            "offset": "0x36330"
         },
         "fmt::v8::detail::snprintf_float<double>": {
-            "offset": "0x57590"
+            "offset": "0x57670"
         },
         "fmt::v8::detail::snprintf_float<long double>": {
-            "offset": "0x57810"
+            "offset": "0x578F0"
         },
         "fmt::v8::detail::thousands_sep_impl<char>": {
-            "offset": "0x57AA0"
+            "offset": "0x57B80"
         },
         "fmt::v8::detail::thousands_sep_impl<wchar_t>": {
-            "offset": "0x57C10"
+            "offset": "0x57CF0"
         },
         "fmt::v8::detail::thousands_sep_result<char>::~thousands_sep_result<char>": {
             "offset": "0xBB90"
@@ -1378,10 +1378,10 @@
             "offset": "0x77C0"
         },
         "fmt::v8::detail::write<char,fmt::v8::appender,unsigned __int64,0>": {
-            "offset": "0x588A0"
+            "offset": "0x58980"
         },
         "fmt::v8::detail::write<char,fmt::v8::appender,unsigned int,0>": {
-            "offset": "0x58780"
+            "offset": "0x58860"
         },
         "fmt::v8::detail::write<char,fmt::v8::appender>": {
             "offset": "0x6E60"
@@ -1549,7 +1549,7 @@
             "offset": "0xBCC0"
         },
         "fmt::v8::sprintf<char [43],std::basic_string_view<char,std::char_traits<char> >,char const *,char>": {
-            "offset": "0x5C1B0"
+            "offset": "0x5C290"
         },
         "fmt::v8::visit_format_arg<fmt::v8::detail::arg_converter<__int64,fmt::v8::basic_printf_context<fmt::v8::appender,char> >,fmt::v8::basic_printf_context<fmt::v8::appender,char> >": {
             "offset": "0x51F0"
@@ -1606,10 +1606,10 @@
             "offset": "0x2C3A0"
         },
         "fmt::v8::vsprintf<fmt::v8::basic_string_view<char>,char>": {
-            "offset": "0x38150"
+            "offset": "0x38230"
         },
         "fmt::v8::vsprintf<std::basic_string_view<char,std::char_traits<char> >,char>": {
-            "offset": "0x5CD50"
+            "offset": "0x5CE30"
         },
         "fprintf": {
             "offset": "0xFA40"
@@ -1621,13 +1621,13 @@
             "offset": "0x17620"
         },
         "fwEvent<>::~fwEvent<>": {
-            "offset": "0x38DA0"
+            "offset": "0x38E80"
         },
         "fwEvent<bool *>::callback::~callback": {
             "offset": "0x17620"
         },
         "fwEvent<bool *>::~fwEvent<bool *>": {
-            "offset": "0x38DA0"
+            "offset": "0x38E80"
         },
         "fwPlatformString::fwPlatformString": {
             "offset": "0x31670"
@@ -1636,31 +1636,31 @@
             "offset": "0xBCE0"
         },
         "fwRefCountable::AddRef": {
-            "offset": "0x5E750"
+            "offset": "0x5E830"
         },
         "fwRefCountable::Release": {
-            "offset": "0x5E760"
+            "offset": "0x5E840"
         },
         "fwRefCountable::~fwRefCountable": {
-            "offset": "0x5E740"
+            "offset": "0x5E820"
         },
         "grcTextureDtorHook": {
-            "offset": "0x40EA0"
+            "offset": "0x40F80"
         },
         "hde64_disasm": {
-            "offset": "0x60090"
+            "offset": "0x60170"
         },
         "hook::AllocateFunctionStub": {
-            "offset": "0x5DED0"
+            "offset": "0x5DFB0"
         },
         "hook::TransformPattern": {
-            "offset": "0x5E590"
+            "offset": "0x5E670"
         },
         "hook::`anonymous namespace'::iat_matches_ordinal<char const *>": {
-            "offset": "0x38110"
+            "offset": "0x381F0"
         },
         "hook::call<long (__cdecl*)(IDXGIAdapter *,enum D3D_DRIVER_TYPE,HINSTANCE__ *,unsigned int,enum D3D_FEATURE_LEVEL const *,unsigned int,unsigned int,DXGI_SWAP_CHAIN_DESC const *,IDXGISwapChain * *,ID3D11Device * *,enum D3D_FEATURE_LEVEL *,ID3D11DeviceContext * *),void *>": {
-            "offset": "0x37C60"
+            "offset": "0x37D40"
         },
         "hook::details::StubInitFunction::Run": {
             "offset": "0x10810"
@@ -1762,7 +1762,7 @@
             "offset": "0x15DF0"
         },
         "hook::iat<HWND__ * (__cdecl*)(HWND__ *),char const *>": {
-            "offset": "0x37FF0"
+            "offset": "0x380D0"
         },
         "hook::module_pattern::~module_pattern": {
             "offset": "0xFB30"
@@ -1774,10 +1774,10 @@
             "offset": "0x15F60"
         },
         "hook::pattern::EnsureMatches": {
-            "offset": "0x5DF30"
+            "offset": "0x5E010"
         },
         "hook::pattern::Initialize": {
-            "offset": "0x5E290"
+            "offset": "0x5E370"
         },
         "hook::pattern::count": {
             "offset": "0x27950"
@@ -1810,10 +1810,10 @@
             "offset": "0x356C0"
         },
         "internal::ConsoleVariableEntry<bool>::SetValue": {
-            "offset": "0x359B0"
+            "offset": "0x358E0"
         },
         "internal::ConsoleVariableEntry<bool>::UpdateTrackingVariable": {
-            "offset": "0x35AB0"
+            "offset": "0x359E0"
         },
         "internal::Constraints<bool,void>::Compare": {
             "offset": "0x32EE0"
@@ -2023,13 +2023,13 @@
             "offset": "0x16C10"
         },
         "launch::GetLaunchModeKey": {
-            "offset": "0x3E050"
+            "offset": "0x3E130"
         },
         "launch::GetProductKey": {
-            "offset": "0x3E0F0"
+            "offset": "0x3E1D0"
         },
         "launch::IsSDKGuest": {
-            "offset": "0x3EBA0"
+            "offset": "0x3EC80"
         },
         "rage::`dynamic initializer for '_grmShaderDef_GetParameter''": {
             "offset": "0x12B0"
@@ -2071,22 +2071,22 @@
             "offset": "0x27D50"
         },
         "rage::grcResourceCache::FlushQueue": {
-            "offset": "0x54E40"
+            "offset": "0x54F20"
         },
         "rage::grcResourceCache::GetInstance": {
-            "offset": "0x54E50"
+            "offset": "0x54F30"
         },
         "rage::grcResourceCache::GetTotalPhysicalMemory": {
-            "offset": "0x54E70"
+            "offset": "0x54F50"
         },
         "rage::grcResourceCache::GetUsedPhysicalMemory": {
-            "offset": "0x54EA0"
+            "offset": "0x54F80"
         },
         "rage::grcResourceCache::QueueDelete": {
-            "offset": "0x54EB0"
+            "offset": "0x54F90"
         },
         "rage::grcResourceCache::_getAndUpdateAvailableMemory": {
-            "offset": "0x54EC0"
+            "offset": "0x54FA0"
         },
         "rage::grcTexture::IsRenderSystemColorSwapped": {
             "offset": "0x10100"
@@ -2199,8 +2199,11 @@
         "se::Object::~Object": {
             "offset": "0xBB90"
         },
+        "seCheckPrivilege": {
+            "offset": "0x36020"
+        },
         "std::_Alloc_construct_ptr<std::allocator<std::_List_node<std::pair<rage::grcTexture * const,rage::grcTexture *>,void *> > >::~_Alloc_construct_ptr<std::allocator<std::_List_node<std::pair<rage::grcTexture * const,rage::grcTexture *>,void *> > >": {
-            "offset": "0x38BA0"
+            "offset": "0x38C80"
         },
         "std::_Alloc_construct_ptr<std::allocator<std::_Tree_node<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,void *> > >::~_Alloc_construct_ptr<std::allocator<std::_Tree_node<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,void *> > >": {
             "offset": "0xBAB0"
@@ -2218,7 +2221,7 @@
             "offset": "0x12510"
         },
         "std::_Facet_Register": {
-            "offset": "0x60B1C"
+            "offset": "0x60BFC"
         },
         "std::_Func_class<bool,ConsoleExecutionContext &>::~_Func_class<bool,ConsoleExecutionContext &>": {
             "offset": "0x16C40"
@@ -2227,7 +2230,7 @@
             "offset": "0x16C40"
         },
         "std::_Func_class<void,__int64>::_Reset_move": {
-            "offset": "0x431E0"
+            "offset": "0x432C0"
         },
         "std::_Func_class<void,__int64>::~_Func_class<void,__int64>": {
             "offset": "0x16C40"
@@ -2236,73 +2239,73 @@
             "offset": "0x16C40"
         },
         "std::_Func_class<void>::_Reset_move": {
-            "offset": "0x431E0"
+            "offset": "0x432C0"
         },
         "std::_Func_class<void>::~_Func_class<void>": {
             "offset": "0x16C40"
         },
         "std::_Func_impl_no_alloc<<lambda_2729e31fb8c726b5ef153dd449ae69e5>,void,bool const &>::_Copy": {
-            "offset": "0x35AD0"
+            "offset": "0x35A00"
         },
         "std::_Func_impl_no_alloc<<lambda_2729e31fb8c726b5ef153dd449ae69e5>,void,bool const &>::_Delete_this": {
             "offset": "0x10890"
         },
         "std::_Func_impl_no_alloc<<lambda_2729e31fb8c726b5ef153dd449ae69e5>,void,bool const &>::_Do_call": {
-            "offset": "0x35E00"
+            "offset": "0x35D30"
         },
         "std::_Func_impl_no_alloc<<lambda_2729e31fb8c726b5ef153dd449ae69e5>,void,bool const &>::_Get": {
             "offset": "0x10880"
         },
         "std::_Func_impl_no_alloc<<lambda_2729e31fb8c726b5ef153dd449ae69e5>,void,bool const &>::_Move": {
-            "offset": "0x35AD0"
+            "offset": "0x35A00"
         },
         "std::_Func_impl_no_alloc<<lambda_2729e31fb8c726b5ef153dd449ae69e5>,void,bool const &>::_Target_type": {
-            "offset": "0x35F90"
+            "offset": "0x35EC0"
         },
         "std::_Func_impl_no_alloc<<lambda_44b797ceb096d645f9d316a603220f9c>,bool>::_Copy": {
-            "offset": "0x36CF0"
+            "offset": "0x36DD0"
         },
         "std::_Func_impl_no_alloc<<lambda_44b797ceb096d645f9d316a603220f9c>,bool>::_Delete_this": {
             "offset": "0x10890"
         },
         "std::_Func_impl_no_alloc<<lambda_44b797ceb096d645f9d316a603220f9c>,bool>::_Do_call": {
-            "offset": "0x36D10"
+            "offset": "0x36DF0"
         },
         "std::_Func_impl_no_alloc<<lambda_44b797ceb096d645f9d316a603220f9c>,bool>::_Get": {
             "offset": "0x10880"
         },
         "std::_Func_impl_no_alloc<<lambda_44b797ceb096d645f9d316a603220f9c>,bool>::_Move": {
-            "offset": "0x36CF0"
+            "offset": "0x36DD0"
         },
         "std::_Func_impl_no_alloc<<lambda_44b797ceb096d645f9d316a603220f9c>,bool>::_Target_type": {
-            "offset": "0x36D40"
+            "offset": "0x36E20"
         },
         "std::_Func_impl_no_alloc<<lambda_4b1b75654ad0c45a5c3ce0ab31d385d2>,void>::_Copy": {
-            "offset": "0x410A0"
+            "offset": "0x41180"
         },
         "std::_Func_impl_no_alloc<<lambda_4b1b75654ad0c45a5c3ce0ab31d385d2>,void>::_Delete_this": {
             "offset": "0x10890"
         },
         "std::_Func_impl_no_alloc<<lambda_4b1b75654ad0c45a5c3ce0ab31d385d2>,void>::_Do_call": {
-            "offset": "0x410B0"
+            "offset": "0x41190"
         },
         "std::_Func_impl_no_alloc<<lambda_4b1b75654ad0c45a5c3ce0ab31d385d2>,void>::_Get": {
             "offset": "0x10880"
         },
         "std::_Func_impl_no_alloc<<lambda_4b1b75654ad0c45a5c3ce0ab31d385d2>,void>::_Move": {
-            "offset": "0x410A0"
+            "offset": "0x41180"
         },
         "std::_Func_impl_no_alloc<<lambda_4b1b75654ad0c45a5c3ce0ab31d385d2>,void>::_Target_type": {
-            "offset": "0x410D0"
+            "offset": "0x411B0"
         },
         "std::_Func_impl_no_alloc<<lambda_6f3d5776d9fae5481db55e3691617bf7>,void>::_Copy": {
-            "offset": "0x36BA0"
+            "offset": "0x36C80"
         },
         "std::_Func_impl_no_alloc<<lambda_6f3d5776d9fae5481db55e3691617bf7>,void>::_Delete_this": {
-            "offset": "0x36CE0"
+            "offset": "0x36DC0"
         },
         "std::_Func_impl_no_alloc<<lambda_6f3d5776d9fae5481db55e3691617bf7>,void>::_Do_call": {
-            "offset": "0x36C00"
+            "offset": "0x36CE0"
         },
         "std::_Func_impl_no_alloc<<lambda_6f3d5776d9fae5481db55e3691617bf7>,void>::_Get": {
             "offset": "0x10880"
@@ -2311,16 +2314,16 @@
             "offset": "0x10030"
         },
         "std::_Func_impl_no_alloc<<lambda_6f3d5776d9fae5481db55e3691617bf7>,void>::_Target_type": {
-            "offset": "0x36CD0"
+            "offset": "0x36DB0"
         },
         "std::_Func_impl_no_alloc<<lambda_72ae5b0e2f813e08b01a5e2876e67561>,bool,ConsoleExecutionContext &>::_Copy": {
-            "offset": "0x35AF0"
+            "offset": "0x35A20"
         },
         "std::_Func_impl_no_alloc<<lambda_72ae5b0e2f813e08b01a5e2876e67561>,bool,ConsoleExecutionContext &>::_Delete_this": {
-            "offset": "0x35C50"
+            "offset": "0x35B80"
         },
         "std::_Func_impl_no_alloc<<lambda_72ae5b0e2f813e08b01a5e2876e67561>,bool,ConsoleExecutionContext &>::_Do_call": {
-            "offset": "0x35EE0"
+            "offset": "0x35E10"
         },
         "std::_Func_impl_no_alloc<<lambda_72ae5b0e2f813e08b01a5e2876e67561>,bool,ConsoleExecutionContext &>::_Get": {
             "offset": "0x10880"
@@ -2329,52 +2332,52 @@
             "offset": "0x10030"
         },
         "std::_Func_impl_no_alloc<<lambda_72ae5b0e2f813e08b01a5e2876e67561>,bool,ConsoleExecutionContext &>::_Target_type": {
-            "offset": "0x35FA0"
+            "offset": "0x35ED0"
         },
         "std::_Func_impl_no_alloc<<lambda_78683eb43e604dbd10dc94a2fe3c724a>,void>::_Copy": {
-            "offset": "0x41050"
+            "offset": "0x41130"
         },
         "std::_Func_impl_no_alloc<<lambda_78683eb43e604dbd10dc94a2fe3c724a>,void>::_Delete_this": {
-            "offset": "0x41090"
+            "offset": "0x41170"
         },
         "std::_Func_impl_no_alloc<<lambda_78683eb43e604dbd10dc94a2fe3c724a>,void>::_Do_call": {
-            "offset": "0x41070"
+            "offset": "0x41150"
         },
         "std::_Func_impl_no_alloc<<lambda_78683eb43e604dbd10dc94a2fe3c724a>,void>::_Get": {
             "offset": "0x10880"
         },
         "std::_Func_impl_no_alloc<<lambda_78683eb43e604dbd10dc94a2fe3c724a>,void>::_Move": {
-            "offset": "0x41050"
+            "offset": "0x41130"
         },
         "std::_Func_impl_no_alloc<<lambda_78683eb43e604dbd10dc94a2fe3c724a>,void>::_Target_type": {
-            "offset": "0x41080"
+            "offset": "0x41160"
         },
         "std::_Func_impl_no_alloc<<lambda_7eb157a9acc084703ceb1e6a10abbcc3>,void,__int64>::_Copy": {
-            "offset": "0x414F0"
+            "offset": "0x415D0"
         },
         "std::_Func_impl_no_alloc<<lambda_7eb157a9acc084703ceb1e6a10abbcc3>,void,__int64>::_Delete_this": {
             "offset": "0x10890"
         },
         "std::_Func_impl_no_alloc<<lambda_7eb157a9acc084703ceb1e6a10abbcc3>,void,__int64>::_Do_call": {
-            "offset": "0x41510"
+            "offset": "0x415F0"
         },
         "std::_Func_impl_no_alloc<<lambda_7eb157a9acc084703ceb1e6a10abbcc3>,void,__int64>::_Get": {
             "offset": "0x10880"
         },
         "std::_Func_impl_no_alloc<<lambda_7eb157a9acc084703ceb1e6a10abbcc3>,void,__int64>::_Move": {
-            "offset": "0x414F0"
+            "offset": "0x415D0"
         },
         "std::_Func_impl_no_alloc<<lambda_7eb157a9acc084703ceb1e6a10abbcc3>,void,__int64>::_Target_type": {
-            "offset": "0x41550"
+            "offset": "0x41630"
         },
         "std::_Func_impl_no_alloc<<lambda_814d5e0b3a45fa1dd158672480f6c4ca>,bool,ConsoleExecutionContext &>::_Copy": {
-            "offset": "0x35B70"
+            "offset": "0x35AA0"
         },
         "std::_Func_impl_no_alloc<<lambda_814d5e0b3a45fa1dd158672480f6c4ca>,bool,ConsoleExecutionContext &>::_Delete_this": {
-            "offset": "0x35C50"
+            "offset": "0x35B80"
         },
         "std::_Func_impl_no_alloc<<lambda_814d5e0b3a45fa1dd158672480f6c4ca>,bool,ConsoleExecutionContext &>::_Do_call": {
-            "offset": "0x35F30"
+            "offset": "0x35E60"
         },
         "std::_Func_impl_no_alloc<<lambda_814d5e0b3a45fa1dd158672480f6c4ca>,bool,ConsoleExecutionContext &>::_Get": {
             "offset": "0x10880"
@@ -2383,16 +2386,16 @@
             "offset": "0x10030"
         },
         "std::_Func_impl_no_alloc<<lambda_814d5e0b3a45fa1dd158672480f6c4ca>,bool,ConsoleExecutionContext &>::_Target_type": {
-            "offset": "0x35FB0"
+            "offset": "0x35EE0"
         },
         "std::_Func_impl_no_alloc<<lambda_bf7610c50ebb1884e5917f6a81016c78>,void>::_Copy": {
-            "offset": "0x35BF0"
+            "offset": "0x35B20"
         },
         "std::_Func_impl_no_alloc<<lambda_bf7610c50ebb1884e5917f6a81016c78>,void>::_Delete_this": {
-            "offset": "0x35CB0"
+            "offset": "0x35BE0"
         },
         "std::_Func_impl_no_alloc<<lambda_bf7610c50ebb1884e5917f6a81016c78>,void>::_Do_call": {
-            "offset": "0x35F80"
+            "offset": "0x35EB0"
         },
         "std::_Func_impl_no_alloc<<lambda_bf7610c50ebb1884e5917f6a81016c78>,void>::_Get": {
             "offset": "0x10880"
@@ -2401,7 +2404,7 @@
             "offset": "0x10030"
         },
         "std::_Func_impl_no_alloc<<lambda_bf7610c50ebb1884e5917f6a81016c78>,void>::_Target_type": {
-            "offset": "0x35FC0"
+            "offset": "0x35EF0"
         },
         "std::_Func_impl_no_alloc<<lambda_e51e092ca2165797cf98fc48afb5c311>,bool>::_Copy": {
             "offset": "0x10830"
@@ -2422,49 +2425,49 @@
             "offset": "0x10870"
         },
         "std::_Func_impl_no_alloc<<lambda_f559a89d0cc77b10c8b700cb4facb952>,void>::_Copy": {
-            "offset": "0x410E0"
+            "offset": "0x411C0"
         },
         "std::_Func_impl_no_alloc<<lambda_f559a89d0cc77b10c8b700cb4facb952>,void>::_Delete_this": {
             "offset": "0x10890"
         },
         "std::_Func_impl_no_alloc<<lambda_f559a89d0cc77b10c8b700cb4facb952>,void>::_Do_call": {
-            "offset": "0x410F0"
+            "offset": "0x411D0"
         },
         "std::_Func_impl_no_alloc<<lambda_f559a89d0cc77b10c8b700cb4facb952>,void>::_Get": {
             "offset": "0x10880"
         },
         "std::_Func_impl_no_alloc<<lambda_f559a89d0cc77b10c8b700cb4facb952>,void>::_Move": {
-            "offset": "0x410E0"
+            "offset": "0x411C0"
         },
         "std::_Func_impl_no_alloc<<lambda_f559a89d0cc77b10c8b700cb4facb952>,void>::_Target_type": {
-            "offset": "0x41110"
+            "offset": "0x411F0"
         },
         "std::_Guess_median_unchecked<jitasm::compiler::OrderedLabel *,std::less<void> >": {
             "offset": "0x13060"
         },
         "std::_Hash<std::_Umap_traits<rage::grcTexture *,rage::grcTexture *,std::_Uhash_compare<rage::grcTexture *,std::hash<rage::grcTexture *>,std::equal_to<rage::grcTexture *> >,std::allocator<std::pair<rage::grcTexture * const,rage::grcTexture *> >,0> >::_Forced_rehash": {
-            "offset": "0x408D0"
+            "offset": "0x409B0"
         },
         "std::_Hash<std::_Umap_traits<rage::grcTexture *,rage::grcTexture *,std::_Uhash_compare<rage::grcTexture *,std::hash<rage::grcTexture *>,std::equal_to<rage::grcTexture *> >,std::allocator<std::pair<rage::grcTexture * const,rage::grcTexture *> >,0> >::_Try_emplace<rage::grcTexture * const &>": {
-            "offset": "0x37960"
+            "offset": "0x37A40"
         },
         "std::_Hash<std::_Umap_traits<rage::grcTexture *,rage::grcTexture *,std::_Uhash_compare<rage::grcTexture *,std::hash<rage::grcTexture *>,std::equal_to<rage::grcTexture *> >,std::allocator<std::pair<rage::grcTexture * const,rage::grcTexture *> >,0> >::~_Hash<std::_Umap_traits<rage::grcTexture *,rage::grcTexture *,std::_Uhash_compare<rage::grcTexture *,std::hash<rage::grcTexture *>,std::equal_to<rage::grcTexture *> >,std::allocator<std::pair<rage::grcTexture * const,rage::grcTexture *> >,0> >": {
-            "offset": "0x38C90"
+            "offset": "0x38D70"
         },
         "std::_Hash_vec<std::allocator<std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<std::pair<rage::grcTexture * const,rage::grcTexture *> > > > > >::_Assign_grow": {
-            "offset": "0x40440"
+            "offset": "0x40520"
         },
         "std::_Hash_vec<std::allocator<std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<std::pair<rage::grcTexture * const,rage::grcTexture *> > > > > >::~_Hash_vec<std::allocator<std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<std::pair<rage::grcTexture * const,rage::grcTexture *> > > > > >": {
             "offset": "0x16E10"
         },
         "std::_Init_once_completer::~_Init_once_completer": {
-            "offset": "0x38F70"
+            "offset": "0x39050"
         },
         "std::_Insert_string<char,std::char_traits<char>,unsigned __int64>": {
             "offset": "0x2AC70"
         },
         "std::_List_node_emplace_op2<std::allocator<std::_List_node<std::pair<rage::grcTexture * const,rage::grcTexture *>,void *> > >::~_List_node_emplace_op2<std::allocator<std::_List_node<std::pair<rage::grcTexture * const,rage::grcTexture *>,void *> > >": {
-            "offset": "0x38BA0"
+            "offset": "0x38C80"
         },
         "std::_Make_heap_unchecked<std::pair<unsigned __int64,unsigned __int64> *,jitasm::compiler::ControlFlowGraph::sort_backedge>": {
             "offset": "0x134D0"
@@ -2473,7 +2476,7 @@
             "offset": "0xFA90"
         },
         "std::_Maklocstr<wchar_t>": {
-            "offset": "0x552C0"
+            "offset": "0x553A0"
         },
         "std::_Med3_unchecked<std::pair<unsigned __int64,unsigned __int64> *,jitasm::compiler::ControlFlowGraph::sort_backedge>": {
             "offset": "0x13650"
@@ -2509,10 +2512,10 @@
             "offset": "0x10030"
         },
         "std::_Ref_count_obj2<internal::ConsoleVariableEntry<bool> >::_Delete_this": {
-            "offset": "0x35D30"
+            "offset": "0x35C60"
         },
         "std::_Ref_count_obj2<internal::ConsoleVariableEntry<bool> >::_Destroy": {
-            "offset": "0x35D50"
+            "offset": "0x35C80"
         },
         "std::_Sort_unchecked<jitasm::compiler::OrderedLabel *,std::less<void> >": {
             "offset": "0x14DB0"
@@ -2530,16 +2533,16 @@
             "offset": "0xE7D0"
         },
         "std::_Throw_bad_cast": {
-            "offset": "0x58FC0"
+            "offset": "0x590A0"
         },
         "std::_Throw_tree_length_error": {
             "offset": "0xE7F0"
         },
         "std::_Tidy_guard<std::numpunct<char> >::~_Tidy_guard<std::numpunct<char> >": {
-            "offset": "0x58B60"
+            "offset": "0x58C40"
         },
         "std::_Tidy_guard<std::numpunct<wchar_t> >::~_Tidy_guard<std::numpunct<wchar_t> >": {
-            "offset": "0x58B60"
+            "offset": "0x58C40"
         },
         "std::_Tree<std::_Tmap_traits<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> >,0> >::_Find_hint<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >": {
             "offset": "0x3FE0"
@@ -2551,13 +2554,13 @@
             "offset": "0xBAD0"
         },
         "std::_Tree<std::_Tset_traits<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::less<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >,0> >::_Emplace<std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>": {
-            "offset": "0x37160"
+            "offset": "0x37240"
         },
         "std::_Tree_temp_node_alloc<std::allocator<std::_Tree_node<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,void *> > >::~_Tree_temp_node_alloc<std::allocator<std::_Tree_node<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,void *> > >": {
             "offset": "0xBAB0"
         },
         "std::_Tree_val<std::_Tree_simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::_Erase_tree<std::allocator<std::_Tree_node<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,void *> > >": {
-            "offset": "0x37450"
+            "offset": "0x37530"
         },
         "std::_Tree_val<std::_Tree_simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::_Insert_node": {
             "offset": "0xE570"
@@ -2581,7 +2584,7 @@
             "offset": "0xE810"
         },
         "std::allocator<Concurrency::details::_Split_order_list_node<std::pair<void * const,bool>,std::allocator<std::pair<void * const,bool> > >::_Node>::deallocate": {
-            "offset": "0x40E50"
+            "offset": "0x40F30"
         },
         "std::allocator<ID3D11Resource * *>::allocate": {
             "offset": "0x275E0"
@@ -2593,7 +2596,7 @@
             "offset": "0xE830"
         },
         "std::allocator<char>::deallocate": {
-            "offset": "0x41010"
+            "offset": "0x410F0"
         },
         "std::allocator<hook::pattern_match>::allocate": {
             "offset": "0x275E0"
@@ -2647,7 +2650,7 @@
             "offset": "0x27A70"
         },
         "std::allocator<unsigned char>::deallocate": {
-            "offset": "0x41010"
+            "offset": "0x410F0"
         },
         "std::allocator<unsigned int>::allocate": {
             "offset": "0x27570"
@@ -2659,10 +2662,10 @@
             "offset": "0xE890"
         },
         "std::allocator<wchar_t>::deallocate": {
-            "offset": "0x5DB00"
+            "offset": "0x5DBE0"
         },
         "std::bad_alloc::bad_alloc": {
-            "offset": "0x61F1C"
+            "offset": "0x61FFC"
         },
         "std::bad_alloc::~bad_alloc": {
             "offset": "0xBCC0"
@@ -2674,7 +2677,7 @@
             "offset": "0xBCC0"
         },
         "std::bad_cast::bad_cast": {
-            "offset": "0x58B30"
+            "offset": "0x58C10"
         },
         "std::bad_cast::~bad_cast": {
             "offset": "0xBCC0"
@@ -2689,16 +2692,16 @@
             "offset": "0x3EC0"
         },
         "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::_Reallocate_grow_by<<lambda_319d5e083f45f90dcdce5dce53cbb275>,char>": {
-            "offset": "0x5B850"
+            "offset": "0x5B930"
         },
         "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::_Reallocate_grow_by<<lambda_65e615be2a453ca0576c979606f46740>,char const *,unsigned __int64>": {
             "offset": "0x2AEE0"
         },
         "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::_Reallocate_grow_by<<lambda_9013ee9e23efe4882b67eff5b0ecf103> >": {
-            "offset": "0x5B9C0"
+            "offset": "0x5BAA0"
         },
         "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::append": {
-            "offset": "0x40DC0"
+            "offset": "0x40EA0"
         },
         "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::assign": {
             "offset": "0xEA80"
@@ -2722,16 +2725,16 @@
             "offset": "0x31670"
         },
         "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >::push_back": {
-            "offset": "0x5DB40"
+            "offset": "0x5DC20"
         },
         "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >::reserve": {
-            "offset": "0x5DCA0"
+            "offset": "0x5DD80"
         },
         "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >::~basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >": {
             "offset": "0xBBF0"
         },
         "std::call_once<<lambda_0b34211bdb41de6480deccf071b8412e> >": {
-            "offset": "0x37CE0"
+            "offset": "0x37DC0"
         },
         "std::deque<jitasm::Frontend::ControlState,std::allocator<jitasm::Frontend::ControlState> >::~deque<jitasm::Frontend::ControlState,std::allocator<jitasm::Frontend::ControlState> >": {
             "offset": "0x16CA0"
@@ -2779,7 +2782,7 @@
             "offset": "0xF960"
         },
         "std::fill<std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<std::pair<rage::grcTexture * const,rage::grcTexture *> > > > *,std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<std::pair<rage::grcTexture * const,rage::grcTexture *> > > > >": {
-            "offset": "0x37F60"
+            "offset": "0x38040"
         },
         "std::function<bool __cdecl(ConsoleExecutionContext &)>::~function<bool __cdecl(ConsoleExecutionContext &)>": {
             "offset": "0x16C40"
@@ -2800,52 +2803,52 @@
             "offset": "0x16C00"
         },
         "std::invoke<<lambda_9fb9bc506750150637e38322cd6a6162> >": {
-            "offset": "0x415C0"
+            "offset": "0x416A0"
         },
         "std::list<std::pair<rage::grcTexture * const,rage::grcTexture *>,std::allocator<std::pair<rage::grcTexture * const,rage::grcTexture *> > >::~list<std::pair<rage::grcTexture * const,rage::grcTexture *>,std::allocator<std::pair<rage::grcTexture * const,rage::grcTexture *> > >": {
-            "offset": "0x38E50"
+            "offset": "0x38F30"
         },
         "std::locale::~locale": {
-            "offset": "0x58C20"
+            "offset": "0x58D00"
         },
         "std::move<<lambda_9fb9bc506750150637e38322cd6a6162> &>": {
             "offset": "0x16C00"
         },
         "std::numpunct<char>::do_decimal_point": {
-            "offset": "0x59550"
-        },
-        "std::numpunct<char>::do_falsename": {
-            "offset": "0x59570"
-        },
-        "std::numpunct<char>::do_grouping": {
-            "offset": "0x595F0"
-        },
-        "std::numpunct<char>::do_thousands_sep": {
             "offset": "0x59630"
         },
-        "std::numpunct<char>::do_truename": {
+        "std::numpunct<char>::do_falsename": {
             "offset": "0x59650"
         },
+        "std::numpunct<char>::do_grouping": {
+            "offset": "0x596D0"
+        },
+        "std::numpunct<char>::do_thousands_sep": {
+            "offset": "0x59710"
+        },
+        "std::numpunct<char>::do_truename": {
+            "offset": "0x59730"
+        },
         "std::numpunct<char>::numpunct<char>": {
-            "offset": "0x58940"
+            "offset": "0x58A20"
         },
         "std::numpunct<wchar_t>::_Getcat": {
-            "offset": "0x58DD0"
+            "offset": "0x58EB0"
         },
         "std::numpunct<wchar_t>::do_decimal_point": {
-            "offset": "0x59560"
-        },
-        "std::numpunct<wchar_t>::do_falsename": {
-            "offset": "0x595B0"
-        },
-        "std::numpunct<wchar_t>::do_grouping": {
-            "offset": "0x595F0"
-        },
-        "std::numpunct<wchar_t>::do_thousands_sep": {
             "offset": "0x59640"
         },
-        "std::numpunct<wchar_t>::do_truename": {
+        "std::numpunct<wchar_t>::do_falsename": {
             "offset": "0x59690"
+        },
+        "std::numpunct<wchar_t>::do_grouping": {
+            "offset": "0x596D0"
+        },
+        "std::numpunct<wchar_t>::do_thousands_sep": {
+            "offset": "0x59720"
+        },
+        "std::numpunct<wchar_t>::do_truename": {
+            "offset": "0x59770"
         },
         "std::rotate<std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<jitasm::compiler::BasicBlock *> > > >": {
             "offset": "0x161E0"
@@ -2854,7 +2857,7 @@
             "offset": "0xB960"
         },
         "std::set<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::less<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::~set<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::less<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >": {
-            "offset": "0x38EB0"
+            "offset": "0x38F90"
         },
         "std::shared_ptr<internal::ConsoleVariableEntry<bool> >::~shared_ptr<internal::ConsoleVariableEntry<bool> >": {
             "offset": "0x317A0"
@@ -2863,16 +2866,16 @@
             "offset": "0x317A0"
         },
         "std::thread::_Invoke<std::tuple<<lambda_3cf43aa4044dcba2bfd51ecbef95a5bc> >,0>": {
-            "offset": "0x37920"
+            "offset": "0x37A00"
         },
         "std::thread::_Invoke<std::tuple<<lambda_9fb9bc506750150637e38322cd6a6162> >,0>": {
-            "offset": "0x41580"
+            "offset": "0x41660"
         },
         "std::thread::~thread": {
-            "offset": "0x38FA0"
+            "offset": "0x39080"
         },
         "std::to_string": {
-            "offset": "0x360F0"
+            "offset": "0x361D0"
         },
         "std::tuple<HWND__ *,unsigned int,unsigned __int64,__int64,std::function<void __cdecl(__int64)> >::~tuple<HWND__ *,unsigned int,unsigned __int64,__int64,std::function<void __cdecl(__int64)> >": {
             "offset": "0x16C40"
@@ -2890,64 +2893,64 @@
             "offset": "0x16DA0"
         },
         "std::unique_ptr<std::_Facet_base,std::default_delete<std::_Facet_base> >::~unique_ptr<std::_Facet_base,std::default_delete<std::_Facet_base> >": {
-            "offset": "0x58C00"
+            "offset": "0x58CE0"
         },
         "std::unique_ptr<std::tuple<<lambda_3cf43aa4044dcba2bfd51ecbef95a5bc> >,std::default_delete<std::tuple<<lambda_3cf43aa4044dcba2bfd51ecbef95a5bc> > > >::~unique_ptr<std::tuple<<lambda_3cf43aa4044dcba2bfd51ecbef95a5bc> >,std::default_delete<std::tuple<<lambda_3cf43aa4044dcba2bfd51ecbef95a5bc> > > >": {
-            "offset": "0x38B70"
+            "offset": "0x38C50"
         },
         "std::unique_ptr<std::tuple<<lambda_9fb9bc506750150637e38322cd6a6162> >,std::default_delete<std::tuple<<lambda_9fb9bc506750150637e38322cd6a6162> > > >::get": {
-            "offset": "0x43250"
+            "offset": "0x43330"
         },
         "std::unique_ptr<std::tuple<<lambda_9fb9bc506750150637e38322cd6a6162> >,std::default_delete<std::tuple<<lambda_9fb9bc506750150637e38322cd6a6162> > > >::unique_ptr<std::tuple<<lambda_9fb9bc506750150637e38322cd6a6162> >,std::default_delete<std::tuple<<lambda_9fb9bc506750150637e38322cd6a6162> > > ><std::default_delete<std::tuple<<lambda_9fb9bc506750150637e38322cd6a6162> > >,0>": {
-            "offset": "0x41570"
+            "offset": "0x41650"
         },
         "std::unique_ptr<std::tuple<<lambda_9fb9bc506750150637e38322cd6a6162> >,std::default_delete<std::tuple<<lambda_9fb9bc506750150637e38322cd6a6162> > > >::~unique_ptr<std::tuple<<lambda_9fb9bc506750150637e38322cd6a6162> >,std::default_delete<std::tuple<<lambda_9fb9bc506750150637e38322cd6a6162> > > >": {
-            "offset": "0x416B0"
+            "offset": "0x41790"
         },
         "std::unique_ptr<unsigned char [0],std::default_delete<unsigned char [0]> >::~unique_ptr<unsigned char [0],std::default_delete<unsigned char [0]> >": {
-            "offset": "0x38EE0"
+            "offset": "0x38FC0"
         },
         "std::unique_ptr<wchar_t [0],std::default_delete<wchar_t [0]> >::~unique_ptr<wchar_t [0],std::default_delete<wchar_t [0]> >": {
-            "offset": "0x38EE0"
+            "offset": "0x38FC0"
         },
         "std::use_facet<std::numpunct<char> >": {
-            "offset": "0x58520"
+            "offset": "0x58600"
         },
         "std::use_facet<std::numpunct<wchar_t> >": {
-            "offset": "0x58690"
+            "offset": "0x58770"
         },
         "utf8::exception::exception": {
-            "offset": "0x5CEA0"
+            "offset": "0x5CF80"
         },
         "utf8::internal::append<std::back_insert_iterator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >,char>": {
-            "offset": "0x5BC20"
+            "offset": "0x5BD00"
         },
         "utf8::internal::validate_next<std::_String_view_iterator<std::char_traits<char> > >": {
-            "offset": "0x5C850"
+            "offset": "0x5C930"
         },
         "utf8::invalid_code_point::invalid_code_point": {
-            "offset": "0x5CF30"
+            "offset": "0x5D010"
         },
         "utf8::invalid_code_point::what": {
-            "offset": "0x5DE70"
+            "offset": "0x5DF50"
         },
         "utf8::invalid_code_point::~invalid_code_point": {
             "offset": "0xBCC0"
         },
         "utf8::invalid_utf8::invalid_utf8": {
-            "offset": "0x5CFA0"
+            "offset": "0x5D080"
         },
         "utf8::invalid_utf8::what": {
-            "offset": "0x5DE80"
+            "offset": "0x5DF60"
         },
         "utf8::invalid_utf8::~invalid_utf8": {
             "offset": "0xBCC0"
         },
         "utf8::not_enough_room::not_enough_room": {
-            "offset": "0x5D000"
+            "offset": "0x5D0E0"
         },
         "utf8::not_enough_room::what": {
-            "offset": "0x5DE90"
+            "offset": "0x5DF70"
         },
         "utf8::not_enough_room::~not_enough_room": {
             "offset": "0xBCC0"
@@ -2956,22 +2959,22 @@
             "offset": "0x2B820"
         },
         "va_impl<char,fmt::v8::basic_format_args<fmt::v8::basic_printf_context<fmt::v8::appender,char> > >": {
-            "offset": "0x5C330"
+            "offset": "0x5C410"
         },
         "va_impl<wchar_t,fmt::v8::basic_format_args<fmt::v8::basic_printf_context<std::back_insert_iterator<fmt::v8::detail::buffer<wchar_t> >,wchar_t> > >": {
-            "offset": "0x5C550"
+            "offset": "0x5C630"
         },
         "vva": {
-            "offset": "0x5DE50"
+            "offset": "0x5DF30"
         },
         "xbr::GetGameBuild": {
             "offset": "0x20D60"
         },
         "xbr::GetReplaceExecutableInit": {
-            "offset": "0x5E7E0"
+            "offset": "0x5E8C0"
         },
         "xbr::GetRequestedGameBuildInit": {
-            "offset": "0x5EA00"
+            "offset": "0x5EAE0"
         },
         "xbr::`dynamic initializer for 'kGameBuildUniquifiers''": {
             "offset": "0x2FB0"

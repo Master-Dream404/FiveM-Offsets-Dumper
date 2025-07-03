@@ -433,7 +433,7 @@
             "offset": "0x23270"
         },
         "fmt::v8::basic_memory_buffer<wchar_t,500,std::allocator<wchar_t> >::grow": {
-            "offset": "0xE6F0"
+            "offset": "0xE880"
         },
         "fmt::v8::basic_memory_buffer<wchar_t,500,std::allocator<wchar_t> >::~basic_memory_buffer<wchar_t,500,std::allocator<wchar_t> >": {
             "offset": "0x17CC0"
@@ -916,31 +916,31 @@
             "offset": "0x1ED00"
         },
         "nlohmann::json_abi_v3_11_2::detail::exception::exception": {
-            "offset": "0xE230"
+            "offset": "0xE3C0"
         },
         "nlohmann::json_abi_v3_11_2::detail::exception::name": {
             "offset": "0x1EFD0"
         },
         "nlohmann::json_abi_v3_11_2::detail::exception::what": {
-            "offset": "0xE210"
+            "offset": "0xE3A0"
         },
         "nlohmann::json_abi_v3_11_2::detail::output_adapter<char,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::~output_adapter<char,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >": {
             "offset": "0x17E50"
         },
         "nlohmann::json_abi_v3_11_2::detail::output_string_adapter<char,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::write_character": {
-            "offset": "0xE550"
+            "offset": "0xE6E0"
         },
         "nlohmann::json_abi_v3_11_2::detail::output_string_adapter<char,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::write_characters": {
-            "offset": "0xE590"
+            "offset": "0xE720"
         },
         "nlohmann::json_abi_v3_11_2::detail::type_error::create<std::nullptr_t,0>": {
             "offset": "0x105A0"
         },
         "nlohmann::json_abi_v3_11_2::detail::type_error::type_error": {
-            "offset": "0xE350"
+            "offset": "0xE4E0"
         },
         "nlohmann::json_abi_v3_11_2::detail::type_error::~type_error": {
-            "offset": "0xE310"
+            "offset": "0xE4A0"
         },
         "rapidjson::GenericDocument<rapidjson::UTF8<char>,rapidjson::MemoryPoolAllocator<rapidjson::CrtAllocator>,rapidjson::CrtAllocator>::~GenericDocument<rapidjson::UTF8<char>,rapidjson::MemoryPoolAllocator<rapidjson::CrtAllocator>,rapidjson::CrtAllocator>": {
             "offset": "0x9ED0"
@@ -1024,94 +1024,94 @@
             "offset": "0x17BA0"
         },
         "std::_Func_impl_no_alloc<<lambda_108438ffb0335eb57ac23871e0be28e3>,bool,fx::ResourceManager *>::_Copy": {
-            "offset": "0xE910"
+            "offset": "0xEAA0"
         },
         "std::_Func_impl_no_alloc<<lambda_108438ffb0335eb57ac23871e0be28e3>,bool,fx::ResourceManager *>::_Delete_this": {
-            "offset": "0xE200"
+            "offset": "0xE390"
         },
         "std::_Func_impl_no_alloc<<lambda_108438ffb0335eb57ac23871e0be28e3>,bool,fx::ResourceManager *>::_Do_call": {
-            "offset": "0xE930"
-        },
-        "std::_Func_impl_no_alloc<<lambda_108438ffb0335eb57ac23871e0be28e3>,bool,fx::ResourceManager *>::_Get": {
-            "offset": "0xE1F0"
-        },
-        "std::_Func_impl_no_alloc<<lambda_108438ffb0335eb57ac23871e0be28e3>,bool,fx::ResourceManager *>::_Move": {
-            "offset": "0xE910"
-        },
-        "std::_Func_impl_no_alloc<<lambda_108438ffb0335eb57ac23871e0be28e3>,bool,fx::ResourceManager *>::_Target_type": {
-            "offset": "0xE950"
-        },
-        "std::_Func_impl_no_alloc<<lambda_19fce0911de387704d97dc6de22a667a>,void,fwRefContainer<net::TcpServerStream> >::_Copy": {
-            "offset": "0xE1A0"
-        },
-        "std::_Func_impl_no_alloc<<lambda_19fce0911de387704d97dc6de22a667a>,void,fwRefContainer<net::TcpServerStream> >::_Delete_this": {
-            "offset": "0xE200"
-        },
-        "std::_Func_impl_no_alloc<<lambda_19fce0911de387704d97dc6de22a667a>,void,fwRefContainer<net::TcpServerStream> >::_Do_call": {
-            "offset": "0xE1B0"
-        },
-        "std::_Func_impl_no_alloc<<lambda_19fce0911de387704d97dc6de22a667a>,void,fwRefContainer<net::TcpServerStream> >::_Get": {
-            "offset": "0xE1F0"
-        },
-        "std::_Func_impl_no_alloc<<lambda_19fce0911de387704d97dc6de22a667a>,void,fwRefContainer<net::TcpServerStream> >::_Move": {
-            "offset": "0xE1A0"
-        },
-        "std::_Func_impl_no_alloc<<lambda_19fce0911de387704d97dc6de22a667a>,void,fwRefContainer<net::TcpServerStream> >::_Target_type": {
-            "offset": "0xE1E0"
-        },
-        "std::_Func_impl_no_alloc<<lambda_863e3676816dd3e0f535d5ddb8c4c1b9>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Copy": {
-            "offset": "0xE810"
-        },
-        "std::_Func_impl_no_alloc<<lambda_863e3676816dd3e0f535d5ddb8c4c1b9>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Delete_this": {
-            "offset": "0xE200"
-        },
-        "std::_Func_impl_no_alloc<<lambda_863e3676816dd3e0f535d5ddb8c4c1b9>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Do_call": {
-            "offset": "0xE830"
-        },
-        "std::_Func_impl_no_alloc<<lambda_863e3676816dd3e0f535d5ddb8c4c1b9>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Get": {
-            "offset": "0xE1F0"
-        },
-        "std::_Func_impl_no_alloc<<lambda_863e3676816dd3e0f535d5ddb8c4c1b9>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Move": {
-            "offset": "0xE810"
-        },
-        "std::_Func_impl_no_alloc<<lambda_863e3676816dd3e0f535d5ddb8c4c1b9>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Target_type": {
-            "offset": "0xE850"
-        },
-        "std::_Func_impl_no_alloc<<lambda_a9527dfee8c38cdd30ea7ce7f7545c2f>,bool,fwRefContainer<net::HttpRequest>,fwRefContainer<net::HttpResponse> >::_Copy": {
-            "offset": "0xE5D0"
-        },
-        "std::_Func_impl_no_alloc<<lambda_a9527dfee8c38cdd30ea7ce7f7545c2f>,bool,fwRefContainer<net::HttpRequest>,fwRefContainer<net::HttpResponse> >::_Delete_this": {
-            "offset": "0xE200"
-        },
-        "std::_Func_impl_no_alloc<<lambda_a9527dfee8c38cdd30ea7ce7f7545c2f>,bool,fwRefContainer<net::HttpRequest>,fwRefContainer<net::HttpResponse> >::_Do_call": {
-            "offset": "0xE5E0"
-        },
-        "std::_Func_impl_no_alloc<<lambda_a9527dfee8c38cdd30ea7ce7f7545c2f>,bool,fwRefContainer<net::HttpRequest>,fwRefContainer<net::HttpResponse> >::_Get": {
-            "offset": "0xE1F0"
-        },
-        "std::_Func_impl_no_alloc<<lambda_a9527dfee8c38cdd30ea7ce7f7545c2f>,bool,fwRefContainer<net::HttpRequest>,fwRefContainer<net::HttpResponse> >::_Move": {
-            "offset": "0xE5D0"
-        },
-        "std::_Func_impl_no_alloc<<lambda_a9527dfee8c38cdd30ea7ce7f7545c2f>,bool,fwRefContainer<net::HttpRequest>,fwRefContainer<net::HttpResponse> >::_Target_type": {
-            "offset": "0xE650"
-        },
-        "std::_Func_impl_no_alloc<<lambda_e3f6f45795f06082ec0a76dbd30eebe9>,void>::_Copy": {
             "offset": "0xEAC0"
         },
+        "std::_Func_impl_no_alloc<<lambda_108438ffb0335eb57ac23871e0be28e3>,bool,fx::ResourceManager *>::_Get": {
+            "offset": "0xE2D0"
+        },
+        "std::_Func_impl_no_alloc<<lambda_108438ffb0335eb57ac23871e0be28e3>,bool,fx::ResourceManager *>::_Move": {
+            "offset": "0xEAA0"
+        },
+        "std::_Func_impl_no_alloc<<lambda_108438ffb0335eb57ac23871e0be28e3>,bool,fx::ResourceManager *>::_Target_type": {
+            "offset": "0xEAE0"
+        },
+        "std::_Func_impl_no_alloc<<lambda_19fce0911de387704d97dc6de22a667a>,void,fwRefContainer<net::TcpServerStream> >::_Copy": {
+            "offset": "0xE340"
+        },
+        "std::_Func_impl_no_alloc<<lambda_19fce0911de387704d97dc6de22a667a>,void,fwRefContainer<net::TcpServerStream> >::_Delete_this": {
+            "offset": "0xE390"
+        },
+        "std::_Func_impl_no_alloc<<lambda_19fce0911de387704d97dc6de22a667a>,void,fwRefContainer<net::TcpServerStream> >::_Do_call": {
+            "offset": "0xE350"
+        },
+        "std::_Func_impl_no_alloc<<lambda_19fce0911de387704d97dc6de22a667a>,void,fwRefContainer<net::TcpServerStream> >::_Get": {
+            "offset": "0xE2D0"
+        },
+        "std::_Func_impl_no_alloc<<lambda_19fce0911de387704d97dc6de22a667a>,void,fwRefContainer<net::TcpServerStream> >::_Move": {
+            "offset": "0xE340"
+        },
+        "std::_Func_impl_no_alloc<<lambda_19fce0911de387704d97dc6de22a667a>,void,fwRefContainer<net::TcpServerStream> >::_Target_type": {
+            "offset": "0xE380"
+        },
+        "std::_Func_impl_no_alloc<<lambda_863e3676816dd3e0f535d5ddb8c4c1b9>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Copy": {
+            "offset": "0xE9A0"
+        },
+        "std::_Func_impl_no_alloc<<lambda_863e3676816dd3e0f535d5ddb8c4c1b9>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Delete_this": {
+            "offset": "0xE390"
+        },
+        "std::_Func_impl_no_alloc<<lambda_863e3676816dd3e0f535d5ddb8c4c1b9>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Do_call": {
+            "offset": "0xE9C0"
+        },
+        "std::_Func_impl_no_alloc<<lambda_863e3676816dd3e0f535d5ddb8c4c1b9>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Get": {
+            "offset": "0xE2D0"
+        },
+        "std::_Func_impl_no_alloc<<lambda_863e3676816dd3e0f535d5ddb8c4c1b9>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Move": {
+            "offset": "0xE9A0"
+        },
+        "std::_Func_impl_no_alloc<<lambda_863e3676816dd3e0f535d5ddb8c4c1b9>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Target_type": {
+            "offset": "0xE9E0"
+        },
+        "std::_Func_impl_no_alloc<<lambda_a9527dfee8c38cdd30ea7ce7f7545c2f>,bool,fwRefContainer<net::HttpRequest>,fwRefContainer<net::HttpResponse> >::_Copy": {
+            "offset": "0xE760"
+        },
+        "std::_Func_impl_no_alloc<<lambda_a9527dfee8c38cdd30ea7ce7f7545c2f>,bool,fwRefContainer<net::HttpRequest>,fwRefContainer<net::HttpResponse> >::_Delete_this": {
+            "offset": "0xE390"
+        },
+        "std::_Func_impl_no_alloc<<lambda_a9527dfee8c38cdd30ea7ce7f7545c2f>,bool,fwRefContainer<net::HttpRequest>,fwRefContainer<net::HttpResponse> >::_Do_call": {
+            "offset": "0xE770"
+        },
+        "std::_Func_impl_no_alloc<<lambda_a9527dfee8c38cdd30ea7ce7f7545c2f>,bool,fwRefContainer<net::HttpRequest>,fwRefContainer<net::HttpResponse> >::_Get": {
+            "offset": "0xE2D0"
+        },
+        "std::_Func_impl_no_alloc<<lambda_a9527dfee8c38cdd30ea7ce7f7545c2f>,bool,fwRefContainer<net::HttpRequest>,fwRefContainer<net::HttpResponse> >::_Move": {
+            "offset": "0xE760"
+        },
+        "std::_Func_impl_no_alloc<<lambda_a9527dfee8c38cdd30ea7ce7f7545c2f>,bool,fwRefContainer<net::HttpRequest>,fwRefContainer<net::HttpResponse> >::_Target_type": {
+            "offset": "0xE7E0"
+        },
+        "std::_Func_impl_no_alloc<<lambda_e3f6f45795f06082ec0a76dbd30eebe9>,void>::_Copy": {
+            "offset": "0xE1A0"
+        },
         "std::_Func_impl_no_alloc<<lambda_e3f6f45795f06082ec0a76dbd30eebe9>,void>::_Delete_this": {
-            "offset": "0xEA60"
+            "offset": "0xE2E0"
         },
         "std::_Func_impl_no_alloc<<lambda_e3f6f45795f06082ec0a76dbd30eebe9>,void>::_Do_call": {
-            "offset": "0xEB20"
+            "offset": "0xE200"
         },
         "std::_Func_impl_no_alloc<<lambda_e3f6f45795f06082ec0a76dbd30eebe9>,void>::_Get": {
-            "offset": "0xE1F0"
+            "offset": "0xE2D0"
         },
         "std::_Func_impl_no_alloc<<lambda_e3f6f45795f06082ec0a76dbd30eebe9>,void>::_Move": {
             "offset": "0xE080"
         },
         "std::_Func_impl_no_alloc<<lambda_e3f6f45795f06082ec0a76dbd30eebe9>,void>::_Target_type": {
-            "offset": "0xEBE0"
+            "offset": "0xE2C0"
         },
         "std::_Maklocstr<char>": {
             "offset": "0xDFC0"
@@ -1123,10 +1123,10 @@
             "offset": "0xE080"
         },
         "std::_Ref_count_obj2<nlohmann::json_abi_v3_11_2::detail::output_string_adapter<char,std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::_Delete_this": {
-            "offset": "0xE8C0"
+            "offset": "0xEA50"
         },
         "std::_Ref_count_obj2<nlohmann::json_abi_v3_11_2::detail::output_string_adapter<char,std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::_Destroy": {
-            "offset": "0xE8B0"
+            "offset": "0xEA40"
         },
         "std::_Throw_bad_array_new_length": {
             "offset": "0xCD00"
@@ -1243,7 +1243,7 @@
             "offset": "0x17B00"
         },
         "std::bad_function_call::what": {
-            "offset": "0xE6A0"
+            "offset": "0xE830"
         },
         "std::bad_function_call::~bad_function_call": {
             "offset": "0xA1F0"

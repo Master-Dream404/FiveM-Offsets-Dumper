@@ -40,58 +40,58 @@
             "offset": "0x10580"
         },
         "BuildFont": {
-            "offset": "0x32AF0"
+            "offset": "0x32D10"
         },
         "CfxBigConsole::CfxBigConsole": {
             "offset": "0x1F050"
         },
         "CfxBigConsole::ClearLog": {
-            "offset": "0x24F70"
+            "offset": "0x25140"
         },
         "CfxBigConsole::Draw": {
-            "offset": "0x25D80"
+            "offset": "0x25F50"
         },
         "CfxBigConsole::EndWindow": {
-            "offset": "0x26F80"
+            "offset": "0x27150"
         },
         "CfxBigConsole::ExecCommand": {
-            "offset": "0x27110"
+            "offset": "0x272E0"
         },
         "CfxBigConsole::FilterLog": {
-            "offset": "0x27550"
+            "offset": "0x27720"
         },
         "CfxBigConsole::OnAddLog": {
-            "offset": "0x287B0"
+            "offset": "0x289A0"
         },
         "CfxBigConsole::PreStartWindow": {
-            "offset": "0x28DD0"
+            "offset": "0x28FC0"
         },
         "CfxBigConsole::RunCommandQueue": {
-            "offset": "0x28FD0"
+            "offset": "0x291C0"
         },
         "CfxBigConsole::StartWindow": {
-            "offset": "0x2A040"
+            "offset": "0x2A290"
         },
         "CfxBigConsole::TextEditCallback": {
-            "offset": "0x2A260"
+            "offset": "0x2A4B0"
         },
         "CfxBigConsole::TextEditCallbackStub": {
-            "offset": "0x2A810"
+            "offset": "0x2AA60"
         },
         "CfxBigConsole::~CfxBigConsole": {
-            "offset": "0x20B90"
+            "offset": "0x20C40"
         },
         "CfxState::CfxState": {
-            "offset": "0x467E0"
+            "offset": "0x46AC0"
         },
         "CfxWinConsole::EndWindow": {
-            "offset": "0x26FA0"
+            "offset": "0x27170"
         },
         "CfxWinConsole::PreStartWindow": {
             "offset": "0xF770"
         },
         "CfxWinConsole::StartWindow": {
-            "offset": "0x2A190"
+            "offset": "0x2A3E0"
         },
         "Component::As": {
             "offset": "0xF6A0"
@@ -115,10 +115,10 @@
             "offset": "0xF770"
         },
         "ConHost::IsConsoleOpen": {
-            "offset": "0x33330"
+            "offset": "0x33550"
         },
         "ConHost::Print": {
-            "offset": "0x33E50"
+            "offset": "0x34070"
         },
         "ConHost::SetCursorMode": {
             "offset": "0x10EE0"
@@ -136,34 +136,34 @@
             "offset": "0x1DCE0"
         },
         "ConVar<bool>::~ConVar<bool>": {
-            "offset": "0x1FF50"
+            "offset": "0x20000"
         },
         "Concurrency::concurrent_queue<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::_Allocate_page": {
-            "offset": "0x2B3D0"
+            "offset": "0x2B620"
         },
         "Concurrency::concurrent_queue<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::_Assign_and_destroy_item": {
-            "offset": "0x2B9C0"
+            "offset": "0x2BC10"
         },
         "Concurrency::concurrent_queue<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::_Copy_item": {
-            "offset": "0x2CC40"
+            "offset": "0x2CE90"
         },
         "Concurrency::concurrent_queue<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::_Deallocate_page": {
-            "offset": "0x2CC60"
+            "offset": "0x2CEB0"
         },
         "Concurrency::concurrent_queue<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::_Move_item": {
-            "offset": "0x2EFC0"
+            "offset": "0x2F210"
         },
         "Concurrency::concurrent_queue<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::~concurrent_queue<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >": {
-            "offset": "0x20710"
+            "offset": "0x207C0"
         },
         "ConsoleArgumentType<DevGuiPath,void>::Parse": {
-            "offset": "0x37350"
+            "offset": "0x375F0"
         },
         "ConsoleArgumentType<bool,void>::Parse": {
-            "offset": "0x28CE0"
+            "offset": "0x28ED0"
         },
         "ConsoleArgumentType<int,void>::Parse": {
-            "offset": "0x28C50"
+            "offset": "0x28E40"
         },
         "ConsoleCommand::ConsoleCommand<<lambda_2729e31fb8c726b5ef153dd449ae69e5> >": {
             "offset": "0x11A70"
@@ -172,19 +172,19 @@
             "offset": "0x11C50"
         },
         "ConsoleCommand::ConsoleCommand<<lambda_4f01932d3df21bafe14b0b705d1c2d2b> >": {
-            "offset": "0x34910"
+            "offset": "0x34B30"
         },
         "ConsoleCommand::ConsoleCommand<<lambda_5b1c43db5646bdcc3820d1877854a8bd> >": {
             "offset": "0x11EA0"
         },
         "ConsoleCommand::ConsoleCommand<<lambda_8255e8b86698f5bb3d273a330684cd3f> >": {
-            "offset": "0x34AE0"
+            "offset": "0x34D00"
         },
         "ConsoleCommand::ConsoleCommand<<lambda_86be70dd2992469b5252a9192288f807> >": {
             "offset": "0x12080"
         },
         "ConsoleCommand::ConsoleCommand<<lambda_bc85ef5bc811bb4046f609d5aec41b07> >": {
-            "offset": "0x34CB0"
+            "offset": "0x34ED0"
         },
         "ConsoleCommand::ConsoleCommand<<lambda_bf7610c50ebb1884e5917f6a81016c78> >": {
             "offset": "0x122D0"
@@ -196,25 +196,25 @@
             "offset": "0x12520"
         },
         "ConsoleCommand::~ConsoleCommand": {
-            "offset": "0x20CC0"
+            "offset": "0x20D70"
         },
         "ConsoleFlagsToString": {
-            "offset": "0x25940"
+            "offset": "0x25B10"
         },
         "ConsoleHasMouse": {
-            "offset": "0x32E00"
+            "offset": "0x33020"
         },
         "CoreGetComponentRegistry": {
-            "offset": "0x25C60"
+            "offset": "0x25E30"
         },
         "CoreGetGlobalInstanceRegistry": {
-            "offset": "0x25CF0"
+            "offset": "0x25EC0"
         },
         "CreateComponent": {
             "offset": "0xF780"
         },
         "CreateFontTexture": {
-            "offset": "0x32F60"
+            "offset": "0x33180"
         },
         "CreateVariableEntry<bool>": {
             "offset": "0x13790"
@@ -226,55 +226,55 @@
             "offset": "0x134C0"
         },
         "DevGuiNode::~DevGuiNode": {
-            "offset": "0x35780"
+            "offset": "0x359A0"
         },
         "DevGuiPath::~DevGuiPath": {
-            "offset": "0x35770"
+            "offset": "0x35990"
         },
         "DevGui_Draw": {
-            "offset": "0x36740"
+            "offset": "0x36960"
         },
         "DevGui_InstantiatePath": {
-            "offset": "0x370E0"
+            "offset": "0x37380"
         },
         "DllMain": {
-            "offset": "0x4B93C"
+            "offset": "0x4BC1C"
         },
         "DloadAcquireSectionWriteAccess": {
-            "offset": "0x4BB44"
+            "offset": "0x4BE24"
         },
         "DloadGetSRWLockFunctionPointers": {
-            "offset": "0x4BBF0"
+            "offset": "0x4BED0"
         },
         "DloadMakePermanentImageCommit": {
-            "offset": "0x4BC90"
+            "offset": "0x4BF70"
         },
         "DloadObtainSection": {
-            "offset": "0x4BD28"
+            "offset": "0x4C008"
         },
         "DloadProtectSection": {
-            "offset": "0x4BDC4"
+            "offset": "0x4C0A4"
         },
         "DloadReleaseSectionWriteAccess": {
-            "offset": "0x4BE54"
+            "offset": "0x4C134"
         },
         "DoNtRaiseException": {
-            "offset": "0x48AE0"
+            "offset": "0x48DC0"
         },
         "DrawConsole": {
-            "offset": "0x26920"
+            "offset": "0x26AF0"
         },
         "DrawDevGui": {
-            "offset": "0x37310"
+            "offset": "0x375B0"
         },
         "DrawMiniConsole": {
-            "offset": "0x26F20"
+            "offset": "0x270F0"
         },
         "DrawWinConsole": {
-            "offset": "0x26F50"
+            "offset": "0x27120"
         },
         "EnsureConsoles": {
-            "offset": "0x26FB0"
+            "offset": "0x27180"
         },
         "FatalErrorNoExceptRealV": {
             "offset": "0xCC90"
@@ -283,13 +283,13 @@
             "offset": "0xCCC0"
         },
         "FiveMConsoleBase::AddLog": {
-            "offset": "0x24060"
+            "offset": "0x24230"
         },
         "FiveMConsoleBase::ClearLog": {
-            "offset": "0x24F90"
+            "offset": "0x25160"
         },
         "FiveMConsoleBase::DrawItem": {
-            "offset": "0x26950"
+            "offset": "0x26B20"
         },
         "FiveMConsoleBase::FilterLog": {
             "offset": "0xF770"
@@ -298,13 +298,13 @@
             "offset": "0x1F5D0"
         },
         "FiveMConsoleBase::GetLineAtIdx": {
-            "offset": "0x27920"
+            "offset": "0x27B10"
         },
         "FiveMConsoleBase::GetNumLines": {
-            "offset": "0x27990"
+            "offset": "0x27B80"
         },
         "FiveMConsoleBase::GetTextOffset": {
-            "offset": "0x279E0"
+            "offset": "0x27BD0"
         },
         "FiveMConsoleBase::OnAddLog": {
             "offset": "0xB5C0"
@@ -313,196 +313,196 @@
             "offset": "0xB5C0"
         },
         "FiveMConsoleBase::Strnicmp": {
-            "offset": "0x2A1E0"
+            "offset": "0x2A430"
         },
         "FiveMConsoleBase::UpdateLog": {
             "offset": "0xB5C0"
         },
         "FiveMConsoleBase::~FiveMConsoleBase": {
-            "offset": "0x20D50"
+            "offset": "0x20E00"
         },
         "FormatErrorPickup<std::tuple<std::basic_string_view<char,std::char_traits<char> >,int,unsigned int> >": {
             "offset": "0x33F0"
         },
         "GetAbsoluteCitPath": {
-            "offset": "0x47080"
+            "offset": "0x47360"
         },
         "GetAdapter": {
-            "offset": "0x3B800"
+            "offset": "0x3BAE0"
         },
         "GetAdapterLUID": {
-            "offset": "0x3B930"
+            "offset": "0x3BC10"
         },
         "GetConsoleContext": {
-            "offset": "0x27870"
+            "offset": "0x27A60"
         },
         "GetConsoleFontSmall": {
-            "offset": "0x33040"
+            "offset": "0x33260"
         },
         "GetConsoleFontTiny": {
-            "offset": "0x33050"
+            "offset": "0x33270"
         },
         "GlobalErrorHandler": {
             "offset": "0xCF00"
         },
         "HandleFxDKInput": {
-            "offset": "0x33140"
+            "offset": "0x33360"
         },
         "HookFunction::Run": {
-            "offset": "0x31760"
+            "offset": "0x31980"
         },
         "HookFunctionBase::Register": {
-            "offset": "0x49900"
+            "offset": "0x49BE0"
         },
         "HookFunctionBase::RunAll": {
-            "offset": "0x49920"
+            "offset": "0x49C00"
         },
         "HostSharedData<CfxState>::HostSharedData<CfxState>": {
-            "offset": "0x46410"
+            "offset": "0x466F0"
         },
         "HostSharedData<CfxState>::~HostSharedData<CfxState>": {
-            "offset": "0x468A0"
+            "offset": "0x46B80"
         },
         "HostSharedData<ReverseGameData>::HostSharedData<ReverseGameData>": {
-            "offset": "0x31AF0"
+            "offset": "0x31D10"
         },
         "HostSharedData<TickCountData>::HostSharedData<TickCountData>": {
             "offset": "0x1E640"
         },
         "HueToRGB": {
-            "offset": "0x27B80"
+            "offset": "0x27D70"
         },
         "ImFontGlyphRangesBuilder::~ImFontGlyphRangesBuilder": {
-            "offset": "0x32010"
+            "offset": "0x32230"
         },
         "ImGui_ImplDX11_CreateDeviceObjects": {
-            "offset": "0x3CF90"
+            "offset": "0x3D270"
         },
         "ImGui_ImplDX11_CreateWindow": {
-            "offset": "0x3D560"
+            "offset": "0x3D840"
         },
         "ImGui_ImplDX11_DestroyWindow": {
-            "offset": "0x3D6F0"
+            "offset": "0x3D9D0"
         },
         "ImGui_ImplDX11_Init": {
-            "offset": "0x3D780"
-        },
-        "ImGui_ImplDX11_InvalidateDeviceObjects": {
-            "offset": "0x3D940"
-        },
-        "ImGui_ImplDX11_NewFrame": {
             "offset": "0x3DA60"
         },
+        "ImGui_ImplDX11_InvalidateDeviceObjects": {
+            "offset": "0x3DC20"
+        },
+        "ImGui_ImplDX11_NewFrame": {
+            "offset": "0x3DD40"
+        },
         "ImGui_ImplDX11_RecreateFontsTexture": {
-            "offset": "0x3DAC0"
+            "offset": "0x3DDA0"
         },
         "ImGui_ImplDX11_RenderDrawData": {
-            "offset": "0x3DB20"
+            "offset": "0x3DE00"
         },
         "ImGui_ImplDX11_RenderWindow": {
-            "offset": "0x3E5B0"
+            "offset": "0x3E890"
         },
         "ImGui_ImplDX11_SetWindowSize": {
-            "offset": "0x3E630"
+            "offset": "0x3E910"
         },
         "ImGui_ImplDX11_SetupRenderState": {
-            "offset": "0x3E720"
+            "offset": "0x3EA00"
         },
         "ImGui_ImplDX11_SwapBuffers": {
-            "offset": "0x3E920"
+            "offset": "0x3EC00"
         },
         "ImGui_ImplWin32_AddKeyEvent": {
-            "offset": "0x3E940"
-        },
-        "ImGui_ImplWin32_CreateWindow": {
-            "offset": "0x3E9B0"
-        },
-        "ImGui_ImplWin32_DestroyWindow": {
             "offset": "0x3EC20"
         },
-        "ImGui_ImplWin32_GetDpiScaleForMonitor": {
-            "offset": "0x3ECC0"
+        "ImGui_ImplWin32_CreateWindow": {
+            "offset": "0x3EC90"
         },
-        "ImGui_ImplWin32_GetWindowDpiScale": {
-            "offset": "0x3EE30"
-        },
-        "ImGui_ImplWin32_GetWindowFocus": {
-            "offset": "0x3EE80"
-        },
-        "ImGui_ImplWin32_GetWindowMinimized": {
-            "offset": "0x3EEC0"
-        },
-        "ImGui_ImplWin32_GetWindowPos": {
+        "ImGui_ImplWin32_DestroyWindow": {
             "offset": "0x3EF00"
         },
+        "ImGui_ImplWin32_GetDpiScaleForMonitor": {
+            "offset": "0x3EFA0"
+        },
+        "ImGui_ImplWin32_GetWindowDpiScale": {
+            "offset": "0x3F110"
+        },
+        "ImGui_ImplWin32_GetWindowFocus": {
+            "offset": "0x3F160"
+        },
+        "ImGui_ImplWin32_GetWindowMinimized": {
+            "offset": "0x3F1A0"
+        },
+        "ImGui_ImplWin32_GetWindowPos": {
+            "offset": "0x3F1E0"
+        },
         "ImGui_ImplWin32_GetWindowSize": {
-            "offset": "0x3EF70"
+            "offset": "0x3F250"
         },
         "ImGui_ImplWin32_InitPlatformInterface": {
-            "offset": "0x3F000"
+            "offset": "0x3F2E0"
         },
         "ImGui_ImplWin32_NewFrame": {
-            "offset": "0x3F280"
+            "offset": "0x3F560"
         },
         "ImGui_ImplWin32_OnChangedViewport": {
             "offset": "0xB5C0"
         },
         "ImGui_ImplWin32_SetWindowAlpha": {
-            "offset": "0x3F4D0"
+            "offset": "0x3F7B0"
         },
         "ImGui_ImplWin32_SetWindowFocus": {
-            "offset": "0x3F5B0"
+            "offset": "0x3F890"
         },
         "ImGui_ImplWin32_SetWindowPos": {
-            "offset": "0x3F600"
+            "offset": "0x3F8E0"
         },
         "ImGui_ImplWin32_SetWindowSize": {
-            "offset": "0x3F6B0"
+            "offset": "0x3F990"
         },
         "ImGui_ImplWin32_SetWindowTitle": {
-            "offset": "0x3F770"
+            "offset": "0x3FA50"
         },
         "ImGui_ImplWin32_ShowWindow": {
-            "offset": "0x3F850"
+            "offset": "0x3FB30"
         },
         "ImGui_ImplWin32_UpdateGamepads": {
-            "offset": "0x3F8B0"
+            "offset": "0x3FB90"
         },
         "ImGui_ImplWin32_UpdateMonitors": {
-            "offset": "0x3FDC0"
+            "offset": "0x400A0"
         },
         "ImGui_ImplWin32_UpdateMonitors_EnumFunc": {
-            "offset": "0x3FE40"
+            "offset": "0x40120"
         },
         "ImGui_ImplWin32_UpdateMouseCursor": {
-            "offset": "0x400B0"
+            "offset": "0x40390"
         },
         "ImGui_ImplWin32_UpdateMouseData": {
-            "offset": "0x40230"
+            "offset": "0x40510"
         },
         "ImGui_ImplWin32_UpdateWindow": {
-            "offset": "0x403C0"
+            "offset": "0x406A0"
         },
         "ImGui_ImplWin32_VirtualKeyToImGuiKey": {
-            "offset": "0x40570"
+            "offset": "0x40850"
         },
         "ImGui_ImplWin32_WndProcHandler": {
-            "offset": "0x40AC0"
+            "offset": "0x40DA0"
         },
         "ImGui_ImplWin32_WndProcHandler_PlatformWindow": {
-            "offset": "0x410C0"
+            "offset": "0x413A0"
         },
         "InitFunction::Run": {
             "offset": "0xF7B0"
         },
         "InitFunctionBase::InitFunctionBase": {
-            "offset": "0x488E0"
+            "offset": "0x48BC0"
         },
         "InitFunctionBase::Register": {
-            "offset": "0x48C50"
+            "offset": "0x48F30"
         },
         "InitFunctionBase::RunAll": {
-            "offset": "0x48CA0"
+            "offset": "0x48F80"
         },
         "InputTarget::KeyDown": {
             "offset": "0xB5C0"
@@ -520,250 +520,250 @@
             "offset": "0xB5C0"
         },
         "IsNonProduction": {
-            "offset": "0x27C20"
+            "offset": "0x27E10"
         },
         "IsWindows10OrGreater": {
-            "offset": "0x3B9E0"
+            "offset": "0x3BCC0"
         },
         "MakeRelativeCitPath": {
             "offset": "0xD5A0"
         },
         "Microsoft::WRL::ComPtr<IDXGIAdapter3>::~ComPtr<IDXGIAdapter3>": {
-            "offset": "0x38780"
+            "offset": "0x38A20"
         },
         "Microsoft::WRL::ComPtr<IDXGIAdapter>::~ComPtr<IDXGIAdapter>": {
-            "offset": "0x38780"
+            "offset": "0x38A20"
         },
         "Microsoft::WRL::ComPtr<IDXGIDevice>::~ComPtr<IDXGIDevice>": {
-            "offset": "0x38780"
+            "offset": "0x38A20"
         },
         "MiniConsole::ClearLog": {
-            "offset": "0x25000"
+            "offset": "0x251D0"
         },
         "MiniConsole::Draw": {
-            "offset": "0x262F0"
+            "offset": "0x264C0"
         },
         "MiniConsole::FilterLog": {
-            "offset": "0x276A0"
+            "offset": "0x27890"
         },
         "MiniConsole::MakeRegex": {
-            "offset": "0x27FA0"
+            "offset": "0x28190"
         },
         "MiniConsole::MiniConsole": {
             "offset": "0x1F790"
         },
         "MiniConsole::OnAddLog": {
-            "offset": "0x287D0"
+            "offset": "0x289C0"
         },
         "MiniConsole::UpdateLog": {
-            "offset": "0x2A820"
+            "offset": "0x2AA70"
         },
         "OnConsoleFrameDraw": {
-            "offset": "0x33350"
+            "offset": "0x33570"
         },
         "OnConsoleWndProc": {
-            "offset": "0x33CE0"
+            "offset": "0x33F00"
         },
         "OpenLogFile": {
-            "offset": "0x288F0"
+            "offset": "0x28AE0"
         },
         "ProcessWndProc": {
             "offset": "0x10E90"
         },
         "ProgramArguments::ProgramArguments<char const *,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >": {
-            "offset": "0x345E0"
+            "offset": "0x34800"
         },
         "ProgramArguments::~ProgramArguments": {
-            "offset": "0x35770"
+            "offset": "0x35990"
         },
         "RaiseDebugException": {
-            "offset": "0x48BC0"
+            "offset": "0x48EA0"
         },
         "ReleaseCaptureStub": {
-            "offset": "0x33E60"
+            "offset": "0x34080"
         },
         "RenderDrawListInternal": {
-            "offset": "0x33E80"
+            "offset": "0x340A0"
         },
         "ReverseGameData::ReverseGameData": {
-            "offset": "0x31F00"
+            "offset": "0x32120"
         },
         "RunConsoleGameFrame": {
-            "offset": "0x29470"
+            "offset": "0x296C0"
         },
         "RunConsoleWndProc": {
-            "offset": "0x34250"
+            "offset": "0x34470"
         },
         "ScopedError::~ScopedError": {
             "offset": "0xB7B0"
         },
         "SendPrintMessage": {
-            "offset": "0x294F0"
+            "offset": "0x29740"
         },
         "SysError": {
             "offset": "0xDB20"
         },
         "TextSelect::copy": {
-            "offset": "0x3BBF0"
-        },
-        "TextSelect::drawSelection": {
             "offset": "0x3BED0"
         },
+        "TextSelect::drawSelection": {
+            "offset": "0x3C1B0"
+        },
         "TextSelect::getSelection": {
-            "offset": "0x3C3B0"
+            "offset": "0x3C690"
         },
         "TextSelect::handleMouseDown": {
-            "offset": "0x3C4A0"
+            "offset": "0x3C780"
         },
         "TextSelect::selectAll": {
-            "offset": "0x3CA20"
+            "offset": "0x3CD00"
         },
         "TextSelect::update": {
-            "offset": "0x3CC10"
+            "offset": "0x3CEF0"
         },
         "TextSelect::~TextSelect": {
-            "offset": "0x20EC0"
+            "offset": "0x20F70"
         },
         "ToNarrow": {
-            "offset": "0x48CD0"
+            "offset": "0x48FB0"
         },
         "ToWide": {
-            "offset": "0x48DC0"
+            "offset": "0x490A0"
         },
         "TraceRealV": {
-            "offset": "0x490D0"
+            "offset": "0x493B0"
         },
         "Win32TrapAndJump64": {
-            "offset": "0x49F20"
+            "offset": "0x4A200"
         },
         "_DllMainCRTStartup": {
-            "offset": "0x4B2F0"
+            "offset": "0x4B5D0"
         },
         "_Init_thread_abort": {
-            "offset": "0x4A594"
+            "offset": "0x4A874"
         },
         "_Init_thread_footer": {
-            "offset": "0x4A5C4"
+            "offset": "0x4A8A4"
         },
         "_Init_thread_header": {
-            "offset": "0x4A624"
+            "offset": "0x4A904"
         },
         "_Init_thread_notify": {
-            "offset": "0x4A68C"
+            "offset": "0x4A96C"
         },
         "_Init_thread_wait": {
-            "offset": "0x4A6D0"
+            "offset": "0x4A9B0"
         },
         "_IsWindowsVersionOrGreater": {
-            "offset": "0x41170"
+            "offset": "0x41450"
         },
         "_RTC_Initialize": {
-            "offset": "0x4B98C"
+            "offset": "0x4BC6C"
         },
         "_RTC_Terminate": {
-            "offset": "0x4B9C8"
+            "offset": "0x4BCA8"
         },
         "__ArrayUnwind": {
-            "offset": "0x4AF04"
+            "offset": "0x4B1E4"
         },
         "__GSHandlerCheck": {
-            "offset": "0x4ACB0"
+            "offset": "0x4AF90"
         },
         "__GSHandlerCheckCommon": {
-            "offset": "0x4ACD0"
+            "offset": "0x4AFB0"
         },
         "__GSHandlerCheck_EH": {
-            "offset": "0x4AD2C"
+            "offset": "0x4B00C"
         },
         "__GSHandlerCheck_SEH": {
-            "offset": "0x4B4AC"
+            "offset": "0x4B78C"
         },
         "__chkstk": {
-            "offset": "0x4AF80"
+            "offset": "0x4B260"
         },
         "__crt_debugger_hook": {
-            "offset": "0x4B6E0"
+            "offset": "0x4B9C0"
         },
         "__delayLoadHelper2": {
-            "offset": "0x4BEE8"
+            "offset": "0x4C1C8"
         },
         "__dyn_tls_init": {
-            "offset": "0x4AAF8"
+            "offset": "0x4ADD8"
         },
         "__dyn_tls_on_demand_init": {
-            "offset": "0x4AB60"
+            "offset": "0x4AE40"
         },
         "__isa_available_init": {
-            "offset": "0x4B534"
+            "offset": "0x4B814"
         },
         "__local_stdio_printf_options": {
             "offset": "0xF580"
         },
         "__local_stdio_scanf_options": {
-            "offset": "0x4B960"
+            "offset": "0x4BC40"
         },
         "__raise_securityfailure": {
-            "offset": "0x4B330"
+            "offset": "0x4B610"
         },
         "__report_gsfailure": {
-            "offset": "0x4B364"
+            "offset": "0x4B644"
         },
         "__scrt_acquire_startup_lock": {
-            "offset": "0x4A778"
+            "offset": "0x4AA58"
         },
         "__scrt_dllmain_after_initialize_c": {
-            "offset": "0x4A7B4"
+            "offset": "0x4AA94"
         },
         "__scrt_dllmain_before_initialize_c": {
-            "offset": "0x4A7E8"
+            "offset": "0x4AAC8"
         },
         "__scrt_dllmain_crt_thread_attach": {
-            "offset": "0x4A800"
+            "offset": "0x4AAE0"
         },
         "__scrt_dllmain_crt_thread_detach": {
-            "offset": "0x4A828"
+            "offset": "0x4AB08"
         },
         "__scrt_dllmain_exception_filter": {
-            "offset": "0x4A840"
+            "offset": "0x4AB20"
         },
         "__scrt_dllmain_uninitialize_c": {
-            "offset": "0x4A8A0"
+            "offset": "0x4AB80"
         },
         "__scrt_dllmain_uninitialize_critical": {
-            "offset": "0x4A8D0"
+            "offset": "0x4ABB0"
         },
         "__scrt_fastfail": {
-            "offset": "0x4B6E8"
+            "offset": "0x4B9C8"
         },
         "__scrt_get_dyn_tls_init_callback": {
-            "offset": "0x4B984"
+            "offset": "0x4BC64"
         },
         "__scrt_initialize_crt": {
-            "offset": "0x4A8E4"
+            "offset": "0x4ABC4"
         },
         "__scrt_initialize_default_local_stdio_options": {
-            "offset": "0x4B968"
+            "offset": "0x4BC48"
         },
         "__scrt_initialize_onexit_tables": {
-            "offset": "0x4A930"
+            "offset": "0x4AC10"
         },
         "__scrt_initialize_thread_safe_statics": {
-            "offset": "0x4A49C"
+            "offset": "0x4A77C"
         },
         "__scrt_initialize_type_info": {
-            "offset": "0x4AE0C"
+            "offset": "0x4B0EC"
         },
         "__scrt_is_nonwritable_in_current_image": {
-            "offset": "0x4A9BC"
+            "offset": "0x4AC9C"
         },
         "__scrt_is_nonwritable_in_current_image$filt$0": {
-            "offset": "0x4E17C"
+            "offset": "0x4E42C"
         },
         "__scrt_is_ucrt_dll_in_use": {
-            "offset": "0x4B884"
+            "offset": "0x4BB64"
         },
         "__scrt_release_startup_lock": {
-            "offset": "0x4AA54"
+            "offset": "0x4AD34"
         },
         "__scrt_stub_for_acrt_initialize": {
             "offset": "0xF770"
@@ -784,67 +784,67 @@
             "offset": "0xF6A0"
         },
         "__scrt_throw_std_bad_alloc": {
-            "offset": "0x4B854"
+            "offset": "0x4BB34"
         },
         "__scrt_throw_std_bad_array_new_length": {
             "offset": "0xE320"
         },
         "__scrt_uninitialize_crt": {
-            "offset": "0x4AA78"
+            "offset": "0x4AD58"
         },
         "__scrt_uninitialize_thread_safe_statics": {
-            "offset": "0x4A56C"
+            "offset": "0x4A84C"
         },
         "__scrt_uninitialize_type_info": {
-            "offset": "0x4AE1C"
+            "offset": "0x4B0FC"
         },
         "__security_check_cookie": {
-            "offset": "0x4ADC0"
+            "offset": "0x4B0A0"
         },
         "__security_init_cookie": {
-            "offset": "0x4B890"
+            "offset": "0x4BB70"
         },
         "__std_find_trivial_1": {
-            "offset": "0x4A210"
+            "offset": "0x4A4F0"
         },
         "__std_find_trivial_2": {
-            "offset": "0x4A2E0"
+            "offset": "0x4A5C0"
         },
         "_get_startup_argv_mode": {
-            "offset": "0x4B87C"
+            "offset": "0x4BB5C"
         },
         "_guard_check_icall_nop": {
             "offset": "0xB5C0"
         },
         "_guard_dispatch_icall_nop": {
-            "offset": "0x4C1D0"
+            "offset": "0x4C4B0"
         },
         "_guard_xfg_dispatch_icall_nop": {
-            "offset": "0x4C1F0"
+            "offset": "0x4C4D0"
         },
         "_onexit": {
-            "offset": "0x4AAA4"
+            "offset": "0x4AD84"
         },
         "_snprintf": {
-            "offset": "0x313F0"
+            "offset": "0x31610"
         },
         "_wwassert": {
-            "offset": "0x47380"
+            "offset": "0x47660"
         },
         "`__ArrayUnwind'::`1'::filt$0": {
-            "offset": "0x4E1EC"
+            "offset": "0x4E49C"
         },
         "`dllmain_crt_process_attach'::`1'::fin$0": {
-            "offset": "0x4E24B"
+            "offset": "0x4E4FB"
         },
         "`dllmain_crt_process_detach'::`1'::fin$0": {
-            "offset": "0x4E262"
+            "offset": "0x4E512"
         },
         "`dllmain_crt_process_detach'::`1'::fin$1": {
-            "offset": "0x4E27B"
+            "offset": "0x4E52B"
         },
         "`dllmain_dispatch'::`1'::filt$0": {
-            "offset": "0x4E28F"
+            "offset": "0x4E53F"
         },
         "`dynamic initializer for 'HostSharedData<ReverseGameData>::m_fakeData''": {
             "offset": "0x2110"
@@ -925,10 +925,10 @@
             "offset": "0x105B0"
         },
         "`std::_Global_new<std::_Func_impl_no_alloc<<lambda_41af1ba482b752c39807db2ef15caf48>,void>,<lambda_41af1ba482b752c39807db2ef15caf48> &>'::`2'::_Guard_type::~_Guard_type": {
-            "offset": "0x20F40"
+            "offset": "0x20FF0"
         },
         "`std::_Global_new<std::_Func_impl_no_alloc<<lambda_41af1ba482b752c39807db2ef15caf48>,void>,<lambda_41af1ba482b752c39807db2ef15caf48> const &>'::`2'::_Guard_type::~_Guard_type": {
-            "offset": "0x20F40"
+            "offset": "0x20FF0"
         },
         "`std::_Global_new<std::_Func_impl_no_alloc<<lambda_47435eb07b572c7d5654305a814d3474>,bool,ConsoleExecutionContext &>,<lambda_47435eb07b572c7d5654305a814d3474> const &>'::`2'::_Guard_type::~_Guard_type": {
             "offset": "0x105B0"
@@ -946,10 +946,10 @@
             "offset": "0x105B0"
         },
         "`std::_Global_new<std::_Func_impl_no_alloc<<lambda_86be70dd2992469b5252a9192288f807>,void>,<lambda_86be70dd2992469b5252a9192288f807> &>'::`2'::_Guard_type::~_Guard_type": {
-            "offset": "0x20F40"
+            "offset": "0x20FF0"
         },
         "`std::_Global_new<std::_Func_impl_no_alloc<<lambda_86be70dd2992469b5252a9192288f807>,void>,<lambda_86be70dd2992469b5252a9192288f807> const &>'::`2'::_Guard_type::~_Guard_type": {
-            "offset": "0x20F40"
+            "offset": "0x20FF0"
         },
         "`std::_Global_new<std::_Func_impl_no_alloc<<lambda_86d4d591f8ee155bf9fb023697a78601>,bool,ConsoleExecutionContext &>,<lambda_86d4d591f8ee155bf9fb023697a78601> const &>'::`2'::_Guard_type::~_Guard_type": {
             "offset": "0x105B0"
@@ -958,67 +958,67 @@
             "offset": "0x105B0"
         },
         "`std::_Global_new<std::_Func_impl_no_alloc<<lambda_bf7610c50ebb1884e5917f6a81016c78>,void>,<lambda_bf7610c50ebb1884e5917f6a81016c78> &>'::`2'::_Guard_type::~_Guard_type": {
-            "offset": "0x20F40"
+            "offset": "0x20FF0"
         },
         "`std::_Global_new<std::_Func_impl_no_alloc<<lambda_bf7610c50ebb1884e5917f6a81016c78>,void>,<lambda_bf7610c50ebb1884e5917f6a81016c78> const &>'::`2'::_Guard_type::~_Guard_type": {
-            "offset": "0x20F40"
+            "offset": "0x20FF0"
         },
         "`std::_Global_new<std::_Func_impl_no_alloc<<lambda_f17ebabe33bc32be107ce6fff046b802>,bool,ConsoleExecutionContext &>,<lambda_f17ebabe33bc32be107ce6fff046b802> const &>'::`2'::_Guard_type::~_Guard_type": {
             "offset": "0x105B0"
         },
         "atexit": {
-            "offset": "0x4AAE0"
+            "offset": "0x4ADC0"
         },
         "boost::algorithm::detail::find_format_all_impl2<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,boost::algorithm::detail::first_finderF<char const *,boost::algorithm::is_equal>,boost::algorithm::detail::const_formatF<boost::iterator_range<char const *> >,boost::iterator_range<std::_String_iterator<std::_String_val<std::_Simple_types<char> > > >,boost::iterator_range<char const *> >": {
             "offset": "0x16AD0"
         },
         "boost::circular_buffer<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::destroy_content": {
-            "offset": "0x301C0"
+            "offset": "0x30410"
         },
         "boost::circular_buffer<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::push_back": {
-            "offset": "0x30950"
+            "offset": "0x30BA0"
         },
         "boost::circular_buffer<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::~circular_buffer<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >": {
-            "offset": "0x20620"
+            "offset": "0x206D0"
         },
         "boost::circular_buffer<std::chrono::duration<__int64,std::ratio<1,1000> >,std::allocator<std::chrono::duration<__int64,std::ratio<1,1000> > > >::~circular_buffer<std::chrono::duration<__int64,std::ratio<1,1000> >,std::allocator<std::chrono::duration<__int64,std::ratio<1,1000> > > >": {
-            "offset": "0x20680"
+            "offset": "0x20730"
         },
         "boost::exception::exception": {
-            "offset": "0x1FD50"
+            "offset": "0x1FE00"
         },
         "boost::exception_detail::clone_base::clone_base": {
-            "offset": "0x1FD40"
+            "offset": "0x1FDF0"
         },
         "boost::exception_detail::clone_base::~clone_base": {
-            "offset": "0x20F60"
+            "offset": "0x21010"
         },
         "boost::exception_detail::refcount_ptr<boost::exception_detail::error_info_container>::~refcount_ptr<boost::exception_detail::error_info_container>": {
-            "offset": "0x20860"
+            "offset": "0x20910"
         },
         "boost::throw_exception<std::length_error>": {
             "offset": "0x17DA0"
         },
         "boost::wrapexcept<std::length_error>::clone": {
-            "offset": "0x2FF30"
+            "offset": "0x30180"
         },
         "boost::wrapexcept<std::length_error>::deleter::~deleter": {
-            "offset": "0x20F70"
+            "offset": "0x21020"
         },
         "boost::wrapexcept<std::length_error>::rethrow": {
-            "offset": "0x30DA0"
+            "offset": "0x30FF0"
         },
         "boost::wrapexcept<std::length_error>::wrapexcept<std::length_error>": {
             "offset": "0x1EFD0"
         },
         "boost::wrapexcept<std::length_error>::~wrapexcept<std::length_error>": {
-            "offset": "0x20B30"
+            "offset": "0x20BE0"
         },
         "capture_previous_context": {
-            "offset": "0x4B438"
+            "offset": "0x4B718"
         },
         "console::GetDefaultContext": {
-            "offset": "0x278D0"
+            "offset": "0x27AC0"
         },
         "console::PrintWarning<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >": {
             "offset": "0x13A70"
@@ -1027,19 +1027,19 @@
             "offset": "0x13CC0"
         },
         "console::Printfv": {
-            "offset": "0x28E10"
+            "offset": "0x29000"
         },
         "dllmain_crt_dispatch": {
-            "offset": "0x4AFD0"
+            "offset": "0x4B2B0"
         },
         "dllmain_crt_process_attach": {
-            "offset": "0x4B020"
+            "offset": "0x4B300"
         },
         "dllmain_crt_process_detach": {
-            "offset": "0x4B138"
+            "offset": "0x4B418"
         },
         "dllmain_dispatch": {
-            "offset": "0x4B1BC"
+            "offset": "0x4B49C"
         },
         "fmt::v8::basic_memory_buffer<char,500,std::allocator<char> >::grow": {
             "offset": "0xE960"
@@ -1048,46 +1048,46 @@
             "offset": "0xB680"
         },
         "fmt::v8::basic_memory_buffer<unsigned int,32,std::allocator<unsigned int> >::grow": {
-            "offset": "0x45C30"
+            "offset": "0x45F10"
         },
         "fmt::v8::basic_memory_buffer<unsigned int,32,std::allocator<unsigned int> >::~basic_memory_buffer<unsigned int,32,std::allocator<unsigned int> >": {
-            "offset": "0x44FD0"
+            "offset": "0x452B0"
         },
         "fmt::v8::basic_memory_buffer<wchar_t,500,std::allocator<wchar_t> >::grow": {
-            "offset": "0x30630"
+            "offset": "0x30880"
         },
         "fmt::v8::basic_memory_buffer<wchar_t,500,std::allocator<wchar_t> >::~basic_memory_buffer<wchar_t,500,std::allocator<wchar_t> >": {
-            "offset": "0x20580"
+            "offset": "0x20630"
         },
         "fmt::v8::detail::add_compare": {
-            "offset": "0x453A0"
+            "offset": "0x45680"
         },
         "fmt::v8::detail::assert_fail": {
-            "offset": "0x454E0"
+            "offset": "0x457C0"
         },
         "fmt::v8::detail::bigint::assign_pow10": {
-            "offset": "0x45530"
+            "offset": "0x45810"
         },
         "fmt::v8::detail::bigint::divmod_assign": {
-            "offset": "0x45700"
+            "offset": "0x459E0"
         },
         "fmt::v8::detail::bigint::square": {
-            "offset": "0x46000"
+            "offset": "0x462E0"
         },
         "fmt::v8::detail::bigint::~bigint": {
-            "offset": "0x44FD0"
+            "offset": "0x452B0"
         },
         "fmt::v8::detail::buffer<char>::append<char>": {
             "offset": "0x3E90"
         },
         "fmt::v8::detail::buffer<char>::try_resize": {
-            "offset": "0x462C0"
+            "offset": "0x465A0"
         },
         "fmt::v8::detail::check_int_type_spec<fmt::v8::detail::error_handler &>": {
             "offset": "0x16840"
         },
         "fmt::v8::detail::compare": {
-            "offset": "0x45660"
+            "offset": "0x45940"
         },
         "fmt::v8::detail::copy_str<wchar_t,char const *,std::back_insert_iterator<fmt::v8::detail::buffer<wchar_t> > >": {
             "offset": "0x16900"
@@ -1096,40 +1096,40 @@
             "offset": "0xE740"
         },
         "fmt::v8::detail::decimal_point_impl<char>": {
-            "offset": "0x41870"
+            "offset": "0x41B50"
         },
         "fmt::v8::detail::decimal_point_impl<wchar_t>": {
-            "offset": "0x41980"
+            "offset": "0x41C60"
         },
         "fmt::v8::detail::do_throw<fmt::v8::format_error>": {
             "offset": "0x3F40"
         },
         "fmt::v8::detail::dragonbox::cache_accessor<double>::get_cached_power": {
-            "offset": "0x45B00"
-        },
-        "fmt::v8::detail::dragonbox::is_endpoint_integer<double>": {
-            "offset": "0x437F0"
-        },
-        "fmt::v8::detail::dragonbox::remove_trailing_zeros": {
             "offset": "0x45DE0"
         },
+        "fmt::v8::detail::dragonbox::is_endpoint_integer<double>": {
+            "offset": "0x43AD0"
+        },
+        "fmt::v8::detail::dragonbox::remove_trailing_zeros": {
+            "offset": "0x460C0"
+        },
         "fmt::v8::detail::dragonbox::shorter_interval_case<float>": {
-            "offset": "0x43820"
+            "offset": "0x43B00"
         },
         "fmt::v8::detail::dragonbox::to_decimal<double>": {
-            "offset": "0x445F0"
+            "offset": "0x448D0"
         },
         "fmt::v8::detail::dragonbox::to_decimal<float>": {
-            "offset": "0x441C0"
+            "offset": "0x444A0"
         },
         "fmt::v8::detail::error_handler::on_error": {
-            "offset": "0x45D60"
+            "offset": "0x46040"
         },
         "fmt::v8::detail::fallback_format<double>": {
-            "offset": "0x41A30"
+            "offset": "0x41D10"
         },
         "fmt::v8::detail::fallback_format<long double>": {
-            "offset": "0x41A30"
+            "offset": "0x41D10"
         },
         "fmt::v8::detail::fill<std::back_insert_iterator<fmt::v8::detail::buffer<wchar_t> >,wchar_t>": {
             "offset": "0x16990"
@@ -1138,25 +1138,25 @@
             "offset": "0x16A50"
         },
         "fmt::v8::detail::fmt_snprintf": {
-            "offset": "0x45A90"
+            "offset": "0x45D70"
         },
         "fmt::v8::detail::for_each_codepoint<`fmt::v8::detail::compute_width'::`2'::count_code_points>": {
             "offset": "0x3F70"
         },
         "fmt::v8::detail::format_decimal<char,unsigned __int64,fmt::v8::appender,0>": {
-            "offset": "0x42EE0"
+            "offset": "0x431C0"
         },
         "fmt::v8::detail::format_decimal<char,unsigned __int64>": {
             "offset": "0x4240"
         },
         "fmt::v8::detail::format_decimal<char,unsigned int,fmt::v8::appender,0>": {
-            "offset": "0x42DC0"
+            "offset": "0x430A0"
         },
         "fmt::v8::detail::format_float<double>": {
-            "offset": "0x41380"
+            "offset": "0x41660"
         },
         "fmt::v8::detail::format_float<long double>": {
-            "offset": "0x43020"
+            "offset": "0x43300"
         },
         "fmt::v8::detail::format_uint<4,char,fmt::v8::appender,unsigned __int64>": {
             "offset": "0x4320"
@@ -1165,7 +1165,7 @@
             "offset": "0x16F60"
         },
         "fmt::v8::detail::grisu_gen_digits<fmt::v8::detail::fixed_handler>": {
-            "offset": "0x43380"
+            "offset": "0x43660"
         },
         "fmt::v8::detail::parse_float_type_spec<fmt::v8::detail::error_handler,char>": {
             "offset": "0x4440"
@@ -1189,19 +1189,19 @@
             "offset": "0xF4D0"
         },
         "fmt::v8::detail::printf_arg_formatter<std::back_insert_iterator<fmt::v8::detail::buffer<wchar_t> >,wchar_t>::write_null_pointer": {
-            "offset": "0x31340"
+            "offset": "0x31560"
         },
         "fmt::v8::detail::snprintf_float<double>": {
-            "offset": "0x43A30"
+            "offset": "0x43D10"
         },
         "fmt::v8::detail::snprintf_float<long double>": {
-            "offset": "0x43CB0"
+            "offset": "0x43F90"
         },
         "fmt::v8::detail::thousands_sep_impl<char>": {
-            "offset": "0x43F40"
+            "offset": "0x44220"
         },
         "fmt::v8::detail::thousands_sep_impl<wchar_t>": {
-            "offset": "0x440B0"
+            "offset": "0x44390"
         },
         "fmt::v8::detail::thousands_sep_result<char>::~thousands_sep_result<char>": {
             "offset": "0xB6E0"
@@ -1231,10 +1231,10 @@
             "offset": "0x7310"
         },
         "fmt::v8::detail::write<char,fmt::v8::appender,unsigned __int64,0>": {
-            "offset": "0x44D40"
+            "offset": "0x45020"
         },
         "fmt::v8::detail::write<char,fmt::v8::appender,unsigned int,0>": {
-            "offset": "0x44C20"
+            "offset": "0x44F00"
         },
         "fmt::v8::detail::write<char,fmt::v8::appender>": {
             "offset": "0x69B0"
@@ -1402,7 +1402,7 @@
             "offset": "0xB810"
         },
         "fmt::v8::sprintf<char [43],std::basic_string_view<char,std::char_traits<char> >,char const *,char>": {
-            "offset": "0x47F10"
+            "offset": "0x481F0"
         },
         "fmt::v8::visit_format_arg<fmt::v8::detail::arg_converter<__int64,fmt::v8::basic_printf_context<fmt::v8::appender,char> >,fmt::v8::basic_printf_context<fmt::v8::appender,char> >": {
             "offset": "0x4D40"
@@ -1465,7 +1465,7 @@
             "offset": "0x19EF0"
         },
         "fmt::v8::vsprintf<std::basic_string_view<char,std::char_traits<char> >,char>": {
-            "offset": "0x487B0"
+            "offset": "0x48A90"
         },
         "fprintf": {
             "offset": "0xF590"
@@ -1489,49 +1489,49 @@
             "offset": "0x10BA0"
         },
         "fwPlatformString::fwPlatformString": {
-            "offset": "0x1FDB0"
+            "offset": "0x1FE60"
         },
         "fwPlatformString::~fwPlatformString": {
             "offset": "0xB830"
         },
         "fwRefCountable::AddRef": {
-            "offset": "0x498C0"
+            "offset": "0x49BA0"
         },
         "fwRefCountable::Release": {
-            "offset": "0x498D0"
+            "offset": "0x49BB0"
         },
         "fwRefCountable::~fwRefCountable": {
-            "offset": "0x498B0"
+            "offset": "0x49B90"
         },
         "getCharIndex": {
-            "offset": "0x3C1F0"
+            "offset": "0x3C4D0"
         },
         "getScrollDelta": {
-            "offset": "0x3C320"
+            "offset": "0x3C600"
         },
         "internal::ConsoleCommandFunction<std::function<void __cdecl(DevGuiPath const &,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &)> >::Call": {
-            "offset": "0x36210"
+            "offset": "0x36430"
         },
         "internal::ConsoleCommandFunction<std::function<void __cdecl(DevGuiPath const &,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &)> >::CallInternal<0,0,std::tuple<> >": {
-            "offset": "0x35050"
+            "offset": "0x35270"
         },
         "internal::ConsoleCommandFunction<std::function<void __cdecl(DevGuiPath const &,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &)> >::CallInternal<1,1,std::tuple<DevGuiPath const &> >": {
-            "offset": "0x34E80"
+            "offset": "0x350A0"
         },
         "internal::ConsoleCommandFunction<std::function<void __cdecl(bool const &)> >::Call": {
-            "offset": "0x24B60"
+            "offset": "0x24D30"
         },
         "internal::ConsoleCommandFunction<std::function<void __cdecl(bool const &)> >::CallInternal<0,0,std::tuple<> >": {
             "offset": "0x12E90"
         },
         "internal::ConsoleCommandFunction<std::function<void __cdecl(int const &)> >::Call": {
-            "offset": "0x24340"
+            "offset": "0x24510"
         },
         "internal::ConsoleCommandFunction<std::function<void __cdecl(int const &)> >::CallInternal<0,0,std::tuple<> >": {
             "offset": "0x12990"
         },
         "internal::ConsoleCommandFunction<std::function<void __cdecl(std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &)> >::Call": {
-            "offset": "0x24750"
+            "offset": "0x24920"
         },
         "internal::ConsoleCommandFunction<std::function<void __cdecl(std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &)> >::CallInternal<0,0,std::tuple<> >": {
             "offset": "0x12CE0"
@@ -1552,7 +1552,7 @@
             "offset": "0x11630"
         },
         "internal::ConsoleVariableEntry<bool>::SetRawValue": {
-            "offset": "0x29BE0"
+            "offset": "0x29E30"
         },
         "internal::ConsoleVariableEntry<bool>::SetValue": {
             "offset": "0x114D0"
@@ -1564,64 +1564,64 @@
             "offset": "0x1DE70"
         },
         "internal::ConsoleVariableEntry<int>::GetOfflineValue": {
-            "offset": "0x279A0"
+            "offset": "0x27B90"
         },
         "internal::ConsoleVariableEntry<int>::GetValue": {
-            "offset": "0x27A90"
+            "offset": "0x27C80"
         },
         "internal::ConsoleVariableEntry<int>::SaveOfflineValue": {
-            "offset": "0x294B0"
+            "offset": "0x29700"
         },
         "internal::ConsoleVariableEntry<int>::SetRawValue": {
-            "offset": "0x297B0"
+            "offset": "0x29A00"
         },
         "internal::ConsoleVariableEntry<int>::SetValue": {
-            "offset": "0x29DC0"
+            "offset": "0x2A010"
         },
         "internal::ConsoleVariableEntry<int>::UpdateTrackingVariable": {
-            "offset": "0x2A8E0"
+            "offset": "0x2AB30"
         },
         "internal::ConsoleVariableEntry<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::ConsoleVariableEntry<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >": {
             "offset": "0x1E0F0"
         },
         "internal::ConsoleVariableEntry<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::GetOfflineValue": {
-            "offset": "0x279C0"
+            "offset": "0x27BB0"
         },
         "internal::ConsoleVariableEntry<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::GetValue": {
-            "offset": "0x27AD0"
+            "offset": "0x27CC0"
         },
         "internal::ConsoleVariableEntry<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::SaveOfflineValue": {
-            "offset": "0x294C0"
+            "offset": "0x29710"
         },
         "internal::ConsoleVariableEntry<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::SetRawValue": {
-            "offset": "0x29980"
+            "offset": "0x29BD0"
         },
         "internal::ConsoleVariableEntry<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::SetValue": {
-            "offset": "0x29EC0"
+            "offset": "0x2A110"
         },
         "internal::ConsoleVariableEntry<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::UpdateTrackingVariable": {
-            "offset": "0x2A900"
+            "offset": "0x2AB50"
         },
         "internal::ConsoleVariableEntry<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::~ConsoleVariableEntry<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >": {
-            "offset": "0x1FFC0"
+            "offset": "0x20070"
         },
         "internal::Constraints<bool,void>::Compare": {
-            "offset": "0x254A0"
+            "offset": "0x25670"
         },
         "internal::Constraints<int,void>::Compare": {
-            "offset": "0x25090"
+            "offset": "0x25260"
         },
         "internal::MarkConsoleVarModified": {
-            "offset": "0x28740"
+            "offset": "0x28930"
         },
         "internal::UnparseArgument<int>": {
             "offset": "0x13DE0"
         },
         "isBoundary": {
-            "offset": "0x3C990"
+            "offset": "0x3CC70"
         },
         "launch::IsSDKGuest": {
-            "offset": "0x27F20"
+            "offset": "0x28110"
         },
         "rapidjson::GenericDocument<rapidjson::UTF8<char>,rapidjson::MemoryPoolAllocator<rapidjson::CrtAllocator>,rapidjson::CrtAllocator>::~GenericDocument<rapidjson::UTF8<char>,rapidjson::MemoryPoolAllocator<rapidjson::CrtAllocator>,rapidjson::CrtAllocator>": {
             "offset": "0xB4F0"
@@ -1680,6 +1680,9 @@
         "rapidjson::internal::u64toa": {
             "offset": "0xECC0"
         },
+        "se::Object::Object": {
+            "offset": "0x1FCD0"
+        },
         "se::Object::~Object": {
             "offset": "0xB6E0"
         },
@@ -1687,19 +1690,19 @@
             "offset": "0xB6E0"
         },
         "se::ScopedPrincipal::~ScopedPrincipal": {
-            "offset": "0x20E10"
+            "offset": "0x20EC0"
         },
         "se::ScopedPrincipalReset::~ScopedPrincipalReset": {
-            "offset": "0x20E90"
+            "offset": "0x20F40"
         },
         "seCheckPrivilege": {
-            "offset": "0x30DD0"
+            "offset": "0x31020"
         },
         "seGetCurrentContext": {
-            "offset": "0x30EC0"
+            "offset": "0x310E0"
         },
         "std::_Alloc_construct_ptr<std::allocator<std::_List_node<std::unique_ptr<DevGuiNode,std::default_delete<DevGuiNode> >,void *> > >::~_Alloc_construct_ptr<std::allocator<std::_List_node<std::unique_ptr<DevGuiNode,std::default_delete<DevGuiNode> >,void *> > >": {
-            "offset": "0x356B0"
+            "offset": "0x358D0"
         },
         "std::_Alloc_construct_ptr<std::allocator<std::_Tree_node<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,void *> > >::~_Alloc_construct_ptr<std::allocator<std::_Tree_node<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,void *> > >": {
             "offset": "0xB600"
@@ -1711,49 +1714,49 @@
             "offset": "0x1E970"
         },
         "std::_Bt_state_t<char const *>::~_Bt_state_t<char const *>": {
-            "offset": "0x20240"
+            "offset": "0x202F0"
         },
         "std::_Builder<char const *,char,std::regex_traits<char> >::_Add_char": {
-            "offset": "0x2A960"
+            "offset": "0x2ABB0"
         },
         "std::_Builder<char const *,char,std::regex_traits<char> >::_Add_char_to_array": {
-            "offset": "0x2AA80"
+            "offset": "0x2ACD0"
         },
         "std::_Builder<char const *,char,std::regex_traits<char> >::_Add_char_to_class": {
-            "offset": "0x2AB40"
+            "offset": "0x2AD90"
         },
         "std::_Builder<char const *,char,std::regex_traits<char> >::_Add_class": {
-            "offset": "0x2ABD0"
+            "offset": "0x2AE20"
         },
         "std::_Builder<char const *,char,std::regex_traits<char> >::_Add_equiv": {
-            "offset": "0x2AC70"
+            "offset": "0x2AEC0"
         },
         "std::_Builder<char const *,char,std::regex_traits<char> >::_Add_named_class": {
-            "offset": "0x2AE10"
+            "offset": "0x2B060"
         },
         "std::_Builder<char const *,char,std::regex_traits<char> >::_Add_range": {
-            "offset": "0x2AEF0"
+            "offset": "0x2B140"
         },
         "std::_Builder<char const *,char,std::regex_traits<char> >::_Add_rep": {
-            "offset": "0x2B090"
+            "offset": "0x2B2E0"
         },
         "std::_Builder<char const *,char,std::regex_traits<char> >::_Beg_expr": {
-            "offset": "0x2BBC0"
+            "offset": "0x2BE10"
         },
         "std::_Builder<char const *,char,std::regex_traits<char> >::_Begin_capture_group": {
-            "offset": "0x2BC00"
+            "offset": "0x2BE50"
         },
         "std::_Builder<char const *,char,std::regex_traits<char> >::_Char_to_elts": {
-            "offset": "0x2BD70"
+            "offset": "0x2BFC0"
         },
         "std::_Builder<char const *,char,std::regex_traits<char> >::_End_group": {
-            "offset": "0x2E090"
+            "offset": "0x2E2E0"
         },
         "std::_Builder<char const *,char,std::regex_traits<char> >::_New_node": {
-            "offset": "0x2F000"
+            "offset": "0x2F250"
         },
         "std::_Calculate_loop_simplicity": {
-            "offset": "0x2BC90"
+            "offset": "0x2BEE0"
         },
         "std::_Compare<char const *,char const *,std::regex_traits<char> >": {
             "offset": "0x14170"
@@ -1762,10 +1765,10 @@
             "offset": "0x14370"
         },
         "std::_Destroy_range<std::allocator<std::tuple<std::shared_ptr<ConVar<bool> >,std::function<std::basic_string<char,std::char_traits<char>,std::allocator<char> > __cdecl(void)> > > >": {
-            "offset": "0x38410"
+            "offset": "0x386B0"
         },
         "std::_Facet_Register": {
-            "offset": "0x4A3FC"
+            "offset": "0x4A6DC"
         },
         "std::_Format_default<char const *,std::allocator<std::sub_match<char const *> >,char const *,std::back_insert_iterator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >": {
             "offset": "0x14720"
@@ -1828,13 +1831,13 @@
             "offset": "0xF910"
         },
         "std::_Func_impl_no_alloc<<lambda_02837e64370d6fef96f08c65622c99b1>,bool,ConsoleExecutionContext &>::_Copy": {
-            "offset": "0x344B0"
+            "offset": "0x346D0"
         },
         "std::_Func_impl_no_alloc<<lambda_02837e64370d6fef96f08c65622c99b1>,bool,ConsoleExecutionContext &>::_Delete_this": {
             "offset": "0xFA70"
         },
         "std::_Func_impl_no_alloc<<lambda_02837e64370d6fef96f08c65622c99b1>,bool,ConsoleExecutionContext &>::_Do_call": {
-            "offset": "0x34450"
+            "offset": "0x34670"
         },
         "std::_Func_impl_no_alloc<<lambda_02837e64370d6fef96f08c65622c99b1>,bool,ConsoleExecutionContext &>::_Get": {
             "offset": "0xF840"
@@ -1843,61 +1846,61 @@
             "offset": "0xF6A0"
         },
         "std::_Func_impl_no_alloc<<lambda_02837e64370d6fef96f08c65622c99b1>,bool,ConsoleExecutionContext &>::_Target_type": {
-            "offset": "0x34530"
+            "offset": "0x34750"
+        },
+        "std::_Func_impl_no_alloc<<lambda_0294bab8233302e9d1eba419d29f3325>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Copy": {
+            "offset": "0x385B0"
+        },
+        "std::_Func_impl_no_alloc<<lambda_0294bab8233302e9d1eba419d29f3325>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Delete_this": {
+            "offset": "0xF850"
+        },
+        "std::_Func_impl_no_alloc<<lambda_0294bab8233302e9d1eba419d29f3325>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Do_call": {
+            "offset": "0x385C0"
+        },
+        "std::_Func_impl_no_alloc<<lambda_0294bab8233302e9d1eba419d29f3325>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Get": {
+            "offset": "0xF840"
+        },
+        "std::_Func_impl_no_alloc<<lambda_0294bab8233302e9d1eba419d29f3325>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Move": {
+            "offset": "0x385B0"
+        },
+        "std::_Func_impl_no_alloc<<lambda_0294bab8233302e9d1eba419d29f3325>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Target_type": {
+            "offset": "0x385E0"
         },
         "std::_Func_impl_no_alloc<<lambda_058f5e79eaf16871b65263a27ab21600>,bool>::_Copy": {
-            "offset": "0x31A20"
+            "offset": "0x31C40"
         },
         "std::_Func_impl_no_alloc<<lambda_058f5e79eaf16871b65263a27ab21600>,bool>::_Delete_this": {
             "offset": "0xF850"
         },
         "std::_Func_impl_no_alloc<<lambda_058f5e79eaf16871b65263a27ab21600>,bool>::_Do_call": {
-            "offset": "0x31A40"
+            "offset": "0x31C60"
         },
         "std::_Func_impl_no_alloc<<lambda_058f5e79eaf16871b65263a27ab21600>,bool>::_Get": {
             "offset": "0xF840"
         },
         "std::_Func_impl_no_alloc<<lambda_058f5e79eaf16871b65263a27ab21600>,bool>::_Move": {
-            "offset": "0x31A20"
+            "offset": "0x31C40"
         },
         "std::_Func_impl_no_alloc<<lambda_058f5e79eaf16871b65263a27ab21600>,bool>::_Target_type": {
-            "offset": "0x31A80"
+            "offset": "0x31CA0"
         },
         "std::_Func_impl_no_alloc<<lambda_146cac2b710c5400711578427decc0a9>,bool,int &>::_Copy": {
-            "offset": "0x319D0"
+            "offset": "0x31BF0"
         },
         "std::_Func_impl_no_alloc<<lambda_146cac2b710c5400711578427decc0a9>,bool,int &>::_Delete_this": {
             "offset": "0xF850"
         },
         "std::_Func_impl_no_alloc<<lambda_146cac2b710c5400711578427decc0a9>,bool,int &>::_Do_call": {
-            "offset": "0x319F0"
+            "offset": "0x31C10"
         },
         "std::_Func_impl_no_alloc<<lambda_146cac2b710c5400711578427decc0a9>,bool,int &>::_Get": {
             "offset": "0xF840"
         },
         "std::_Func_impl_no_alloc<<lambda_146cac2b710c5400711578427decc0a9>,bool,int &>::_Move": {
-            "offset": "0x319D0"
+            "offset": "0x31BF0"
         },
         "std::_Func_impl_no_alloc<<lambda_146cac2b710c5400711578427decc0a9>,bool,int &>::_Target_type": {
-            "offset": "0x31A10"
-        },
-        "std::_Func_impl_no_alloc<<lambda_1beb9bdfa04be13fad17e0d46ac4731f>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Copy": {
-            "offset": "0x38250"
-        },
-        "std::_Func_impl_no_alloc<<lambda_1beb9bdfa04be13fad17e0d46ac4731f>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Delete_this": {
-            "offset": "0xF850"
-        },
-        "std::_Func_impl_no_alloc<<lambda_1beb9bdfa04be13fad17e0d46ac4731f>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Do_call": {
-            "offset": "0x38260"
-        },
-        "std::_Func_impl_no_alloc<<lambda_1beb9bdfa04be13fad17e0d46ac4731f>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Get": {
-            "offset": "0xF840"
-        },
-        "std::_Func_impl_no_alloc<<lambda_1beb9bdfa04be13fad17e0d46ac4731f>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Move": {
-            "offset": "0x38250"
-        },
-        "std::_Func_impl_no_alloc<<lambda_1beb9bdfa04be13fad17e0d46ac4731f>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Target_type": {
-            "offset": "0x38280"
+            "offset": "0x31C30"
         },
         "std::_Func_impl_no_alloc<<lambda_2729e31fb8c726b5ef153dd449ae69e5>,void,bool const &>::_Copy": {
             "offset": "0x11840"
@@ -1918,7 +1921,7 @@
             "offset": "0x11940"
         },
         "std::_Func_impl_no_alloc<<lambda_2c71f2734007fd255e94b39244217c06>,bool,ConsoleExecutionContext &>::_Copy": {
-            "offset": "0x2C8A0"
+            "offset": "0x2CAF0"
         },
         "std::_Func_impl_no_alloc<<lambda_2c71f2734007fd255e94b39244217c06>,bool,ConsoleExecutionContext &>::_Delete_this": {
             "offset": "0x11310"
@@ -1933,34 +1936,52 @@
             "offset": "0xF6A0"
         },
         "std::_Func_impl_no_alloc<<lambda_2c71f2734007fd255e94b39244217c06>,bool,ConsoleExecutionContext &>::_Target_type": {
-            "offset": "0x2F6D0"
+            "offset": "0x2F920"
         },
         "std::_Func_impl_no_alloc<<lambda_3dc21e907c73372eaaba542348d0abbb>,float,unsigned __int64>::_Copy": {
-            "offset": "0x2C920"
+            "offset": "0x2CB70"
         },
         "std::_Func_impl_no_alloc<<lambda_3dc21e907c73372eaaba542348d0abbb>,float,unsigned __int64>::_Delete_this": {
             "offset": "0xF850"
         },
         "std::_Func_impl_no_alloc<<lambda_3dc21e907c73372eaaba542348d0abbb>,float,unsigned __int64>::_Do_call": {
-            "offset": "0x2D210"
+            "offset": "0x2D460"
         },
         "std::_Func_impl_no_alloc<<lambda_3dc21e907c73372eaaba542348d0abbb>,float,unsigned __int64>::_Get": {
             "offset": "0xF840"
         },
         "std::_Func_impl_no_alloc<<lambda_3dc21e907c73372eaaba542348d0abbb>,float,unsigned __int64>::_Move": {
-            "offset": "0x2C920"
+            "offset": "0x2CB70"
         },
         "std::_Func_impl_no_alloc<<lambda_3dc21e907c73372eaaba542348d0abbb>,float,unsigned __int64>::_Target_type": {
-            "offset": "0x2F6E0"
+            "offset": "0x2F930"
+        },
+        "std::_Func_impl_no_alloc<<lambda_3f177b3783d70f2d3e82e8e4d54bdf73>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Copy": {
+            "offset": "0x385F0"
+        },
+        "std::_Func_impl_no_alloc<<lambda_3f177b3783d70f2d3e82e8e4d54bdf73>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Delete_this": {
+            "offset": "0xF850"
+        },
+        "std::_Func_impl_no_alloc<<lambda_3f177b3783d70f2d3e82e8e4d54bdf73>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Do_call": {
+            "offset": "0x38600"
+        },
+        "std::_Func_impl_no_alloc<<lambda_3f177b3783d70f2d3e82e8e4d54bdf73>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Get": {
+            "offset": "0xF840"
+        },
+        "std::_Func_impl_no_alloc<<lambda_3f177b3783d70f2d3e82e8e4d54bdf73>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Move": {
+            "offset": "0x385F0"
+        },
+        "std::_Func_impl_no_alloc<<lambda_3f177b3783d70f2d3e82e8e4d54bdf73>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Target_type": {
+            "offset": "0x38620"
         },
         "std::_Func_impl_no_alloc<<lambda_41af1ba482b752c39807db2ef15caf48>,void>::_Copy": {
-            "offset": "0x2C940"
+            "offset": "0x2CB90"
         },
         "std::_Func_impl_no_alloc<<lambda_41af1ba482b752c39807db2ef15caf48>,void>::_Delete_this": {
             "offset": "0x117C0"
         },
         "std::_Func_impl_no_alloc<<lambda_41af1ba482b752c39807db2ef15caf48>,void>::_Do_call": {
-            "offset": "0x2D220"
+            "offset": "0x2D470"
         },
         "std::_Func_impl_no_alloc<<lambda_41af1ba482b752c39807db2ef15caf48>,void>::_Get": {
             "offset": "0xF840"
@@ -1969,28 +1990,28 @@
             "offset": "0xF6A0"
         },
         "std::_Func_impl_no_alloc<<lambda_41af1ba482b752c39807db2ef15caf48>,void>::_Target_type": {
-            "offset": "0x2F6F0"
+            "offset": "0x2F940"
         },
         "std::_Func_impl_no_alloc<<lambda_45b58023f1436a1d28964bbd50777a6b>,bool,bool *>::_Copy": {
-            "offset": "0x37840"
+            "offset": "0x37AE0"
         },
         "std::_Func_impl_no_alloc<<lambda_45b58023f1436a1d28964bbd50777a6b>,bool,bool *>::_Delete_this": {
             "offset": "0xF850"
         },
         "std::_Func_impl_no_alloc<<lambda_45b58023f1436a1d28964bbd50777a6b>,bool,bool *>::_Do_call": {
-            "offset": "0x37860"
+            "offset": "0x37B00"
         },
         "std::_Func_impl_no_alloc<<lambda_45b58023f1436a1d28964bbd50777a6b>,bool,bool *>::_Get": {
             "offset": "0xF840"
         },
         "std::_Func_impl_no_alloc<<lambda_45b58023f1436a1d28964bbd50777a6b>,bool,bool *>::_Move": {
-            "offset": "0x37840"
+            "offset": "0x37AE0"
         },
         "std::_Func_impl_no_alloc<<lambda_45b58023f1436a1d28964bbd50777a6b>,bool,bool *>::_Target_type": {
-            "offset": "0x37880"
+            "offset": "0x37B20"
         },
         "std::_Func_impl_no_alloc<<lambda_47435eb07b572c7d5654305a814d3474>,bool,ConsoleExecutionContext &>::_Copy": {
-            "offset": "0x34540"
+            "offset": "0x34760"
         },
         "std::_Func_impl_no_alloc<<lambda_47435eb07b572c7d5654305a814d3474>,bool,ConsoleExecutionContext &>::_Delete_this": {
             "offset": "0xFA70"
@@ -2005,70 +2026,70 @@
             "offset": "0xF6A0"
         },
         "std::_Func_impl_no_alloc<<lambda_47435eb07b572c7d5654305a814d3474>,bool,ConsoleExecutionContext &>::_Target_type": {
-            "offset": "0x345C0"
-        },
-        "std::_Func_impl_no_alloc<<lambda_474b46e08daeb9eb84f42970798b5211>,bool,int,int>::_Copy": {
-            "offset": "0x38170"
-        },
-        "std::_Func_impl_no_alloc<<lambda_474b46e08daeb9eb84f42970798b5211>,bool,int,int>::_Delete_this": {
-            "offset": "0xF850"
-        },
-        "std::_Func_impl_no_alloc<<lambda_474b46e08daeb9eb84f42970798b5211>,bool,int,int>::_Do_call": {
-            "offset": "0x38190"
-        },
-        "std::_Func_impl_no_alloc<<lambda_474b46e08daeb9eb84f42970798b5211>,bool,int,int>::_Get": {
-            "offset": "0xF840"
-        },
-        "std::_Func_impl_no_alloc<<lambda_474b46e08daeb9eb84f42970798b5211>,bool,int,int>::_Move": {
-            "offset": "0x38170"
-        },
-        "std::_Func_impl_no_alloc<<lambda_474b46e08daeb9eb84f42970798b5211>,bool,int,int>::_Target_type": {
-            "offset": "0x381B0"
+            "offset": "0x347E0"
         },
         "std::_Func_impl_no_alloc<<lambda_49a25c0d93e6a80cc42d97a34fd26fa6>,bool>::_Copy": {
-            "offset": "0x31800"
+            "offset": "0x31A20"
         },
         "std::_Func_impl_no_alloc<<lambda_49a25c0d93e6a80cc42d97a34fd26fa6>,bool>::_Delete_this": {
             "offset": "0xF850"
         },
         "std::_Func_impl_no_alloc<<lambda_49a25c0d93e6a80cc42d97a34fd26fa6>,bool>::_Do_call": {
-            "offset": "0x31820"
+            "offset": "0x31A40"
         },
         "std::_Func_impl_no_alloc<<lambda_49a25c0d93e6a80cc42d97a34fd26fa6>,bool>::_Get": {
             "offset": "0xF840"
         },
         "std::_Func_impl_no_alloc<<lambda_49a25c0d93e6a80cc42d97a34fd26fa6>,bool>::_Move": {
-            "offset": "0x31800"
+            "offset": "0x31A20"
         },
         "std::_Func_impl_no_alloc<<lambda_49a25c0d93e6a80cc42d97a34fd26fa6>,bool>::_Target_type": {
-            "offset": "0x318D0"
+            "offset": "0x31AF0"
         },
         "std::_Func_impl_no_alloc<<lambda_4f01932d3df21bafe14b0b705d1c2d2b>,void>::_Copy": {
-            "offset": "0x343A0"
+            "offset": "0x345C0"
         },
         "std::_Func_impl_no_alloc<<lambda_4f01932d3df21bafe14b0b705d1c2d2b>,void>::_Delete_this": {
             "offset": "0xF850"
         },
         "std::_Func_impl_no_alloc<<lambda_4f01932d3df21bafe14b0b705d1c2d2b>,void>::_Do_call": {
-            "offset": "0x343B0"
+            "offset": "0x345D0"
         },
         "std::_Func_impl_no_alloc<<lambda_4f01932d3df21bafe14b0b705d1c2d2b>,void>::_Get": {
             "offset": "0xF840"
         },
         "std::_Func_impl_no_alloc<<lambda_4f01932d3df21bafe14b0b705d1c2d2b>,void>::_Move": {
-            "offset": "0x343A0"
+            "offset": "0x345C0"
         },
         "std::_Func_impl_no_alloc<<lambda_4f01932d3df21bafe14b0b705d1c2d2b>,void>::_Target_type": {
-            "offset": "0x343C0"
+            "offset": "0x345E0"
+        },
+        "std::_Func_impl_no_alloc<<lambda_510c30a2a3a36fadf54e6d054ce05b7d>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Copy": {
+            "offset": "0x38570"
+        },
+        "std::_Func_impl_no_alloc<<lambda_510c30a2a3a36fadf54e6d054ce05b7d>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Delete_this": {
+            "offset": "0xF850"
+        },
+        "std::_Func_impl_no_alloc<<lambda_510c30a2a3a36fadf54e6d054ce05b7d>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Do_call": {
+            "offset": "0x38580"
+        },
+        "std::_Func_impl_no_alloc<<lambda_510c30a2a3a36fadf54e6d054ce05b7d>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Get": {
+            "offset": "0xF840"
+        },
+        "std::_Func_impl_no_alloc<<lambda_510c30a2a3a36fadf54e6d054ce05b7d>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Move": {
+            "offset": "0x38570"
+        },
+        "std::_Func_impl_no_alloc<<lambda_510c30a2a3a36fadf54e6d054ce05b7d>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Target_type": {
+            "offset": "0x385A0"
         },
         "std::_Func_impl_no_alloc<<lambda_55cf421c54d17ec848e1c39d1a1f440e>,bool,ConsoleExecutionContext &>::_Copy": {
-            "offset": "0x2C9A0"
+            "offset": "0x2CBF0"
         },
         "std::_Func_impl_no_alloc<<lambda_55cf421c54d17ec848e1c39d1a1f440e>,bool,ConsoleExecutionContext &>::_Delete_this": {
             "offset": "0x11310"
         },
         "std::_Func_impl_no_alloc<<lambda_55cf421c54d17ec848e1c39d1a1f440e>,bool,ConsoleExecutionContext &>::_Do_call": {
-            "offset": "0x2D230"
+            "offset": "0x2D480"
         },
         "std::_Func_impl_no_alloc<<lambda_55cf421c54d17ec848e1c39d1a1f440e>,bool,ConsoleExecutionContext &>::_Get": {
             "offset": "0xF840"
@@ -2077,7 +2098,7 @@
             "offset": "0xF6A0"
         },
         "std::_Func_impl_no_alloc<<lambda_55cf421c54d17ec848e1c39d1a1f440e>,bool,ConsoleExecutionContext &>::_Target_type": {
-            "offset": "0x2F700"
+            "offset": "0x2F950"
         },
         "std::_Func_impl_no_alloc<<lambda_5678a8d9272cb491f07103ca9f893192>,bool,bool *>::_Copy": {
             "offset": "0x110D0"
@@ -2098,76 +2119,58 @@
             "offset": "0x11110"
         },
         "std::_Func_impl_no_alloc<<lambda_5b1c43db5646bdcc3820d1877854a8bd>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Copy": {
-            "offset": "0x2CA20"
+            "offset": "0x2CC70"
         },
         "std::_Func_impl_no_alloc<<lambda_5b1c43db5646bdcc3820d1877854a8bd>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Delete_this": {
             "offset": "0xF850"
         },
         "std::_Func_impl_no_alloc<<lambda_5b1c43db5646bdcc3820d1877854a8bd>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Do_call": {
-            "offset": "0x2D280"
+            "offset": "0x2D4D0"
         },
         "std::_Func_impl_no_alloc<<lambda_5b1c43db5646bdcc3820d1877854a8bd>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Get": {
             "offset": "0xF840"
         },
         "std::_Func_impl_no_alloc<<lambda_5b1c43db5646bdcc3820d1877854a8bd>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Move": {
-            "offset": "0x2CA20"
+            "offset": "0x2CC70"
         },
         "std::_Func_impl_no_alloc<<lambda_5b1c43db5646bdcc3820d1877854a8bd>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Target_type": {
-            "offset": "0x2F710"
+            "offset": "0x2F960"
         },
-        "std::_Func_impl_no_alloc<<lambda_69b0a3eca3295ecffd6fec90f979d38a>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Copy": {
-            "offset": "0x38310"
+        "std::_Func_impl_no_alloc<<lambda_6987a9a13444104093ac4dd705a01459>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Copy": {
+            "offset": "0x38530"
         },
-        "std::_Func_impl_no_alloc<<lambda_69b0a3eca3295ecffd6fec90f979d38a>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Delete_this": {
+        "std::_Func_impl_no_alloc<<lambda_6987a9a13444104093ac4dd705a01459>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Delete_this": {
             "offset": "0xF850"
         },
-        "std::_Func_impl_no_alloc<<lambda_69b0a3eca3295ecffd6fec90f979d38a>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Do_call": {
-            "offset": "0x38320"
+        "std::_Func_impl_no_alloc<<lambda_6987a9a13444104093ac4dd705a01459>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Do_call": {
+            "offset": "0x38540"
         },
-        "std::_Func_impl_no_alloc<<lambda_69b0a3eca3295ecffd6fec90f979d38a>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Get": {
+        "std::_Func_impl_no_alloc<<lambda_6987a9a13444104093ac4dd705a01459>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Get": {
             "offset": "0xF840"
         },
-        "std::_Func_impl_no_alloc<<lambda_69b0a3eca3295ecffd6fec90f979d38a>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Move": {
-            "offset": "0x38310"
+        "std::_Func_impl_no_alloc<<lambda_6987a9a13444104093ac4dd705a01459>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Move": {
+            "offset": "0x38530"
         },
-        "std::_Func_impl_no_alloc<<lambda_69b0a3eca3295ecffd6fec90f979d38a>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Target_type": {
-            "offset": "0x38340"
+        "std::_Func_impl_no_alloc<<lambda_6987a9a13444104093ac4dd705a01459>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Target_type": {
+            "offset": "0x38560"
         },
         "std::_Func_impl_no_alloc<<lambda_6ae025072f81c1346542a1fe58c624df>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Copy": {
-            "offset": "0x2CA40"
+            "offset": "0x2CC90"
         },
         "std::_Func_impl_no_alloc<<lambda_6ae025072f81c1346542a1fe58c624df>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Delete_this": {
-            "offset": "0x2CDF0"
+            "offset": "0x2D040"
         },
         "std::_Func_impl_no_alloc<<lambda_6ae025072f81c1346542a1fe58c624df>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Do_call": {
-            "offset": "0x2D380"
+            "offset": "0x2D5D0"
         },
         "std::_Func_impl_no_alloc<<lambda_6ae025072f81c1346542a1fe58c624df>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Get": {
             "offset": "0xF840"
         },
         "std::_Func_impl_no_alloc<<lambda_6ae025072f81c1346542a1fe58c624df>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Move": {
-            "offset": "0x2CA40"
+            "offset": "0x2CC90"
         },
         "std::_Func_impl_no_alloc<<lambda_6ae025072f81c1346542a1fe58c624df>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Target_type": {
-            "offset": "0x2F720"
-        },
-        "std::_Func_impl_no_alloc<<lambda_7059d70280685a0cf9501fca0b7ae37f>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Copy": {
-            "offset": "0x382D0"
-        },
-        "std::_Func_impl_no_alloc<<lambda_7059d70280685a0cf9501fca0b7ae37f>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Delete_this": {
-            "offset": "0xF850"
-        },
-        "std::_Func_impl_no_alloc<<lambda_7059d70280685a0cf9501fca0b7ae37f>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Do_call": {
-            "offset": "0x382E0"
-        },
-        "std::_Func_impl_no_alloc<<lambda_7059d70280685a0cf9501fca0b7ae37f>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Get": {
-            "offset": "0xF840"
-        },
-        "std::_Func_impl_no_alloc<<lambda_7059d70280685a0cf9501fca0b7ae37f>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Move": {
-            "offset": "0x382D0"
-        },
-        "std::_Func_impl_no_alloc<<lambda_7059d70280685a0cf9501fca0b7ae37f>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Target_type": {
-            "offset": "0x38300"
+            "offset": "0x2F970"
         },
         "std::_Func_impl_no_alloc<<lambda_72ae5b0e2f813e08b01a5e2876e67561>,bool,ConsoleExecutionContext &>::_Copy": {
             "offset": "0x11660"
@@ -2187,32 +2190,50 @@
         "std::_Func_impl_no_alloc<<lambda_72ae5b0e2f813e08b01a5e2876e67561>,bool,ConsoleExecutionContext &>::_Target_type": {
             "offset": "0x11730"
         },
+        "std::_Func_impl_no_alloc<<lambda_72f925fefaef7f8153f8fd0443584dfb>,bool,int,int>::_Copy": {
+            "offset": "0x38410"
+        },
+        "std::_Func_impl_no_alloc<<lambda_72f925fefaef7f8153f8fd0443584dfb>,bool,int,int>::_Delete_this": {
+            "offset": "0xF850"
+        },
+        "std::_Func_impl_no_alloc<<lambda_72f925fefaef7f8153f8fd0443584dfb>,bool,int,int>::_Do_call": {
+            "offset": "0x38430"
+        },
+        "std::_Func_impl_no_alloc<<lambda_72f925fefaef7f8153f8fd0443584dfb>,bool,int,int>::_Get": {
+            "offset": "0xF840"
+        },
+        "std::_Func_impl_no_alloc<<lambda_72f925fefaef7f8153f8fd0443584dfb>,bool,int,int>::_Move": {
+            "offset": "0x38410"
+        },
+        "std::_Func_impl_no_alloc<<lambda_72f925fefaef7f8153f8fd0443584dfb>,bool,int,int>::_Target_type": {
+            "offset": "0x38450"
+        },
         "std::_Func_impl_no_alloc<<lambda_752471e60b3794527e2f2a89ab183199>,unsigned __int64>::_Copy": {
-            "offset": "0x2CA60"
+            "offset": "0x2CCB0"
         },
         "std::_Func_impl_no_alloc<<lambda_752471e60b3794527e2f2a89ab183199>,unsigned __int64>::_Delete_this": {
             "offset": "0xF850"
         },
         "std::_Func_impl_no_alloc<<lambda_752471e60b3794527e2f2a89ab183199>,unsigned __int64>::_Do_call": {
-            "offset": "0x2D3F0"
+            "offset": "0x2D640"
         },
         "std::_Func_impl_no_alloc<<lambda_752471e60b3794527e2f2a89ab183199>,unsigned __int64>::_Get": {
             "offset": "0xF840"
         },
         "std::_Func_impl_no_alloc<<lambda_752471e60b3794527e2f2a89ab183199>,unsigned __int64>::_Move": {
-            "offset": "0x2CA60"
+            "offset": "0x2CCB0"
         },
         "std::_Func_impl_no_alloc<<lambda_752471e60b3794527e2f2a89ab183199>,unsigned __int64>::_Target_type": {
-            "offset": "0x2F730"
+            "offset": "0x2F980"
         },
         "std::_Func_impl_no_alloc<<lambda_7604da78e8f33a312c72ae5a43f9b93b>,bool,ConsoleExecutionContext &>::_Copy": {
-            "offset": "0x2CA80"
+            "offset": "0x2CCD0"
         },
         "std::_Func_impl_no_alloc<<lambda_7604da78e8f33a312c72ae5a43f9b93b>,bool,ConsoleExecutionContext &>::_Delete_this": {
             "offset": "0x11310"
         },
         "std::_Func_impl_no_alloc<<lambda_7604da78e8f33a312c72ae5a43f9b93b>,bool,ConsoleExecutionContext &>::_Do_call": {
-            "offset": "0x2D400"
+            "offset": "0x2D650"
         },
         "std::_Func_impl_no_alloc<<lambda_7604da78e8f33a312c72ae5a43f9b93b>,bool,ConsoleExecutionContext &>::_Get": {
             "offset": "0xF840"
@@ -2221,7 +2242,7 @@
             "offset": "0xF6A0"
         },
         "std::_Func_impl_no_alloc<<lambda_7604da78e8f33a312c72ae5a43f9b93b>,bool,ConsoleExecutionContext &>::_Target_type": {
-            "offset": "0x2F740"
+            "offset": "0x2F990"
         },
         "std::_Func_impl_no_alloc<<lambda_814d5e0b3a45fa1dd158672480f6c4ca>,bool,ConsoleExecutionContext &>::_Copy": {
             "offset": "0x11230"
@@ -2242,31 +2263,31 @@
             "offset": "0x11300"
         },
         "std::_Func_impl_no_alloc<<lambda_8255e8b86698f5bb3d273a330684cd3f>,void,DevGuiPath const &,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Copy": {
-            "offset": "0x34330"
+            "offset": "0x34550"
         },
         "std::_Func_impl_no_alloc<<lambda_8255e8b86698f5bb3d273a330684cd3f>,void,DevGuiPath const &,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Delete_this": {
             "offset": "0xF850"
         },
         "std::_Func_impl_no_alloc<<lambda_8255e8b86698f5bb3d273a330684cd3f>,void,DevGuiPath const &,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Do_call": {
-            "offset": "0x34340"
+            "offset": "0x34560"
         },
         "std::_Func_impl_no_alloc<<lambda_8255e8b86698f5bb3d273a330684cd3f>,void,DevGuiPath const &,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Get": {
             "offset": "0xF840"
         },
         "std::_Func_impl_no_alloc<<lambda_8255e8b86698f5bb3d273a330684cd3f>,void,DevGuiPath const &,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Move": {
-            "offset": "0x34330"
+            "offset": "0x34550"
         },
         "std::_Func_impl_no_alloc<<lambda_8255e8b86698f5bb3d273a330684cd3f>,void,DevGuiPath const &,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Target_type": {
-            "offset": "0x34390"
+            "offset": "0x345B0"
         },
         "std::_Func_impl_no_alloc<<lambda_86be70dd2992469b5252a9192288f807>,void>::_Copy": {
-            "offset": "0x2CB00"
+            "offset": "0x2CD50"
         },
         "std::_Func_impl_no_alloc<<lambda_86be70dd2992469b5252a9192288f807>,void>::_Delete_this": {
             "offset": "0x117C0"
         },
         "std::_Func_impl_no_alloc<<lambda_86be70dd2992469b5252a9192288f807>,void>::_Do_call": {
-            "offset": "0x2D450"
+            "offset": "0x2D6A0"
         },
         "std::_Func_impl_no_alloc<<lambda_86be70dd2992469b5252a9192288f807>,void>::_Get": {
             "offset": "0xF840"
@@ -2275,16 +2296,16 @@
             "offset": "0xF6A0"
         },
         "std::_Func_impl_no_alloc<<lambda_86be70dd2992469b5252a9192288f807>,void>::_Target_type": {
-            "offset": "0x2F750"
+            "offset": "0x2F9A0"
         },
         "std::_Func_impl_no_alloc<<lambda_86d4d591f8ee155bf9fb023697a78601>,bool,ConsoleExecutionContext &>::_Copy": {
-            "offset": "0x343D0"
+            "offset": "0x345F0"
         },
         "std::_Func_impl_no_alloc<<lambda_86d4d591f8ee155bf9fb023697a78601>,bool,ConsoleExecutionContext &>::_Delete_this": {
             "offset": "0xFA70"
         },
         "std::_Func_impl_no_alloc<<lambda_86d4d591f8ee155bf9fb023697a78601>,bool,ConsoleExecutionContext &>::_Do_call": {
-            "offset": "0x34450"
+            "offset": "0x34670"
         },
         "std::_Func_impl_no_alloc<<lambda_86d4d591f8ee155bf9fb023697a78601>,bool,ConsoleExecutionContext &>::_Get": {
             "offset": "0xF840"
@@ -2293,61 +2314,43 @@
             "offset": "0xF6A0"
         },
         "std::_Func_impl_no_alloc<<lambda_86d4d591f8ee155bf9fb023697a78601>,bool,ConsoleExecutionContext &>::_Target_type": {
-            "offset": "0x344A0"
+            "offset": "0x346C0"
         },
         "std::_Func_impl_no_alloc<<lambda_8a78866092edfd2701c6857c9314e0b3>,std::basic_string_view<char,std::char_traits<char> >,unsigned __int64>::_Copy": {
-            "offset": "0x2CB60"
+            "offset": "0x2CDB0"
         },
         "std::_Func_impl_no_alloc<<lambda_8a78866092edfd2701c6857c9314e0b3>,std::basic_string_view<char,std::char_traits<char> >,unsigned __int64>::_Delete_this": {
             "offset": "0xF850"
         },
         "std::_Func_impl_no_alloc<<lambda_8a78866092edfd2701c6857c9314e0b3>,std::basic_string_view<char,std::char_traits<char> >,unsigned __int64>::_Do_call": {
-            "offset": "0x2D460"
+            "offset": "0x2D6B0"
         },
         "std::_Func_impl_no_alloc<<lambda_8a78866092edfd2701c6857c9314e0b3>,std::basic_string_view<char,std::char_traits<char> >,unsigned __int64>::_Get": {
             "offset": "0xF840"
         },
         "std::_Func_impl_no_alloc<<lambda_8a78866092edfd2701c6857c9314e0b3>,std::basic_string_view<char,std::char_traits<char> >,unsigned __int64>::_Move": {
-            "offset": "0x2CB60"
+            "offset": "0x2CDB0"
         },
         "std::_Func_impl_no_alloc<<lambda_8a78866092edfd2701c6857c9314e0b3>,std::basic_string_view<char,std::char_traits<char> >,unsigned __int64>::_Target_type": {
-            "offset": "0x2F760"
-        },
-        "std::_Func_impl_no_alloc<<lambda_8e0b500849b90ae58d7ce19d5bffc855>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Copy": {
-            "offset": "0x38350"
-        },
-        "std::_Func_impl_no_alloc<<lambda_8e0b500849b90ae58d7ce19d5bffc855>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Delete_this": {
-            "offset": "0xF850"
-        },
-        "std::_Func_impl_no_alloc<<lambda_8e0b500849b90ae58d7ce19d5bffc855>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Do_call": {
-            "offset": "0x38360"
-        },
-        "std::_Func_impl_no_alloc<<lambda_8e0b500849b90ae58d7ce19d5bffc855>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Get": {
-            "offset": "0xF840"
-        },
-        "std::_Func_impl_no_alloc<<lambda_8e0b500849b90ae58d7ce19d5bffc855>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Move": {
-            "offset": "0x38350"
-        },
-        "std::_Func_impl_no_alloc<<lambda_8e0b500849b90ae58d7ce19d5bffc855>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Target_type": {
-            "offset": "0x38380"
+            "offset": "0x2F9B0"
         },
         "std::_Func_impl_no_alloc<<lambda_9611f8f72f4a264f9c162f6f34928f74>,bool,HWND__ *,unsigned int,unsigned __int64,__int64,bool &,__int64 &>::_Copy": {
-            "offset": "0x31960"
+            "offset": "0x31B80"
         },
         "std::_Func_impl_no_alloc<<lambda_9611f8f72f4a264f9c162f6f34928f74>,bool,HWND__ *,unsigned int,unsigned __int64,__int64,bool &,__int64 &>::_Delete_this": {
             "offset": "0xF850"
         },
         "std::_Func_impl_no_alloc<<lambda_9611f8f72f4a264f9c162f6f34928f74>,bool,HWND__ *,unsigned int,unsigned __int64,__int64,bool &,__int64 &>::_Do_call": {
-            "offset": "0x31980"
+            "offset": "0x31BA0"
         },
         "std::_Func_impl_no_alloc<<lambda_9611f8f72f4a264f9c162f6f34928f74>,bool,HWND__ *,unsigned int,unsigned __int64,__int64,bool &,__int64 &>::_Get": {
             "offset": "0xF840"
         },
         "std::_Func_impl_no_alloc<<lambda_9611f8f72f4a264f9c162f6f34928f74>,bool,HWND__ *,unsigned int,unsigned __int64,__int64,bool &,__int64 &>::_Move": {
-            "offset": "0x31960"
+            "offset": "0x31B80"
         },
         "std::_Func_impl_no_alloc<<lambda_9611f8f72f4a264f9c162f6f34928f74>,bool,HWND__ *,unsigned int,unsigned __int64,__int64,bool &,__int64 &>::_Target_type": {
-            "offset": "0x319C0"
+            "offset": "0x31BE0"
         },
         "std::_Func_impl_no_alloc<<lambda_9631c3f2f17e141d6d1654c1e8590520>,bool,HWND__ *,unsigned int,unsigned __int64,__int64,bool &,__int64 &>::_Copy": {
             "offset": "0xF920"
@@ -2403,41 +2406,23 @@
         "std::_Func_impl_no_alloc<<lambda_a451aeb690c4e8966b13ce7e3d1eb1ac>,bool>::_Target_type": {
             "offset": "0x11180"
         },
-        "std::_Func_impl_no_alloc<<lambda_aa6c4726f09f85ea7971c224aaa8d65f>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Copy": {
-            "offset": "0x38390"
-        },
-        "std::_Func_impl_no_alloc<<lambda_aa6c4726f09f85ea7971c224aaa8d65f>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Delete_this": {
-            "offset": "0xF850"
-        },
-        "std::_Func_impl_no_alloc<<lambda_aa6c4726f09f85ea7971c224aaa8d65f>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Do_call": {
-            "offset": "0x383A0"
-        },
-        "std::_Func_impl_no_alloc<<lambda_aa6c4726f09f85ea7971c224aaa8d65f>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Get": {
-            "offset": "0xF840"
-        },
-        "std::_Func_impl_no_alloc<<lambda_aa6c4726f09f85ea7971c224aaa8d65f>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Move": {
-            "offset": "0x38390"
-        },
-        "std::_Func_impl_no_alloc<<lambda_aa6c4726f09f85ea7971c224aaa8d65f>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Target_type": {
-            "offset": "0x383C0"
-        },
         "std::_Func_impl_no_alloc<<lambda_bc85ef5bc811bb4046f609d5aec41b07>,void,DevGuiPath const &,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Copy": {
-            "offset": "0x342C0"
+            "offset": "0x344E0"
         },
         "std::_Func_impl_no_alloc<<lambda_bc85ef5bc811bb4046f609d5aec41b07>,void,DevGuiPath const &,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Delete_this": {
             "offset": "0xF850"
         },
         "std::_Func_impl_no_alloc<<lambda_bc85ef5bc811bb4046f609d5aec41b07>,void,DevGuiPath const &,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Do_call": {
-            "offset": "0x342D0"
+            "offset": "0x344F0"
         },
         "std::_Func_impl_no_alloc<<lambda_bc85ef5bc811bb4046f609d5aec41b07>,void,DevGuiPath const &,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Get": {
             "offset": "0xF840"
         },
         "std::_Func_impl_no_alloc<<lambda_bc85ef5bc811bb4046f609d5aec41b07>,void,DevGuiPath const &,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Move": {
-            "offset": "0x342C0"
+            "offset": "0x344E0"
         },
         "std::_Func_impl_no_alloc<<lambda_bc85ef5bc811bb4046f609d5aec41b07>,void,DevGuiPath const &,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Target_type": {
-            "offset": "0x34320"
+            "offset": "0x34540"
         },
         "std::_Func_impl_no_alloc<<lambda_bf7610c50ebb1884e5917f6a81016c78>,void>::_Copy": {
             "offset": "0x11740"
@@ -2458,22 +2443,22 @@
             "offset": "0x117B0"
         },
         "std::_Func_impl_no_alloc<<lambda_c01895ae56fff4979366bae888bae92b>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Copy": {
-            "offset": "0x2CB80"
+            "offset": "0x2CDD0"
         },
         "std::_Func_impl_no_alloc<<lambda_c01895ae56fff4979366bae888bae92b>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Delete_this": {
-            "offset": "0x2CDF0"
+            "offset": "0x2D040"
         },
         "std::_Func_impl_no_alloc<<lambda_c01895ae56fff4979366bae888bae92b>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Do_call": {
-            "offset": "0x2D380"
+            "offset": "0x2D5D0"
         },
         "std::_Func_impl_no_alloc<<lambda_c01895ae56fff4979366bae888bae92b>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Get": {
             "offset": "0xF840"
         },
         "std::_Func_impl_no_alloc<<lambda_c01895ae56fff4979366bae888bae92b>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Move": {
-            "offset": "0x2CB80"
+            "offset": "0x2CDD0"
         },
         "std::_Func_impl_no_alloc<<lambda_c01895ae56fff4979366bae888bae92b>,void,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::_Target_type": {
-            "offset": "0x2F770"
+            "offset": "0x2F9C0"
         },
         "std::_Func_impl_no_alloc<<lambda_c30a8a1d6decbd9789e47aecee8410f4>,void>::_Copy": {
             "offset": "0xFAD0"
@@ -2493,113 +2478,113 @@
         "std::_Func_impl_no_alloc<<lambda_c30a8a1d6decbd9789e47aecee8410f4>,void>::_Target_type": {
             "offset": "0xFAF0"
         },
-        "std::_Func_impl_no_alloc<<lambda_c329d627e06173c8b49b00d005ab3c81>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Copy": {
-            "offset": "0x38290"
+        "std::_Func_impl_no_alloc<<lambda_c3cd88d508e88f706db3cc80ee1f45d2>,bool,bool *>::_Copy": {
+            "offset": "0x383C0"
         },
-        "std::_Func_impl_no_alloc<<lambda_c329d627e06173c8b49b00d005ab3c81>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Delete_this": {
+        "std::_Func_impl_no_alloc<<lambda_c3cd88d508e88f706db3cc80ee1f45d2>,bool,bool *>::_Delete_this": {
             "offset": "0xF850"
         },
-        "std::_Func_impl_no_alloc<<lambda_c329d627e06173c8b49b00d005ab3c81>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Do_call": {
-            "offset": "0x382A0"
+        "std::_Func_impl_no_alloc<<lambda_c3cd88d508e88f706db3cc80ee1f45d2>,bool,bool *>::_Do_call": {
+            "offset": "0x383E0"
         },
-        "std::_Func_impl_no_alloc<<lambda_c329d627e06173c8b49b00d005ab3c81>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Get": {
+        "std::_Func_impl_no_alloc<<lambda_c3cd88d508e88f706db3cc80ee1f45d2>,bool,bool *>::_Get": {
             "offset": "0xF840"
         },
-        "std::_Func_impl_no_alloc<<lambda_c329d627e06173c8b49b00d005ab3c81>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Move": {
-            "offset": "0x38290"
+        "std::_Func_impl_no_alloc<<lambda_c3cd88d508e88f706db3cc80ee1f45d2>,bool,bool *>::_Move": {
+            "offset": "0x383C0"
         },
-        "std::_Func_impl_no_alloc<<lambda_c329d627e06173c8b49b00d005ab3c81>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Target_type": {
-            "offset": "0x382C0"
+        "std::_Func_impl_no_alloc<<lambda_c3cd88d508e88f706db3cc80ee1f45d2>,bool,bool *>::_Target_type": {
+            "offset": "0x38400"
         },
         "std::_Func_impl_no_alloc<<lambda_cd07e93ce4e084374db77c62c4f7d117>,void,int const &>::_Copy": {
-            "offset": "0x2CBA0"
+            "offset": "0x2CDF0"
         },
         "std::_Func_impl_no_alloc<<lambda_cd07e93ce4e084374db77c62c4f7d117>,void,int const &>::_Delete_this": {
             "offset": "0xF850"
         },
         "std::_Func_impl_no_alloc<<lambda_cd07e93ce4e084374db77c62c4f7d117>,void,int const &>::_Do_call": {
-            "offset": "0x2D480"
+            "offset": "0x2D6D0"
         },
         "std::_Func_impl_no_alloc<<lambda_cd07e93ce4e084374db77c62c4f7d117>,void,int const &>::_Get": {
             "offset": "0xF840"
         },
         "std::_Func_impl_no_alloc<<lambda_cd07e93ce4e084374db77c62c4f7d117>,void,int const &>::_Move": {
-            "offset": "0x2CBA0"
+            "offset": "0x2CDF0"
         },
         "std::_Func_impl_no_alloc<<lambda_cd07e93ce4e084374db77c62c4f7d117>,void,int const &>::_Target_type": {
-            "offset": "0x2F780"
+            "offset": "0x2F9D0"
         },
         "std::_Func_impl_no_alloc<<lambda_d873094bd7d5a12ed6e9c8d40dccbc03>,bool>::_Copy": {
-            "offset": "0x37890"
+            "offset": "0x37B30"
         },
         "std::_Func_impl_no_alloc<<lambda_d873094bd7d5a12ed6e9c8d40dccbc03>,bool>::_Delete_this": {
             "offset": "0xF850"
         },
         "std::_Func_impl_no_alloc<<lambda_d873094bd7d5a12ed6e9c8d40dccbc03>,bool>::_Do_call": {
-            "offset": "0x378B0"
+            "offset": "0x37B50"
         },
         "std::_Func_impl_no_alloc<<lambda_d873094bd7d5a12ed6e9c8d40dccbc03>,bool>::_Get": {
             "offset": "0xF840"
         },
         "std::_Func_impl_no_alloc<<lambda_d873094bd7d5a12ed6e9c8d40dccbc03>,bool>::_Move": {
-            "offset": "0x37890"
+            "offset": "0x37B30"
         },
         "std::_Func_impl_no_alloc<<lambda_d873094bd7d5a12ed6e9c8d40dccbc03>,bool>::_Target_type": {
-            "offset": "0x378D0"
-        },
-        "std::_Func_impl_no_alloc<<lambda_d8f9aab4b1c5b7ce3a88f6304bb4ec2a>,bool,bool *>::_Copy": {
-            "offset": "0x38120"
-        },
-        "std::_Func_impl_no_alloc<<lambda_d8f9aab4b1c5b7ce3a88f6304bb4ec2a>,bool,bool *>::_Delete_this": {
-            "offset": "0xF850"
-        },
-        "std::_Func_impl_no_alloc<<lambda_d8f9aab4b1c5b7ce3a88f6304bb4ec2a>,bool,bool *>::_Do_call": {
-            "offset": "0x38140"
-        },
-        "std::_Func_impl_no_alloc<<lambda_d8f9aab4b1c5b7ce3a88f6304bb4ec2a>,bool,bool *>::_Get": {
-            "offset": "0xF840"
-        },
-        "std::_Func_impl_no_alloc<<lambda_d8f9aab4b1c5b7ce3a88f6304bb4ec2a>,bool,bool *>::_Move": {
-            "offset": "0x38120"
-        },
-        "std::_Func_impl_no_alloc<<lambda_d8f9aab4b1c5b7ce3a88f6304bb4ec2a>,bool,bool *>::_Target_type": {
-            "offset": "0x38160"
+            "offset": "0x37B70"
         },
         "std::_Func_impl_no_alloc<<lambda_d913eb8f00f3e708c28dd2cb67f4952b>,bool>::_Copy": {
-            "offset": "0x31770"
+            "offset": "0x31990"
         },
         "std::_Func_impl_no_alloc<<lambda_d913eb8f00f3e708c28dd2cb67f4952b>,bool>::_Delete_this": {
             "offset": "0xF850"
         },
         "std::_Func_impl_no_alloc<<lambda_d913eb8f00f3e708c28dd2cb67f4952b>,bool>::_Do_call": {
-            "offset": "0x31790"
+            "offset": "0x319B0"
         },
         "std::_Func_impl_no_alloc<<lambda_d913eb8f00f3e708c28dd2cb67f4952b>,bool>::_Get": {
             "offset": "0xF840"
         },
         "std::_Func_impl_no_alloc<<lambda_d913eb8f00f3e708c28dd2cb67f4952b>,bool>::_Move": {
-            "offset": "0x31770"
+            "offset": "0x31990"
         },
         "std::_Func_impl_no_alloc<<lambda_d913eb8f00f3e708c28dd2cb67f4952b>,bool>::_Target_type": {
-            "offset": "0x317F0"
+            "offset": "0x31A10"
         },
-        "std::_Func_impl_no_alloc<<lambda_e1f861b58e95e717f9b6cd8e71718e4d>,bool>::_Copy": {
-            "offset": "0x381C0"
+        "std::_Func_impl_no_alloc<<lambda_dba6a1ce353ba8eb2591cece2e201351>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Copy": {
+            "offset": "0x38630"
         },
-        "std::_Func_impl_no_alloc<<lambda_e1f861b58e95e717f9b6cd8e71718e4d>,bool>::_Delete_this": {
+        "std::_Func_impl_no_alloc<<lambda_dba6a1ce353ba8eb2591cece2e201351>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Delete_this": {
             "offset": "0xF850"
         },
-        "std::_Func_impl_no_alloc<<lambda_e1f861b58e95e717f9b6cd8e71718e4d>,bool>::_Do_call": {
-            "offset": "0x381E0"
+        "std::_Func_impl_no_alloc<<lambda_dba6a1ce353ba8eb2591cece2e201351>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Do_call": {
+            "offset": "0x38640"
         },
-        "std::_Func_impl_no_alloc<<lambda_e1f861b58e95e717f9b6cd8e71718e4d>,bool>::_Get": {
+        "std::_Func_impl_no_alloc<<lambda_dba6a1ce353ba8eb2591cece2e201351>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Get": {
             "offset": "0xF840"
         },
-        "std::_Func_impl_no_alloc<<lambda_e1f861b58e95e717f9b6cd8e71718e4d>,bool>::_Move": {
-            "offset": "0x381C0"
+        "std::_Func_impl_no_alloc<<lambda_dba6a1ce353ba8eb2591cece2e201351>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Move": {
+            "offset": "0x38630"
         },
-        "std::_Func_impl_no_alloc<<lambda_e1f861b58e95e717f9b6cd8e71718e4d>,bool>::_Target_type": {
-            "offset": "0x38200"
+        "std::_Func_impl_no_alloc<<lambda_dba6a1ce353ba8eb2591cece2e201351>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Target_type": {
+            "offset": "0x38660"
+        },
+        "std::_Func_impl_no_alloc<<lambda_dd1be6e69b2a0b0497343e0612cae5e3>,bool>::_Copy": {
+            "offset": "0x38460"
+        },
+        "std::_Func_impl_no_alloc<<lambda_dd1be6e69b2a0b0497343e0612cae5e3>,bool>::_Delete_this": {
+            "offset": "0xF850"
+        },
+        "std::_Func_impl_no_alloc<<lambda_dd1be6e69b2a0b0497343e0612cae5e3>,bool>::_Do_call": {
+            "offset": "0x38480"
+        },
+        "std::_Func_impl_no_alloc<<lambda_dd1be6e69b2a0b0497343e0612cae5e3>,bool>::_Get": {
+            "offset": "0xF840"
+        },
+        "std::_Func_impl_no_alloc<<lambda_dd1be6e69b2a0b0497343e0612cae5e3>,bool>::_Move": {
+            "offset": "0x38460"
+        },
+        "std::_Func_impl_no_alloc<<lambda_dd1be6e69b2a0b0497343e0612cae5e3>,bool>::_Target_type": {
+            "offset": "0x384A0"
         },
         "std::_Func_impl_no_alloc<<lambda_e27563d4ffc46b89091625888285883d>,bool,std::basic_string_view<char,std::char_traits<char> > >::_Copy": {
             "offset": "0x11190"
@@ -2619,26 +2604,8 @@
         "std::_Func_impl_no_alloc<<lambda_e27563d4ffc46b89091625888285883d>,bool,std::basic_string_view<char,std::char_traits<char> > >::_Target_type": {
             "offset": "0x111C0"
         },
-        "std::_Func_impl_no_alloc<<lambda_ea356c5db1e7869625346797e1f4d1f2>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Copy": {
-            "offset": "0x38210"
-        },
-        "std::_Func_impl_no_alloc<<lambda_ea356c5db1e7869625346797e1f4d1f2>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Delete_this": {
-            "offset": "0xF850"
-        },
-        "std::_Func_impl_no_alloc<<lambda_ea356c5db1e7869625346797e1f4d1f2>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Do_call": {
-            "offset": "0x38220"
-        },
-        "std::_Func_impl_no_alloc<<lambda_ea356c5db1e7869625346797e1f4d1f2>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Get": {
-            "offset": "0xF840"
-        },
-        "std::_Func_impl_no_alloc<<lambda_ea356c5db1e7869625346797e1f4d1f2>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Move": {
-            "offset": "0x38210"
-        },
-        "std::_Func_impl_no_alloc<<lambda_ea356c5db1e7869625346797e1f4d1f2>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Target_type": {
-            "offset": "0x38240"
-        },
         "std::_Func_impl_no_alloc<<lambda_f17ebabe33bc32be107ce6fff046b802>,bool,ConsoleExecutionContext &>::_Copy": {
-            "offset": "0x2CBC0"
+            "offset": "0x2CE10"
         },
         "std::_Func_impl_no_alloc<<lambda_f17ebabe33bc32be107ce6fff046b802>,bool,ConsoleExecutionContext &>::_Delete_this": {
             "offset": "0x11310"
@@ -2653,7 +2620,43 @@
             "offset": "0xF6A0"
         },
         "std::_Func_impl_no_alloc<<lambda_f17ebabe33bc32be107ce6fff046b802>,bool,ConsoleExecutionContext &>::_Target_type": {
-            "offset": "0x2F790"
+            "offset": "0x2F9E0"
+        },
+        "std::_Func_impl_no_alloc<<lambda_f57364f7bb45c6343e756b4c8777cd67>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Copy": {
+            "offset": "0x384F0"
+        },
+        "std::_Func_impl_no_alloc<<lambda_f57364f7bb45c6343e756b4c8777cd67>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Delete_this": {
+            "offset": "0xF850"
+        },
+        "std::_Func_impl_no_alloc<<lambda_f57364f7bb45c6343e756b4c8777cd67>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Do_call": {
+            "offset": "0x38500"
+        },
+        "std::_Func_impl_no_alloc<<lambda_f57364f7bb45c6343e756b4c8777cd67>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Get": {
+            "offset": "0xF840"
+        },
+        "std::_Func_impl_no_alloc<<lambda_f57364f7bb45c6343e756b4c8777cd67>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Move": {
+            "offset": "0x384F0"
+        },
+        "std::_Func_impl_no_alloc<<lambda_f57364f7bb45c6343e756b4c8777cd67>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Target_type": {
+            "offset": "0x38520"
+        },
+        "std::_Func_impl_no_alloc<<lambda_fc3604ac4c2fa6e37a1bc6bce3eead89>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Copy": {
+            "offset": "0x384B0"
+        },
+        "std::_Func_impl_no_alloc<<lambda_fc3604ac4c2fa6e37a1bc6bce3eead89>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Delete_this": {
+            "offset": "0xF850"
+        },
+        "std::_Func_impl_no_alloc<<lambda_fc3604ac4c2fa6e37a1bc6bce3eead89>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Do_call": {
+            "offset": "0x384C0"
+        },
+        "std::_Func_impl_no_alloc<<lambda_fc3604ac4c2fa6e37a1bc6bce3eead89>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Get": {
+            "offset": "0xF840"
+        },
+        "std::_Func_impl_no_alloc<<lambda_fc3604ac4c2fa6e37a1bc6bce3eead89>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Move": {
+            "offset": "0x384B0"
+        },
+        "std::_Func_impl_no_alloc<<lambda_fc3604ac4c2fa6e37a1bc6bce3eead89>,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::_Target_type": {
+            "offset": "0x384E0"
         },
         "std::_Insert_string<char,std::char_traits<char>,unsigned __int64>": {
             "offset": "0x10290"
@@ -2665,103 +2668,103 @@
             "offset": "0xF5E0"
         },
         "std::_Maklocstr<wchar_t>": {
-            "offset": "0x41760"
+            "offset": "0x41A40"
         },
         "std::_Matcher<char const *,char,std::regex_traits<char>,char const *>::_Do_class": {
-            "offset": "0x2D560"
+            "offset": "0x2D7B0"
         },
         "std::_Matcher<char const *,char,std::regex_traits<char>,char const *>::_Do_if": {
-            "offset": "0x2D930"
+            "offset": "0x2DB80"
         },
         "std::_Matcher<char const *,char,std::regex_traits<char>,char const *>::_Do_rep": {
-            "offset": "0x2DE70"
+            "offset": "0x2E0C0"
         },
         "std::_Matcher<char const *,char,std::regex_traits<char>,char const *>::_Do_rep0": {
-            "offset": "0x2DBD0"
+            "offset": "0x2DE20"
         },
         "std::_Matcher<char const *,char,std::regex_traits<char>,char const *>::_Match<std::allocator<std::sub_match<char const *> > >": {
             "offset": "0x150C0"
         },
         "std::_Matcher<char const *,char,std::regex_traits<char>,char const *>::_Match_pat": {
-            "offset": "0x2E970"
+            "offset": "0x2EBC0"
         },
         "std::_Matcher<char const *,char,std::regex_traits<char>,char const *>::_Matcher<char const *,char,std::regex_traits<char>,char const *>": {
             "offset": "0x1EA40"
         },
         "std::_Matcher<char const *,char,std::regex_traits<char>,char const *>::_Skip": {
-            "offset": "0x2F3E0"
+            "offset": "0x2F630"
         },
         "std::_Matcher<char const *,char,std::regex_traits<char>,char const *>::~_Matcher<char const *,char,std::regex_traits<char>,char const *>": {
-            "offset": "0x202A0"
+            "offset": "0x20350"
         },
         "std::_Parser<char const *,char,std::regex_traits<char> >::_Alternative": {
-            "offset": "0x2B460"
+            "offset": "0x2B6B0"
         },
         "std::_Parser<char const *,char,std::regex_traits<char> >::_AtomEscape": {
-            "offset": "0x2BA40"
+            "offset": "0x2BC90"
         },
         "std::_Parser<char const *,char,std::regex_traits<char> >::_CharacterClass": {
-            "offset": "0x2BE60"
+            "offset": "0x2C0B0"
         },
         "std::_Parser<char const *,char,std::regex_traits<char> >::_CharacterClassEscape": {
-            "offset": "0x2BF60"
+            "offset": "0x2C1B0"
         },
         "std::_Parser<char const *,char,std::regex_traits<char> >::_CharacterEscape": {
-            "offset": "0x2C010"
+            "offset": "0x2C260"
         },
         "std::_Parser<char const *,char,std::regex_traits<char> >::_ClassAtom": {
-            "offset": "0x2C530"
+            "offset": "0x2C780"
         },
         "std::_Parser<char const *,char,std::regex_traits<char> >::_ClassRanges": {
-            "offset": "0x2C740"
+            "offset": "0x2C990"
         },
         "std::_Parser<char const *,char,std::regex_traits<char> >::_DecimalDigits": {
-            "offset": "0x2CCB0"
+            "offset": "0x2CF00"
         },
         "std::_Parser<char const *,char,std::regex_traits<char> >::_Disjunction": {
-            "offset": "0x2CEC0"
+            "offset": "0x2D110"
         },
         "std::_Parser<char const *,char,std::regex_traits<char> >::_Do_assert_group": {
-            "offset": "0x2D120"
+            "offset": "0x2D370"
         },
         "std::_Parser<char const *,char,std::regex_traits<char> >::_Do_ex_class": {
-            "offset": "0x2D6F0"
+            "offset": "0x2D940"
         },
         "std::_Parser<char const *,char,std::regex_traits<char> >::_Do_ffn": {
-            "offset": "0x2D8E0"
+            "offset": "0x2DB30"
         },
         "std::_Parser<char const *,char,std::regex_traits<char> >::_Do_noncapture_group": {
-            "offset": "0x2DB80"
+            "offset": "0x2DDD0"
         },
         "std::_Parser<char const *,char,std::regex_traits<char> >::_Error": {
-            "offset": "0x2E150"
+            "offset": "0x2E3A0"
         },
         "std::_Parser<char const *,char,std::regex_traits<char> >::_Expect": {
-            "offset": "0x2E160"
+            "offset": "0x2E3B0"
         },
         "std::_Parser<char const *,char,std::regex_traits<char> >::_HexDigits": {
-            "offset": "0x2E610"
+            "offset": "0x2E860"
         },
         "std::_Parser<char const *,char,std::regex_traits<char> >::_Is_esc": {
-            "offset": "0x2E930"
+            "offset": "0x2EB80"
         },
         "std::_Parser<char const *,char,std::regex_traits<char> >::_Next": {
-            "offset": "0x2F090"
+            "offset": "0x2F2E0"
         },
         "std::_Parser<char const *,char,std::regex_traits<char> >::_Quantifier": {
-            "offset": "0x2F0E0"
+            "offset": "0x2F330"
         },
         "std::_Parser<char const *,char,std::regex_traits<char> >::_Trans": {
-            "offset": "0x2F960"
+            "offset": "0x2FBB0"
         },
         "std::_Parser<char const *,char,std::regex_traits<char> >::_Wrapped_disjunction": {
-            "offset": "0x2FC20"
+            "offset": "0x2FE70"
         },
         "std::_Parser<char const *,char,std::regex_traits<char> >::~_Parser<char const *,char,std::regex_traits<char> >": {
-            "offset": "0x20320"
+            "offset": "0x203D0"
         },
         "std::_Ref_count_base::_Decref": {
-            "offset": "0x2CDA0"
+            "offset": "0x2CFF0"
         },
         "std::_Ref_count_base::_Get_deleter": {
             "offset": "0xF6A0"
@@ -2782,13 +2785,13 @@
             "offset": "0x111E0"
         },
         "std::_Ref_count_obj2<internal::ConsoleVariableEntry<int> >::_Destroy": {
-            "offset": "0x2CE00"
+            "offset": "0x2D050"
         },
         "std::_Ref_count_obj2<internal::ConsoleVariableEntry<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::_Delete_this": {
             "offset": "0x111E0"
         },
         "std::_Ref_count_obj2<internal::ConsoleVariableEntry<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::_Destroy": {
-            "offset": "0x2CEB0"
+            "offset": "0x2D100"
         },
         "std::_Regex_replace1<std::back_insert_iterator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >,char const *,std::regex_traits<char>,char,std::char_traits<char>,std::allocator<char> >": {
             "offset": "0x15A60"
@@ -2806,34 +2809,34 @@
             "offset": "0x17DD0"
         },
         "std::_Regex_traits<char>::translate": {
-            "offset": "0x311C0"
+            "offset": "0x313E0"
         },
         "std::_String_val<std::_Simple_types<char> >::_Xran": {
-            "offset": "0x2FDC0"
+            "offset": "0x30010"
         },
         "std::_Tgt_state_t<char const *>::_Tgt_state_t<char const *>": {
             "offset": "0x1EB90"
         },
         "std::_Tgt_state_t<char const *>::~_Tgt_state_t<char const *>": {
-            "offset": "0x203F0"
+            "offset": "0x204A0"
         },
         "std::_Throw_bad_array_new_length": {
             "offset": "0xE320"
         },
         "std::_Throw_bad_cast": {
-            "offset": "0x2F7A0"
+            "offset": "0x2F9F0"
         },
         "std::_Throw_tree_length_error": {
             "offset": "0xE340"
         },
         "std::_Tidy_guard<std::_Builder<char const *,char,std::regex_traits<char> > >::~_Tidy_guard<std::_Builder<char const *,char,std::regex_traits<char> > >": {
-            "offset": "0x204A0"
+            "offset": "0x20550"
         },
         "std::_Tidy_guard<std::numpunct<char> >::~_Tidy_guard<std::numpunct<char> >": {
-            "offset": "0x44F90"
+            "offset": "0x45270"
         },
         "std::_Tidy_guard<std::numpunct<wchar_t> >::~_Tidy_guard<std::numpunct<wchar_t> >": {
-            "offset": "0x44F90"
+            "offset": "0x45270"
         },
         "std::_Tree<std::_Tmap_traits<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> >,0> >::_Find_hint<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >": {
             "offset": "0x3B30"
@@ -2863,19 +2866,19 @@
             "offset": "0xE0C0"
         },
         "std::_Uninitialized_backout_al<std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::~_Uninitialized_backout_al<std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >": {
-            "offset": "0x20510"
+            "offset": "0x205C0"
         },
         "std::_Uninitialized_move<std::basic_string<char,std::char_traits<char>,std::allocator<char> > *,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >": {
-            "offset": "0x35630"
+            "offset": "0x35850"
         },
         "std::_Uninitialized_move<std::tuple<std::shared_ptr<ConVar<bool> >,std::function<std::basic_string<char,std::char_traits<char>,std::allocator<char> > __cdecl(void)> > *,std::allocator<std::tuple<std::shared_ptr<ConVar<bool> >,std::function<std::basic_string<char,std::char_traits<char>,std::allocator<char> > __cdecl(void)> > > >": {
-            "offset": "0x386F0"
+            "offset": "0x38990"
         },
         "std::_Uninitialized_value_construct_n<std::allocator<std::_Tgt_state_t<char const *>::_Grp_t> >": {
             "offset": "0x167F0"
         },
         "std::_Vb_val<std::allocator<bool> >::~_Vb_val<std::allocator<bool> >": {
-            "offset": "0x20520"
+            "offset": "0x205D0"
         },
         "std::_Xlen_string": {
             "offset": "0xE360"
@@ -2887,43 +2890,43 @@
             "offset": "0xE380"
         },
         "std::allocator<char>::deallocate": {
-            "offset": "0x30090"
+            "offset": "0x302E0"
         },
         "std::allocator<std::_Loop_vals_t>::deallocate": {
-            "offset": "0x30120"
+            "offset": "0x30370"
         },
         "std::allocator<std::_Tgt_state_t<char const *>::_Grp_t>::allocate": {
-            "offset": "0x2FE50"
+            "offset": "0x300A0"
         },
         "std::allocator<std::_Tgt_state_t<char const *>::_Grp_t>::deallocate": {
-            "offset": "0x30120"
+            "offset": "0x30370"
         },
         "std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::allocate": {
-            "offset": "0x2FEC0"
+            "offset": "0x30110"
         },
         "std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::deallocate": {
-            "offset": "0x377F0"
+            "offset": "0x37A90"
         },
         "std::allocator<std::sub_match<char const *> >::deallocate": {
-            "offset": "0x30170"
+            "offset": "0x303C0"
         },
         "std::allocator<std::tuple<std::shared_ptr<ConVar<bool> >,std::function<std::basic_string<char,std::char_traits<char>,std::allocator<char> > __cdecl(void)> > >::deallocate": {
-            "offset": "0x3BAA0"
+            "offset": "0x3BD80"
         },
         "std::allocator<unsigned char>::deallocate": {
-            "offset": "0x30090"
+            "offset": "0x302E0"
         },
         "std::allocator<unsigned int>::allocate": {
-            "offset": "0x2FDE0"
+            "offset": "0x30030"
         },
         "std::allocator<unsigned int>::deallocate": {
-            "offset": "0x300D0"
+            "offset": "0x30320"
         },
         "std::allocator<wchar_t>::allocate": {
             "offset": "0xE3E0"
         },
         "std::bad_alloc::bad_alloc": {
-            "offset": "0x4B834"
+            "offset": "0x4BB14"
         },
         "std::bad_alloc::~bad_alloc": {
             "offset": "0xB810"
@@ -2935,7 +2938,7 @@
             "offset": "0xB810"
         },
         "std::bad_cast::bad_cast": {
-            "offset": "0x1FD10"
+            "offset": "0x1FDC0"
         },
         "std::bad_cast::~bad_cast": {
             "offset": "0xB810"
@@ -2950,10 +2953,10 @@
             "offset": "0x15F50"
         },
         "std::basic_regex<char,std::regex_traits<char> >::_Tidy": {
-            "offset": "0x2F7C0"
+            "offset": "0x2FA10"
         },
         "std::basic_regex<char,std::regex_traits<char> >::~basic_regex<char,std::regex_traits<char> >": {
-            "offset": "0x205E0"
+            "offset": "0x20690"
         },
         "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::_Construct<1,char const *>": {
             "offset": "0x3A10"
@@ -2968,7 +2971,7 @@
             "offset": "0x15590"
         },
         "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::_Reallocate_grow_by<<lambda_9013ee9e23efe4882b67eff5b0ecf103> >": {
-            "offset": "0x476E0"
+            "offset": "0x479C0"
         },
         "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::_Reallocate_grow_by<<lambda_e1befb086ad3257e3f042a63030725f7>,unsigned __int64,char>": {
             "offset": "0x15720"
@@ -2989,7 +2992,7 @@
             "offset": "0x170D0"
         },
         "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::resize": {
-            "offset": "0x30A80"
+            "offset": "0x30CD0"
         },
         "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::~basic_string<char,std::char_traits<char>,std::allocator<char> >": {
             "offset": "0xB6E0"
@@ -3004,70 +3007,70 @@
             "offset": "0xE450"
         },
         "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >": {
-            "offset": "0x1FDB0"
+            "offset": "0x1FE60"
         },
         "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >::push_back": {
-            "offset": "0x49570"
+            "offset": "0x49850"
         },
         "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >::reserve": {
-            "offset": "0x496D0"
+            "offset": "0x499B0"
         },
         "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >::~basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >": {
             "offset": "0xB740"
         },
         "std::basic_string_view<char,std::char_traits<char> >::_Xran": {
-            "offset": "0x3BBD0"
+            "offset": "0x3BEB0"
         },
         "std::basic_stringbuf<char,std::char_traits<char>,std::allocator<char> >::_Tidy": {
-            "offset": "0x2F840"
+            "offset": "0x2FA90"
         },
         "std::basic_stringbuf<char,std::char_traits<char>,std::allocator<char> >::overflow": {
-            "offset": "0x30750"
+            "offset": "0x309A0"
         },
         "std::basic_stringbuf<char,std::char_traits<char>,std::allocator<char> >::pbackfail": {
-            "offset": "0x308C0"
+            "offset": "0x30B10"
         },
         "std::basic_stringbuf<char,std::char_traits<char>,std::allocator<char> >::seekoff": {
-            "offset": "0x30F30"
+            "offset": "0x31150"
         },
         "std::basic_stringbuf<char,std::char_traits<char>,std::allocator<char> >::seekpos": {
-            "offset": "0x310B0"
+            "offset": "0x312D0"
         },
         "std::basic_stringbuf<char,std::char_traits<char>,std::allocator<char> >::underflow": {
-            "offset": "0x31270"
+            "offset": "0x31490"
         },
         "std::collate<char>::_Getcat": {
-            "offset": "0x2E1D0"
+            "offset": "0x2E420"
         },
         "std::collate<char>::do_compare": {
-            "offset": "0x30270"
+            "offset": "0x304C0"
         },
         "std::collate<char>::do_hash": {
-            "offset": "0x302C0"
+            "offset": "0x30510"
         },
         "std::collate<char>::do_transform": {
-            "offset": "0x30300"
+            "offset": "0x30550"
         },
         "std::deque<char,std::allocator<char> >::_Emplace_back_internal<char const &>": {
             "offset": "0x145A0"
         },
         "std::deque<char,std::allocator<char> >::_Growmap": {
-            "offset": "0x2E430"
+            "offset": "0x2E680"
         },
         "std::deque<char,std::allocator<char> >::_Insert_range<1,char const *,char const *>": {
             "offset": "0x14DF0"
         },
         "std::deque<char,std::allocator<char> >::_Restore_old_size_guard<0>::~_Restore_old_size_guard<0>": {
-            "offset": "0x203B0"
+            "offset": "0x20460"
         },
         "std::deque<char,std::allocator<char> >::_Restore_old_size_guard<1>::~_Restore_old_size_guard<1>": {
-            "offset": "0x20380"
+            "offset": "0x20430"
         },
         "std::deque<char,std::allocator<char> >::_Xlen": {
-            "offset": "0x2FD80"
+            "offset": "0x2FFD0"
         },
         "std::deque<char,std::allocator<char> >::~deque<char,std::allocator<char> >": {
-            "offset": "0x20780"
+            "offset": "0x20830"
         },
         "std::endl<char,std::char_traits<char> >": {
             "offset": "0x10500"
@@ -3130,64 +3133,64 @@
             "offset": "0x10540"
         },
         "std::length_error::length_error": {
-            "offset": "0x1FEC0"
+            "offset": "0x1FF70"
         },
         "std::length_error::~length_error": {
             "offset": "0xB810"
         },
         "std::list<std::unique_ptr<DevGuiNode,std::default_delete<DevGuiNode> >,std::allocator<std::unique_ptr<DevGuiNode,std::default_delete<DevGuiNode> > > >::~list<std::unique_ptr<DevGuiNode,std::default_delete<DevGuiNode> >,std::allocator<std::unique_ptr<DevGuiNode,std::default_delete<DevGuiNode> > > >": {
-            "offset": "0x356D0"
+            "offset": "0x358F0"
         },
         "std::locale::~locale": {
-            "offset": "0x20F90"
+            "offset": "0x21040"
         },
         "std::logic_error::logic_error": {
-            "offset": "0x1FF10"
+            "offset": "0x1FFC0"
         },
         "std::make_shared<ConVar<bool>,char const (&)[15],int,bool>": {
             "offset": "0x174C0"
         },
         "std::match_results<char const *,std::allocator<std::sub_match<char const *> > >::_Resize": {
-            "offset": "0x2F320"
+            "offset": "0x2F570"
         },
         "std::match_results<char const *,std::allocator<std::sub_match<char const *> > >::~match_results<char const *,std::allocator<std::sub_match<char const *> > >": {
-            "offset": "0x20850"
+            "offset": "0x20900"
         },
         "std::numpunct<char>::do_decimal_point": {
-            "offset": "0x45910"
+            "offset": "0x45BF0"
         },
         "std::numpunct<char>::do_falsename": {
-            "offset": "0x45930"
+            "offset": "0x45C10"
         },
         "std::numpunct<char>::do_grouping": {
-            "offset": "0x459B0"
+            "offset": "0x45C90"
         },
         "std::numpunct<char>::do_thousands_sep": {
-            "offset": "0x459F0"
+            "offset": "0x45CD0"
         },
         "std::numpunct<char>::do_truename": {
-            "offset": "0x45A10"
+            "offset": "0x45CF0"
         },
         "std::numpunct<char>::numpunct<char>": {
-            "offset": "0x44DE0"
+            "offset": "0x450C0"
         },
         "std::numpunct<wchar_t>::_Getcat": {
-            "offset": "0x451B0"
+            "offset": "0x45490"
         },
         "std::numpunct<wchar_t>::do_decimal_point": {
-            "offset": "0x45920"
+            "offset": "0x45C00"
         },
         "std::numpunct<wchar_t>::do_falsename": {
-            "offset": "0x45970"
+            "offset": "0x45C50"
         },
         "std::numpunct<wchar_t>::do_grouping": {
-            "offset": "0x459B0"
+            "offset": "0x45C90"
         },
         "std::numpunct<wchar_t>::do_thousands_sep": {
-            "offset": "0x45A00"
+            "offset": "0x45CE0"
         },
         "std::numpunct<wchar_t>::do_truename": {
-            "offset": "0x45A50"
+            "offset": "0x45D30"
         },
         "std::regex_match<std::char_traits<char>,std::allocator<char>,char,std::regex_traits<char> >": {
             "offset": "0x179C0"
@@ -3196,7 +3199,7 @@
             "offset": "0x1EE00"
         },
         "std::regex_traits<char>::~regex_traits<char>": {
-            "offset": "0x208A0"
+            "offset": "0x20950"
         },
         "std::rotate<std::_Deque_unchecked_iterator<std::_Deque_val<std::_Deque_simple_types<char> > > >": {
             "offset": "0x17B70"
@@ -3205,133 +3208,133 @@
             "offset": "0xB4B0"
         },
         "std::set<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::less<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::~set<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::less<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >": {
-            "offset": "0x208D0"
+            "offset": "0x20980"
         },
         "std::shared_ptr<ConVar<bool> >::~shared_ptr<ConVar<bool> >": {
-            "offset": "0x20900"
+            "offset": "0x209B0"
         },
         "std::shared_ptr<internal::ConsoleVariableEntry<bool> >::~shared_ptr<internal::ConsoleVariableEntry<bool> >": {
-            "offset": "0x20900"
+            "offset": "0x209B0"
         },
         "std::shared_ptr<internal::ConsoleVariableEntry<int> >::~shared_ptr<internal::ConsoleVariableEntry<int> >": {
-            "offset": "0x20900"
+            "offset": "0x209B0"
         },
         "std::shared_ptr<internal::ConsoleVariableEntry<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::~shared_ptr<internal::ConsoleVariableEntry<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >": {
-            "offset": "0x20900"
+            "offset": "0x209B0"
         },
         "std::shared_ptr<internal::ConsoleVariableEntryBase>::~shared_ptr<internal::ConsoleVariableEntryBase>": {
-            "offset": "0x20900"
+            "offset": "0x209B0"
         },
         "std::to_string": {
             "offset": "0x10F70"
         },
         "std::tuple<std::shared_ptr<ConVar<bool> >,std::function<std::basic_string<char,std::char_traits<char>,std::allocator<char> > __cdecl(void)> >::~tuple<std::shared_ptr<ConVar<bool> >,std::function<std::basic_string<char,std::char_traits<char>,std::allocator<char> > __cdecl(void)> >": {
-            "offset": "0x387B0"
+            "offset": "0x38A50"
         },
         "std::unique_lock<std::recursive_mutex>::~unique_lock<std::recursive_mutex>": {
-            "offset": "0x20950"
+            "offset": "0x20A00"
         },
         "std::unique_ptr<ConsoleCommand,std::default_delete<ConsoleCommand> >::~unique_ptr<ConsoleCommand,std::default_delete<ConsoleCommand> >": {
-            "offset": "0x209A0"
+            "offset": "0x20A50"
         },
         "std::unique_ptr<DevGuiNode,std::default_delete<DevGuiNode> >::~unique_ptr<DevGuiNode,std::default_delete<DevGuiNode> >": {
-            "offset": "0x35740"
+            "offset": "0x35960"
         },
         "std::unique_ptr<FiveMConsoleBase,std::default_delete<FiveMConsoleBase> >::unique_ptr<FiveMConsoleBase,std::default_delete<FiveMConsoleBase> ><std::default_delete<FiveMConsoleBase>,0>": {
             "offset": "0x11A60"
         },
         "std::unique_ptr<FiveMConsoleBase,std::default_delete<FiveMConsoleBase> >::~unique_ptr<FiveMConsoleBase,std::default_delete<FiveMConsoleBase> >": {
-            "offset": "0x20960"
+            "offset": "0x20A10"
         },
         "std::unique_ptr<fwEvent<>::callback,std::default_delete<fwEvent<>::callback> >::~unique_ptr<fwEvent<>::callback,std::default_delete<fwEvent<>::callback> >": {
-            "offset": "0x20990"
+            "offset": "0x20A40"
         },
         "std::unique_ptr<fwEvent<bool *>::callback,std::default_delete<fwEvent<bool *>::callback> >::~unique_ptr<fwEvent<bool *>::callback,std::default_delete<fwEvent<bool *>::callback> >": {
-            "offset": "0x20990"
+            "offset": "0x20A40"
         },
         "std::unique_ptr<fwEvent<char const *,char const *>::callback,std::default_delete<fwEvent<char const *,char const *>::callback> >::~unique_ptr<fwEvent<char const *,char const *>::callback,std::default_delete<fwEvent<char const *,char const *>::callback> >": {
-            "offset": "0x20990"
+            "offset": "0x20A40"
         },
         "std::unique_ptr<fwEvent<int,int>::callback,std::default_delete<fwEvent<int,int>::callback> >::~unique_ptr<fwEvent<int,int>::callback,std::default_delete<fwEvent<int,int>::callback> >": {
-            "offset": "0x20990"
+            "offset": "0x20A40"
         },
         "std::unique_ptr<std::_Facet_base,std::default_delete<std::_Facet_base> >::~unique_ptr<std::_Facet_base,std::default_delete<std::_Facet_base> >": {
-            "offset": "0x209D0"
+            "offset": "0x20A80"
         },
         "std::unique_ptr<std::_Node_assert,std::default_delete<std::_Node_assert> >::~unique_ptr<std::_Node_assert,std::default_delete<std::_Node_assert> >": {
-            "offset": "0x209D0"
+            "offset": "0x20A80"
         },
         "std::unique_ptr<unsigned char [0],std::default_delete<unsigned char [0]> >::~unique_ptr<unsigned char [0],std::default_delete<unsigned char [0]> >": {
-            "offset": "0x32000"
+            "offset": "0x32220"
         },
         "std::use_facet<std::ctype<char> >": {
             "offset": "0x18020"
         },
         "std::use_facet<std::numpunct<char> >": {
-            "offset": "0x449C0"
+            "offset": "0x44CA0"
         },
         "std::use_facet<std::numpunct<wchar_t> >": {
-            "offset": "0x44B30"
+            "offset": "0x44E10"
         },
         "substringSizeX": {
-            "offset": "0x3CAD0"
+            "offset": "0x3CDB0"
         },
         "utf8::exception::exception": {
-            "offset": "0x48900"
+            "offset": "0x48BE0"
         },
         "utf8::internal::append<std::back_insert_iterator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >,char>": {
-            "offset": "0x47980"
+            "offset": "0x47C60"
         },
         "utf8::internal::validate_next<std::_String_view_iterator<std::char_traits<char> > >": {
-            "offset": "0x482B0"
+            "offset": "0x48590"
         },
         "utf8::invalid_code_point::invalid_code_point": {
-            "offset": "0x48990"
+            "offset": "0x48C70"
         },
         "utf8::invalid_code_point::what": {
-            "offset": "0x49880"
+            "offset": "0x49B60"
         },
         "utf8::invalid_code_point::~invalid_code_point": {
             "offset": "0xB810"
         },
         "utf8::invalid_utf8::invalid_utf8": {
-            "offset": "0x48A00"
+            "offset": "0x48CE0"
         },
         "utf8::invalid_utf8::what": {
-            "offset": "0x49890"
+            "offset": "0x49B70"
         },
         "utf8::invalid_utf8::~invalid_utf8": {
             "offset": "0xB810"
         },
         "utf8::not_enough_room::not_enough_room": {
-            "offset": "0x48A60"
+            "offset": "0x48D40"
         },
         "utf8::not_enough_room::what": {
-            "offset": "0x498A0"
+            "offset": "0x49B80"
         },
         "utf8::not_enough_room::~not_enough_room": {
             "offset": "0xB810"
         },
         "utf8::unchecked::next<char const *>": {
-            "offset": "0x3BAF0"
+            "offset": "0x3BDD0"
         },
         "utf8::unchecked::next<std::_String_view_iterator<std::char_traits<char> > >": {
-            "offset": "0x3BAF0"
+            "offset": "0x3BDD0"
         },
         "va_impl<char,fmt::v8::basic_format_args<fmt::v8::basic_printf_context<fmt::v8::appender,char> > >": {
-            "offset": "0x48090"
+            "offset": "0x48370"
         },
         "vva": {
-            "offset": "0x49860"
+            "offset": "0x49B40"
         },
         "xbr::GetGameBuild": {
-            "offset": "0x33060"
+            "offset": "0x33280"
         },
         "xbr::GetReplaceExecutableInit": {
-            "offset": "0x49980"
+            "offset": "0x49C60"
         },
         "xbr::GetRequestedGameBuildInit": {
-            "offset": "0x49BA0"
+            "offset": "0x49E80"
         },
         "xbr::`dynamic initializer for 'kGameBuildUniquifiers''": {
             "offset": "0x2B00"

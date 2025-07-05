@@ -1236,6 +1236,4992 @@
         "modrm": {
             "offset": "0x41740"
         },
+        "qwords": {
+            "qword_0x0": {
+                "address": "0x7FFD89710000",
+                "current_value": "0x300905A4D",
+                "resolved_name": "dtor_list_head",
+                "rva": "0x0",
+                "type": "TlsDtorNode"
+            },
+            "qword_0x435E0": {
+                "address": "0x7FFD897535E0",
+                "current_value": "0xCCCCCCCCCCCCE0FF",
+                "resolved_name": "_guard_dispatch_icall_nop",
+                "rva": "0x435E0"
+            },
+            "qword_0x43600": {
+                "address": "0x7FFD89753600",
+                "current_value": "0xCCCC0000310225FF",
+                "resolved_name": "_guard_xfg_dispatch_icall_nop",
+                "rva": "0x43600"
+            },
+            "qword_0x466F8": {
+                "address": "0x7FFD897566F8",
+                "current_value": "0x7FFD8971A800",
+                "resolved_name": "__guard_check_icall_fptr",
+                "rva": "0x466F8"
+            },
+            "qword_0x46700": {
+                "address": "0x7FFD89756700",
+                "current_value": "0x7FFD8971A800",
+                "resolved_name": "__guard_xfg_check_icall_fptr",
+                "rva": "0x46700"
+            },
+            "qword_0x46708": {
+                "address": "0x7FFD89756708",
+                "current_value": "0x7FFD897535E0",
+                "resolved_name": "__guard_dispatch_icall_fptr",
+                "rva": "0x46708"
+            },
+            "qword_0x46710": {
+                "address": "0x7FFD89756710",
+                "current_value": "0x7FFD89753600",
+                "resolved_name": "__guard_xfg_dispatch_icall_fptr",
+                "rva": "0x46710"
+            },
+            "qword_0x46718": {
+                "address": "0x7FFD89756718",
+                "current_value": "0x7FFD89753600",
+                "resolved_name": "__guard_xfg_table_dispatch_icall_fptr",
+                "rva": "0x46718"
+            },
+            "qword_0x46720": {
+                "address": "0x7FFD89756720",
+                "current_value": "0x0",
+                "resolved_name": "__castguard_check_failure_os_handled_fptr",
+                "rva": "0x46720"
+            },
+            "qword_0x46728": {
+                "address": "0x7FFD89756728",
+                "current_value": "0x7FFD8975350A",
+                "resolved_name": "__guard_memcpy_fptr",
+                "rva": "0x46728"
+            },
+            "qword_0x46730": {
+                "address": "0x7FFD89756730",
+                "current_value": "0x0",
+                "resolved_name": "__xc_a",
+                "rva": "0x46730",
+                "type": ""
+            },
+            "qword_0x46738": {
+                "address": "0x7FFD89756738",
+                "current_value": "0x7FFD89711EC0",
+                "resolved_name": "std::_Fac_tidy_reg$initializer$",
+                "rva": "0x46738"
+            },
+            "qword_0x46740": {
+                "address": "0x7FFD89756740",
+                "current_value": "0x7FFD89711000",
+                "resolved_name": "_init_instance_0$initializer$",
+                "rva": "0x46740"
+            },
+            "qword_0x46748": {
+                "address": "0x7FFD89756748",
+                "current_value": "0x7FFD89711060",
+                "resolved_name": "xbr::kGameBuildUniquifiers$initializer$",
+                "rva": "0x46748"
+            },
+            "qword_0x46750": {
+                "address": "0x7FFD89756750",
+                "current_value": "0x7FFD897111E0",
+                "resolved_name": "_init_instance_0$initializer$",
+                "rva": "0x46750"
+            },
+            "qword_0x46758": {
+                "address": "0x7FFD89756758",
+                "current_value": "0x7FFD89711500",
+                "resolved_name": "xbr::kGameBuildUniquifiers$initializer$",
+                "rva": "0x46758"
+            },
+            "qword_0x46760": {
+                "address": "0x7FFD89756760",
+                "current_value": "0x7FFD89711210",
+                "resolved_name": "??ms_initFunction$initializer$@?$Base@$00$0KPC@$01$05@virt@xbr@@0P6AXXZEA@@3P6AXXZEA",
+                "rva": "0x46760"
+            },
+            "qword_0x46768": {
+                "address": "0x7FFD89756768",
+                "current_value": "0x7FFD89711250",
+                "resolved_name": "??ms_initFunction$initializer$@?$Base@$0P@$0KPC@$0A@$05@virt@xbr@@0P6AXXZEA@@3P6AXXZEA",
+                "rva": "0x46768"
+            },
+            "qword_0x46770": {
+                "address": "0x7FFD89756770",
+                "current_value": "0x7FFD897112F0",
+                "resolved_name": "_init_instance_42$initializer$",
+                "rva": "0x46770"
+            },
+            "qword_0x46778": {
+                "address": "0x7FFD89756778",
+                "current_value": "0x7FFD89711320",
+                "resolved_name": "_init_instance_43$initializer$",
+                "rva": "0x46778"
+            },
+            "qword_0x46780": {
+                "address": "0x7FFD89756780",
+                "current_value": "0x7FFD89711350",
+                "resolved_name": "_init_instance_44$initializer$",
+                "rva": "0x46780"
+            },
+            "qword_0x46788": {
+                "address": "0x7FFD89756788",
+                "current_value": "0x7FFD89711400",
+                "resolved_name": "g_lastInstrumentedFuncs$initializer$",
+                "rva": "0x46788"
+            },
+            "qword_0x46790": {
+                "address": "0x7FFD89756790",
+                "current_value": "0x7FFD89711290",
+                "resolved_name": "OnInstrumentedFunctionCall$initializer$",
+                "rva": "0x46790"
+            },
+            "qword_0x46798": {
+                "address": "0x7FFD89756798",
+                "current_value": "0x7FFD897112A0",
+                "resolved_name": "OnReturnDataFileEntry$initializer$",
+                "rva": "0x46798"
+            },
+            "qword_0x467A0": {
+                "address": "0x7FFD897567A0",
+                "current_value": "0x7FFD897113C0",
+                "resolved_name": "g_dlcNameMap$initializer$",
+                "rva": "0x467A0"
+            },
+            "qword_0x467A8": {
+                "address": "0x7FFD897567A8",
+                "current_value": "0x7FFD89711440",
+                "resolved_name": "hookFunction$initializer$",
+                "rva": "0x467A8"
+            },
+            "qword_0x467B0": {
+                "address": "0x7FFD897567B0",
+                "current_value": "0x7FFD897112B0",
+                "resolved_name": "_drawLoadingSpinner$initializer$",
+                "rva": "0x467B0"
+            },
+            "qword_0x467B8": {
+                "address": "0x7FFD897567B8",
+                "current_value": "0x7FFD89711380",
+                "resolved_name": "_sf_updateEndOfFrame$initializer$",
+                "rva": "0x467B8"
+            },
+            "qword_0x467C0": {
+                "address": "0x7FFD897567C0",
+                "current_value": "0x7FFD89711480",
+                "resolved_name": "hookFunctionSpinner$initializer$",
+                "rva": "0x467C0"
+            },
+            "qword_0x467C8": {
+                "address": "0x7FFD897567C8",
+                "current_value": "0x7FFD897114C0",
+                "resolved_name": "initFunction$initializer$",
+                "rva": "0x467C8"
+            },
+            "qword_0x467D0": {
+                "address": "0x7FFD897567D0",
+                "current_value": "0x7FFD89711700",
+                "resolved_name": "_init_instance_0$initializer$",
+                "rva": "0x467D0"
+            },
+            "qword_0x467D8": {
+                "address": "0x7FFD897567D8",
+                "current_value": "0x7FFD89711960",
+                "resolved_name": "xbr::kGameBuildUniquifiers$initializer$",
+                "rva": "0x467D8"
+            },
+            "qword_0x467E0": {
+                "address": "0x7FFD897567E0",
+                "current_value": "0x7FFD89711680",
+                "resolved_name": "??ms_initFunction$initializer$@?$Base@$01$0KPC@$01$05@virt@xbr@@0P6AXXZEA@@3P6AXXZEA",
+                "rva": "0x467E0"
+            },
+            "qword_0x467E8": {
+                "address": "0x7FFD897567E8",
+                "current_value": "0x7FFD89711730",
+                "resolved_name": "_init_instance_15$initializer$",
+                "rva": "0x467E8"
+            },
+            "qword_0x467F0": {
+                "address": "0x7FFD897567F0",
+                "current_value": "0x7FFD89711760",
+                "resolved_name": "_init_instance_39$initializer$",
+                "rva": "0x467F0"
+            },
+            "qword_0x467F8": {
+                "address": "0x7FFD897567F8",
+                "current_value": "0x7FFD89711790",
+                "resolved_name": "_init_instance_40$initializer$",
+                "rva": "0x467F8"
+            },
+            "qword_0x46800": {
+                "address": "0x7FFD89756800",
+                "current_value": "0x7FFD897117C0",
+                "resolved_name": "_init_instance_41$initializer$",
+                "rva": "0x46800"
+            },
+            "qword_0x46808": {
+                "address": "0x7FFD89756808",
+                "current_value": "0x7FFD897117F0",
+                "resolved_name": "_init_instance_42$initializer$",
+                "rva": "0x46808"
+            },
+            "qword_0x46810": {
+                "address": "0x7FFD89756810",
+                "current_value": "0x7FFD89711820",
+                "resolved_name": "_init_instance_43$initializer$",
+                "rva": "0x46810"
+            },
+            "qword_0x46818": {
+                "address": "0x7FFD89756818",
+                "current_value": "0x7FFD897116C0",
+                "resolved_name": "??ms_initFunction$initializer$@?$Base@$0CN@$0KPC@$0A@$05@virt@xbr@@0P6AXXZEA@@3P6AXXZEA",
+                "rva": "0x46818"
+            },
+            "qword_0x46820": {
+                "address": "0x7FFD89756820",
+                "current_value": "0x7FFD89711B10",
+                "resolved_name": "g_loadProfileConvar$initializer$",
+                "rva": "0x46820"
+            },
+            "qword_0x46828": {
+                "address": "0x7FFD89756828",
+                "current_value": "0x7FFD89711850",
+                "resolved_name": "g_loadTiming$initializer$",
+                "rva": "0x46828"
+            },
+            "qword_0x46830": {
+                "address": "0x7FFD89756830",
+                "current_value": "0x7FFD897118A0",
+                "resolved_name": "g_visitedTimings$initializer$",
+                "rva": "0x46830"
+            },
+            "qword_0x46838": {
+                "address": "0x7FFD89756838",
+                "current_value": "0x7FFD89711AE0",
+                "resolved_name": "loadsThread$initializer$",
+                "rva": "0x46838"
+            },
+            "qword_0x46840": {
+                "address": "0x7FFD89756840",
+                "current_value": "0x7FFD89711890",
+                "resolved_name": "g_origShutdown$initializer$",
+                "rva": "0x46840"
+            },
+            "qword_0x46848": {
+                "address": "0x7FFD89756848",
+                "current_value": "0x7FFD897118E0",
+                "resolved_name": "hookFunction$initializer$",
+                "rva": "0x46848"
+            },
+            "qword_0x46850": {
+                "address": "0x7FFD89756850",
+                "current_value": "0x7FFD89711920",
+                "resolved_name": "initFunction$initializer$",
+                "rva": "0x46850"
+            },
+            "qword_0x46858": {
+                "address": "0x7FFD89756858",
+                "current_value": "0x7FFD89711B20",
+                "resolved_name": "initIoBuf$initializer$",
+                "rva": "0x46858"
+            },
+            "qword_0x46860": {
+                "address": "0x7FFD89756860",
+                "current_value": "0x7FFD89711B70",
+                "resolved_name": "initHookingFunction$initializer$",
+                "rva": "0x46860"
+            },
+            "qword_0x46868": {
+                "address": "0x7FFD89756868",
+                "current_value": "0x7FFD89711BC0",
+                "resolved_name": "xbr::kGameBuildUniquifiers$initializer$",
+                "rva": "0x46868"
+            },
+            "qword_0x46870": {
+                "address": "0x7FFD89756870",
+                "current_value": "0x7FFD89711D40",
+                "resolved_name": "xbr::kGameBuildUniquifiers$initializer$",
+                "rva": "0x46870"
+            },
+            "qword_0x46878": {
+                "address": "0x7FFD89756878",
+                "current_value": "0x0",
+                "resolved_name": "__xc_z",
+                "rva": "0x46878",
+                "type": ""
+            },
+            "qword_0x46880": {
+                "address": "0x7FFD89756880",
+                "current_value": "0x0",
+                "resolved_name": "__xd_a",
+                "rva": "0x46880"
+            },
+            "qword_0x46888": {
+                "address": "0x7FFD89756888",
+                "current_value": "0x7FFD89711030",
+                "resolved_name": "g_thisError$initializer$",
+                "rva": "0x46888"
+            },
+            "qword_0x46890": {
+                "address": "0x7FFD89756890",
+                "current_value": "0x0",
+                "resolved_name": "__xd_z",
+                "rva": "0x46890"
+            },
+            "qword_0x46898": {
+                "address": "0x7FFD89756898",
+                "current_value": "0x0",
+                "resolved_name": "__xi_a",
+                "rva": "0x46898",
+                "type": ""
+            },
+            "qword_0x468A0": {
+                "address": "0x7FFD897568A0",
+                "current_value": "0x7FFD89751F68",
+                "resolved_name": "__scrt_initialize_tss_var",
+                "rva": "0x468A0"
+            },
+            "qword_0x468A8": {
+                "address": "0x7FFD897568A8",
+                "current_value": "0x0",
+                "resolved_name": "__xi_z",
+                "rva": "0x468A8",
+                "type": ""
+            },
+            "qword_0x468B0": {
+                "address": "0x7FFD897568B0",
+                "current_value": "0x0",
+                "resolved_name": "__xl_a",
+                "rva": "0x468B0"
+            },
+            "qword_0x468B8": {
+                "address": "0x7FFD897568B8",
+                "current_value": "0x7FFD897525C4",
+                "resolved_name": "__xl_c",
+                "rva": "0x468B8"
+            },
+            "qword_0x468C0": {
+                "address": "0x7FFD897568C0",
+                "current_value": "0x7FFD8975263C",
+                "resolved_name": "__xl_d",
+                "rva": "0x468C0"
+            },
+            "qword_0x468C8": {
+                "address": "0x7FFD897568C8",
+                "current_value": "0x0",
+                "resolved_name": "__xl_z",
+                "rva": "0x468C8"
+            },
+            "qword_0x468D0": {
+                "address": "0x7FFD897568D0",
+                "current_value": "0x0",
+                "resolved_name": "__xp_a",
+                "rva": "0x468D0",
+                "type": ""
+            },
+            "qword_0x468D8": {
+                "address": "0x7FFD897568D8",
+                "current_value": "0x0",
+                "resolved_name": "__xp_z",
+                "rva": "0x468D8",
+                "type": ""
+            },
+            "qword_0x468E0": {
+                "address": "0x7FFD897568E0",
+                "current_value": "0x0",
+                "resolved_name": "__xt_a",
+                "rva": "0x468E0",
+                "type": ""
+            },
+            "qword_0x468E8": {
+                "address": "0x7FFD897568E8",
+                "current_value": "0x0",
+                "resolved_name": "__xt_z",
+                "rva": "0x468E8",
+                "type": ""
+            },
+            "qword_0x46CE0": {
+                "address": "0x7FFD89756CE0",
+                "current_value": "0x7FFD8971B850",
+                "resolved_name": "std::exception::`vftable'",
+                "rva": "0x46CE0",
+                "type": ""
+            },
+            "qword_0x46D10": {
+                "address": "0x7FFD89756D10",
+                "current_value": "0x7FFD8971B850",
+                "resolved_name": "std::bad_alloc::`vftable'",
+                "rva": "0x46D10",
+                "type": ""
+            },
+            "qword_0x46D28": {
+                "address": "0x7FFD89756D28",
+                "current_value": "0x7FFD8971B850",
+                "resolved_name": "std::bad_array_new_length::`vftable'",
+                "rva": "0x46D28",
+                "type": ""
+            },
+            "qword_0x46D68": {
+                "address": "0x7FFD89756D68",
+                "current_value": "0x7FFD8971B850",
+                "resolved_name": "std::runtime_error::`vftable'",
+                "rva": "0x46D68",
+                "type": ""
+            },
+            "qword_0x46DD8": {
+                "address": "0x7FFD89756DD8",
+                "current_value": "0x7FFD8971B850",
+                "resolved_name": "fmt::v8::format_error::`vftable'",
+                "rva": "0x46DD8",
+                "type": ""
+            },
+            "qword_0x46DF0": {
+                "address": "0x7FFD89756DF0",
+                "current_value": "0x3330323031303030",
+                "resolved_name": "fmt::v8::detail::basic_data<void>::digits",
+                "rva": "0x46DF0",
+                "type": ""
+            },
+            "qword_0x46EB8": {
+                "address": "0x7FFD89756EB8",
+                "current_value": "0x3736353433323130",
+                "resolved_name": "fmt::v8::detail::basic_data<void>::hex_digits",
+                "rva": "0x46EB8",
+                "type": ""
+            },
+            "qword_0x46ECC": {
+                "address": "0x7FFD89756ECC",
+                "current_value": "0x202B2D00",
+                "resolved_name": "fmt::v8::detail::basic_data<void>::signs",
+                "rva": "0x46ECC",
+                "type": ""
+            },
+            "qword_0x46ED0": {
+                "address": "0x7FFD89756ED0",
+                "current_value": "0x0",
+                "resolved_name": "fmt::v8::detail::basic_data<void>::prefixes",
+                "rva": "0x46ED0",
+                "type": ""
+            },
+            "qword_0x46EE0": {
+                "address": "0x7FFD89756EE0",
+                "current_value": "0x1001F1F",
+                "resolved_name": "fmt::v8::detail::basic_data<void>::left_padding_shifts",
+                "rva": "0x46EE0",
+                "type": ""
+            },
+            "qword_0x46EE8": {
+                "address": "0x7FFD89756EE8",
+                "current_value": "0x1001F00",
+                "resolved_name": "fmt::v8::detail::basic_data<void>::right_padding_shifts",
+                "rva": "0x46EE8",
+                "type": ""
+            },
+            "qword_0x47160": {
+                "address": "0x7FFD89757160",
+                "current_value": "0x7FFD8971DBA0",
+                "resolved_name": "fmt::v8::basic_memory_buffer<char,500,std::allocator<char> >::`vftable'",
+                "rva": "0x47160",
+                "type": ""
+            },
+            "qword_0x478B8": {
+                "address": "0x7FFD897578B8",
+                "current_value": "0x0",
+                "resolved_name": "rapidjson::GenericStringRef<char>::emptyString",
+                "rva": "0x478B8",
+                "type": ""
+            },
+            "qword_0x47B00": {
+                "address": "0x7FFD89757B00",
+                "current_value": "0x7FFD8971E8A0",
+                "resolved_name": "fwRefCountable::`vftable'",
+                "rva": "0x47B00",
+                "type": ""
+            },
+            "qword_0x47B20": {
+                "address": "0x7FFD89757B20",
+                "current_value": "0x7FFD8971E8A0",
+                "resolved_name": "ComponentInstance::`vftable'",
+                "rva": "0x47B20",
+                "type": ""
+            },
+            "qword_0x47B78": {
+                "address": "0x7FFD89757B78",
+                "current_value": "0x7FFD8971E9F0",
+                "resolved_name": "InitFunction::`vftable'",
+                "rva": "0x47B78",
+                "type": ""
+            },
+            "qword_0x47C40": {
+                "address": "0x7FFD89757C40",
+                "current_value": "0x7FFD8971EA00",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_2729e31fb8c726b5ef153dd449ae69e5>,void,bool const &>::`vftable'",
+                "rva": "0x47C40",
+                "type": ""
+            },
+            "qword_0x47C78": {
+                "address": "0x7FFD89757C78",
+                "current_value": "0x7FFD8971EB30",
+                "resolved_name": "std::_Ref_count_obj2<internal::ConsoleVariableEntry<bool> >::`vftable'",
+                "rva": "0x47C78",
+                "type": ""
+            },
+            "qword_0x47CA0": {
+                "address": "0x7FFD89757CA0",
+                "current_value": "0x7FFD8971EC30",
+                "resolved_name": "internal::ConsoleVariableEntry<bool>::`vftable'",
+                "rva": "0x47CA0",
+                "type": ""
+            },
+            "qword_0x48168": {
+                "address": "0x7FFD89758168",
+                "current_value": "0x7FFD897534E0",
+                "resolved_name": "HookFunctionBase::`vftable'",
+                "rva": "0x48168",
+                "type": ""
+            },
+            "qword_0x48178": {
+                "address": "0x7FFD89758178",
+                "current_value": "0x7FFD8971EE40",
+                "resolved_name": "HookFunction::`vftable'",
+                "rva": "0x48178",
+                "type": ""
+            },
+            "qword_0x483A8": {
+                "address": "0x7FFD897583A8",
+                "current_value": "0x7FFD8971EE50",
+                "resolved_name": "hook::details::StubInitFunction::`vftable'",
+                "rva": "0x483A8",
+                "type": ""
+            },
+            "qword_0x483B8": {
+                "address": "0x7FFD897583B8",
+                "current_value": "0x7FFD8971EE70",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_f6ac8d0937aa4b9db67a1ffaa15b1d83>,bool>::`vftable'",
+                "rva": "0x483B8",
+                "type": ""
+            },
+            "qword_0x483F0": {
+                "address": "0x7FFD897583F0",
+                "current_value": "0x7FFD8971EEE0",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_db2d0e133860722aa118ca07946520d3>,bool>::`vftable'",
+                "rva": "0x483F0",
+                "type": ""
+            },
+            "qword_0x48428": {
+                "address": "0x7FFD89758428",
+                "current_value": "0x7FFD8971EF30",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_2d2a58cd090cb309be8c673da65c4ce8>,bool>::`vftable'",
+                "rva": "0x48428",
+                "type": ""
+            },
+            "qword_0x48540": {
+                "address": "0x7FFD89758540",
+                "current_value": "0x7FFD8971EF80",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_814d5e0b3a45fa1dd158672480f6c4ca>,bool,ConsoleExecutionContext &>::`vftable'",
+                "rva": "0x48540",
+                "type": ""
+            },
+            "qword_0x48578": {
+                "address": "0x7FFD89758578",
+                "current_value": "0x7FFD8971F0C0",
+                "resolved_name": "jitasm::Frontend::`vftable'",
+                "rva": "0x48578",
+                "type": ""
+            },
+            "qword_0x48590": {
+                "address": "0x7FFD89758590",
+                "current_value": "0x7FFD8971F100",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_72ae5b0e2f813e08b01a5e2876e67561>,bool,ConsoleExecutionContext &>::`vftable'",
+                "rva": "0x48590",
+                "type": ""
+            },
+            "qword_0x485F8": {
+                "address": "0x7FFD897585F8",
+                "current_value": "0x7FFD8971F530",
+                "resolved_name": "InstrumentedCallStub<LoadScreenFuncs>::`vftable'",
+                "rva": "0x485F8",
+                "type": ""
+            },
+            "qword_0x48730": {
+                "address": "0x7FFD89758730",
+                "current_value": "0x7FFD8971F570",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_bf7610c50ebb1884e5917f6a81016c78>,void>::`vftable'",
+                "rva": "0x48730",
+                "type": ""
+            },
+            "qword_0x49348": {
+                "address": "0x7FFD89759348",
+                "current_value": "0x7FFD8973A0B0",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_eb2f2925c678fb620382f71d1b6f1206>,bool>::`vftable'",
+                "rva": "0x49348",
+                "type": ""
+            },
+            "qword_0x49380": {
+                "address": "0x7FFD89759380",
+                "current_value": "0x7FFD89738270",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_43fe2a0c2f5ac49ba854f6089af8e843>,bool,enum rage::InitFunctionType>::`vftable'",
+                "rva": "0x49380",
+                "type": ""
+            },
+            "qword_0x493B8": {
+                "address": "0x7FFD897593B8",
+                "current_value": "0x7FFD897382C0",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_05329b97b4e3354ddec7ead020418453>,bool,enum rage::InitFunctionType,int,int>::`vftable'",
+                "rva": "0x493B8",
+                "type": ""
+            },
+            "qword_0x493F0": {
+                "address": "0x7FFD897593F0",
+                "current_value": "0x7FFD89738310",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_8ccc4ca0333b6d2b740c5b31cfc891e7>,bool,enum rage::InitFunctionType,int,rage::InitFunctionData &>::`vftable'",
+                "rva": "0x493F0",
+                "type": ""
+            },
+            "qword_0x49428": {
+                "address": "0x7FFD89759428",
+                "current_value": "0x7FFD89738360",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_8dcb57dbf137996faedc2baf56653ce7>,bool,enum rage::InitFunctionType,rage::InitFunctionData const &>::`vftable'",
+                "rva": "0x49428",
+                "type": ""
+            },
+            "qword_0x49460": {
+                "address": "0x7FFD89759460",
+                "current_value": "0x7FFD897383B0",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_c9edada0d40c766bc462dfdb720427f9>,bool,enum rage::InitFunctionType>::`vftable'",
+                "rva": "0x49460",
+                "type": ""
+            },
+            "qword_0x49498": {
+                "address": "0x7FFD89759498",
+                "current_value": "0x7FFD89738400",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_020208b0e0a36ad69f926d618cf66354>,bool,enum HostState,enum HostState>::`vftable'",
+                "rva": "0x49498",
+                "type": ""
+            },
+            "qword_0x494D0": {
+                "address": "0x7FFD897594D0",
+                "current_value": "0x7FFD89738450",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_fc6545f874f7405efd0ba9f5a96da918>,bool,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::`vftable'",
+                "rva": "0x494D0",
+                "type": ""
+            },
+            "qword_0x49508": {
+                "address": "0x7FFD89759508",
+                "current_value": "0x7FFD897384A0",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_27422173a65a181c16a2ef7522e8d059>,bool,int,void *,void *>::`vftable'",
+                "rva": "0x49508",
+                "type": ""
+            },
+            "qword_0x49540": {
+                "address": "0x7FFD89759540",
+                "current_value": "0x7FFD897384F0",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_ba1954cd842d4f9c4890ca75aca32e91>,bool,int,char const *>::`vftable'",
+                "rva": "0x49540",
+                "type": ""
+            },
+            "qword_0x495B0": {
+                "address": "0x7FFD897595B0",
+                "current_value": "0x7FFD89738540",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_8b7421f57f11bdbed9b3d618940dba1c>,bool>::`vftable'",
+                "rva": "0x495B0",
+                "type": ""
+            },
+            "qword_0x495E8": {
+                "address": "0x7FFD897595E8",
+                "current_value": "0x7FFD89739390",
+                "resolved_name": "LoadsThread::`vftable'",
+                "rva": "0x495E8",
+                "type": ""
+            },
+            "qword_0x49BB0": {
+                "address": "0x7FFD89759BB0",
+                "current_value": "0x7FFD897393D0",
+                "resolved_name": "std::_Ref_count_obj2<ConVar<bool> >::`vftable'",
+                "rva": "0x49BB0",
+                "type": ""
+            },
+            "qword_0x4AB40": {
+                "address": "0x7FFD8975AB40",
+                "current_value": "0x7FFD89739410",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_24f07e0f251dcf064e98210aa078878d>,void,fx::ScriptContext &>::`vftable'",
+                "rva": "0x4AB40",
+                "type": ""
+            },
+            "qword_0x4AB78": {
+                "address": "0x7FFD8975AB78",
+                "current_value": "0x7FFD89739440",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_066ac169fedead592fe3e8b6fc5dfa16>,void,fx::ScriptContext &>::`vftable'",
+                "rva": "0x4AB78",
+                "type": ""
+            },
+            "qword_0x4ABC8": {
+                "address": "0x7FFD8975ABC8",
+                "current_value": "0x7FFD897394A0",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_5aa8c610707f7ea31463e13c9004ec3e>,void,fx::ScriptContext &>::`vftable'",
+                "rva": "0x4ABC8",
+                "type": ""
+            },
+            "qword_0x4AC00": {
+                "address": "0x7FFD8975AC00",
+                "current_value": "0x7FFD897395F0",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_c16b35aa8ea45eb033ed342ac5214ff5>,bool,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &>::`vftable'",
+                "rva": "0x4AC00",
+                "type": ""
+            },
+            "qword_0x4AC38": {
+                "address": "0x7FFD8975AC38",
+                "current_value": "0x7FFD89739650",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_bdfd166f712caf65f4a8415cef616d2f>,bool>::`vftable'",
+                "rva": "0x4AC38",
+                "type": ""
+            },
+            "qword_0x4AD58": {
+                "address": "0x7FFD8975AD58",
+                "current_value": "0x7FFD89739740",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_33b70af64b029196ae30fb1961b87c7c>,bool>::`vftable'",
+                "rva": "0x4AD58",
+                "type": ""
+            },
+            "qword_0x4AD90": {
+                "address": "0x7FFD8975AD90",
+                "current_value": "0x7FFD89739790",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_e74280acca80a2b9c8c7f95aa7cbfe7d>,void,fx::ScriptContext &>::`vftable'",
+                "rva": "0x4AD90",
+                "type": ""
+            },
+            "qword_0x4ADC8": {
+                "address": "0x7FFD8975ADC8",
+                "current_value": "0x7FFD89739950",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_406441190f26f1ff840cb9def9b33c4b>,void,fx::ScriptContext &>::`vftable'",
+                "rva": "0x4ADC8",
+                "type": ""
+            },
+            "qword_0x4AE20": {
+                "address": "0x7FFD8975AE20",
+                "current_value": "0x7FFD89739B80",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_e04f633d871a1c4ef99342c71c8d3897>,void,fx::ScriptContext &>::`vftable'",
+                "rva": "0x4AE20",
+                "type": ""
+            },
+            "qword_0x4AE58": {
+                "address": "0x7FFD8975AE58",
+                "current_value": "0x7FFD89739C70",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_e7e5393a9d2728dc36918b38e27da696>,void,fx::ScriptContext &>::`vftable'",
+                "rva": "0x4AE58",
+                "type": ""
+            },
+            "qword_0x4AE90": {
+                "address": "0x7FFD8975AE90",
+                "current_value": "0x7FFD89739E80",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_1c4681460b1c76ca10535dbc60b9c2be>,void,fx::ScriptContext &>::`vftable'",
+                "rva": "0x4AE90",
+                "type": ""
+            },
+            "qword_0x4AEE0": {
+                "address": "0x7FFD8975AEE0",
+                "current_value": "0x7FFD89739F70",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_a63b482a4e9e9671f4bbd887ac2ff640>,bool>::`vftable'",
+                "rva": "0x4AEE0",
+                "type": ""
+            },
+            "qword_0x4AFD8": {
+                "address": "0x7FFD8975AFD8",
+                "current_value": "0x7FFD89739FC0",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_c962f8d1bbb3a12b2dc62956b8cca104>,bool>::`vftable'",
+                "rva": "0x4AFD8",
+                "type": ""
+            },
+            "qword_0x4B030": {
+                "address": "0x7FFD8975B030",
+                "current_value": "0x7FFD8973A010",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_6f7b226809a528ba72e89344b6d55d32>,bool>::`vftable'",
+                "rva": "0x4B030",
+                "type": ""
+            },
+            "qword_0x4B068": {
+                "address": "0x7FFD8975B068",
+                "current_value": "0x7FFD8973A050",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_d5e86719cbcf4f8ee3b92cbb20a28559>,void,fwRefContainer<fx::Resource> const &>::`vftable'",
+                "rva": "0x4B068",
+                "type": ""
+            },
+            "qword_0x4BA00": {
+                "address": "0x7FFD8975BA00",
+                "current_value": "0x7FFD8974A810",
+                "resolved_name": "std::numpunct<char>::`vftable'",
+                "rva": "0x4BA00",
+                "type": ""
+            },
+            "qword_0x4BDD8": {
+                "address": "0x7FFD8975BDD8",
+                "current_value": "0x7FFD8974B060",
+                "resolved_name": "fmt::v8::basic_memory_buffer<unsigned int,32,std::allocator<unsigned int> >::`vftable'",
+                "rva": "0x4BDD8",
+                "type": ""
+            },
+            "qword_0x4C8B0": {
+                "address": "0x7FFD8975C8B0",
+                "current_value": "0x7FFD897534E0",
+                "resolved_name": "InitFunctionBase::`vftable'",
+                "rva": "0x4C8B0",
+                "type": ""
+            },
+            "qword_0x4C8D0": {
+                "address": "0x7FFD8975C8D0",
+                "current_value": "0x7FFD8971B850",
+                "resolved_name": "utf8::exception::`vftable'",
+                "rva": "0x4C8D0",
+                "type": ""
+            },
+            "qword_0x4C8E8": {
+                "address": "0x7FFD8975C8E8",
+                "current_value": "0x7FFD8974E220",
+                "resolved_name": "utf8::invalid_code_point::`vftable'",
+                "rva": "0x4C8E8",
+                "type": ""
+            },
+            "qword_0x4C918": {
+                "address": "0x7FFD8975C918",
+                "current_value": "0x7FFD8974E220",
+                "resolved_name": "utf8::invalid_utf8::`vftable'",
+                "rva": "0x4C918",
+                "type": ""
+            },
+            "qword_0x4C940": {
+                "address": "0x7FFD8975C940",
+                "current_value": "0x7FFD8971B850",
+                "resolved_name": "utf8::not_enough_room::`vftable'",
+                "rva": "0x4C940",
+                "type": ""
+            },
+            "qword_0x4CC70": {
+                "address": "0x7FFD8975CC70",
+                "current_value": "0x1200110010000F",
+                "resolved_name": "ud_itab__0",
+                "rva": "0x4CC70",
+                "type": ""
+            },
+            "qword_0x4CE70": {
+                "address": "0x7FFD8975CE70",
+                "current_value": "0x200000001",
+                "resolved_name": "ud_itab__1",
+                "rva": "0x4CE70",
+                "type": ""
+            },
+            "qword_0x4CE74": {
+                "address": "0x7FFD8975CE74",
+                "current_value": "0x300000002",
+                "resolved_name": "ud_itab__2",
+                "rva": "0x4CE74",
+                "type": ""
+            },
+            "qword_0x4CE78": {
+                "address": "0x7FFD8975CE78",
+                "current_value": "0x400000003",
+                "resolved_name": "ud_itab__3",
+                "rva": "0x4CE78",
+                "type": ""
+            },
+            "qword_0x4CE7C": {
+                "address": "0x7FFD8975CE7C",
+                "current_value": "0x3CA001500000004",
+                "resolved_name": "ud_itab__4",
+                "rva": "0x4CE7C",
+                "type": ""
+            },
+            "qword_0x4CE80": {
+                "address": "0x7FFD8975CE80",
+                "current_value": "0x53E000B03CA0015",
+                "resolved_name": "ud_itab__5",
+                "rva": "0x4CE80",
+                "type": ""
+            },
+            "qword_0x4CE90": {
+                "address": "0x7FFD8975CE90",
+                "current_value": "0x800C8007800B8008",
+                "resolved_name": "ud_itab__6",
+                "rva": "0x4CE90",
+                "type": ""
+            },
+            "qword_0x4CEA0": {
+                "address": "0x7FFD8975CEA0",
+                "current_value": "0x160000000C",
+                "resolved_name": "ud_itab__7",
+                "rva": "0x4CEA0",
+                "type": ""
+            },
+            "qword_0x4CEA4": {
+                "address": "0x7FFD8975CEA4",
+                "current_value": "0x3800000016",
+                "resolved_name": "ud_itab__8",
+                "rva": "0x4CEA4",
+                "type": ""
+            },
+            "qword_0x4CEA8": {
+                "address": "0x7FFD8975CEA8",
+                "current_value": "0x6B00000038",
+                "resolved_name": "ud_itab__9",
+                "rva": "0x4CEA8",
+                "type": ""
+            },
+            "qword_0x4CEAC": {
+                "address": "0x7FFD8975CEAC",
+                "current_value": "0x3CC0000006B",
+                "resolved_name": "ud_itab__10",
+                "rva": "0x4CEAC",
+                "type": ""
+            },
+            "qword_0x4CEB0": {
+                "address": "0x7FFD8975CEB0",
+                "current_value": "0x540000003CC",
+                "resolved_name": "ud_itab__11",
+                "rva": "0x4CEB0",
+                "type": ""
+            },
+            "qword_0x4CEB4": {
+                "address": "0x7FFD8975CEB4",
+                "current_value": "0x58700000540",
+                "resolved_name": "ud_itab__12",
+                "rva": "0x4CEB4",
+                "type": ""
+            },
+            "qword_0x4CEB8": {
+                "address": "0x7FFD8975CEB8",
+                "current_value": "0x5D700000587",
+                "resolved_name": "ud_itab__13",
+                "rva": "0x4CEB8",
+                "type": ""
+            },
+            "qword_0x4CEBC": {
+                "address": "0x7FFD8975CEBC",
+                "current_value": "0x3CB0017000005D7",
+                "resolved_name": "ud_itab__14",
+                "rva": "0x4CEBC",
+                "type": ""
+            },
+            "qword_0x4CEC0": {
+                "address": "0x7FFD8975CEC0",
+                "current_value": "0x53F000D03CB0017",
+                "resolved_name": "ud_itab__15",
+                "rva": "0x4CEC0",
+                "type": ""
+            },
+            "qword_0x4CED0": {
+                "address": "0x7FFD8975CED0",
+                "current_value": "0x541000E03CD0018",
+                "resolved_name": "ud_itab__16",
+                "rva": "0x4CED0",
+                "type": ""
+            },
+            "qword_0x4CEE0": {
+                "address": "0x7FFD8975CEE0",
+                "current_value": "0x31D02FF8075809C",
+                "resolved_name": "ud_itab__17",
+                "rva": "0x4CEE0",
+                "type": ""
+            },
+            "qword_0x4D0E0": {
+                "address": "0x7FFD8975D0E0",
+                "current_value": "0x1F0000001B",
+                "resolved_name": "ud_itab__18",
+                "rva": "0x4D0E0",
+                "type": ""
+            },
+            "qword_0x4D0E8": {
+                "address": "0x7FFD8975D0E8",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__19",
+                "rva": "0x4D0E8",
+                "type": ""
+            },
+            "qword_0x4D0F0": {
+                "address": "0x7FFD8975D0F0",
+                "current_value": "0x8028802780268025",
+                "resolved_name": "ud_itab__20",
+                "rva": "0x4D0F0",
+                "type": ""
+            },
+            "qword_0x4D2F0": {
+                "address": "0x7FFD8975D2F0",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__21",
+                "rva": "0x4D2F0",
+                "type": ""
+            },
+            "qword_0x4D2F8": {
+                "address": "0x7FFD8975D2F8",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__22",
+                "rva": "0x4D2F8",
+                "type": ""
+            },
+            "qword_0x4D300": {
+                "address": "0x7FFD8975D300",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__23",
+                "rva": "0x4D300",
+                "type": ""
+            },
+            "qword_0x4D308": {
+                "address": "0x7FFD8975D308",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__24",
+                "rva": "0x4D308",
+                "type": ""
+            },
+            "qword_0x4D310": {
+                "address": "0x7FFD8975D310",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__25",
+                "rva": "0x4D310",
+                "type": ""
+            },
+            "qword_0x4D318": {
+                "address": "0x7FFD8975D318",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__26",
+                "rva": "0x4D318",
+                "type": ""
+            },
+            "qword_0x4D320": {
+                "address": "0x7FFD8975D320",
+                "current_value": "0x2CD0000801D801C",
+                "resolved_name": "ud_itab__27",
+                "rva": "0x4D320",
+                "type": ""
+            },
+            "qword_0x4D324": {
+                "address": "0x7FFD8975D324",
+                "current_value": "0x2CD0000",
+                "resolved_name": "ud_itab__28",
+                "rva": "0x4D324",
+                "type": ""
+            },
+            "qword_0x4D32C": {
+                "address": "0x7FFD8975D32C",
+                "current_value": "0x2CE0000",
+                "resolved_name": "ud_itab__29",
+                "rva": "0x4D32C",
+                "type": ""
+            },
+            "qword_0x4D334": {
+                "address": "0x7FFD8975D334",
+                "current_value": "0x80218020",
+                "resolved_name": "ud_itab__31",
+                "rva": "0x4D334",
+                "type": ""
+            },
+            "qword_0x4D338": {
+                "address": "0x7FFD8975D338",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__30",
+                "rva": "0x4D338",
+                "type": ""
+            },
+            "qword_0x4D340": {
+                "address": "0x7FFD8975D340",
+                "current_value": "0x2D10000",
+                "resolved_name": "ud_itab__32",
+                "rva": "0x4D340",
+                "type": ""
+            },
+            "qword_0x4D348": {
+                "address": "0x7FFD8975D348",
+                "current_value": "0x2D20000",
+                "resolved_name": "ud_itab__33",
+                "rva": "0x4D348",
+                "type": ""
+            },
+            "qword_0x4D350": {
+                "address": "0x7FFD8975D350",
+                "current_value": "0x625",
+                "resolved_name": "ud_itab__34",
+                "rva": "0x4D350",
+                "type": ""
+            },
+            "qword_0x4D358": {
+                "address": "0x7FFD8975D358",
+                "current_value": "0x628",
+                "resolved_name": "ud_itab__35",
+                "rva": "0x4D358",
+                "type": ""
+            },
+            "qword_0x4D360": {
+                "address": "0x7FFD8975D360",
+                "current_value": "0x62B",
+                "resolved_name": "ud_itab__36",
+                "rva": "0x4D360",
+                "type": ""
+            },
+            "qword_0x4D368": {
+                "address": "0x7FFD8975D368",
+                "current_value": "0x62E",
+                "resolved_name": "ud_itab__37",
+                "rva": "0x4D368",
+                "type": ""
+            },
+            "qword_0x4D370": {
+                "address": "0x7FFD8975D370",
+                "current_value": "0x631",
+                "resolved_name": "ud_itab__38",
+                "rva": "0x4D370",
+                "type": ""
+            },
+            "qword_0x4D378": {
+                "address": "0x7FFD8975D378",
+                "current_value": "0x634",
+                "resolved_name": "ud_itab__39",
+                "rva": "0x4D378",
+                "type": ""
+            },
+            "qword_0x4D380": {
+                "address": "0x7FFD8975D380",
+                "current_value": "0x637",
+                "resolved_name": "ud_itab__40",
+                "rva": "0x4D380",
+                "type": ""
+            },
+            "qword_0x4D388": {
+                "address": "0x7FFD8975D388",
+                "current_value": "0x63A",
+                "resolved_name": "ud_itab__41",
+                "rva": "0x4D388",
+                "type": ""
+            },
+            "qword_0x4D390": {
+                "address": "0x7FFD8975D390",
+                "current_value": "0x63D",
+                "resolved_name": "ud_itab__42",
+                "rva": "0x4D390",
+                "type": ""
+            },
+            "qword_0x4D398": {
+                "address": "0x7FFD8975D398",
+                "current_value": "0x640",
+                "resolved_name": "ud_itab__43",
+                "rva": "0x4D398",
+                "type": ""
+            },
+            "qword_0x4D3A0": {
+                "address": "0x7FFD8975D3A0",
+                "current_value": "0x643",
+                "resolved_name": "ud_itab__44",
+                "rva": "0x4D3A0",
+                "type": ""
+            },
+            "qword_0x4D3A8": {
+                "address": "0x7FFD8975D3A8",
+                "current_value": "0x646",
+                "resolved_name": "ud_itab__45",
+                "rva": "0x4D3A8",
+                "type": ""
+            },
+            "qword_0x4D3B0": {
+                "address": "0x7FFD8975D3B0",
+                "current_value": "0x649",
+                "resolved_name": "ud_itab__46",
+                "rva": "0x4D3B0",
+                "type": ""
+            },
+            "qword_0x4D3B8": {
+                "address": "0x7FFD8975D3B8",
+                "current_value": "0x64C",
+                "resolved_name": "ud_itab__47",
+                "rva": "0x4D3B8",
+                "type": ""
+            },
+            "qword_0x4D3C0": {
+                "address": "0x7FFD8975D3C0",
+                "current_value": "0x64F",
+                "resolved_name": "ud_itab__48",
+                "rva": "0x4D3C0",
+                "type": ""
+            },
+            "qword_0x4D3C8": {
+                "address": "0x7FFD8975D3C8",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__49",
+                "rva": "0x4D3C8",
+                "type": ""
+            },
+            "qword_0x4D3D0": {
+                "address": "0x7FFD8975D3D0",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__50",
+                "rva": "0x4D3D0",
+                "type": ""
+            },
+            "qword_0x4D3D8": {
+                "address": "0x7FFD8975D3D8",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__51",
+                "rva": "0x4D3D8",
+                "type": ""
+            },
+            "qword_0x4D3E0": {
+                "address": "0x7FFD8975D3E0",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__52",
+                "rva": "0x4D3E0",
+                "type": ""
+            },
+            "qword_0x4D3E8": {
+                "address": "0x7FFD8975D3E8",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__53",
+                "rva": "0x4D3E8",
+                "type": ""
+            },
+            "qword_0x4D3F0": {
+                "address": "0x7FFD8975D3F0",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__54",
+                "rva": "0x4D3F0",
+                "type": ""
+            },
+            "qword_0x4D3F8": {
+                "address": "0x7FFD8975D3F8",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__55",
+                "rva": "0x4D3F8",
+                "type": ""
+            },
+            "qword_0x4D400": {
+                "address": "0x7FFD8975D400",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__56",
+                "rva": "0x4D400",
+                "type": ""
+            },
+            "qword_0x4D408": {
+                "address": "0x7FFD8975D408",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__57",
+                "rva": "0x4D408",
+                "type": ""
+            },
+            "qword_0x4D410": {
+                "address": "0x7FFD8975D410",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__58",
+                "rva": "0x4D410",
+                "type": ""
+            },
+            "qword_0x4D418": {
+                "address": "0x7FFD8975D418",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__59",
+                "rva": "0x4D418",
+                "type": ""
+            },
+            "qword_0x4D420": {
+                "address": "0x7FFD8975D420",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__60",
+                "rva": "0x4D420",
+                "type": ""
+            },
+            "qword_0x4D428": {
+                "address": "0x7FFD8975D428",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__61",
+                "rva": "0x4D428",
+                "type": ""
+            },
+            "qword_0x4D430": {
+                "address": "0x7FFD8975D430",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__62",
+                "rva": "0x4D430",
+                "type": ""
+            },
+            "qword_0x4D438": {
+                "address": "0x7FFD8975D438",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__63",
+                "rva": "0x4D438",
+                "type": ""
+            },
+            "qword_0x4D440": {
+                "address": "0x7FFD8975D440",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__64",
+                "rva": "0x4D440",
+                "type": ""
+            },
+            "qword_0x4D448": {
+                "address": "0x7FFD8975D448",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__65",
+                "rva": "0x4D448",
+                "type": ""
+            },
+            "qword_0x4D450": {
+                "address": "0x7FFD8975D450",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__66",
+                "rva": "0x4D450",
+                "type": ""
+            },
+            "qword_0x4D458": {
+                "address": "0x7FFD8975D458",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__67",
+                "rva": "0x4D458",
+                "type": ""
+            },
+            "qword_0x4D460": {
+                "address": "0x7FFD8975D460",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__68",
+                "rva": "0x4D460",
+                "type": ""
+            },
+            "qword_0x4D468": {
+                "address": "0x7FFD8975D468",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__69",
+                "rva": "0x4D468",
+                "type": ""
+            },
+            "qword_0x4D470": {
+                "address": "0x7FFD8975D470",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__70",
+                "rva": "0x4D470",
+                "type": ""
+            },
+            "qword_0x4D478": {
+                "address": "0x7FFD8975D478",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__71",
+                "rva": "0x4D478",
+                "type": ""
+            },
+            "qword_0x4D480": {
+                "address": "0x7FFD8975D480",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__72",
+                "rva": "0x4D480",
+                "type": ""
+            },
+            "qword_0x4D488": {
+                "address": "0x7FFD8975D488",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__73",
+                "rva": "0x4D488",
+                "type": ""
+            },
+            "qword_0x4D490": {
+                "address": "0x7FFD8975D490",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__74",
+                "rva": "0x4D490",
+                "type": ""
+            },
+            "qword_0x4D498": {
+                "address": "0x7FFD8975D498",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__75",
+                "rva": "0x4D498",
+                "type": ""
+            },
+            "qword_0x4D4A0": {
+                "address": "0x7FFD8975D4A0",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__76",
+                "rva": "0x4D4A0",
+                "type": ""
+            },
+            "qword_0x4D4A8": {
+                "address": "0x7FFD8975D4A8",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__77",
+                "rva": "0x4D4A8",
+                "type": ""
+            },
+            "qword_0x4D4B0": {
+                "address": "0x7FFD8975D4B0",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__78",
+                "rva": "0x4D4B0",
+                "type": ""
+            },
+            "qword_0x4D4B8": {
+                "address": "0x7FFD8975D4B8",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__79",
+                "rva": "0x4D4B8",
+                "type": ""
+            },
+            "qword_0x4D4C0": {
+                "address": "0x7FFD8975D4C0",
+                "current_value": "0x6BB",
+                "resolved_name": "ud_itab__80",
+                "rva": "0x4D4C0",
+                "type": ""
+            },
+            "qword_0x4D4C8": {
+                "address": "0x7FFD8975D4C8",
+                "current_value": "0x6BC",
+                "resolved_name": "ud_itab__81",
+                "rva": "0x4D4C8",
+                "type": ""
+            },
+            "qword_0x4D4D0": {
+                "address": "0x7FFD8975D4D0",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__82",
+                "rva": "0x4D4D0",
+                "type": ""
+            },
+            "qword_0x4D6D0": {
+                "address": "0x7FFD8975D6D0",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__83",
+                "rva": "0x4D6D0",
+                "type": ""
+            },
+            "qword_0x4D6D8": {
+                "address": "0x7FFD8975D6D8",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__84",
+                "rva": "0x4D6D8",
+                "type": ""
+            },
+            "qword_0x4D6E0": {
+                "address": "0x7FFD8975D6E0",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__85",
+                "rva": "0x4D6E0",
+                "type": ""
+            },
+            "qword_0x4D6E8": {
+                "address": "0x7FFD8975D6E8",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__86",
+                "rva": "0x4D6E8",
+                "type": ""
+            },
+            "qword_0x4D6F0": {
+                "address": "0x7FFD8975D6F0",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__87",
+                "rva": "0x4D6F0",
+                "type": ""
+            },
+            "qword_0x4D6F8": {
+                "address": "0x7FFD8975D6F8",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__88",
+                "rva": "0x4D6F8",
+                "type": ""
+            },
+            "qword_0x4D700": {
+                "address": "0x7FFD8975D700",
+                "current_value": "0x41B04190000",
+                "resolved_name": "ud_itab__89",
+                "rva": "0x4D700",
+                "type": ""
+            },
+            "qword_0x4D708": {
+                "address": "0x7FFD8975D708",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__90",
+                "rva": "0x4D708",
+                "type": ""
+            },
+            "qword_0x4D710": {
+                "address": "0x7FFD8975D710",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__91",
+                "rva": "0x4D710",
+                "type": ""
+            },
+            "qword_0x4D718": {
+                "address": "0x7FFD8975D718",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__92",
+                "rva": "0x4D718",
+                "type": ""
+            },
+            "qword_0x4D720": {
+                "address": "0x7FFD8975D720",
+                "current_value": "0x42804270000",
+                "resolved_name": "ud_itab__93",
+                "rva": "0x4D720",
+                "type": ""
+            },
+            "qword_0x4D728": {
+                "address": "0x7FFD8975D728",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__94",
+                "rva": "0x4D728",
+                "type": ""
+            },
+            "qword_0x4D730": {
+                "address": "0x7FFD8975D730",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__95",
+                "rva": "0x4D730",
+                "type": ""
+            },
+            "qword_0x4D738": {
+                "address": "0x7FFD8975D738",
+                "current_value": "0x652",
+                "resolved_name": "ud_itab__96",
+                "rva": "0x4D738",
+                "type": ""
+            },
+            "qword_0x4D740": {
+                "address": "0x7FFD8975D740",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__97",
+                "rva": "0x4D740",
+                "type": ""
+            },
+            "qword_0x4D748": {
+                "address": "0x7FFD8975D748",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__98",
+                "rva": "0x4D748",
+                "type": ""
+            },
+            "qword_0x4D750": {
+                "address": "0x7FFD8975D750",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__99",
+                "rva": "0x4D750",
+                "type": ""
+            },
+            "qword_0x4D758": {
+                "address": "0x7FFD8975D758",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__100",
+                "rva": "0x4D758",
+                "type": ""
+            },
+            "qword_0x4D760": {
+                "address": "0x7FFD8975D760",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__101",
+                "rva": "0x4D760",
+                "type": ""
+            },
+            "qword_0x4D768": {
+                "address": "0x7FFD8975D768",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__102",
+                "rva": "0x4D768",
+                "type": ""
+            },
+            "qword_0x4D770": {
+                "address": "0x7FFD8975D770",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__103",
+                "rva": "0x4D770",
+                "type": ""
+            },
+            "qword_0x4D778": {
+                "address": "0x7FFD8975D778",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__104",
+                "rva": "0x4D778",
+                "type": ""
+            },
+            "qword_0x4D780": {
+                "address": "0x7FFD8975D780",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__105",
+                "rva": "0x4D780",
+                "type": ""
+            },
+            "qword_0x4D788": {
+                "address": "0x7FFD8975D788",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__106",
+                "rva": "0x4D788",
+                "type": ""
+            },
+            "qword_0x4D790": {
+                "address": "0x7FFD8975D790",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__107",
+                "rva": "0x4D790",
+                "type": ""
+            },
+            "qword_0x4D798": {
+                "address": "0x7FFD8975D798",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__108",
+                "rva": "0x4D798",
+                "type": ""
+            },
+            "qword_0x4D7A0": {
+                "address": "0x7FFD8975D7A0",
+                "current_value": "0x3D",
+                "resolved_name": "ud_itab__109",
+                "rva": "0x4D7A0",
+                "type": ""
+            },
+            "qword_0x4D7A8": {
+                "address": "0x7FFD8975D7A8",
+                "current_value": "0x41",
+                "resolved_name": "ud_itab__110",
+                "rva": "0x4D7A8",
+                "type": ""
+            },
+            "qword_0x4D7B0": {
+                "address": "0x7FFD8975D7B0",
+                "current_value": "0x8076808980718070",
+                "resolved_name": "ud_itab__111",
+                "rva": "0x4D7B0",
+                "type": ""
+            },
+            "qword_0x4D7B4": {
+                "address": "0x7FFD8975D7B4",
+                "current_value": "0x2AA02AB80768089",
+                "resolved_name": "ud_itab__117",
+                "rva": "0x4D7B4",
+                "type": ""
+            },
+            "qword_0x4D7B8": {
+                "address": "0x7FFD8975D7B8",
+                "current_value": "0x578030002AA02AB",
+                "resolved_name": "ud_itab__112",
+                "rva": "0x4D7B8",
+                "type": ""
+            },
+            "qword_0x4D7C8": {
+                "address": "0x7FFD8975D7C8",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__113",
+                "rva": "0x4D7C8",
+                "type": ""
+            },
+            "qword_0x4D7D8": {
+                "address": "0x7FFD8975D7D8",
+                "current_value": "0x30C030B030A0309",
+                "resolved_name": "ud_itab__114",
+                "rva": "0x4D7D8",
+                "type": ""
+            },
+            "qword_0x4D7E8": {
+                "address": "0x7FFD8975D7E8",
+                "current_value": "0x32B032A03290328",
+                "resolved_name": "ud_itab__115",
+                "rva": "0x4D7E8",
+                "type": ""
+            },
+            "qword_0x4D7F8": {
+                "address": "0x7FFD8975D7F8",
+                "current_value": "0x559055805570556",
+                "resolved_name": "ud_itab__116",
+                "rva": "0x4D7F8",
+                "type": ""
+            },
+            "qword_0x4D808": {
+                "address": "0x7FFD8975D808",
+                "current_value": "0x8077808880808083",
+                "resolved_name": "ud_itab__118",
+                "rva": "0x4D808",
+                "type": ""
+            },
+            "qword_0x4D818": {
+                "address": "0x7FFD8975D818",
+                "current_value": "0x807F807E807D807C",
+                "resolved_name": "ud_itab__119",
+                "rva": "0x4D818",
+                "type": ""
+            },
+            "qword_0x4D828": {
+                "address": "0x7FFD8975D828",
+                "current_value": "0x50",
+                "resolved_name": "ud_itab__120",
+                "rva": "0x4D828",
+                "type": ""
+            },
+            "qword_0x4D830": {
+                "address": "0x7FFD8975D830",
+                "current_value": "0x2D0",
+                "resolved_name": "ud_itab__121",
+                "rva": "0x4D830",
+                "type": ""
+            },
+            "qword_0x4D838": {
+                "address": "0x7FFD8975D838",
+                "current_value": "0x575",
+                "resolved_name": "ud_itab__122",
+                "rva": "0x4D838",
+                "type": ""
+            },
+            "qword_0x4D840": {
+                "address": "0x7FFD8975D840",
+                "current_value": "0x577",
+                "resolved_name": "ud_itab__123",
+                "rva": "0x4D840",
+                "type": ""
+            },
+            "qword_0x4D848": {
+                "address": "0x7FFD8975D848",
+                "current_value": "0x5BA",
+                "resolved_name": "ud_itab__124",
+                "rva": "0x4D848",
+                "type": ""
+            },
+            "qword_0x4D850": {
+                "address": "0x7FFD8975D850",
+                "current_value": "0x5BB",
+                "resolved_name": "ud_itab__125",
+                "rva": "0x4D850",
+                "type": ""
+            },
+            "qword_0x4D858": {
+                "address": "0x7FFD8975D858",
+                "current_value": "0x5BC",
+                "resolved_name": "ud_itab__126",
+                "rva": "0x4D858",
+                "type": ""
+            },
+            "qword_0x4D860": {
+                "address": "0x7FFD8975D860",
+                "current_value": "0x5BD",
+                "resolved_name": "ud_itab__127",
+                "rva": "0x4D860",
+                "type": ""
+            },
+            "qword_0x4D868": {
+                "address": "0x7FFD8975D868",
+                "current_value": "0x3B80338",
+                "resolved_name": "ud_itab__128",
+                "rva": "0x4D868",
+                "type": ""
+            },
+            "qword_0x4D878": {
+                "address": "0x7FFD8975D878",
+                "current_value": "0x80820591",
+                "resolved_name": "ud_itab__129",
+                "rva": "0x4D878",
+                "type": ""
+            },
+            "qword_0x4D888": {
+                "address": "0x7FFD8975D888",
+                "current_value": "0x512",
+                "resolved_name": "ud_itab__130",
+                "rva": "0x4D888",
+                "type": ""
+            },
+            "qword_0x4D890": {
+                "address": "0x7FFD8975D890",
+                "current_value": "0x8086808580840000",
+                "resolved_name": "ud_itab__131",
+                "rva": "0x4D890",
+                "type": ""
+            },
+            "qword_0x4D8A0": {
+                "address": "0x7FFD8975D8A0",
+                "current_value": "0x5AF0000",
+                "resolved_name": "ud_itab__132",
+                "rva": "0x4D8A0",
+                "type": ""
+            },
+            "qword_0x4D8A8": {
+                "address": "0x7FFD8975D8A8",
+                "current_value": "0x5B50000",
+                "resolved_name": "ud_itab__133",
+                "rva": "0x4D8A8",
+                "type": ""
+            },
+            "qword_0x4D8B0": {
+                "address": "0x7FFD8975D8B0",
+                "current_value": "0x5B60000",
+                "resolved_name": "ud_itab__134",
+                "rva": "0x4D8B0",
+                "type": ""
+            },
+            "qword_0x4D8B8": {
+                "address": "0x7FFD8975D8B8",
+                "current_value": "0x5B70000",
+                "resolved_name": "ud_itab__135",
+                "rva": "0x4D8B8",
+                "type": ""
+            },
+            "qword_0x4D8C0": {
+                "address": "0x7FFD8975D8C0",
+                "current_value": "0x5E405CD",
+                "resolved_name": "ud_itab__136",
+                "rva": "0x4D8C0",
+                "type": ""
+            },
+            "qword_0x4D8D0": {
+                "address": "0x7FFD8975D8D0",
+                "current_value": "0x30603110567055E",
+                "resolved_name": "ud_itab__137",
+                "rva": "0x4D8D0",
+                "type": ""
+            },
+            "qword_0x4D8E0": {
+                "address": "0x7FFD8975D8E0",
+                "current_value": "0x7800000070",
+                "resolved_name": "ud_itab__138",
+                "rva": "0x4D8E0",
+                "type": ""
+            },
+            "qword_0x4D8E8": {
+                "address": "0x7FFD8975D8E8",
+                "current_value": "0x809E00008093808C",
+                "resolved_name": "ud_itab__139",
+                "rva": "0x4D8E8",
+                "type": ""
+            },
+            "qword_0x4D8EC": {
+                "address": "0x7FFD8975D8EC",
+                "current_value": "0x808D0000809E0000",
+                "resolved_name": "ud_itab__157",
+                "rva": "0x4D8EC",
+                "type": ""
+            },
+            "qword_0x4D8F0": {
+                "address": "0x7FFD8975D8F0",
+                "current_value": "0x808D0000",
+                "resolved_name": "ud_itab__140",
+                "rva": "0x4D8F0",
+                "type": ""
+            },
+            "qword_0x4D900": {
+                "address": "0x7FFD8975D900",
+                "current_value": "0x7E007D0000",
+                "resolved_name": "ud_itab__141",
+                "rva": "0x4D900",
+                "type": ""
+            },
+            "qword_0x4D908": {
+                "address": "0x7FFD8975D908",
+                "current_value": "0x809000008091",
+                "resolved_name": "ud_itab__142",
+                "rva": "0x4D908",
+                "type": ""
+            },
+            "qword_0x4D910": {
+                "address": "0x7FFD8975D910",
+                "current_value": "0x5B10000",
+                "resolved_name": "ud_itab__143",
+                "rva": "0x4D910",
+                "type": ""
+            },
+            "qword_0x4D918": {
+                "address": "0x7FFD8975D918",
+                "current_value": "0x5B20000",
+                "resolved_name": "ud_itab__144",
+                "rva": "0x4D918",
+                "type": ""
+            },
+            "qword_0x4D920": {
+                "address": "0x7FFD8975D920",
+                "current_value": "0x5B30000",
+                "resolved_name": "ud_itab__145",
+                "rva": "0x4D920",
+                "type": ""
+            },
+            "qword_0x4D928": {
+                "address": "0x7FFD8975D928",
+                "current_value": "0x5B40000",
+                "resolved_name": "ud_itab__146",
+                "rva": "0x4D928",
+                "type": ""
+            },
+            "qword_0x4D930": {
+                "address": "0x7FFD8975D930",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__147",
+                "rva": "0x4D930",
+                "type": ""
+            },
+            "qword_0x4D940": {
+                "address": "0x7FFD8975D940",
+                "current_value": "0x81",
+                "resolved_name": "ud_itab__148",
+                "rva": "0x4D940",
+                "type": ""
+            },
+            "qword_0x4D948": {
+                "address": "0x7FFD8975D948",
+                "current_value": "0x8400000000",
+                "resolved_name": "ud_itab__149",
+                "rva": "0x4D948",
+                "type": ""
+            },
+            "qword_0x4D950": {
+                "address": "0x7FFD8975D950",
+                "current_value": "0xA300000086",
+                "resolved_name": "ud_itab__150",
+                "rva": "0x4D950",
+                "type": ""
+            },
+            "qword_0x4D958": {
+                "address": "0x7FFD8975D958",
+                "current_value": "0x9E00000093",
+                "resolved_name": "ud_itab__151",
+                "rva": "0x4D958",
+                "type": ""
+            },
+            "qword_0x4D960": {
+                "address": "0x7FFD8975D960",
+                "current_value": "0x9C00000091",
+                "resolved_name": "ud_itab__152",
+                "rva": "0x4D960",
+                "type": ""
+            },
+            "qword_0x4D968": {
+                "address": "0x7FFD8975D968",
+                "current_value": "0x9A0000008D",
+                "resolved_name": "ud_itab__153",
+                "rva": "0x4D968",
+                "type": ""
+            },
+            "qword_0x4D970": {
+                "address": "0x7FFD8975D970",
+                "current_value": "0xA8000000A5",
+                "resolved_name": "ud_itab__154",
+                "rva": "0x4D970",
+                "type": ""
+            },
+            "qword_0x4D978": {
+                "address": "0x7FFD8975D978",
+                "current_value": "0xC1000000BD",
+                "resolved_name": "ud_itab__155",
+                "rva": "0x4D978",
+                "type": ""
+            },
+            "qword_0x4D980": {
+                "address": "0x7FFD8975D980",
+                "current_value": "0x31E0312057E0568",
+                "resolved_name": "ud_itab__156",
+                "rva": "0x4D980",
+                "type": ""
+            },
+            "qword_0x4D990": {
+                "address": "0x7FFD8975D990",
+                "current_value": "0x31F",
+                "resolved_name": "ud_itab__158",
+                "rva": "0x4D990",
+                "type": ""
+            },
+            "qword_0x4D998": {
+                "address": "0x7FFD8975D998",
+                "current_value": "0x32600000322",
+                "resolved_name": "ud_itab__159",
+                "rva": "0x4D998",
+                "type": ""
+            },
+            "qword_0x4D9A0": {
+                "address": "0x7FFD8975D9A0",
+                "current_value": "0x33600000332",
+                "resolved_name": "ud_itab__160",
+                "rva": "0x4D9A0",
+                "type": ""
+            },
+            "qword_0x4D9A8": {
+                "address": "0x7FFD8975D9A8",
+                "current_value": "0x80B080AF80A20000",
+                "resolved_name": "ud_itab__161",
+                "rva": "0x4D9A8",
+                "type": ""
+            },
+            "qword_0x4D9AC": {
+                "address": "0x7FFD8975D9AC",
+                "current_value": "0x80A480A380B080AF",
+                "resolved_name": "ud_itab__174",
+                "rva": "0x4D9AC",
+                "type": ""
+            },
+            "qword_0x4D9B0": {
+                "address": "0x7FFD8975D9B0",
+                "current_value": "0x80A580A480A3",
+                "resolved_name": "ud_itab__162",
+                "rva": "0x4D9B0",
+                "type": ""
+            },
+            "qword_0x4D9C0": {
+                "address": "0x7FFD8975D9C0",
+                "current_value": "0x339",
+                "resolved_name": "ud_itab__163",
+                "rva": "0x4D9C0",
+                "type": ""
+            },
+            "qword_0x4D9D0": {
+                "address": "0x7FFD8975D9D0",
+                "current_value": "0x5E5",
+                "resolved_name": "ud_itab__164",
+                "rva": "0x4D9D0",
+                "type": ""
+            },
+            "qword_0x4D9E0": {
+                "address": "0x7FFD8975D9E0",
+                "current_value": "0x5E6",
+                "resolved_name": "ud_itab__165",
+                "rva": "0x4D9E0",
+                "type": ""
+            },
+            "qword_0x4D9F0": {
+                "address": "0x7FFD8975D9F0",
+                "current_value": "0x35E",
+                "resolved_name": "ud_itab__166",
+                "rva": "0x4D9F0",
+                "type": ""
+            },
+            "qword_0x4D9F8": {
+                "address": "0x7FFD8975D9F8",
+                "current_value": "0x360",
+                "resolved_name": "ud_itab__167",
+                "rva": "0x4D9F8",
+                "type": ""
+            },
+            "qword_0x4DA00": {
+                "address": "0x7FFD8975DA00",
+                "current_value": "0x80A9",
+                "resolved_name": "ud_itab__168",
+                "rva": "0x4DA00",
+                "type": ""
+            },
+            "qword_0x4DA08": {
+                "address": "0x7FFD8975DA08",
+                "current_value": "0x38E03630000",
+                "resolved_name": "ud_itab__169",
+                "rva": "0x4DA08",
+                "type": ""
+            },
+            "qword_0x4DA10": {
+                "address": "0x7FFD8975DA10",
+                "current_value": "0x38F03660000",
+                "resolved_name": "ud_itab__170",
+                "rva": "0x4DA10",
+                "type": ""
+            },
+            "qword_0x4DA18": {
+                "address": "0x7FFD8975DA18",
+                "current_value": "0x394000080AC",
+                "resolved_name": "ud_itab__171",
+                "rva": "0x4DA18",
+                "type": ""
+            },
+            "qword_0x4DA20": {
+                "address": "0x7FFD8975DA20",
+                "current_value": "0x39103690000",
+                "resolved_name": "ud_itab__172",
+                "rva": "0x4DA20",
+                "type": ""
+            },
+            "qword_0x4DA28": {
+                "address": "0x7FFD8975DA28",
+                "current_value": "0x392036C0000",
+                "resolved_name": "ud_itab__173",
+                "rva": "0x4DA28",
+                "type": ""
+            },
+            "qword_0x4DA30": {
+                "address": "0x7FFD8975DA30",
+                "current_value": "0x61F00000372",
+                "resolved_name": "ud_itab__175",
+                "rva": "0x4DA30",
+                "type": ""
+            },
+            "qword_0x4DA38": {
+                "address": "0x7FFD8975DA38",
+                "current_value": "0x61D00000376",
+                "resolved_name": "ud_itab__176",
+                "rva": "0x4DA38",
+                "type": ""
+            },
+            "qword_0x4DA40": {
+                "address": "0x7FFD8975DA40",
+                "current_value": "0x374",
+                "resolved_name": "ud_itab__177",
+                "rva": "0x4DA40",
+                "type": ""
+            },
+            "qword_0x4DA48": {
+                "address": "0x7FFD8975DA48",
+                "current_value": "0x810E059380B480B3",
+                "resolved_name": "ud_itab__178",
+                "rva": "0x4DA48",
+                "type": ""
+            },
+            "qword_0x4DA4C": {
+                "address": "0x7FFD8975DA4C",
+                "current_value": "0x37C810E0593",
+                "resolved_name": "ud_itab__269",
+                "rva": "0x4DA4C",
+                "type": ""
+            },
+            "qword_0x4DA50": {
+                "address": "0x7FFD8975DA50",
+                "current_value": "0x6230000037C",
+                "resolved_name": "ud_itab__179",
+                "rva": "0x4DA50",
+                "type": ""
+            },
+            "qword_0x4DA58": {
+                "address": "0x7FFD8975DA58",
+                "current_value": "0x62100000380",
+                "resolved_name": "ud_itab__180",
+                "rva": "0x4DA58",
+                "type": ""
+            },
+            "qword_0x4DA60": {
+                "address": "0x7FFD8975DA60",
+                "current_value": "0x37E",
+                "resolved_name": "ud_itab__181",
+                "rva": "0x4DA60",
+                "type": ""
+            },
+            "qword_0x4DA68": {
+                "address": "0x7FFD8975DA68",
+                "current_value": "0x384",
+                "resolved_name": "ud_itab__182",
+                "rva": "0x4DA68",
+                "type": ""
+            },
+            "qword_0x4DA70": {
+                "address": "0x7FFD8975DA70",
+                "current_value": "0x38D",
+                "resolved_name": "ud_itab__183",
+                "rva": "0x4DA70",
+                "type": ""
+            },
+            "qword_0x4DA78": {
+                "address": "0x7FFD8975DA78",
+                "current_value": "0x38B",
+                "resolved_name": "ud_itab__184",
+                "rva": "0x4DA78",
+                "type": ""
+            },
+            "qword_0x4DA80": {
+                "address": "0x7FFD8975DA80",
+                "current_value": "0x5F600000000",
+                "resolved_name": "ud_itab__185",
+                "rva": "0x4DA80",
+                "type": ""
+            },
+            "qword_0x4DA88": {
+                "address": "0x7FFD8975DA88",
+                "current_value": "0x5F200000398",
+                "resolved_name": "ud_itab__186",
+                "rva": "0x4DA88",
+                "type": ""
+            },
+            "qword_0x4DA90": {
+                "address": "0x7FFD8975DA90",
+                "current_value": "0x5F400000399",
+                "resolved_name": "ud_itab__187",
+                "rva": "0x4DA90",
+                "type": ""
+            },
+            "qword_0x4DA98": {
+                "address": "0x7FFD8975DA98",
+                "current_value": "0x3A0000003A8",
+                "resolved_name": "ud_itab__188",
+                "rva": "0x4DA98",
+                "type": ""
+            },
+            "qword_0x4DAA0": {
+                "address": "0x7FFD8975DAA0",
+                "current_value": "0x3A1000003AA",
+                "resolved_name": "ud_itab__189",
+                "rva": "0x4DAA0",
+                "type": ""
+            },
+            "qword_0x4DAA8": {
+                "address": "0x7FFD8975DAA8",
+                "current_value": "0x3B6000003B2",
+                "resolved_name": "ud_itab__190",
+                "rva": "0x4DAA8",
+                "type": ""
+            },
+            "qword_0x4DAB0": {
+                "address": "0x7FFD8975DAB0",
+                "current_value": "0x3D0",
+                "resolved_name": "ud_itab__191",
+                "rva": "0x4DAB0",
+                "type": ""
+            },
+            "qword_0x4DAB8": {
+                "address": "0x7FFD8975DAB8",
+                "current_value": "0x3DB",
+                "resolved_name": "ud_itab__192",
+                "rva": "0x4DAB8",
+                "type": ""
+            },
+            "qword_0x4DAC0": {
+                "address": "0x7FFD8975DAC0",
+                "current_value": "0x3DE",
+                "resolved_name": "ud_itab__193",
+                "rva": "0x4DAC0",
+                "type": ""
+            },
+            "qword_0x4DAC8": {
+                "address": "0x7FFD8975DAC8",
+                "current_value": "0x3E1",
+                "resolved_name": "ud_itab__194",
+                "rva": "0x4DAC8",
+                "type": ""
+            },
+            "qword_0x4DAD0": {
+                "address": "0x7FFD8975DAD0",
+                "current_value": "0x3E4",
+                "resolved_name": "ud_itab__195",
+                "rva": "0x4DAD0",
+                "type": ""
+            },
+            "qword_0x4DAD8": {
+                "address": "0x7FFD8975DAD8",
+                "current_value": "0x3E5",
+                "resolved_name": "ud_itab__196",
+                "rva": "0x4DAD8",
+                "type": ""
+            },
+            "qword_0x4DAE0": {
+                "address": "0x7FFD8975DAE0",
+                "current_value": "0x3E8",
+                "resolved_name": "ud_itab__197",
+                "rva": "0x4DAE0",
+                "type": ""
+            },
+            "qword_0x4DAE8": {
+                "address": "0x7FFD8975DAE8",
+                "current_value": "0x3EB",
+                "resolved_name": "ud_itab__198",
+                "rva": "0x4DAE8",
+                "type": ""
+            },
+            "qword_0x4DAF0": {
+                "address": "0x7FFD8975DAF0",
+                "current_value": "0x3EE",
+                "resolved_name": "ud_itab__199",
+                "rva": "0x4DAF0",
+                "type": ""
+            },
+            "qword_0x4DAF8": {
+                "address": "0x7FFD8975DAF8",
+                "current_value": "0x3F1",
+                "resolved_name": "ud_itab__200",
+                "rva": "0x4DAF8",
+                "type": ""
+            },
+            "qword_0x4DB00": {
+                "address": "0x7FFD8975DB00",
+                "current_value": "0x3F4",
+                "resolved_name": "ud_itab__201",
+                "rva": "0x4DB00",
+                "type": ""
+            },
+            "qword_0x4DB08": {
+                "address": "0x7FFD8975DB08",
+                "current_value": "0x3F9",
+                "resolved_name": "ud_itab__202",
+                "rva": "0x4DB08",
+                "type": ""
+            },
+            "qword_0x4DB10": {
+                "address": "0x7FFD8975DB10",
+                "current_value": "0x3FC",
+                "resolved_name": "ud_itab__203",
+                "rva": "0x4DB10",
+                "type": ""
+            },
+            "qword_0x4DB18": {
+                "address": "0x7FFD8975DB18",
+                "current_value": "0x3FF",
+                "resolved_name": "ud_itab__204",
+                "rva": "0x4DB18",
+                "type": ""
+            },
+            "qword_0x4DB20": {
+                "address": "0x7FFD8975DB20",
+                "current_value": "0x402",
+                "resolved_name": "ud_itab__205",
+                "rva": "0x4DB20",
+                "type": ""
+            },
+            "qword_0x4DB28": {
+                "address": "0x7FFD8975DB28",
+                "current_value": "0x403",
+                "resolved_name": "ud_itab__206",
+                "rva": "0x4DB28",
+                "type": ""
+            },
+            "qword_0x4DB30": {
+                "address": "0x7FFD8975DB30",
+                "current_value": "0x406",
+                "resolved_name": "ud_itab__207",
+                "rva": "0x4DB30",
+                "type": ""
+            },
+            "qword_0x4DB38": {
+                "address": "0x7FFD8975DB38",
+                "current_value": "0x409",
+                "resolved_name": "ud_itab__208",
+                "rva": "0x4DB38",
+                "type": ""
+            },
+            "qword_0x4DB40": {
+                "address": "0x7FFD8975DB40",
+                "current_value": "0x40E",
+                "resolved_name": "ud_itab__209",
+                "rva": "0x4DB40",
+                "type": ""
+            },
+            "qword_0x4DB48": {
+                "address": "0x7FFD8975DB48",
+                "current_value": "0x411",
+                "resolved_name": "ud_itab__210",
+                "rva": "0x4DB48",
+                "type": ""
+            },
+            "qword_0x4DB50": {
+                "address": "0x7FFD8975DB50",
+                "current_value": "0x414",
+                "resolved_name": "ud_itab__211",
+                "rva": "0x4DB50",
+                "type": ""
+            },
+            "qword_0x4DB58": {
+                "address": "0x7FFD8975DB58",
+                "current_value": "0x41F",
+                "resolved_name": "ud_itab__212",
+                "rva": "0x4DB58",
+                "type": ""
+            },
+            "qword_0x4DB60": {
+                "address": "0x7FFD8975DB60",
+                "current_value": "0x423",
+                "resolved_name": "ud_itab__213",
+                "rva": "0x4DB60",
+                "type": ""
+            },
+            "qword_0x4DB68": {
+                "address": "0x7FFD8975DB68",
+                "current_value": "0x42D",
+                "resolved_name": "ud_itab__214",
+                "rva": "0x4DB68",
+                "type": ""
+            },
+            "qword_0x4DB70": {
+                "address": "0x7FFD8975DB70",
+                "current_value": "0x432",
+                "resolved_name": "ud_itab__215",
+                "rva": "0x4DB70",
+                "type": ""
+            },
+            "qword_0x4DB78": {
+                "address": "0x7FFD8975DB78",
+                "current_value": "0x433",
+                "resolved_name": "ud_itab__216",
+                "rva": "0x4DB78",
+                "type": ""
+            },
+            "qword_0x4DB80": {
+                "address": "0x7FFD8975DB80",
+                "current_value": "0x438",
+                "resolved_name": "ud_itab__217",
+                "rva": "0x4DB80",
+                "type": ""
+            },
+            "qword_0x4DB88": {
+                "address": "0x7FFD8975DB88",
+                "current_value": "0x43B",
+                "resolved_name": "ud_itab__218",
+                "rva": "0x4DB88",
+                "type": ""
+            },
+            "qword_0x4DB90": {
+                "address": "0x7FFD8975DB90",
+                "current_value": "0x43E",
+                "resolved_name": "ud_itab__219",
+                "rva": "0x4DB90",
+                "type": ""
+            },
+            "qword_0x4DB98": {
+                "address": "0x7FFD8975DB98",
+                "current_value": "0x43F",
+                "resolved_name": "ud_itab__220",
+                "rva": "0x4DB98",
+                "type": ""
+            },
+            "qword_0x4DBA0": {
+                "address": "0x7FFD8975DBA0",
+                "current_value": "0x444",
+                "resolved_name": "ud_itab__221",
+                "rva": "0x4DBA0",
+                "type": ""
+            },
+            "qword_0x4DBA8": {
+                "address": "0x7FFD8975DBA8",
+                "current_value": "0x445",
+                "resolved_name": "ud_itab__222",
+                "rva": "0x4DBA8",
+                "type": ""
+            },
+            "qword_0x4DBB0": {
+                "address": "0x7FFD8975DBB0",
+                "current_value": "0x45E",
+                "resolved_name": "ud_itab__223",
+                "rva": "0x4DBB0",
+                "type": ""
+            },
+            "qword_0x4DBB8": {
+                "address": "0x7FFD8975DBB8",
+                "current_value": "0x46204610460045F",
+                "resolved_name": "ud_itab__224",
+                "rva": "0x4DBB8",
+                "type": ""
+            },
+            "qword_0x4DBC8": {
+                "address": "0x7FFD8975DBC8",
+                "current_value": "0x46A046904680467",
+                "resolved_name": "ud_itab__225",
+                "rva": "0x4DBC8",
+                "type": ""
+            },
+            "qword_0x4DBD8": {
+                "address": "0x7FFD8975DBD8",
+                "current_value": "0x46D",
+                "resolved_name": "ud_itab__226",
+                "rva": "0x4DBD8",
+                "type": ""
+            },
+            "qword_0x4DBE0": {
+                "address": "0x7FFD8975DBE0",
+                "current_value": "0x5FF0000046E",
+                "resolved_name": "ud_itab__227",
+                "rva": "0x4DBE0",
+                "type": ""
+            },
+            "qword_0x4DBE8": {
+                "address": "0x7FFD8975DBE8",
+                "current_value": "0x470",
+                "resolved_name": "ud_itab__228",
+                "rva": "0x4DBE8",
+                "type": ""
+            },
+            "qword_0x4DBF0": {
+                "address": "0x7FFD8975DBF0",
+                "current_value": "0x80E800000000",
+                "resolved_name": "ud_itab__229",
+                "rva": "0x4DBF0",
+                "type": ""
+            },
+            "qword_0x4DC00": {
+                "address": "0x7FFD8975DC00",
+                "current_value": "0x472",
+                "resolved_name": "ud_itab__230",
+                "rva": "0x4DC00",
+                "type": ""
+            },
+            "qword_0x4DC08": {
+                "address": "0x7FFD8975DC08",
+                "current_value": "0x480",
+                "resolved_name": "ud_itab__231",
+                "rva": "0x4DC08",
+                "type": ""
+            },
+            "qword_0x4DC10": {
+                "address": "0x7FFD8975DC10",
+                "current_value": "0x487",
+                "resolved_name": "ud_itab__232",
+                "rva": "0x4DC10",
+                "type": ""
+            },
+            "qword_0x4DC18": {
+                "address": "0x7FFD8975DC18",
+                "current_value": "0x474",
+                "resolved_name": "ud_itab__233",
+                "rva": "0x4DC18",
+                "type": ""
+            },
+            "qword_0x4DC20": {
+                "address": "0x7FFD8975DC20",
+                "current_value": "0x80ED00000000",
+                "resolved_name": "ud_itab__234",
+                "rva": "0x4DC20",
+                "type": ""
+            },
+            "qword_0x4DC30": {
+                "address": "0x7FFD8975DC30",
+                "current_value": "0x476",
+                "resolved_name": "ud_itab__235",
+                "rva": "0x4DC30",
+                "type": ""
+            },
+            "qword_0x4DC38": {
+                "address": "0x7FFD8975DC38",
+                "current_value": "0x481",
+                "resolved_name": "ud_itab__236",
+                "rva": "0x4DC38",
+                "type": ""
+            },
+            "qword_0x4DC40": {
+                "address": "0x7FFD8975DC40",
+                "current_value": "0x48D",
+                "resolved_name": "ud_itab__237",
+                "rva": "0x4DC40",
+                "type": ""
+            },
+            "qword_0x4DC48": {
+                "address": "0x7FFD8975DC48",
+                "current_value": "0x478",
+                "resolved_name": "ud_itab__238",
+                "rva": "0x4DC48",
+                "type": ""
+            },
+            "qword_0x4DC50": {
+                "address": "0x7FFD8975DC50",
+                "current_value": "0x80F380F100000000",
+                "resolved_name": "ud_itab__239",
+                "rva": "0x4DC50",
+                "type": ""
+            },
+            "qword_0x4DC60": {
+                "address": "0x7FFD8975DC60",
+                "current_value": "0x47A",
+                "resolved_name": "ud_itab__240",
+                "rva": "0x4DC60",
+                "type": ""
+            },
+            "qword_0x4DC68": {
+                "address": "0x7FFD8975DC68",
+                "current_value": "0x493",
+                "resolved_name": "ud_itab__241",
+                "rva": "0x4DC68",
+                "type": ""
+            },
+            "qword_0x4DC70": {
+                "address": "0x7FFD8975DC70",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__242",
+                "rva": "0x4DC70",
+                "type": ""
+            },
+            "qword_0x4DC78": {
+                "address": "0x7FFD8975DC78",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__243",
+                "rva": "0x4DC78",
+                "type": ""
+            },
+            "qword_0x4DC80": {
+                "address": "0x7FFD8975DC80",
+                "current_value": "0x47B",
+                "resolved_name": "ud_itab__244",
+                "rva": "0x4DC80",
+                "type": ""
+            },
+            "qword_0x4DC88": {
+                "address": "0x7FFD8975DC88",
+                "current_value": "0x484",
+                "resolved_name": "ud_itab__245",
+                "rva": "0x4DC88",
+                "type": ""
+            },
+            "qword_0x4DC90": {
+                "address": "0x7FFD8975DC90",
+                "current_value": "0x488",
+                "resolved_name": "ud_itab__246",
+                "rva": "0x4DC90",
+                "type": ""
+            },
+            "qword_0x4DC98": {
+                "address": "0x7FFD8975DC98",
+                "current_value": "0x48E",
+                "resolved_name": "ud_itab__247",
+                "rva": "0x4DC98",
+                "type": ""
+            },
+            "qword_0x4DCA0": {
+                "address": "0x7FFD8975DCA0",
+                "current_value": "0x494",
+                "resolved_name": "ud_itab__248",
+                "rva": "0x4DCA0",
+                "type": ""
+            },
+            "qword_0x4DCA8": {
+                "address": "0x7FFD8975DCA8",
+                "current_value": "0x49B",
+                "resolved_name": "ud_itab__249",
+                "rva": "0x4DCA8",
+                "type": ""
+            },
+            "qword_0x4DCB0": {
+                "address": "0x7FFD8975DCB0",
+                "current_value": "0x49E",
+                "resolved_name": "ud_itab__250",
+                "rva": "0x4DCB0",
+                "type": ""
+            },
+            "qword_0x4DCB8": {
+                "address": "0x7FFD8975DCB8",
+                "current_value": "0x49F",
+                "resolved_name": "ud_itab__251",
+                "rva": "0x4DCB8",
+                "type": ""
+            },
+            "qword_0x4DCC0": {
+                "address": "0x7FFD8975DCC0",
+                "current_value": "0x4A2",
+                "resolved_name": "ud_itab__252",
+                "rva": "0x4DCC0",
+                "type": ""
+            },
+            "qword_0x4DCC8": {
+                "address": "0x7FFD8975DCC8",
+                "current_value": "0x4A5",
+                "resolved_name": "ud_itab__253",
+                "rva": "0x4DCC8",
+                "type": ""
+            },
+            "qword_0x4DCD0": {
+                "address": "0x7FFD8975DCD0",
+                "current_value": "0x4A8",
+                "resolved_name": "ud_itab__254",
+                "rva": "0x4DCD0",
+                "type": ""
+            },
+            "qword_0x4DCD8": {
+                "address": "0x7FFD8975DCD8",
+                "current_value": "0x4AB",
+                "resolved_name": "ud_itab__255",
+                "rva": "0x4DCD8",
+                "type": ""
+            },
+            "qword_0x4DCE0": {
+                "address": "0x7FFD8975DCE0",
+                "current_value": "0x4B0",
+                "resolved_name": "ud_itab__256",
+                "rva": "0x4DCE0",
+                "type": ""
+            },
+            "qword_0x4DCE8": {
+                "address": "0x7FFD8975DCE8",
+                "current_value": "0x4B3",
+                "resolved_name": "ud_itab__257",
+                "rva": "0x4DCE8",
+                "type": ""
+            },
+            "qword_0x4DCF0": {
+                "address": "0x7FFD8975DCF0",
+                "current_value": "0x4B6",
+                "resolved_name": "ud_itab__258",
+                "rva": "0x4DCF0",
+                "type": ""
+            },
+            "qword_0x4DCF8": {
+                "address": "0x7FFD8975DCF8",
+                "current_value": "0x4B9",
+                "resolved_name": "ud_itab__259",
+                "rva": "0x4DCF8",
+                "type": ""
+            },
+            "qword_0x4DD00": {
+                "address": "0x7FFD8975DD00",
+                "current_value": "0x4BC",
+                "resolved_name": "ud_itab__260",
+                "rva": "0x4DD00",
+                "type": ""
+            },
+            "qword_0x4DD08": {
+                "address": "0x7FFD8975DD08",
+                "current_value": "0x4BF",
+                "resolved_name": "ud_itab__261",
+                "rva": "0x4DD08",
+                "type": ""
+            },
+            "qword_0x4DD10": {
+                "address": "0x7FFD8975DD10",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__262",
+                "rva": "0x4DD10",
+                "type": ""
+            },
+            "qword_0x4DF10": {
+                "address": "0x7FFD8975DF10",
+                "current_value": "0x4F2",
+                "resolved_name": "ud_itab__263",
+                "rva": "0x4DF10",
+                "type": ""
+            },
+            "qword_0x4DF18": {
+                "address": "0x7FFD8975DF18",
+                "current_value": "0x50D0000050B",
+                "resolved_name": "ud_itab__264",
+                "rva": "0x4DF18",
+                "type": ""
+            },
+            "qword_0x4DF20": {
+                "address": "0x7FFD8975DF20",
+                "current_value": "0x51C0000051A",
+                "resolved_name": "ud_itab__265",
+                "rva": "0x4DF20",
+                "type": ""
+            },
+            "qword_0x4DF28": {
+                "address": "0x7FFD8975DF28",
+                "current_value": "0x565",
+                "resolved_name": "ud_itab__266",
+                "rva": "0x4DF28",
+                "type": ""
+            },
+            "qword_0x4DF30": {
+                "address": "0x7FFD8975DF30",
+                "current_value": "0x5710000056B",
+                "resolved_name": "ud_itab__267",
+                "rva": "0x4DF30",
+                "type": ""
+            },
+            "qword_0x4DF38": {
+                "address": "0x7FFD8975DF38",
+                "current_value": "0x58F0000058B",
+                "resolved_name": "ud_itab__268",
+                "rva": "0x4DF38",
+                "type": ""
+            },
+            "qword_0x4DF40": {
+                "address": "0x7FFD8975DF40",
+                "current_value": "0x5940000",
+                "resolved_name": "ud_itab__270",
+                "rva": "0x4DF40",
+                "type": ""
+            },
+            "qword_0x4DF48": {
+                "address": "0x7FFD8975DF48",
+                "current_value": "0x596000081100595",
+                "resolved_name": "ud_itab__271",
+                "rva": "0x4DF48",
+                "type": ""
+            },
+            "qword_0x4DF4C": {
+                "address": "0x7FFD8975DF4C",
+                "current_value": "0x5960000",
+                "resolved_name": "ud_itab__272",
+                "rva": "0x4DF4C",
+                "type": ""
+            },
+            "qword_0x4DF54": {
+                "address": "0x7FFD8975DF54",
+                "current_value": "0x5A281180000",
+                "resolved_name": "ud_itab__279",
+                "rva": "0x4DF54",
+                "type": ""
+            },
+            "qword_0x4DF58": {
+                "address": "0x7FFD8975DF58",
+                "current_value": "0x5A2",
+                "resolved_name": "ud_itab__273",
+                "rva": "0x4DF58",
+                "type": ""
+            },
+            "qword_0x4DF60": {
+                "address": "0x7FFD8975DF60",
+                "current_value": "0x5A7",
+                "resolved_name": "ud_itab__274",
+                "rva": "0x4DF60",
+                "type": ""
+            },
+            "qword_0x4DF68": {
+                "address": "0x7FFD8975DF68",
+                "current_value": "0x5A9",
+                "resolved_name": "ud_itab__275",
+                "rva": "0x4DF68",
+                "type": ""
+            },
+            "qword_0x4DF70": {
+                "address": "0x7FFD8975DF70",
+                "current_value": "0x5B80000",
+                "resolved_name": "ud_itab__276",
+                "rva": "0x4DF70",
+                "type": ""
+            },
+            "qword_0x4DF78": {
+                "address": "0x7FFD8975DF78",
+                "current_value": "0x5B90000",
+                "resolved_name": "ud_itab__277",
+                "rva": "0x4DF78",
+                "type": ""
+            },
+            "qword_0x4DF80": {
+                "address": "0x7FFD8975DF80",
+                "current_value": "0x5DB",
+                "resolved_name": "ud_itab__278",
+                "rva": "0x4DF80",
+                "type": ""
+            },
+            "qword_0x4DF88": {
+                "address": "0x7FFD8975DF88",
+                "current_value": "0x811B811A8119811E",
+                "resolved_name": "ud_itab__280",
+                "rva": "0x4DF88",
+                "type": ""
+            },
+            "qword_0x4DF98": {
+                "address": "0x7FFD8975DF98",
+                "current_value": "0x5DD",
+                "resolved_name": "ud_itab__281",
+                "rva": "0x4DF98",
+                "type": ""
+            },
+            "qword_0x4DFA8": {
+                "address": "0x7FFD8975DFA8",
+                "current_value": "0x5DE",
+                "resolved_name": "ud_itab__282",
+                "rva": "0x4DFA8",
+                "type": ""
+            },
+            "qword_0x4DFB8": {
+                "address": "0x7FFD8975DFB8",
+                "current_value": "0x5DF",
+                "resolved_name": "ud_itab__283",
+                "rva": "0x4DFB8",
+                "type": ""
+            },
+            "qword_0x4DFC8": {
+                "address": "0x7FFD8975DFC8",
+                "current_value": "0x5E0",
+                "resolved_name": "ud_itab__284",
+                "rva": "0x4DFC8",
+                "type": ""
+            },
+            "qword_0x4DFD8": {
+                "address": "0x7FFD8975DFD8",
+                "current_value": "0x5E1",
+                "resolved_name": "ud_itab__285",
+                "rva": "0x4DFD8",
+                "type": ""
+            },
+            "qword_0x4DFE8": {
+                "address": "0x7FFD8975DFE8",
+                "current_value": "0x5E7",
+                "resolved_name": "ud_itab__286",
+                "rva": "0x4DFE8",
+                "type": ""
+            },
+            "qword_0x4DFF8": {
+                "address": "0x7FFD8975DFF8",
+                "current_value": "0x5F7",
+                "resolved_name": "ud_itab__287",
+                "rva": "0x4DFF8",
+                "type": ""
+            },
+            "qword_0x4E000": {
+                "address": "0x7FFD8975E000",
+                "current_value": "0x5FC",
+                "resolved_name": "ud_itab__288",
+                "rva": "0x4E000",
+                "type": ""
+            },
+            "qword_0x4E008": {
+                "address": "0x7FFD8975E008",
+                "current_value": "0x5FD",
+                "resolved_name": "ud_itab__289",
+                "rva": "0x4E008",
+                "type": ""
+            },
+            "qword_0x4E010": {
+                "address": "0x7FFD8975E010",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__290",
+                "rva": "0x4E010",
+                "type": ""
+            },
+            "qword_0x4E018": {
+                "address": "0x7FFD8975E018",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__291",
+                "rva": "0x4E018",
+                "type": ""
+            },
+            "qword_0x4E020": {
+                "address": "0x7FFD8975E020",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__292",
+                "rva": "0x4E020",
+                "type": ""
+            },
+            "qword_0x4E028": {
+                "address": "0x7FFD8975E028",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__293",
+                "rva": "0x4E028",
+                "type": ""
+            },
+            "qword_0x4E030": {
+                "address": "0x7FFD8975E030",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__294",
+                "rva": "0x4E030",
+                "type": ""
+            },
+            "qword_0x4E038": {
+                "address": "0x7FFD8975E038",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__295",
+                "rva": "0x4E038",
+                "type": ""
+            },
+            "qword_0x4E048": {
+                "address": "0x7FFD8975E048",
+                "current_value": "0x6AE00000000",
+                "resolved_name": "ud_itab__296",
+                "rva": "0x4E048",
+                "type": ""
+            },
+            "qword_0x4E050": {
+                "address": "0x7FFD8975E050",
+                "current_value": "0x813A816E",
+                "resolved_name": "ud_itab__297",
+                "rva": "0x4E050",
+                "type": ""
+            },
+            "qword_0x4E070": {
+                "address": "0x7FFD8975E070",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__298",
+                "rva": "0x4E070",
+                "type": ""
+            },
+            "qword_0x4E270": {
+                "address": "0x7FFD8975E270",
+                "current_value": "0x39003670000",
+                "resolved_name": "ud_itab__299",
+                "rva": "0x4E270",
+                "type": ""
+            },
+            "qword_0x4E278": {
+                "address": "0x7FFD8975E278",
+                "current_value": "0x393036D0000",
+                "resolved_name": "ud_itab__300",
+                "rva": "0x4E278",
+                "type": ""
+            },
+            "qword_0x4E280": {
+                "address": "0x7FFD8975E280",
+                "current_value": "0x3790000036F",
+                "resolved_name": "ud_itab__301",
+                "rva": "0x4E280",
+                "type": ""
+            },
+            "qword_0x4E284": {
+                "address": "0x7FFD8975E284",
+                "current_value": "0x43D00000379",
+                "resolved_name": "ud_itab__302",
+                "rva": "0x4E284",
+                "type": ""
+            },
+            "qword_0x4E288": {
+                "address": "0x7FFD8975E288",
+                "current_value": "0x6DC0000043D",
+                "resolved_name": "ud_itab__303",
+                "rva": "0x4E288",
+                "type": ""
+            },
+            "qword_0x4E28C": {
+                "address": "0x7FFD8975E28C",
+                "current_value": "0x6DC",
+                "resolved_name": "ud_itab__305",
+                "rva": "0x4E28C",
+                "type": ""
+            },
+            "qword_0x4E290": {
+                "address": "0x7FFD8975E290",
+                "current_value": "0x48C00000000",
+                "resolved_name": "ud_itab__304",
+                "rva": "0x4E290",
+                "type": ""
+            },
+            "qword_0x4E2A0": {
+                "address": "0x7FFD8975E2A0",
+                "current_value": "0x49200000000",
+                "resolved_name": "ud_itab__306",
+                "rva": "0x4E2A0",
+                "type": ""
+            },
+            "qword_0x4E2B0": {
+                "address": "0x7FFD8975E2B0",
+                "current_value": "0x6E0000006DE",
+                "resolved_name": "ud_itab__307",
+                "rva": "0x4E2B0",
+                "type": ""
+            },
+            "qword_0x4E2B4": {
+                "address": "0x7FFD8975E2B4",
+                "current_value": "0x6E0",
+                "resolved_name": "ud_itab__309",
+                "rva": "0x4E2B4",
+                "type": ""
+            },
+            "qword_0x4E2B8": {
+                "address": "0x7FFD8975E2B8",
+                "current_value": "0x608049800000000",
+                "resolved_name": "ud_itab__308",
+                "rva": "0x4E2B8",
+                "type": ""
+            },
+            "qword_0x4E2C8": {
+                "address": "0x7FFD8975E2C8",
+                "current_value": "0x6DB05F00000",
+                "resolved_name": "ud_itab__310",
+                "rva": "0x4E2C8",
+                "type": ""
+            },
+            "qword_0x4E2CC": {
+                "address": "0x7FFD8975E2CC",
+                "current_value": "0x6DD000006DB",
+                "resolved_name": "ud_itab__311",
+                "rva": "0x4E2CC",
+                "type": ""
+            },
+            "qword_0x4E2D0": {
+                "address": "0x7FFD8975E2D0",
+                "current_value": "0x6DF000006DD",
+                "resolved_name": "ud_itab__312",
+                "rva": "0x4E2D0",
+                "type": ""
+            },
+            "qword_0x4E2D4": {
+                "address": "0x7FFD8975E2D4",
+                "current_value": "0x3770373000006DF",
+                "resolved_name": "ud_itab__313",
+                "rva": "0x4E2D4",
+                "type": ""
+            },
+            "qword_0x4E2D8": {
+                "address": "0x7FFD8975E2D8",
+                "current_value": "0x3770373",
+                "resolved_name": "ud_itab__315",
+                "rva": "0x4E2D8",
+                "type": ""
+            },
+            "qword_0x4E2E0": {
+                "address": "0x7FFD8975E2E0",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__314",
+                "rva": "0x4E2E0",
+                "type": ""
+            },
+            "qword_0x4E4E0": {
+                "address": "0x7FFD8975E4E0",
+                "current_value": "0x813E0381037D",
+                "resolved_name": "ud_itab__316",
+                "rva": "0x4E4E0",
+                "type": ""
+            },
+            "qword_0x4E4E4": {
+                "address": "0x7FFD8975E4E4",
+                "current_value": "0x813E",
+                "resolved_name": "ud_itab__317",
+                "rva": "0x4E4E4",
+                "type": ""
+            },
+            "qword_0x4E4E8": {
+                "address": "0x7FFD8975E4E8",
+                "current_value": "0x579000000000000",
+                "resolved_name": "ud_itab__318",
+                "rva": "0x4E4E8",
+                "type": ""
+            },
+            "qword_0x4E4F8": {
+                "address": "0x7FFD8975E4F8",
+                "current_value": "0x6CF06CE",
+                "resolved_name": "ud_itab__319",
+                "rva": "0x4E4F8",
+                "type": ""
+            },
+            "qword_0x4E500": {
+                "address": "0x7FFD8975E500",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__320",
+                "rva": "0x4E500",
+                "type": ""
+            },
+            "qword_0x4E700": {
+                "address": "0x7FFD8975E700",
+                "current_value": "0x6D206D3061A061C",
+                "resolved_name": "ud_itab__321",
+                "rva": "0x4E700",
+                "type": ""
+            },
+            "qword_0x4E704": {
+                "address": "0x7FFD8975E704",
+                "current_value": "0x6D406D506D206D3",
+                "resolved_name": "ud_itab__322",
+                "rva": "0x4E704",
+                "type": ""
+            },
+            "qword_0x4E708": {
+                "address": "0x7FFD8975E708",
+                "current_value": "0x6D406D5",
+                "resolved_name": "ud_itab__323",
+                "rva": "0x4E708",
+                "type": ""
+            },
+            "qword_0x4E710": {
+                "address": "0x7FFD8975E710",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__324",
+                "rva": "0x4E710",
+                "type": ""
+            },
+            "qword_0x4E910": {
+                "address": "0x7FFD8975E910",
+                "current_value": "0x6220624061E0620",
+                "resolved_name": "ud_itab__325",
+                "rva": "0x4E910",
+                "type": ""
+            },
+            "qword_0x4E914": {
+                "address": "0x7FFD8975E914",
+                "current_value": "0x6D606D706220624",
+                "resolved_name": "ud_itab__326",
+                "rva": "0x4E914",
+                "type": ""
+            },
+            "qword_0x4E918": {
+                "address": "0x7FFD8975E918",
+                "current_value": "0x6D806D906D606D7",
+                "resolved_name": "ud_itab__327",
+                "rva": "0x4E918",
+                "type": ""
+            },
+            "qword_0x4E91C": {
+                "address": "0x7FFD8975E91C",
+                "current_value": "0x633063006D806D9",
+                "resolved_name": "ud_itab__328",
+                "rva": "0x4E91C",
+                "type": ""
+            },
+            "qword_0x4E920": {
+                "address": "0x7FFD8975E920",
+                "current_value": "0x639063606330630",
+                "resolved_name": "ud_itab__329",
+                "rva": "0x4E920",
+                "type": ""
+            },
+            "qword_0x4EB20": {
+                "address": "0x7FFD8975EB20",
+                "current_value": "0x814C000006BF",
+                "resolved_name": "ud_itab__330",
+                "rva": "0x4EB20",
+                "type": ""
+            },
+            "qword_0x4EB24": {
+                "address": "0x7FFD8975EB24",
+                "current_value": "0x6C000000000814C",
+                "resolved_name": "ud_itab__331",
+                "rva": "0x4EB24",
+                "type": ""
+            },
+            "qword_0x4EB28": {
+                "address": "0x7FFD8975EB28",
+                "current_value": "0x6C306C00000",
+                "resolved_name": "ud_itab__332",
+                "rva": "0x4EB28",
+                "type": ""
+            },
+            "qword_0x4EB2C": {
+                "address": "0x7FFD8975EB2C",
+                "current_value": "0x6C4000006C3",
+                "resolved_name": "ud_itab__333",
+                "rva": "0x4EB2C",
+                "type": ""
+            },
+            "qword_0x4EB30": {
+                "address": "0x7FFD8975EB30",
+                "current_value": "0x6C5000006C4",
+                "resolved_name": "ud_itab__334",
+                "rva": "0x4EB30",
+                "type": ""
+            },
+            "qword_0x4EB34": {
+                "address": "0x7FFD8975EB34",
+                "current_value": "0x6C6000006C5",
+                "resolved_name": "ud_itab__335",
+                "rva": "0x4EB34",
+                "type": ""
+            },
+            "qword_0x4EB38": {
+                "address": "0x7FFD8975EB38",
+                "current_value": "0x6C7000006C6",
+                "resolved_name": "ud_itab__336",
+                "rva": "0x4EB38",
+                "type": ""
+            },
+            "qword_0x4EB3C": {
+                "address": "0x7FFD8975EB3C",
+                "current_value": "0x6C9000006C7",
+                "resolved_name": "ud_itab__337",
+                "rva": "0x4EB3C",
+                "type": ""
+            },
+            "qword_0x4EB40": {
+                "address": "0x7FFD8975EB40",
+                "current_value": "0x6CC000006C9",
+                "resolved_name": "ud_itab__338",
+                "rva": "0x4EB40",
+                "type": ""
+            },
+            "qword_0x4EB44": {
+                "address": "0x7FFD8975EB44",
+                "current_value": "0x6CD000006CC",
+                "resolved_name": "ud_itab__339",
+                "rva": "0x4EB44",
+                "type": ""
+            },
+            "qword_0x4EB48": {
+                "address": "0x7FFD8975EB48",
+                "current_value": "0x6CD",
+                "resolved_name": "ud_itab__340",
+                "rva": "0x4EB48",
+                "type": ""
+            },
+            "qword_0x4EB50": {
+                "address": "0x7FFD8975EB50",
+                "current_value": "0x0",
+                "resolved_name": "ud_itab__341",
+                "rva": "0x4EB50",
+                "type": ""
+            },
+            "qword_0x4ED50": {
+                "address": "0x7FFD8975ED50",
+                "current_value": "0x8159000000000416",
+                "resolved_name": "ud_itab__342",
+                "rva": "0x4ED50",
+                "type": ""
+            },
+            "qword_0x4ED54": {
+                "address": "0x7FFD8975ED54",
+                "current_value": "0x815A81590000",
+                "resolved_name": "ud_itab__343",
+                "rva": "0x4ED54",
+                "type": ""
+            },
+            "qword_0x4ED5C": {
+                "address": "0x7FFD8975ED5C",
+                "current_value": "0x41A00000418",
+                "resolved_name": "ud_itab__344",
+                "rva": "0x4ED5C",
+                "type": ""
+            },
+            "qword_0x4ED60": {
+                "address": "0x7FFD8975ED60",
+                "current_value": "0x41C00000000041A",
+                "resolved_name": "ud_itab__345",
+                "rva": "0x4ED60",
+                "type": ""
+            },
+            "qword_0x4ED64": {
+                "address": "0x7FFD8975ED64",
+                "current_value": "0x815C041C0000",
+                "resolved_name": "ud_itab__346",
+                "rva": "0x4ED64",
+                "type": ""
+            },
+            "qword_0x4ED68": {
+                "address": "0x7FFD8975ED68",
+                "current_value": "0x4290000815C",
+                "resolved_name": "ud_itab__347",
+                "rva": "0x4ED68",
+                "type": ""
+            },
+            "qword_0x4ED6C": {
+                "address": "0x7FFD8975ED6C",
+                "current_value": "0x8160815E00000429",
+                "resolved_name": "ud_itab__348",
+                "rva": "0x4ED6C",
+                "type": ""
+            },
+            "qword_0x4ED70": {
+                "address": "0x7FFD8975ED70",
+                "current_value": "0x815F8160815E",
+                "resolved_name": "ud_itab__349",
+                "rva": "0x4ED70",
+                "type": ""
+            },
+            "qword_0x4ED74": {
+                "address": "0x7FFD8975ED74",
+                "current_value": "0x42A0000815F",
+                "resolved_name": "ud_itab__350",
+                "rva": "0x4ED74",
+                "type": ""
+            },
+            "qword_0x4ED78": {
+                "address": "0x7FFD8975ED78",
+                "current_value": "0x816281610000042A",
+                "resolved_name": "ud_itab__351",
+                "rva": "0x4ED78",
+                "type": ""
+            },
+            "qword_0x4ED7C": {
+                "address": "0x7FFD8975ED7C",
+                "current_value": "0x42B81628161",
+                "resolved_name": "ud_itab__352",
+                "rva": "0x4ED7C",
+                "type": ""
+            },
+            "qword_0x4ED80": {
+                "address": "0x7FFD8975ED80",
+                "current_value": "0x42C0000042B",
+                "resolved_name": "ud_itab__353",
+                "rva": "0x4ED80",
+                "type": ""
+            },
+            "qword_0x4ED84": {
+                "address": "0x7FFD8975ED84",
+                "current_value": "0x81640000042C",
+                "resolved_name": "ud_itab__354",
+                "rva": "0x4ED84",
+                "type": ""
+            },
+            "qword_0x4ED88": {
+                "address": "0x7FFD8975ED88",
+                "current_value": "0x6C1000000008164",
+                "resolved_name": "ud_itab__355",
+                "rva": "0x4ED88",
+                "type": ""
+            },
+            "qword_0x4ED8C": {
+                "address": "0x7FFD8975ED8C",
+                "current_value": "0x816606C10000",
+                "resolved_name": "ud_itab__356",
+                "rva": "0x4ED8C",
+                "type": ""
+            },
+            "qword_0x4ED90": {
+                "address": "0x7FFD8975ED90",
+                "current_value": "0x6C2000000008166",
+                "resolved_name": "ud_itab__357",
+                "rva": "0x4ED90",
+                "type": ""
+            },
+            "qword_0x4ED94": {
+                "address": "0x7FFD8975ED94",
+                "current_value": "0x6C806C20000",
+                "resolved_name": "ud_itab__358",
+                "rva": "0x4ED94",
+                "type": ""
+            },
+            "qword_0x4ED98": {
+                "address": "0x7FFD8975ED98",
+                "current_value": "0x6CA000006C8",
+                "resolved_name": "ud_itab__359",
+                "rva": "0x4ED98",
+                "type": ""
+            },
+            "qword_0x4ED9C": {
+                "address": "0x7FFD8975ED9C",
+                "current_value": "0x816A000006CA",
+                "resolved_name": "ud_itab__360",
+                "rva": "0x4ED9C",
+                "type": ""
+            },
+            "qword_0x4EDA0": {
+                "address": "0x7FFD8975EDA0",
+                "current_value": "0x6CB00000000816A",
+                "resolved_name": "ud_itab__361",
+                "rva": "0x4EDA0",
+                "type": ""
+            },
+            "qword_0x4EDA4": {
+                "address": "0x7FFD8975EDA4",
+                "current_value": "0x6D006CB0000",
+                "resolved_name": "ud_itab__362",
+                "rva": "0x4EDA4",
+                "type": ""
+            },
+            "qword_0x4EDA8": {
+                "address": "0x7FFD8975EDA8",
+                "current_value": "0x6D1000006D0",
+                "resolved_name": "ud_itab__363",
+                "rva": "0x4EDA8",
+                "type": ""
+            },
+            "qword_0x4EDAC": {
+                "address": "0x7FFD8975EDAC",
+                "current_value": "0x6DA000006D1",
+                "resolved_name": "ud_itab__364",
+                "rva": "0x4EDAC",
+                "type": ""
+            },
+            "qword_0x4EDB0": {
+                "address": "0x7FFD8975EDB0",
+                "current_value": "0x303000006DA",
+                "resolved_name": "ud_itab__365",
+                "rva": "0x4EDB0",
+                "type": ""
+            },
+            "qword_0x4EDB4": {
+                "address": "0x7FFD8975EDB4",
+                "current_value": "0x44004300000303",
+                "resolved_name": "ud_itab__366",
+                "rva": "0x4EDB4",
+                "type": ""
+            },
+            "qword_0x4EDB8": {
+                "address": "0x7FFD8975EDB8",
+                "current_value": "0x46004500440043",
+                "resolved_name": "ud_itab__367",
+                "rva": "0x4EDB8",
+                "type": ""
+            },
+            "qword_0x4EDBC": {
+                "address": "0x7FFD8975EDBC",
+                "current_value": "0xB802C300460045",
+                "resolved_name": "ud_itab__369",
+                "rva": "0x4EDBC",
+                "type": ""
+            },
+            "qword_0x4EDC0": {
+                "address": "0x7FFD8975EDC0",
+                "current_value": "0x47817100B802C3",
+                "resolved_name": "ud_itab__368",
+                "rva": "0x4EDC0",
+                "type": ""
+            },
+            "qword_0x4EDD0": {
+                "address": "0x7FFD8975EDD0",
+                "current_value": "0x4B000000000049",
+                "resolved_name": "ud_itab__370",
+                "rva": "0x4EDD0",
+                "type": ""
+            },
+            "qword_0x4EDD4": {
+                "address": "0x7FFD8975EDD4",
+                "current_value": "0x4C004B0000",
+                "resolved_name": "ud_itab__371",
+                "rva": "0x4EDD4",
+                "type": ""
+            },
+            "qword_0x4EDDC": {
+                "address": "0x7FFD8975EDDC",
+                "current_value": "0x7700740000",
+                "resolved_name": "ud_itab__372",
+                "rva": "0x4EDDC",
+                "type": ""
+            },
+            "qword_0x4EDE4": {
+                "address": "0x7FFD8975EDE4",
+                "current_value": "0xAC00AB0000",
+                "resolved_name": "ud_itab__373",
+                "rva": "0x4EDE4",
+                "type": ""
+            },
+            "qword_0x4EDEC": {
+                "address": "0x7FFD8975EDEC",
+                "current_value": "0xAE000000AD",
+                "resolved_name": "ud_itab__374",
+                "rva": "0x4EDEC",
+                "type": ""
+            },
+            "qword_0x4EDF0": {
+                "address": "0x7FFD8975EDF0",
+                "current_value": "0x817C817D000000AE",
+                "resolved_name": "ud_itab__375",
+                "rva": "0x4EDF0",
+                "type": ""
+            },
+            "qword_0x4EDF4": {
+                "address": "0x7FFD8975EDF4",
+                "current_value": "0xB702C4817C817D",
+                "resolved_name": "ud_itab__379",
+                "rva": "0x4EDF4",
+                "type": ""
+            },
+            "qword_0x4EDF8": {
+                "address": "0x7FFD8975EDF8",
+                "current_value": "0xB702C4",
+                "resolved_name": "ud_itab__376",
+                "rva": "0x4EDF8",
+                "type": ""
+            },
+            "qword_0x4EE08": {
+                "address": "0x7FFD8975EE08",
+                "current_value": "0x3BA03C3059F059E",
+                "resolved_name": "ud_itab__377",
+                "rva": "0x4EE08",
+                "type": ""
+            },
+            "qword_0x4EE18": {
+                "address": "0x7FFD8975EE18",
+                "current_value": "0x3B903C2059D0598",
+                "resolved_name": "ud_itab__378",
+                "rva": "0x4EE18",
+                "type": ""
+            },
+            "qword_0x4EE28": {
+                "address": "0x7FFD8975EE28",
+                "current_value": "0x8180817F",
+                "resolved_name": "ud_itab__382",
+                "rva": "0x4EE28",
+                "type": ""
+            },
+            "qword_0x4EE30": {
+                "address": "0x7FFD8975EE30",
+                "current_value": "0x1E001DF01DE01DD",
+                "resolved_name": "ud_itab__380",
+                "rva": "0x4EE30",
+                "type": ""
+            },
+            "qword_0x4EEB0": {
+                "address": "0x7FFD8975EEB0",
+                "current_value": "0x21C023D000001DC",
+                "resolved_name": "ud_itab__381",
+                "rva": "0x4EEB0",
+                "type": ""
+            },
+            "qword_0x4EEC0": {
+                "address": "0x7FFD8975EEC0",
+                "current_value": "0x166013401EE00CD",
+                "resolved_name": "ud_itab__383",
+                "rva": "0x4EEC0",
+                "type": ""
+            },
+            "qword_0x4EED0": {
+                "address": "0x7FFD8975EED0",
+                "current_value": "0xD200D100D000CF",
+                "resolved_name": "ud_itab__384",
+                "rva": "0x4EED0",
+                "type": ""
+            },
+            "qword_0x4EF50": {
+                "address": "0x7FFD8975EF50",
+                "current_value": "0x8185818681838182",
+                "resolved_name": "ud_itab__385",
+                "rva": "0x4EF50",
+                "type": ""
+            },
+            "qword_0x4EF54": {
+                "address": "0x7FFD8975EF54",
+                "current_value": "0x1F700CE81858186",
+                "resolved_name": "ud_itab__388",
+                "rva": "0x4EF54",
+                "type": ""
+            },
+            "qword_0x4EF58": {
+                "address": "0x7FFD8975EF58",
+                "current_value": "0x165013301F700CE",
+                "resolved_name": "ud_itab__386",
+                "rva": "0x4EF58",
+                "type": ""
+            },
+            "qword_0x4EF68": {
+                "address": "0x7FFD8975EF68",
+                "current_value": "0x81898188",
+                "resolved_name": "ud_itab__391",
+                "rva": "0x4EF68",
+                "type": ""
+            },
+            "qword_0x4EF70": {
+                "address": "0x7FFD8975EF70",
+                "current_value": "0xDA00D900D800D7",
+                "resolved_name": "ud_itab__387",
+                "rva": "0x4EF70",
+                "type": ""
+            },
+            "qword_0x4EFF0": {
+                "address": "0x7FFD8975EFF0",
+                "current_value": "0xE200E100E000DF",
+                "resolved_name": "ud_itab__389",
+                "rva": "0x4EFF0",
+                "type": ""
+            },
+            "qword_0x4F070": {
+                "address": "0x7FFD8975F070",
+                "current_value": "0x1C101BF020901C9",
+                "resolved_name": "ud_itab__390",
+                "rva": "0x4F070",
+                "type": ""
+            },
+            "qword_0x4F080": {
+                "address": "0x7FFD8975F080",
+                "current_value": "0x1D401D201D901C3",
+                "resolved_name": "ud_itab__392",
+                "rva": "0x4F080",
+                "type": ""
+            },
+            "qword_0x4F090": {
+                "address": "0x7FFD8975F090",
+                "current_value": "0x1BA01B901B801B7",
+                "resolved_name": "ud_itab__393",
+                "rva": "0x4F090",
+                "type": ""
+            },
+            "qword_0x4F110": {
+                "address": "0x7FFD8975F110",
+                "current_value": "0x818E818F818B818C",
+                "resolved_name": "ud_itab__394",
+                "rva": "0x4F110",
+                "type": ""
+            },
+            "qword_0x4F114": {
+                "address": "0x7FFD8975F114",
+                "current_value": "0x81918192818E818F",
+                "resolved_name": "ud_itab__397",
+                "rva": "0x4F114",
+                "type": ""
+            },
+            "qword_0x4F118": {
+                "address": "0x7FFD8975F118",
+                "current_value": "0x81918192",
+                "resolved_name": "ud_itab__400",
+                "rva": "0x4F118",
+                "type": ""
+            },
+            "qword_0x4F120": {
+                "address": "0x7FFD8975F120",
+                "current_value": "0x10E010D010C010B",
+                "resolved_name": "ud_itab__395",
+                "rva": "0x4F120",
+                "type": ""
+            },
+            "qword_0x4F1A0": {
+                "address": "0x7FFD8975F1A0",
+                "current_value": "0x1D601D301D701C5",
+                "resolved_name": "ud_itab__396",
+                "rva": "0x4F1A0",
+                "type": ""
+            },
+            "qword_0x4F1B0": {
+                "address": "0x7FFD8975F1B0",
+                "current_value": "0xEE00ED00EC00EB",
+                "resolved_name": "ud_itab__398",
+                "rva": "0x4F1B0",
+                "type": ""
+            },
+            "qword_0x4F230": {
+                "address": "0x7FFD8975F230",
+                "current_value": "0x1C201C0020801C8",
+                "resolved_name": "ud_itab__399",
+                "rva": "0x4F230",
+                "type": ""
+            },
+            "qword_0x4F240": {
+                "address": "0x7FFD8975F240",
+                "current_value": "0x1B201B101B001AF",
+                "resolved_name": "ud_itab__401",
+                "rva": "0x4F240",
+                "type": ""
+            },
+            "qword_0x4F2C0": {
+                "address": "0x7FFD8975F2C0",
+                "current_value": "0x21B023E01D801DB",
+                "resolved_name": "ud_itab__402",
+                "rva": "0x4F2C0",
+                "type": ""
+            },
+            "qword_0x4F2D0": {
+                "address": "0x7FFD8975F2D0",
+                "current_value": "0x2C70000",
+                "resolved_name": "ud_itab__403",
+                "rva": "0x4F2D0",
+                "type": ""
+            },
+            "qword_0x4F2D8": {
+                "address": "0x7FFD8975F2D8",
+                "current_value": "0x2D40000000002CB",
+                "resolved_name": "ud_itab__404",
+                "rva": "0x4F2D8",
+                "type": ""
+            },
+            "qword_0x4F2DC": {
+                "address": "0x7FFD8975F2DC",
+                "current_value": "0x2D502D40000",
+                "resolved_name": "ud_itab__405",
+                "rva": "0x4F2DC",
+                "type": ""
+            },
+            "qword_0x4F2E4": {
+                "address": "0x7FFD8975F2E4",
+                "current_value": "0x2F802F70000",
+                "resolved_name": "ud_itab__406",
+                "rva": "0x4F2E4",
+                "type": ""
+            },
+            "qword_0x4F2EC": {
+                "address": "0x7FFD8975F2EC",
+                "current_value": "0x813A8199000002FC",
+                "resolved_name": "ud_itab__407",
+                "rva": "0x4F2EC",
+                "type": ""
+            },
+            "qword_0x4F2F0": {
+                "address": "0x7FFD8975F2F0",
+                "current_value": "0x813A8199",
+                "resolved_name": "ud_itab__408",
+                "rva": "0x4F2F0",
+                "type": ""
+            },
+            "qword_0x4F310": {
+                "address": "0x7FFD8975F310",
+                "current_value": "0x318000000000301",
+                "resolved_name": "ud_itab__409",
+                "rva": "0x4F310",
+                "type": ""
+            },
+            "qword_0x4F314": {
+                "address": "0x7FFD8975F314",
+                "current_value": "0x31903180000",
+                "resolved_name": "ud_itab__410",
+                "rva": "0x4F314",
+                "type": ""
+            },
+            "qword_0x4F31C": {
+                "address": "0x7FFD8975F31C",
+                "current_value": "0x33A00000448",
+                "resolved_name": "ud_itab__415",
+                "rva": "0x4F31C",
+                "type": ""
+            },
+            "qword_0x4F320": {
+                "address": "0x7FFD8975F320",
+                "current_value": "0x33A",
+                "resolved_name": "ud_itab__411",
+                "rva": "0x4F320",
+                "type": ""
+            },
+            "qword_0x4F330": {
+                "address": "0x7FFD8975F330",
+                "current_value": "0x33B",
+                "resolved_name": "ud_itab__412",
+                "rva": "0x4F330",
+                "type": ""
+            },
+            "qword_0x4F340": {
+                "address": "0x7FFD8975F340",
+                "current_value": "0x39F039C0000",
+                "resolved_name": "ud_itab__413",
+                "rva": "0x4F340",
+                "type": ""
+            },
+            "qword_0x4F348": {
+                "address": "0x7FFD8975F348",
+                "current_value": "0x3D80000",
+                "resolved_name": "ud_itab__414",
+                "rva": "0x4F348",
+                "type": ""
+            },
+            "qword_0x4F350": {
+                "address": "0x7FFD8975F350",
+                "current_value": "0x44A00000449",
+                "resolved_name": "ud_itab__416",
+                "rva": "0x4F350",
+                "type": ""
+            },
+            "qword_0x4F354": {
+                "address": "0x7FFD8975F354",
+                "current_value": "0x4550000044A",
+                "resolved_name": "ud_itab__417",
+                "rva": "0x4F354",
+                "type": ""
+            },
+            "qword_0x4F358": {
+                "address": "0x7FFD8975F358",
+                "current_value": "0x455",
+                "resolved_name": "ud_itab__418",
+                "rva": "0x4F358",
+                "type": ""
+            },
+            "qword_0x4F368": {
+                "address": "0x7FFD8975F368",
+                "current_value": "0x81A50000",
+                "resolved_name": "ud_itab__419",
+                "rva": "0x4F368",
+                "type": ""
+            },
+            "qword_0x4F370": {
+                "address": "0x7FFD8975F370",
+                "current_value": "0x45700000456",
+                "resolved_name": "ud_itab__420",
+                "rva": "0x4F370",
+                "type": ""
+            },
+            "qword_0x4F374": {
+                "address": "0x7FFD8975F374",
+                "current_value": "0x81A8000000000457",
+                "resolved_name": "ud_itab__421",
+                "rva": "0x4F374",
+                "type": ""
+            },
+            "qword_0x4F378": {
+                "address": "0x7FFD8975F378",
+                "current_value": "0x81A981A80000",
+                "resolved_name": "ud_itab__422",
+                "rva": "0x4F378",
+                "type": ""
+            },
+            "qword_0x4F380": {
+                "address": "0x7FFD8975F380",
+                "current_value": "0x45A045900000458",
+                "resolved_name": "ud_itab__423",
+                "rva": "0x4F380",
+                "type": ""
+            },
+            "qword_0x4F384": {
+                "address": "0x7FFD8975F384",
+                "current_value": "0x45B0000045A0459",
+                "resolved_name": "ud_itab__424",
+                "rva": "0x4F384",
+                "type": ""
+            },
+            "qword_0x4F388": {
+                "address": "0x7FFD8975F388",
+                "current_value": "0x4D8045B0000",
+                "resolved_name": "ud_itab__425",
+                "rva": "0x4F388",
+                "type": ""
+            },
+            "qword_0x4F38C": {
+                "address": "0x7FFD8975F38C",
+                "current_value": "0x4D9000004D8",
+                "resolved_name": "ud_itab__426",
+                "rva": "0x4F38C",
+                "type": ""
+            },
+            "qword_0x4F390": {
+                "address": "0x7FFD8975F390",
+                "current_value": "0x4DA000004D9",
+                "resolved_name": "ud_itab__427",
+                "rva": "0x4F390",
+                "type": ""
+            },
+            "qword_0x4F394": {
+                "address": "0x7FFD8975F394",
+                "current_value": "0x4DB000004DA",
+                "resolved_name": "ud_itab__428",
+                "rva": "0x4F394",
+                "type": ""
+            },
+            "qword_0x4F398": {
+                "address": "0x7FFD8975F398",
+                "current_value": "0x81B00000000004DB",
+                "resolved_name": "ud_itab__429",
+                "rva": "0x4F398",
+                "type": ""
+            },
+            "qword_0x4F39C": {
+                "address": "0x7FFD8975F39C",
+                "current_value": "0x81B00000",
+                "resolved_name": "ud_itab__430",
+                "rva": "0x4F39C",
+                "type": ""
+            },
+            "qword_0x4F3A4": {
+                "address": "0x7FFD8975F3A4",
+                "current_value": "0x4EA000004E9",
+                "resolved_name": "ud_itab__431",
+                "rva": "0x4F3A4",
+                "type": ""
+            },
+            "qword_0x4F3A8": {
+                "address": "0x7FFD8975F3A8",
+                "current_value": "0x81B30000000004EA",
+                "resolved_name": "ud_itab__432",
+                "rva": "0x4F3A8",
+                "type": ""
+            },
+            "qword_0x4F3AC": {
+                "address": "0x7FFD8975F3AC",
+                "current_value": "0x81B481B30000",
+                "resolved_name": "ud_itab__433",
+                "rva": "0x4F3AC",
+                "type": ""
+            },
+            "qword_0x4F3B4": {
+                "address": "0x7FFD8975F3B4",
+                "current_value": "0x4EE04ED04EC04EB",
+                "resolved_name": "ud_itab__434",
+                "rva": "0x4F3B4",
+                "type": ""
+            },
+            "qword_0x4F3B8": {
+                "address": "0x7FFD8975F3B8",
+                "current_value": "0x4EF000004EE04ED",
+                "resolved_name": "ud_itab__435",
+                "rva": "0x4F3B8",
+                "type": ""
+            },
+            "qword_0x4F3BC": {
+                "address": "0x7FFD8975F3BC",
+                "current_value": "0x50604FF04EF0000",
+                "resolved_name": "ud_itab__436",
+                "rva": "0x4F3BC",
+                "type": ""
+            },
+            "qword_0x4F3C0": {
+                "address": "0x7FFD8975F3C0",
+                "current_value": "0x4FB04F3050604FF",
+                "resolved_name": "ud_itab__437",
+                "rva": "0x4F3C0",
+                "type": ""
+            },
+            "qword_0x4F3D0": {
+                "address": "0x7FFD8975F3D0",
+                "current_value": "0x4FA04F405070504",
+                "resolved_name": "ud_itab__438",
+                "rva": "0x4F3D0",
+                "type": ""
+            },
+            "qword_0x4F3E0": {
+                "address": "0x7FFD8975F3E0",
+                "current_value": "0x4F904F505050500",
+                "resolved_name": "ud_itab__439",
+                "rva": "0x4F3E0",
+                "type": ""
+            },
+            "qword_0x4F3F0": {
+                "address": "0x7FFD8975F3F0",
+                "current_value": "0x4FD04F605090502",
+                "resolved_name": "ud_itab__440",
+                "rva": "0x4F3F0",
+                "type": ""
+            },
+            "qword_0x4F400": {
+                "address": "0x7FFD8975F400",
+                "current_value": "0x4FE04F7050A0503",
+                "resolved_name": "ud_itab__441",
+                "rva": "0x4F400",
+                "type": ""
+            },
+            "qword_0x4F410": {
+                "address": "0x7FFD8975F410",
+                "current_value": "0x4FC04F805080501",
+                "resolved_name": "ud_itab__442",
+                "rva": "0x4F410",
+                "type": ""
+            },
+            "qword_0x4F420": {
+                "address": "0x7FFD8975F420",
+                "current_value": "0x54400000000051F",
+                "resolved_name": "ud_itab__443",
+                "rva": "0x4F420",
+                "type": ""
+            },
+            "qword_0x4F424": {
+                "address": "0x7FFD8975F424",
+                "current_value": "0x54505440000",
+                "resolved_name": "ud_itab__444",
+                "rva": "0x4F424",
+                "type": ""
+            },
+            "qword_0x4F42C": {
+                "address": "0x7FFD8975F42C",
+                "current_value": "0x57D057C0000",
+                "resolved_name": "ud_itab__445",
+                "rva": "0x4F42C",
+                "type": ""
+            },
+            "qword_0x4F434": {
+                "address": "0x7FFD8975F434",
+                "current_value": "0x7463706F0000067A",
+                "resolved_name": "ud_itab__446",
+                "rva": "0x4F434",
+                "type": ""
+            },
+            "qword_0x51728": {
+                "address": "0x7FFD89761728",
+                "current_value": "0x7FFD897525C4",
+                "resolved_name": "__dyn_tls_init_callback",
+                "rva": "0x51728"
+            },
+            "qword_0x51730": {
+                "address": "0x7FFD89761730",
+                "current_value": "0x7FFD8975263C",
+                "resolved_name": "__dyn_tls_dtor_callback",
+                "rva": "0x51730"
+            },
+            "qword_0x51740": {
+                "address": "0x7FFD89761740",
+                "current_value": "0x7FFD897528B0",
+                "resolved_name": "type_info::`vftable'",
+                "rva": "0x51740",
+                "type": ""
+            },
+            "qword_0x51748": {
+                "address": "0x7FFD89761748",
+                "current_value": "0x0",
+                "resolved_name": "_pRawDllMain",
+                "rva": "0x51748"
+            },
+            "qword_0x51750": {
+                "address": "0x7FFD89761750",
+                "current_value": "0x7FFD89789710",
+                "resolved_name": "GS_ExceptionPointers",
+                "rva": "0x51750",
+                "type": "_EXCEPTION_POINTERS"
+            },
+            "qword_0x51770": {
+                "address": "0x7FFD89761770",
+                "current_value": "0x140",
+                "resolved_name": "_load_config_used",
+                "rva": "0x51770",
+                "type": "_RS5_IMAGE_LOAD_CONFIG_DIRECTORY64"
+            },
+            "qword_0x51980": {
+                "address": "0x7FFD89761980",
+                "current_value": "0x7FFD89764610",
+                "resolved_name": "_tls_used",
+                "rva": "0x51980",
+                "type": "_IMAGE_TLS_DIRECTORY64"
+            },
+            "qword_0x53EA4": {
+                "address": "0x7FFD89763EA4",
+                "current_value": "0x8002800200000018",
+                "resolved_name": "__volatile_metadata",
+                "rva": "0x53EA4"
+            },
+            "qword_0x545F0": {
+                "address": "0x7FFD897645F0",
+                "current_value": "0x0",
+                "resolved_name": "__rtc_iaa",
+                "rva": "0x545F0",
+                "type": ""
+            },
+            "qword_0x545F8": {
+                "address": "0x7FFD897645F8",
+                "current_value": "0x0",
+                "resolved_name": "__rtc_izz",
+                "rva": "0x545F8",
+                "type": ""
+            },
+            "qword_0x54600": {
+                "address": "0x7FFD89764600",
+                "current_value": "0x0",
+                "resolved_name": "__rtc_taa",
+                "rva": "0x54600",
+                "type": ""
+            },
+            "qword_0x54608": {
+                "address": "0x7FFD89764608",
+                "current_value": "0x0",
+                "resolved_name": "__rtc_tzz",
+                "rva": "0x54608",
+                "type": ""
+            },
+            "qword_0x54610": {
+                "address": "0x7FFD89764610",
+                "current_value": "0x0",
+                "resolved_name": "_tls_start",
+                "rva": "0x54610"
+            },
+            "qword_0x54840": {
+                "address": "0x7FFD89764840",
+                "current_value": "0x0",
+                "resolved_name": "_tls_end",
+                "rva": "0x54840"
+            },
+            "qword_0x5AF30": {
+                "address": "0x7FFD8976AF30",
+                "current_value": "0x81C1100000001",
+                "resolved_name": "$xdatasym",
+                "rva": "0x5AF30"
+            },
+            "qword_0x5AFC0": {
+                "address": "0x7FFD8976AFC0",
+                "current_value": "0x120400010401",
+                "resolved_name": "$xdatasym",
+                "rva": "0x5AFC0"
+            },
+            "qword_0x5B0C8": {
+                "address": "0x7FFD8976B0C8",
+                "current_value": "0x1",
+                "resolved_name": "$xdatasym",
+                "rva": "0x5B0C8"
+            },
+            "qword_0x5B0D0": {
+                "address": "0x7FFD8976B0D0",
+                "current_value": "0x1",
+                "resolved_name": "$xdatasym",
+                "rva": "0x5B0D0"
+            },
+            "qword_0x5E028": {
+                "address": "0x7FFD8976E028",
+                "current_value": "0x7FFFFFFFFFFFFFFF",
+                "resolved_name": "dlcIdx",
+                "rva": "0x5E028"
+            },
+            "qword_0x5E02C": {
+                "address": "0x7FFD8976E02C",
+                "current_value": "0x897581787FFFFFFF",
+                "resolved_name": "extraContentWrapperIdx",
+                "rva": "0x5E02C"
+            },
+            "qword_0x5E030": {
+                "address": "0x7FFD8976E030",
+                "current_value": "0x7FFD89758178",
+                "resolved_name": "hookFunction",
+                "rva": "0x5E030",
+                "type": "HookFunction"
+            },
+            "qword_0x5E048": {
+                "address": "0x7FFD8976E048",
+                "current_value": "0x7FF6D2156EA0",
+                "resolved_name": "_drawLoadingSpinner",
+                "rva": "0x5E048",
+                "type": "hook::cdecl_stub<void __cdecl(float)>"
+            },
+            "qword_0x5E070": {
+                "address": "0x7FFD8976E070",
+                "current_value": "0x7FF6D154FAFC",
+                "resolved_name": "_sf_updateEndOfFrame",
+                "rva": "0x5E070",
+                "type": "hook::cdecl_stub<void __cdecl(bool)>"
+            },
+            "qword_0x5E098": {
+                "address": "0x7FFD8976E098",
+                "current_value": "0x7FFD89758178",
+                "resolved_name": "hookFunctionSpinner",
+                "rva": "0x5E098",
+                "type": "HookFunction"
+            },
+            "qword_0x5E0C0": {
+                "address": "0x7FFD8976E0C0",
+                "current_value": "0xFFFF000000400201",
+                "resolved_name": "jitasm::Frontend::esp",
+                "rva": "0x5E0C0",
+                "type": "jitasm::Reg32"
+            },
+            "qword_0x5E0E0": {
+                "address": "0x7FFD8976E0E0",
+                "current_value": "0xFFFF000000800201",
+                "resolved_name": "jitasm::Frontend::r8d",
+                "rva": "0x5E0E0",
+                "type": "jitasm::Reg32"
+            },
+            "qword_0x5E100": {
+                "address": "0x7FFD8976E100",
+                "current_value": "0xFFFF000000000301",
+                "resolved_name": "jitasm::Frontend::rax",
+                "rva": "0x5E100",
+                "type": "jitasm::Reg64"
+            },
+            "qword_0x5E120": {
+                "address": "0x7FFD8976E120",
+                "current_value": "0xFFFF000000100301",
+                "resolved_name": "jitasm::Frontend::rcx",
+                "rva": "0x5E120",
+                "type": "jitasm::Reg64"
+            },
+            "qword_0x5E140": {
+                "address": "0x7FFD8976E140",
+                "current_value": "0xFFFF000000200301",
+                "resolved_name": "jitasm::Frontend::rdx",
+                "rva": "0x5E140",
+                "type": "jitasm::Reg64"
+            },
+            "qword_0x5E160": {
+                "address": "0x7FFD8976E160",
+                "current_value": "0xFFFF000000300301",
+                "resolved_name": "jitasm::Frontend::rbx",
+                "rva": "0x5E160",
+                "type": "jitasm::Reg64"
+            },
+            "qword_0x5E180": {
+                "address": "0x7FFD8976E180",
+                "current_value": "0xFFFF000000400301",
+                "resolved_name": "jitasm::Frontend::rsp",
+                "rva": "0x5E180",
+                "type": "jitasm::Reg64"
+            },
+            "qword_0x5E1A0": {
+                "address": "0x7FFD8976E1A0",
+                "current_value": "0xFFFF000000800301",
+                "resolved_name": "jitasm::Frontend::r8",
+                "rva": "0x5E1A0",
+                "type": "jitasm::Reg64"
+            },
+            "qword_0x5E1C0": {
+                "address": "0x7FFD8976E1C0",
+                "current_value": "0xFFFF000000900301",
+                "resolved_name": "jitasm::Frontend::r9",
+                "rva": "0x5E1C0",
+                "type": "jitasm::Reg64"
+            },
+            "qword_0x5E1E0": {
+                "address": "0x7FFD8976E1E0",
+                "current_value": "0xFFFF000000400301",
+                "resolved_name": "jitasm::Frontend::zsp",
+                "rva": "0x5E1E0",
+                "type": "jitasm::Reg64"
+            },
+            "qword_0x5E200": {
+                "address": "0x7FFD8976E200",
+                "current_value": "0xFFFF000000500301",
+                "resolved_name": "jitasm::Frontend::zbp",
+                "rva": "0x5E200",
+                "type": "jitasm::Reg64"
+            },
+            "qword_0x5E220": {
+                "address": "0x7FFD8976E220",
+                "current_value": "0x1",
+                "resolved_name": "autoShutdownNui",
+                "rva": "0x5E220"
+            },
+            "qword_0x5E228": {
+                "address": "0x7FFD8976E228",
+                "current_value": "0x458FAFA8C5069A42",
+                "resolved_name": "defaultCameraPos",
+                "rva": "0x5E228",
+                "type": "rage::Vector3"
+            },
+            "qword_0x5E238": {
+                "address": "0x7FFD8976E238",
+                "current_value": "0xC1099DB2",
+                "resolved_name": "defaultCameraRot",
+                "rva": "0x5E238",
+                "type": "rage::Vector3"
+            },
+            "qword_0x5E248": {
+                "address": "0x7FFD8976E248",
+                "current_value": "0x42340000",
+                "resolved_name": "defaultCameraFov",
+                "rva": "0x5E248"
+            },
+            "qword_0x5E250": {
+                "address": "0x7FFD8976E250",
+                "current_value": "0x7FFD89758178",
+                "resolved_name": "hookFunction",
+                "rva": "0x5E250",
+                "type": "HookFunction"
+            },
+            "qword_0x5E268": {
+                "address": "0x7FFD8976E268",
+                "current_value": "0x7FFD89746D40",
+                "resolved_name": "fmt::v8::instantiate_format_float",
+                "rva": "0x5E268"
+            },
+            "qword_0x5E270": {
+                "address": "0x7FFD8976E270",
+                "current_value": "0x0",
+                "resolved_name": "HostSharedData<CfxState>::m_fakeData",
+                "rva": "0x5E270",
+                "type": "CfxState"
+            },
+            "qword_0x612D0": {
+                "address": "0x7FFD897712D0",
+                "current_value": "0x7FFD8975F49C",
+                "resolved_name": "ud_mnemonics_str",
+                "rva": "0x612D0",
+                "type": ""
+            },
+            "qword_0x62F30": {
+                "address": "0x7FFD89772F30",
+                "current_value": "0x387",
+                "resolved_name": "ud_itab",
+                "rva": "0x62F30",
+                "type": ""
+            },
+            "qword_0x74260": {
+                "address": "0x7FFD89784260",
+                "current_value": "0x7FFD8975CC70",
+                "resolved_name": "ud_lookup_table_list",
+                "rva": "0x74260",
+                "type": ""
+            },
+            "qword_0x76C48": {
+                "address": "0x7FFD89786C48",
+                "current_value": "0xFFFFFFFF8000000E",
+                "resolved_name": "_Init_global_epoch",
+                "rva": "0x76C48"
+            },
+            "qword_0x76C4C": {
+                "address": "0x7FFD89786C4C",
+                "current_value": "0xB2EC9837FFFFFFFF",
+                "resolved_name": "__scrt_native_dllmain_reason",
+                "rva": "0x76C4C"
+            },
+            "qword_0x76C50": {
+                "address": "0x7FFD89786C50",
+                "current_value": "0xFFFF1A35B2EC9837",
+                "resolved_name": "__security_cookie_complement",
+                "rva": "0x76C50"
+            },
+            "qword_0x76C58": {
+                "address": "0x7FFD89786C58",
+                "current_value": "0xE5CA4D1367C8",
+                "resolved_name": "__security_cookie",
+                "rva": "0x76C58"
+            },
+            "qword_0x76C60": {
+                "address": "0x7FFD89786C60",
+                "current_value": "0x9875",
+                "resolved_name": "_fltused",
+                "rva": "0x76C60"
+            },
+            "qword_0x76C70": {
+                "address": "0x7FFD89786C70",
+                "current_value": "0x2E00000005",
+                "resolved_name": "__isa_available",
+                "rva": "0x76C70"
+            },
+            "qword_0x76C74": {
+                "address": "0x7FFD89786C74",
+                "current_value": "0x80000000002E",
+                "resolved_name": "__isa_enabled",
+                "rva": "0x76C74"
+            },
+            "qword_0x76C78": {
+                "address": "0x7FFD89786C78",
+                "current_value": "0x8000",
+                "resolved_name": "__memset_fast_string_threshold",
+                "rva": "0x76C78"
+            },
+            "qword_0x76C80": {
+                "address": "0x7FFD89786C80",
+                "current_value": "0xFFFFFFFFFFFFFFFF",
+                "resolved_name": "__memset_nt_threshold",
+                "rva": "0x76C80"
+            },
+            "qword_0x76C90": {
+                "address": "0x7FFD89786C90",
+                "current_value": "0x1",
+                "resolved_name": "__scrt_ucrt_dll_is_in_use",
+                "rva": "0x76C90"
+            },
+            "qword_0x78F80": {
+                "address": "0x7FFD89788F80",
+                "current_value": "0x7FFD8C3B2BB0",
+                "resolved_name": "Instance<ICoreGameInit>::ms_cachedInstance",
+                "rva": "0x78F80"
+            },
+            "qword_0x78F88": {
+                "address": "0x7FFD89788F88",
+                "current_value": "0x5",
+                "resolved_name": "Instance<ICoreGameInit>::ms_id",
+                "rva": "0x78F88"
+            },
+            "qword_0x78FC0": {
+                "address": "0x7FFD89788FC0",
+                "current_value": "0x0",
+                "resolved_name": "_init_instance_0",
+                "rva": "0x78FC0",
+                "type": "ComponentRegistration"
+            },
+            "qword_0x78FC8": {
+                "address": "0x7FFD89788FC8",
+                "current_value": "0x1E89DF1DEC0",
+                "resolved_name": "xbr::kGameBuildUniquifiers",
+                "rva": "0x78FC8",
+                "type": "std::map<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> > >"
+            },
+            "qword_0x78FEC": {
+                "address": "0x7FFD89788FEC",
+                "current_value": "0x0",
+                "resolved_name": "__@@_PchSym_@00@UtoUyfrowhUxucRurevnRAUOyfrowRxzxsvUyfrowUurevUlyqUivovzhvUolzwrmtRhxivvmhRurevUhgwrmxOlyq@4B2008FD98C1DD4",
+                "rva": "0x78FEC"
+            },
+            "qword_0x78FF0": {
+                "address": "0x7FFD89788FF0",
+                "current_value": "0x0",
+                "resolved_name": "Instance<ComponentLoader>::ms_id",
+                "rva": "0x78FF0"
+            },
+            "qword_0x79004": {
+                "address": "0x7FFD89789004",
+                "current_value": "0x3000000000",
+                "resolved_name": "_init_instance_0",
+                "rva": "0x79004",
+                "type": "ComponentRegistration"
+            },
+            "qword_0x79008": {
+                "address": "0x7FFD89789008",
+                "current_value": "0x30",
+                "resolved_name": "xbr::virt::Base<1,2802,2,6>::ms_offset",
+                "rva": "0x79008"
+            },
+            "qword_0x79010": {
+                "address": "0x7FFD89789010",
+                "current_value": "0x1E953139A90",
+                "resolved_name": "g_dataFileMgr",
+                "rva": "0x79010"
+            },
+            "qword_0x79018": {
+                "address": "0x7FFD89789018",
+                "current_value": "0x7FF6D1CECF38",
+                "resolved_name": "g_updateContentArray",
+                "rva": "0x79018"
+            },
+            "qword_0x79020": {
+                "address": "0x7FFD89789020",
+                "current_value": "0x7FF6D33046A0",
+                "resolved_name": "g_extraContentManagerLocation",
+                "rva": "0x79020"
+            },
+            "qword_0x79028": {
+                "address": "0x7FFD89789028",
+                "current_value": "0xF000000028",
+                "resolved_name": "g_extraContentManagerContentOffset",
+                "rva": "0x79028"
+            },
+            "qword_0x7902C": {
+                "address": "0x7FFD8978902C",
+                "current_value": "0xE8000000F0",
+                "resolved_name": "g_mountableContentSize",
+                "rva": "0x7902C"
+            },
+            "qword_0x79030": {
+                "address": "0x7FFD89789030",
+                "current_value": "0x39000000E8",
+                "resolved_name": "g_mountableContentFlagsOffset",
+                "rva": "0x79030"
+            },
+            "qword_0x79034": {
+                "address": "0x7FFD89789034",
+                "current_value": "0xD73CAB9800000039",
+                "resolved_name": "g_instrumentedFuncs",
+                "rva": "0x79034"
+            },
+            "qword_0x79038": {
+                "address": "0x7FFD89789038",
+                "current_value": "0x7FF6D73CAB98",
+                "resolved_name": "dataFileMgr__loadDefDat",
+                "rva": "0x79038"
+            },
+            "qword_0x79040": {
+                "address": "0x7FFD89789040",
+                "current_value": "0x7FF6D33B3254",
+                "resolved_name": "loadingScreenState",
+                "rva": "0x79040"
+            },
+            "qword_0x79048": {
+                "address": "0x7FFD89789048",
+                "current_value": "0x7FF6D33A7089",
+                "resolved_name": "g_isPendingGFx",
+                "rva": "0x79048"
+            },
+            "qword_0x79050": {
+                "address": "0x7FFD89789050",
+                "current_value": "0x7FF6D33A7090",
+                "resolved_name": "g_scaleformMgr",
+                "rva": "0x79050"
+            },
+            "qword_0x79058": {
+                "address": "0x7FFD89789058",
+                "current_value": "0x7FF6D2623D98",
+                "resolved_name": "g_render",
+                "rva": "0x79058"
+            },
+            "qword_0x79060": {
+                "address": "0x7FFD89789060",
+                "current_value": "0x7FF6D17ECC30",
+                "resolved_name": "setupBusySpinner",
+                "rva": "0x79060"
+            },
+            "qword_0x79068": {
+                "address": "0x7FFD89789068",
+                "current_value": "0x7FF6D17ECF8C",
+                "resolved_name": "updateBusySpinner",
+                "rva": "0x79068"
+            },
+            "qword_0x79070": {
+                "address": "0x7FFD89789070",
+                "current_value": "0x7FF6D3418073",
+                "resolved_name": "spinnerDep",
+                "rva": "0x79070"
+            },
+            "qword_0x79078": {
+                "address": "0x7FFD89789078",
+                "current_value": "0x1E89DF1DE70",
+                "resolved_name": "xbr::kGameBuildUniquifiers",
+                "rva": "0x79078",
+                "type": "std::map<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> > >"
+            },
+            "qword_0x79088": {
+                "address": "0x7FFD89789088",
+                "current_value": "0x0",
+                "resolved_name": "_init_instance_42",
+                "rva": "0x79088",
+                "type": "ComponentRegistration"
+            },
+            "qword_0x79089": {
+                "address": "0x7FFD89789089",
+                "current_value": "0xB000000000000000",
+                "resolved_name": "_init_instance_43",
+                "rva": "0x79089",
+                "type": "ComponentRegistration"
+            },
+            "qword_0x7908A": {
+                "address": "0x7FFD8978908A",
+                "current_value": "0x18B0000000000000",
+                "resolved_name": "_init_instance_44",
+                "rva": "0x7908A",
+                "type": "ComponentRegistration"
+            },
+            "qword_0x79090": {
+                "address": "0x7FFD89789090",
+                "current_value": "0x1E89EF518B0",
+                "resolved_name": "g_lastInstrumentedFuncs",
+                "rva": "0x79090",
+                "type": "std::stack<InstrumentedFuncMeta,std::deque<InstrumentedFuncMeta,std::allocator<InstrumentedFuncMeta> > >"
+            },
+            "qword_0x790B8": {
+                "address": "0x7FFD897890B8",
+                "current_value": "0x1E89DC78810",
+                "resolved_name": "OnInstrumentedFunctionCall",
+                "rva": "0x790B8",
+                "type": "fwEvent<int,void *,void *>"
+            },
+            "qword_0x790C8": {
+                "address": "0x7FFD897890C8",
+                "current_value": "0x1E89DC78510",
+                "resolved_name": "OnReturnDataFileEntry",
+                "rva": "0x790C8",
+                "type": "fwEvent<int,char const *>"
+            },
+            "qword_0x790D8": {
+                "address": "0x7FFD897890D8",
+                "current_value": "0x1E89DF1DFB0",
+                "resolved_name": "g_dlcNameMap",
+                "rva": "0x790D8",
+                "type": "std::map<unsigned int,std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::less<unsigned int>,std::allocator<std::pair<unsigned int const ,std::basic_string<char,std::char_traits<char>,std::allocator<char> > > > >"
+            },
+            "qword_0x790E8": {
+                "address": "0x7FFD897890E8",
+                "current_value": "0x7FFD89757B78",
+                "resolved_name": "initFunction",
+                "rva": "0x790E8",
+                "type": "InitFunction"
+            },
+            "qword_0x79108": {
+                "address": "0x7FFD89789108",
+                "current_value": "0x1E89A339B40",
+                "resolved_name": "Instance<ConsoleVariableManager>::ms_cachedInstance",
+                "rva": "0x79108"
+            },
+            "qword_0x79110": {
+                "address": "0x7FFD89789110",
+                "current_value": "0x3",
+                "resolved_name": "Instance<ConsoleVariableManager>::ms_id",
+                "rva": "0x79110"
+            },
+            "qword_0x79170": {
+                "address": "0x7FFD89789170",
+                "current_value": "0x30",
+                "resolved_name": "xbr::virt::Base<15,2802,0,6>::ms_offset",
+                "rva": "0x79170"
+            },
+            "qword_0x79178": {
+                "address": "0x7FFD89789178",
+                "current_value": "0x1",
+                "resolved_name": "Instance<ConsoleCommandManager>::ms_id",
+                "rva": "0x79178"
+            },
+            "qword_0x79180": {
+                "address": "0x7FFD89789180",
+                "current_value": "0x2",
+                "resolved_name": "Instance<console::Context>::ms_id",
+                "rva": "0x79180"
+            },
+            "qword_0x791A8": {
+                "address": "0x7FFD897891A8",
+                "current_value": "0x7FFD89757B78",
+                "resolved_name": "xbr::virt::Base<1,2802,2,6>::ms_initFunction",
+                "rva": "0x791A8",
+                "type": "InitFunction"
+            },
+            "qword_0x791C8": {
+                "address": "0x7FFD897891C8",
+                "current_value": "0x7FFD89757B78",
+                "resolved_name": "xbr::virt::Base<15,2802,0,6>::ms_initFunction",
+                "rva": "0x791C8",
+                "type": "InitFunction"
+            },
+            "qword_0x791E8": {
+                "address": "0x7FFD897891E8",
+                "current_value": "0x0",
+                "resolved_name": "std::codecvt<unsigned int,char,_Mbstatet>::id",
+                "rva": "0x791E8",
+                "type": "std::locale::id"
+            },
+            "qword_0x79250": {
+                "address": "0x7FFD89789250",
+                "current_value": "0xE",
+                "resolved_name": "Instance<fx::ResourceMetaDataComponent>::ms_id",
+                "rva": "0x79250"
+            },
+            "qword_0x79290": {
+                "address": "0x7FFD89789290",
+                "current_value": "0x30",
+                "resolved_name": "xbr::virt::Base<45,2802,0,6>::ms_offset",
+                "rva": "0x79290"
+            },
+            "qword_0x79298": {
+                "address": "0x7FFD89789298",
+                "current_value": "0x30",
+                "resolved_name": "xbr::virt::Base<2,2802,2,6>::ms_offset",
+                "rva": "0x79298"
+            },
+            "qword_0x792A8": {
+                "address": "0x7FFD897892A8",
+                "current_value": "0xA",
+                "resolved_name": "Instance<fx::ResourceMounter>::ms_id",
+                "rva": "0x792A8"
+            },
+            "qword_0x792B0": {
+                "address": "0x7FFD897892B0",
+                "current_value": "0x0",
+                "resolved_name": "g_upcomingDlcCallsCount",
+                "rva": "0x792B0"
+            },
+            "qword_0x792B4": {
+                "address": "0x7FFD897892B4",
+                "current_value": "0x0",
+                "resolved_name": "g_doDrawBelowLoadingScreens",
+                "rva": "0x792B4"
+            },
+            "qword_0x792B5": {
+                "address": "0x7FFD897892B5",
+                "current_value": "0x0",
+                "resolved_name": "frameOn",
+                "rva": "0x792B5"
+            },
+            "qword_0x792B6": {
+                "address": "0x7FFD897892B6",
+                "current_value": "0x0",
+                "resolved_name": "primedMapLoad",
+                "rva": "0x792B6"
+            },
+            "qword_0x792B8": {
+                "address": "0x7FFD897892B8",
+                "current_value": "0x0",
+                "resolved_name": "g_loadTimingBase",
+                "rva": "0x792B8",
+                "type": "std::chrono::duration<__int64,std::ratio<1,1000> >"
+            },
+            "qword_0x792C0": {
+                "address": "0x7FFD897892C0",
+                "current_value": "0x0",
+                "resolved_name": "_init_instance_0",
+                "rva": "0x792C0",
+                "type": "ComponentRegistration"
+            },
+            "qword_0x792C1": {
+                "address": "0x7FFD897892C1",
+                "current_value": "0x6000000000000000",
+                "resolved_name": "_init_instance_15",
+                "rva": "0x792C1",
+                "type": "ComponentRegistration"
+            },
+            "qword_0x792C2": {
+                "address": "0x7FFD897892C2",
+                "current_value": "0xDA60000000000000",
+                "resolved_name": "boost::optional_ns::in_place_init",
+                "rva": "0x792C2",
+                "type": "boost::optional_ns::in_place_init_t"
+            },
+            "qword_0x792C3": {
+                "address": "0x7FFD897892C3",
+                "current_value": "0xF1DA600000000000",
+                "resolved_name": "boost::optional_ns::in_place_init_if",
+                "rva": "0x792C3",
+                "type": "boost::optional_ns::in_place_init_if_t"
+            },
+            "qword_0x792C4": {
+                "address": "0x7FFD897892C4",
+                "current_value": "0x9DF1DA6000000000",
+                "resolved_name": "_init_instance_39",
+                "rva": "0x792C4",
+                "type": "ComponentRegistration"
+            },
+            "qword_0x792C5": {
+                "address": "0x7FFD897892C5",
+                "current_value": "0xE89DF1DA60000000",
+                "resolved_name": "_init_instance_40",
+                "rva": "0x792C5",
+                "type": "ComponentRegistration"
+            },
+            "qword_0x792C6": {
+                "address": "0x7FFD897892C6",
+                "current_value": "0x1E89DF1DA600000",
+                "resolved_name": "_init_instance_41",
+                "rva": "0x792C6",
+                "type": "ComponentRegistration"
+            },
+            "qword_0x792C7": {
+                "address": "0x7FFD897892C7",
+                "current_value": "0x1E89DF1DA6000",
+                "resolved_name": "_init_instance_42",
+                "rva": "0x792C7",
+                "type": "ComponentRegistration"
+            },
+            "qword_0x792C8": {
+                "address": "0x7FFD897892C8",
+                "current_value": "0x1E89DF1DA60",
+                "resolved_name": "xbr::kGameBuildUniquifiers",
+                "rva": "0x792C8",
+                "type": "std::map<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> > >"
+            },
+            "qword_0x792D8": {
+                "address": "0x7FFD897892D8",
+                "current_value": "0x0",
+                "resolved_name": "_init_instance_43",
+                "rva": "0x792D8",
+                "type": "ComponentRegistration"
+            },
+            "qword_0x792E0": {
+                "address": "0x7FFD897892E0",
+                "current_value": "0x1E89EDCC680",
+                "resolved_name": "g_loadTiming",
+                "rva": "0x792E0",
+                "type": "std::map<unsigned __int64,std::chrono::duration<__int64,std::ratio<1,1000> >,std::less<unsigned __int64>,std::allocator<std::pair<unsigned __int64 const ,std::chrono::duration<__int64,std::ratio<1,1000> > > > >"
+            },
+            "qword_0x792F0": {
+                "address": "0x7FFD897892F0",
+                "current_value": "0x1E89DF04710",
+                "resolved_name": "g_visitedTimings",
+                "rva": "0x792F0",
+                "type": "std::set<unsigned __int64,std::less<unsigned __int64>,std::allocator<unsigned __int64> >"
+            },
+            "qword_0x79300": {
+                "address": "0x7FFD89789300",
+                "current_value": "0x7FFD897595E8",
+                "resolved_name": "loadsThread",
+                "rva": "0x79300",
+                "type": "LoadsThread"
+            },
+            "qword_0x79320": {
+                "address": "0x7FFD89789320",
+                "current_value": "0x7FFE1EBE2C10",
+                "resolved_name": "g_origShutdown",
+                "rva": "0x79320",
+                "type": "std::function<void __cdecl(fx::ScriptContext &)>"
+            },
+            "qword_0x79360": {
+                "address": "0x7FFD89789360",
+                "current_value": "0x7FFD89757B78",
+                "resolved_name": "initFunction",
+                "rva": "0x79360",
+                "type": "InitFunction"
+            },
+            "qword_0x79380": {
+                "address": "0x7FFD89789380",
+                "current_value": "0x1E89EEED1D0",
+                "resolved_name": "g_loadProfileConvar",
+                "rva": "0x79380",
+                "type": "std::shared_ptr<ConVar<bool> >"
+            },
+            "qword_0x793B0": {
+                "address": "0x7FFD897893B0",
+                "current_value": "0x0",
+                "resolved_name": "Instance<fx::ResourceManager>::ms_cachedInstance",
+                "rva": "0x793B0"
+            },
+            "qword_0x793B8": {
+                "address": "0x7FFD897893B8",
+                "current_value": "0xB",
+                "resolved_name": "Instance<fx::ResourceManager>::ms_id",
+                "rva": "0x793B8"
+            },
+            "qword_0x793E8": {
+                "address": "0x7FFD897893E8",
+                "current_value": "0x7FFD89757B78",
+                "resolved_name": "xbr::virt::Base<2,2802,2,6>::ms_initFunction",
+                "rva": "0x793E8",
+                "type": "InitFunction"
+            },
+            "qword_0x79408": {
+                "address": "0x7FFD89789408",
+                "current_value": "0x7FFD89757B78",
+                "resolved_name": "xbr::virt::Base<45,2802,0,6>::ms_initFunction",
+                "rva": "0x79408",
+                "type": "InitFunction"
+            },
+            "qword_0x79528": {
+                "address": "0x7FFD89789528",
+                "current_value": "0x0",
+                "resolved_name": "std::_Facetptr<std::numpunct<char> >::_Psave",
+                "rva": "0x79528"
+            },
+            "qword_0x79598": {
+                "address": "0x7FFD89789598",
+                "current_value": "0x7FFD897895E0",
+                "resolved_name": "g_initFunctions",
+                "rva": "0x79598"
+            },
+            "qword_0x795C0": {
+                "address": "0x7FFD897895C0",
+                "current_value": "0x0",
+                "resolved_name": "initIoBuf",
+                "rva": "0x795C0",
+                "type": "InitIoBuf"
+            },
+            "qword_0x795C8": {
+                "address": "0x7FFD897895C8",
+                "current_value": "0x7FFD8976E250",
+                "resolved_name": "g_hookFunctions",
+                "rva": "0x795C8"
+            },
+            "qword_0x795D0": {
+                "address": "0x7FFD897895D0",
+                "current_value": "0x0",
+                "resolved_name": "g_runtimeHookFunctions",
+                "rva": "0x795D0"
+            },
+            "qword_0x795D8": {
+                "address": "0x7FFD897895D8",
+                "current_value": "0x7FF591390000",
+                "resolved_name": "hook::baseAddressDifference",
+                "rva": "0x795D8"
+            },
+            "qword_0x795E0": {
+                "address": "0x7FFD897895E0",
+                "current_value": "0x7FFD89757B78",
+                "resolved_name": "initHookingFunction",
+                "rva": "0x795E0",
+                "type": "InitFunction"
+            },
+            "qword_0x79608": {
+                "address": "0x7FFD89789608",
+                "current_value": "0x1E89DF1DB00",
+                "resolved_name": "xbr::kGameBuildUniquifiers",
+                "rva": "0x79608",
+                "type": "std::map<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> > >"
+            },
+            "qword_0x79638": {
+                "address": "0x7FFD89789638",
+                "current_value": "0x1E89DF1DD30",
+                "resolved_name": "xbr::kGameBuildUniquifiers",
+                "rva": "0x79638",
+                "type": "std::map<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> > >"
+            },
+            "qword_0x79648": {
+                "address": "0x7FFD89789648",
+                "current_value": "0x0",
+                "resolved_name": "std::_Fac_head",
+                "rva": "0x79648"
+            },
+            "qword_0x79650": {
+                "address": "0x7FFD89789650",
+                "current_value": "0x0",
+                "resolved_name": "std::_Fac_tidy_reg",
+                "rva": "0x79650",
+                "type": "std::_Fac_tidy_reg_t"
+            },
+            "qword_0x79658": {
+                "address": "0x7FFD89789658",
+                "current_value": "0x0",
+                "resolved_name": "g_tss_cv",
+                "rva": "0x79658",
+                "type": "_RTL_CONDITION_VARIABLE"
+            },
+            "qword_0x79660": {
+                "address": "0x7FFD89789660",
+                "current_value": "0x0",
+                "resolved_name": "g_tss_event",
+                "rva": "0x79660"
+            },
+            "qword_0x79668": {
+                "address": "0x7FFD89789668",
+                "current_value": "0xFFFFFFFFFFFFFFFF",
+                "resolved_name": "g_tss_mutex",
+                "rva": "0x79668",
+                "type": "_RTL_CRITICAL_SECTION"
+            },
+            "qword_0x79690": {
+                "address": "0x7FFD89789690",
+                "current_value": "0x7FFEBC258340",
+                "resolved_name": "g_sleep_condition_variable_cs",
+                "rva": "0x79690"
+            },
+            "qword_0x79698": {
+                "address": "0x7FFD89789698",
+                "current_value": "0x7FFEBEE46FD0",
+                "resolved_name": "g_wake_all_condition_variable",
+                "rva": "0x79698"
+            },
+            "qword_0x796A0": {
+                "address": "0x7FFD897896A0",
+                "current_value": "0x2",
+                "resolved_name": "__scrt_current_native_startup_state",
+                "rva": "0x796A0",
+                "type": "__scrt_native_startup_state"
+            },
+            "qword_0x796A8": {
+                "address": "0x7FFD897896A8",
+                "current_value": "0x0",
+                "resolved_name": "__scrt_native_startup_lock",
+                "rva": "0x796A8"
+            },
+            "qword_0x796B0": {
+                "address": "0x7FFD897896B0",
+                "current_value": "0x101",
+                "resolved_name": "is_initialized_as_dll",
+                "rva": "0x796B0"
+            },
+            "qword_0x796B1": {
+                "address": "0x7FFD897896B1",
+                "current_value": "0x8700000000000001",
+                "resolved_name": "module_local_atexit_table_initialized",
+                "rva": "0x796B1"
+            },
+            "qword_0x796B8": {
+                "address": "0x7FFD897896B8",
+                "current_value": "0x4E9FD9C95B87",
+                "resolved_name": "module_local_atexit_table",
+                "rva": "0x796B8",
+                "type": "_onexit_table_t"
+            },
+            "qword_0x796D0": {
+                "address": "0x7FFD897896D0",
+                "current_value": "0xBAD120F9F387",
+                "resolved_name": "module_local_at_quick_exit_table",
+                "rva": "0x796D0",
+                "type": "_onexit_table_t"
+            },
+            "qword_0x796E8": {
+                "address": "0x7FFD897896E8",
+                "current_value": "0x52",
+                "resolved_name": "_tls_index",
+                "rva": "0x796E8"
+            },
+            "qword_0x796F0": {
+                "address": "0x7FFD897896F0",
+                "current_value": "0x0",
+                "resolved_name": "__type_info_root_node",
+                "rva": "0x796F0",
+                "type": "__type_info_node"
+            },
+            "qword_0x79700": {
+                "address": "0x7FFD89789700",
+                "current_value": "0x1",
+                "resolved_name": "__proc_attached",
+                "rva": "0x79700"
+            },
+            "qword_0x79710": {
+                "address": "0x7FFD89789710",
+                "current_value": "0x0",
+                "resolved_name": "GS_ExceptionRecord",
+                "rva": "0x79710",
+                "type": "_EXCEPTION_RECORD"
+            },
+            "qword_0x797B0": {
+                "address": "0x7FFD897897B0",
+                "current_value": "0x0",
+                "resolved_name": "GS_ContextRecord",
+                "rva": "0x797B0",
+                "type": "_CONTEXT"
+            },
+            "qword_0x79C80": {
+                "address": "0x7FFD89789C80",
+                "current_value": "0x2",
+                "resolved_name": "__favor",
+                "rva": "0x79C80"
+            },
+            "qword_0x79C84": {
+                "address": "0x7FFD89789C84",
+                "current_value": "0x200000000",
+                "resolved_name": "__scrt_debugger_hook_flag",
+                "rva": "0x79C84"
+            }
+        },
         "rapidjson::EncodedInputStream<rapidjson::UTF8<char>,rapidjson::MemoryStream>::Peek": {
             "offset": "0x35A90"
         },

@@ -417,6 +417,919 @@
         "quote_cmd_arg": {
             "offset": "0x1AE60"
         },
+        "qwords": {
+            "qword_0x0": {
+                "address": "0x7FFD8D040000",
+                "current_value": "0x100785A4D",
+                "resolved_name": "UV_ENOTEMPTY",
+                "rva": "0x0",
+                "type": ""
+            },
+            "qword_0x2C54B0": {
+                "address": "0x7FFD8D3054B0",
+                "current_value": "0x0",
+                "resolved_name": "uv_zero_",
+                "rva": "0x2C54B0",
+                "type": ""
+            },
+            "qword_0x2C54B8": {
+                "address": "0x7FFD8D3054B8",
+                "current_value": "0x0",
+                "resolved_name": "uv__current_thread_init_guard",
+                "rva": "0x2C54B8",
+                "type": "uv_once_s"
+            },
+            "qword_0x2C54C8": {
+                "address": "0x7FFD8D3054C8",
+                "current_value": "0x0",
+                "resolved_name": "uv__current_thread_key",
+                "rva": "0x2C54C8",
+                "type": "uv_key_t"
+            },
+            "qword_0x2C54D0": {
+                "address": "0x7FFD8D3054D0",
+                "current_value": "0x0",
+                "resolved_name": "overlapped_dummy_init_guard_",
+                "rva": "0x2C54D0",
+                "type": "uv_once_s"
+            },
+            "qword_0x2C54E0": {
+                "address": "0x7FFD8D3054E0",
+                "current_value": "0x0",
+                "resolved_name": "overlapped_dummy_",
+                "rva": "0x2C54E0",
+                "type": "_OVERLAPPED"
+            },
+            "qword_0x2C5500": {
+                "address": "0x7FFD8D305500",
+                "current_value": "0x0",
+                "resolved_name": "afd_poll_info_dummy_",
+                "rva": "0x2C5500",
+                "type": "_AFD_POLL_INFO"
+            },
+            "qword_0x2C5520": {
+                "address": "0x7FFD8D305520",
+                "current_value": "0x0",
+                "resolved_name": "uv_global_job_handle_init_guard_",
+                "rva": "0x2C5520",
+                "type": "uv_once_s"
+            },
+            "qword_0x2C5530": {
+                "address": "0x7FFD8D305530",
+                "current_value": "0x0",
+                "resolved_name": "uv_global_job_handle_",
+                "rva": "0x2C5530"
+            },
+            "qword_0x2C5540": {
+                "address": "0x7FFD8D305540",
+                "current_value": "0xFFFFFFFFFFFFFFFF",
+                "resolved_name": "uv__signal_lock",
+                "rva": "0x2C5540",
+                "type": "_RTL_CRITICAL_SECTION"
+            },
+            "qword_0x2C5568": {
+                "address": "0x7FFD8D305568",
+                "current_value": "0x0",
+                "resolved_name": "uv__signal_tree",
+                "rva": "0x2C5568",
+                "type": "uv_signal_tree_s"
+            },
+            "qword_0x2C5570": {
+                "address": "0x7FFD8D305570",
+                "current_value": "0x0",
+                "resolved_name": "uv_zero_",
+                "rva": "0x2C5570",
+                "type": ""
+            },
+            "qword_0x2C5578": {
+                "address": "0x7FFD8D305578",
+                "current_value": "0x4BC",
+                "resolved_name": "uv_tty_output_lock",
+                "rva": "0x2C5578"
+            },
+            "qword_0x2C5580": {
+                "address": "0x7FFD8D305580",
+                "current_value": "0x0",
+                "resolved_name": "uv__tty_console_resize_mutex",
+                "rva": "0x2C5580",
+                "type": "_RTL_CRITICAL_SECTION"
+            },
+            "qword_0x2C55AD": {
+                "address": "0x7FFD8D3055AD",
+                "current_value": "0x0",
+                "resolved_name": "uv_tty_default_bg_color",
+                "rva": "0x2C55AD"
+            },
+            "qword_0x2C55B8": {
+                "address": "0x7FFD8D3055B8",
+                "current_value": "0x0",
+                "resolved_name": "uv_tty_default_cursor_info",
+                "rva": "0x2C55B8",
+                "type": "_CONSOLE_CURSOR_INFO"
+            },
+            "qword_0x2C55C0": {
+                "address": "0x7FFD8D3055C0",
+                "current_value": "0x0",
+                "resolved_name": "uv__restore_screen_state",
+                "rva": "0x2C55C0"
+            },
+            "qword_0x2C55C4": {
+                "address": "0x7FFD8D3055C4",
+                "current_value": "0x0",
+                "resolved_name": "uv__read_console_status",
+                "rva": "0x2C55C4"
+            },
+            "qword_0x2C55C8": {
+                "address": "0x7FFD8D3055C8",
+                "current_value": "0x0",
+                "resolved_name": "uv__saved_screen_state",
+                "rva": "0x2C55C8",
+                "type": "_CONSOLE_SCREEN_BUFFER_INFO"
+            },
+            "qword_0x2C55E0": {
+                "address": "0x7FFD8D3055E0",
+                "current_value": "0x0",
+                "resolved_name": "uv_zero_",
+                "rva": "0x2C55E0",
+                "type": ""
+            },
+            "qword_0x2C55E8": {
+                "address": "0x7FFD8D3055E8",
+                "current_value": "0xFFFFFFFFFFFFFFFF",
+                "resolved_name": "process_title_lock",
+                "rva": "0x2C55E8",
+                "type": "_RTL_CRITICAL_SECTION"
+            },
+            "qword_0x2C5610": {
+                "address": "0x7FFD8D305610",
+                "current_value": "0x989680",
+                "resolved_name": "hrtime_frequency_",
+                "rva": "0x2C5610"
+            },
+            "qword_0x2C5618": {
+                "address": "0x7FFD8D305618",
+                "current_value": "0x0",
+                "resolved_name": "process_title",
+                "rva": "0x2C5618"
+            },
+            "qword_0x2C5628": {
+                "address": "0x7FFD8D305628",
+                "current_value": "0x7FFEBEDF3C10",
+                "resolved_name": "pRtlGetVersion",
+                "rva": "0x2C5628"
+            },
+            "qword_0x2C5630": {
+                "address": "0x7FFD8D305630",
+                "current_value": "0x7FFEBEDC4E40",
+                "resolved_name": "pRtlNtStatusToDosError",
+                "rva": "0x2C5630"
+            },
+            "qword_0x2C5638": {
+                "address": "0x7FFD8D305638",
+                "current_value": "0x7FFEBEF21EA0",
+                "resolved_name": "pNtDeviceIoControlFile",
+                "rva": "0x2C5638"
+            },
+            "qword_0x2C5640": {
+                "address": "0x7FFD8D305640",
+                "current_value": "0x7FFEBEF21FE0",
+                "resolved_name": "pNtQueryInformationFile",
+                "rva": "0x2C5640"
+            },
+            "qword_0x2C5648": {
+                "address": "0x7FFD8D305648",
+                "current_value": "0x7FFEBEF222A0",
+                "resolved_name": "pNtSetInformationFile",
+                "rva": "0x2C5648"
+            },
+            "qword_0x2C5650": {
+                "address": "0x7FFD8D305650",
+                "current_value": "0x7FFEBEF226E0",
+                "resolved_name": "pNtQueryVolumeInformationFile",
+                "rva": "0x2C5650"
+            },
+            "qword_0x2C5658": {
+                "address": "0x7FFD8D305658",
+                "current_value": "0x7FFEBEF22460",
+                "resolved_name": "pNtQueryDirectoryFile",
+                "rva": "0x2C5658"
+            },
+            "qword_0x2C5660": {
+                "address": "0x7FFD8D305660",
+                "current_value": "0x7FFEBEF22480",
+                "resolved_name": "pNtQuerySystemInformation",
+                "rva": "0x2C5660"
+            },
+            "qword_0x2C5668": {
+                "address": "0x7FFD8D305668",
+                "current_value": "0x7FFEBEF33FC0",
+                "resolved_name": "pNtQueryInformationProcess",
+                "rva": "0x2C5668"
+            },
+            "qword_0x2C5670": {
+                "address": "0x7FFD8D305670",
+                "current_value": "0x7FFEBCFA9E00",
+                "resolved_name": "pGetQueuedCompletionStatusEx",
+                "rva": "0x2C5670"
+            },
+            "qword_0x2C5678": {
+                "address": "0x7FFD8D305678",
+                "current_value": "0x7FFEBBD66DC0",
+                "resolved_name": "pPowerRegisterSuspendResumeNotification",
+                "rva": "0x2C5678"
+            },
+            "qword_0x2C5680": {
+                "address": "0x7FFD8D305680",
+                "current_value": "0x7FFEBDA84540",
+                "resolved_name": "pSetWinEventHook",
+                "rva": "0x2C5680"
+            },
+            "qword_0x2C5688": {
+                "address": "0x7FFD8D305688",
+                "current_value": "0x7FFEBCF1D4F0",
+                "resolved_name": "pGetHostNameW",
+                "rva": "0x2C5688"
+            },
+            "qword_0x2C5690": {
+                "address": "0x7FFD8D305690",
+                "current_value": "0x2",
+                "resolved_name": "uv_addr_ip4_any_",
+                "rva": "0x2C5690",
+                "type": "sockaddr_in"
+            },
+            "qword_0x2C56A0": {
+                "address": "0x7FFD8D3056A0",
+                "current_value": "0x17",
+                "resolved_name": "uv_addr_ip6_any_",
+                "rva": "0x2C56A0",
+                "type": "sockaddr_in6"
+            },
+            "qword_0x2C56BC": {
+                "address": "0x7FFD8D3056BC",
+                "current_value": "0x0",
+                "resolved_name": "uv_tcp_non_ifs_lsp_ipv4",
+                "rva": "0x2C56BC"
+            },
+            "qword_0x2C56C0": {
+                "address": "0x7FFD8D3056C0",
+                "current_value": "0x0",
+                "resolved_name": "uv_tcp_non_ifs_lsp_ipv6",
+                "rva": "0x2C56C0"
+            },
+            "qword_0x2C56D0": {
+                "address": "0x7FFD8D3056D0",
+                "current_value": "0x0",
+                "resolved_name": "GS_ExceptionRecord",
+                "rva": "0x2C56D0",
+                "type": "_EXCEPTION_RECORD"
+            },
+            "qword_0x2C5770": {
+                "address": "0x7FFD8D305770",
+                "current_value": "0x0",
+                "resolved_name": "GS_ContextRecord",
+                "rva": "0x2C5770",
+                "type": "_CONTEXT"
+            },
+            "qword_0x2C5C40": {
+                "address": "0x7FFD8D305C40",
+                "current_value": "0x1",
+                "resolved_name": "__proc_attached",
+                "rva": "0x2C5C40"
+            },
+            "qword_0x2C5C50": {
+                "address": "0x7FFD8D305C50",
+                "current_value": "0x0",
+                "resolved_name": "__type_info_root_node",
+                "rva": "0x2C5C50",
+                "type": "__type_info_node"
+            },
+            "qword_0x2C5C70": {
+                "address": "0x7FFD8D305C70",
+                "current_value": "0x2",
+                "resolved_name": "__scrt_current_native_startup_state",
+                "rva": "0x2C5C70",
+                "type": "__scrt_native_startup_state"
+            },
+            "qword_0x2C5C78": {
+                "address": "0x7FFD8D305C78",
+                "current_value": "0x0",
+                "resolved_name": "__scrt_native_startup_lock",
+                "rva": "0x2C5C78"
+            },
+            "qword_0x2C5C80": {
+                "address": "0x7FFD8D305C80",
+                "current_value": "0x101",
+                "resolved_name": "is_initialized_as_dll",
+                "rva": "0x2C5C80"
+            },
+            "qword_0x2C5C81": {
+                "address": "0x7FFD8D305C81",
+                "current_value": "0x8700000000000001",
+                "resolved_name": "module_local_atexit_table_initialized",
+                "rva": "0x2C5C81"
+            },
+            "qword_0x2C5C88": {
+                "address": "0x7FFD8D305C88",
+                "current_value": "0xBAD120F9F387",
+                "resolved_name": "module_local_atexit_table",
+                "rva": "0x2C5C88",
+                "type": "_onexit_table_t"
+            },
+            "qword_0x2C5CA0": {
+                "address": "0x7FFD8D305CA0",
+                "current_value": "0xBAD120F9F387",
+                "resolved_name": "module_local_at_quick_exit_table",
+                "rva": "0x2C5CA0",
+                "type": "_onexit_table_t"
+            },
+            "qword_0x2C5CB8": {
+                "address": "0x7FFD8D305CB8",
+                "current_value": "0x0",
+                "resolved_name": "__dyn_tls_init_callback",
+                "rva": "0x2C5CB8"
+            },
+            "qword_0x2C5CC0": {
+                "address": "0x7FFD8D305CC0",
+                "current_value": "0x0",
+                "resolved_name": "__scrt_debugger_hook_flag",
+                "rva": "0x2C5CC0"
+            },
+            "qword_0x2C5CC8": {
+                "address": "0x7FFD8D305CC8",
+                "current_value": "0x0",
+                "resolved_name": "__castguard_check_failure_user_handled_fptr",
+                "rva": "0x2C5CC8"
+            },
+            "qword_0x2C5CD0": {
+                "address": "0x7FFD8D305CD0",
+                "current_value": "0x2",
+                "resolved_name": "__favor",
+                "rva": "0x2C5CD0"
+            },
+            "qword_0x2D9B0": {
+                "address": "0x7FFD8D06D9B0",
+                "current_value": "0xCCCCCCCCCCCCE0FF",
+                "resolved_name": "_guard_dispatch_icall_nop",
+                "rva": "0x2D9B0"
+            },
+            "qword_0x2D9D0": {
+                "address": "0x7FFD8D06D9D0",
+                "current_value": "0x554000007E3225FF",
+                "resolved_name": "_guard_xfg_dispatch_icall_nop",
+                "rva": "0x2D9D0"
+            },
+            "qword_0x312C0": {
+                "address": "0x7FFD8D0712C0",
+                "current_value": "0x5C003F003F005C",
+                "resolved_name": "JUNCTION_PREFIX",
+                "rva": "0x312C0",
+                "type": ""
+            },
+            "qword_0x312CA": {
+                "address": "0x7FFD8D0712CA",
+                "current_value": "0x3F005C005C0004",
+                "resolved_name": "JUNCTION_PREFIX_LEN",
+                "rva": "0x312CA"
+            },
+            "qword_0x312CC": {
+                "address": "0x7FFD8D0712CC",
+                "current_value": "0x5C003F005C005C",
+                "resolved_name": "LONG_PATH_PREFIX",
+                "rva": "0x312CC",
+                "type": ""
+            },
+            "qword_0x312D6": {
+                "address": "0x7FFD8D0712D6",
+                "current_value": "0x4",
+                "resolved_name": "LONG_PATH_PREFIX_LEN",
+                "rva": "0x312D6"
+            },
+            "qword_0x312E0": {
+                "address": "0x7FFD8D0712E0",
+                "current_value": "0x5C003F005C005C",
+                "resolved_name": "UNC_PATH_PREFIX",
+                "rva": "0x312E0",
+                "type": ""
+            },
+            "qword_0x312F2": {
+                "address": "0x7FFD8D0712F2",
+                "current_value": "0x4000000030008",
+                "resolved_name": "UNC_PATH_PREFIX_LEN",
+                "rva": "0x312F2"
+            },
+            "qword_0x3172C": {
+                "address": "0x7FFD8D07172C",
+                "current_value": "0x72007300001000",
+                "resolved_name": "uv_directory_watcher_buffer_size",
+                "rva": "0x3172C"
+            },
+            "qword_0x31BF0": {
+                "address": "0x7FFD8D071BF0",
+                "current_value": "0x0",
+                "resolved_name": "uv_null_buf_",
+                "rva": "0x31BF0",
+                "type": "uv_buf_t"
+            },
+            "qword_0x32990": {
+                "address": "0x7FFD8D072990",
+                "current_value": "0x11CFAB8BE70F1AA0",
+                "resolved_name": "uv_msafd_provider_ids",
+                "rva": "0x32990",
+                "type": ""
+            },
+            "qword_0x32DB0": {
+                "address": "0x7FFD8D072DB0",
+                "current_value": "0x7FFD8D0733AA",
+                "resolved_name": "required_vars",
+                "rva": "0x32DB0",
+                "type": ""
+            },
+            "qword_0x32EC8": {
+                "address": "0x7FFD8D072EC8",
+                "current_value": "0x11CFBAE43C374A40",
+                "resolved_name": "CLSID_CUrlHistory",
+                "rva": "0x32EC8",
+                "type": "_GUID"
+            },
+            "qword_0x32ED8": {
+                "address": "0x7FFD8D072ED8",
+                "current_value": "0x4EB484766659983C",
+                "resolved_name": "CLSID_CUrlHistoryBoth",
+                "rva": "0x32ED8",
+                "type": "_GUID"
+            },
+            "qword_0x339C4": {
+                "address": "0x7FFD8D0739C4",
+                "current_value": "0x72007300000020",
+                "resolved_name": "uv_simultaneous_server_accepts",
+                "rva": "0x339C4"
+            },
+            "qword_0x33E70": {
+                "address": "0x7FFD8D073E70",
+                "current_value": "0x0",
+                "resolved_name": "uv_null_buf_",
+                "rva": "0x33E70",
+                "type": "uv_buf_t"
+            },
+            "qword_0x35510": {
+                "address": "0x7FFD8D075510",
+                "current_value": "0x7FFD8D3056D0",
+                "resolved_name": "GS_ExceptionPointers",
+                "rva": "0x35510",
+                "type": "_EXCEPTION_POINTERS"
+            },
+            "qword_0x35520": {
+                "address": "0x7FFD8D075520",
+                "current_value": "0x0",
+                "resolved_name": "_pRawDllMain",
+                "rva": "0x35520"
+            },
+            "qword_0x35530": {
+                "address": "0x7FFD8D075530",
+                "current_value": "0x140",
+                "resolved_name": "_load_config_used",
+                "rva": "0x35530",
+                "type": "_RS5_IMAGE_LOAD_CONFIG_DIRECTORY64"
+            },
+            "qword_0x35680": {
+                "address": "0x7FFD8D075680",
+                "current_value": "0x0",
+                "resolved_name": "__CastGuardVftablesStart",
+                "rva": "0x35680",
+                "type": "CastGuardVftables"
+            },
+            "qword_0x35700": {
+                "address": "0x7FFD8D075700",
+                "current_value": "0x0",
+                "resolved_name": "__CastGuardVftablesEnd",
+                "rva": "0x35700",
+                "type": "CastGuardVftables"
+            },
+            "qword_0x357F8": {
+                "address": "0x7FFD8D0757F8",
+                "current_value": "0x7FFD8D06D540",
+                "resolved_name": "__guard_check_icall_fptr",
+                "rva": "0x357F8"
+            },
+            "qword_0x35800": {
+                "address": "0x7FFD8D075800",
+                "current_value": "0x7FFD8D06D540",
+                "resolved_name": "__guard_xfg_check_icall_fptr",
+                "rva": "0x35800"
+            },
+            "qword_0x35808": {
+                "address": "0x7FFD8D075808",
+                "current_value": "0x7FFD8D06D9B0",
+                "resolved_name": "__guard_dispatch_icall_fptr",
+                "rva": "0x35808"
+            },
+            "qword_0x35810": {
+                "address": "0x7FFD8D075810",
+                "current_value": "0x7FFD8D06D9D0",
+                "resolved_name": "__guard_xfg_dispatch_icall_fptr",
+                "rva": "0x35810"
+            },
+            "qword_0x35818": {
+                "address": "0x7FFD8D075818",
+                "current_value": "0x7FFD8D06D9D0",
+                "resolved_name": "__guard_xfg_table_dispatch_icall_fptr",
+                "rva": "0x35818"
+            },
+            "qword_0x35820": {
+                "address": "0x7FFD8D075820",
+                "current_value": "0x0",
+                "resolved_name": "__castguard_check_failure_os_handled_fptr",
+                "rva": "0x35820"
+            },
+            "qword_0x35828": {
+                "address": "0x7FFD8D075828",
+                "current_value": "0x7FFD8D06E8E0",
+                "resolved_name": "__guard_memcpy_fptr",
+                "rva": "0x35828"
+            },
+            "qword_0x35830": {
+                "address": "0x7FFD8D075830",
+                "current_value": "0x0",
+                "resolved_name": "__xc_a",
+                "rva": "0x35830",
+                "type": ""
+            },
+            "qword_0x35838": {
+                "address": "0x7FFD8D075838",
+                "current_value": "0x0",
+                "resolved_name": "__xc_z",
+                "rva": "0x35838",
+                "type": ""
+            },
+            "qword_0x35840": {
+                "address": "0x7FFD8D075840",
+                "current_value": "0x0",
+                "resolved_name": "__xi_a",
+                "rva": "0x35840",
+                "type": ""
+            },
+            "qword_0x35848": {
+                "address": "0x7FFD8D075848",
+                "current_value": "0x0",
+                "resolved_name": "__xi_z",
+                "rva": "0x35848",
+                "type": ""
+            },
+            "qword_0x35850": {
+                "address": "0x7FFD8D075850",
+                "current_value": "0x0",
+                "resolved_name": "__xp_a",
+                "rva": "0x35850",
+                "type": ""
+            },
+            "qword_0x35858": {
+                "address": "0x7FFD8D075858",
+                "current_value": "0x0",
+                "resolved_name": "__xp_z",
+                "rva": "0x35858",
+                "type": ""
+            },
+            "qword_0x35860": {
+                "address": "0x7FFD8D075860",
+                "current_value": "0x0",
+                "resolved_name": "__xt_a",
+                "rva": "0x35860",
+                "type": ""
+            },
+            "qword_0x35868": {
+                "address": "0x7FFD8D075868",
+                "current_value": "0x0",
+                "resolved_name": "__xt_z",
+                "rva": "0x35868",
+                "type": ""
+            },
+            "qword_0x3A228": {
+                "address": "0x7FFD8D07A228",
+                "current_value": "0x0",
+                "resolved_name": "__rtc_iaa",
+                "rva": "0x3A228",
+                "type": ""
+            },
+            "qword_0x3A230": {
+                "address": "0x7FFD8D07A230",
+                "current_value": "0x0",
+                "resolved_name": "__rtc_izz",
+                "rva": "0x3A230",
+                "type": ""
+            },
+            "qword_0x3A238": {
+                "address": "0x7FFD8D07A238",
+                "current_value": "0x0",
+                "resolved_name": "__rtc_taa",
+                "rva": "0x3A238",
+                "type": ""
+            },
+            "qword_0x3A240": {
+                "address": "0x7FFD8D07A240",
+                "current_value": "0x0",
+                "resolved_name": "__rtc_tzz",
+                "rva": "0x3A240",
+                "type": ""
+            },
+            "qword_0x3BB50": {
+                "address": "0x7FFD8D07BB50",
+                "current_value": "0x120400010401",
+                "resolved_name": "$xdatasym",
+                "rva": "0x3BB50"
+            },
+            "qword_0x3BB58": {
+                "address": "0x7FFD8D07BB58",
+                "current_value": "0x1080100000001",
+                "resolved_name": "$xdatasym",
+                "rva": "0x3BB58"
+            },
+            "qword_0x3BDE0": {
+                "address": "0x7FFD8D07BDE0",
+                "current_value": "0x1",
+                "resolved_name": "$xdatasym",
+                "rva": "0x3BDE0"
+            },
+            "qword_0x3BDE8": {
+                "address": "0x7FFD8D07BDE8",
+                "current_value": "0x1",
+                "resolved_name": "$xdatasym",
+                "rva": "0x3BDE8"
+            },
+            "qword_0x3C020": {
+                "address": "0x7FFD8D07C020",
+                "current_value": "0xFFFFFFFFFFFFFFFF",
+                "resolved_name": "uv__tty_console_handle",
+                "rva": "0x3C020"
+            },
+            "qword_0x3C028": {
+                "address": "0x7FFD8D07C028",
+                "current_value": "0xFFFFFFFFFFFFFFFF",
+                "resolved_name": "uv__tty_console_width",
+                "rva": "0x3C028"
+            },
+            "qword_0x3C02C": {
+                "address": "0x7FFD8D07C02C",
+                "current_value": "0xFFFFFFFFFFFFFFFF",
+                "resolved_name": "uv__tty_console_height",
+                "rva": "0x3C02C"
+            },
+            "qword_0x3C030": {
+                "address": "0x7FFD8D07C030",
+                "current_value": "0xFFFFFFFFFFFFFFFF",
+                "resolved_name": "uv_tty_virtual_width",
+                "rva": "0x3C030"
+            },
+            "qword_0x3C034": {
+                "address": "0x7FFD8D07C034",
+                "current_value": "0x1FFFFFFFF",
+                "resolved_name": "uv_tty_virtual_height",
+                "rva": "0x3C034"
+            },
+            "qword_0x3C038": {
+                "address": "0x7FFD8D07C038",
+                "current_value": "0x7000700000001",
+                "resolved_name": "uv__vterm_state",
+                "rva": "0x3C038",
+                "type": "<unnamed-tag>"
+            },
+            "qword_0x3C03C": {
+                "address": "0x7FFD8D07C03C",
+                "current_value": "0xFFFFFFFF00070007",
+                "resolved_name": "uv_tty_default_text_attributes",
+                "rva": "0x3C03C"
+            },
+            "qword_0x3C03E": {
+                "address": "0x7FFD8D07C03E",
+                "current_value": "0xFFFFFFFF0007",
+                "resolved_name": "uv_tty_default_fg_color",
+                "rva": "0x3C03E"
+            },
+            "qword_0x3C040": {
+                "address": "0x7FFD8D07C040",
+                "current_value": "0xFFFFFFFF",
+                "resolved_name": "uv_tty_virtual_offset",
+                "rva": "0x3C040"
+            },
+            "qword_0x3C048": {
+                "address": "0x7FFD8D07C048",
+                "current_value": "0xFFFFFFFFFFFFFFFF",
+                "resolved_name": "uv__tty_console_resized",
+                "rva": "0x3C048"
+            },
+            "qword_0x3C050": {
+                "address": "0x7FFD8D07C050",
+                "current_value": "0xFFFFC649527FB179",
+                "resolved_name": "__security_cookie_complement",
+                "rva": "0x3C050"
+            },
+            "qword_0x3C058": {
+                "address": "0x7FFD8D07C058",
+                "current_value": "0x39B6AD804E86",
+                "resolved_name": "__security_cookie",
+                "rva": "0x3C058"
+            },
+            "qword_0x3C060": {
+                "address": "0x7FFD8D07C060",
+                "current_value": "0xFFFFFFFF00009875",
+                "resolved_name": "_fltused",
+                "rva": "0x3C060"
+            },
+            "qword_0x3C064": {
+                "address": "0x7FFD8D07C064",
+                "current_value": "0x5FFFFFFFF",
+                "resolved_name": "__scrt_native_dllmain_reason",
+                "rva": "0x3C064"
+            },
+            "qword_0x3C068": {
+                "address": "0x7FFD8D07C068",
+                "current_value": "0x2E00000005",
+                "resolved_name": "__isa_available",
+                "rva": "0x3C068"
+            },
+            "qword_0x3C06C": {
+                "address": "0x7FFD8D07C06C",
+                "current_value": "0x80000000002E",
+                "resolved_name": "__isa_enabled",
+                "rva": "0x3C06C"
+            },
+            "qword_0x3C070": {
+                "address": "0x7FFD8D07C070",
+                "current_value": "0x8000",
+                "resolved_name": "__memset_fast_string_threshold",
+                "rva": "0x3C070"
+            },
+            "qword_0x3C078": {
+                "address": "0x7FFD8D07C078",
+                "current_value": "0xFFFFFFFFFFFFFFFF",
+                "resolved_name": "__memset_nt_threshold",
+                "rva": "0x3C078"
+            },
+            "qword_0x3C080": {
+                "address": "0x7FFD8D07C080",
+                "current_value": "0x1",
+                "resolved_name": "__scrt_ucrt_dll_is_in_use",
+                "rva": "0x3C080"
+            },
+            "qword_0x3C088": {
+                "address": "0x7FFD8D07C088",
+                "current_value": "0x0",
+                "resolved_name": "zero_statbuf",
+                "rva": "0x3C088",
+                "type": "uv_stat_t"
+            },
+            "qword_0x3C110": {
+                "address": "0x7FFD8D07C110",
+                "current_value": "0x0",
+                "resolved_name": "nthreads",
+                "rva": "0x3C110"
+            },
+            "qword_0x3C118": {
+                "address": "0x7FFD8D07C118",
+                "current_value": "0x0",
+                "resolved_name": "exit_message",
+                "rva": "0x3C118",
+                "type": "uv__queue"
+            },
+            "qword_0x3C128": {
+                "address": "0x7FFD8D07C128",
+                "current_value": "0x0",
+                "resolved_name": "threads",
+                "rva": "0x3C128"
+            },
+            "qword_0x3C130": {
+                "address": "0x7FFD8D07C130",
+                "current_value": "0x0",
+                "resolved_name": "default_threads",
+                "rva": "0x3C130",
+                "type": ""
+            },
+            "qword_0x3C150": {
+                "address": "0x7FFD8D07C150",
+                "current_value": "0x0",
+                "resolved_name": "mutex",
+                "rva": "0x3C150",
+                "type": "_RTL_CRITICAL_SECTION"
+            },
+            "qword_0x3C178": {
+                "address": "0x7FFD8D07C178",
+                "current_value": "0x0",
+                "resolved_name": "cond",
+                "rva": "0x3C178",
+                "type": "uv_cond_t"
+            },
+            "qword_0x3C1B8": {
+                "address": "0x7FFD8D07C1B8",
+                "current_value": "0x0",
+                "resolved_name": "once",
+                "rva": "0x3C1B8",
+                "type": "uv_once_s"
+            },
+            "qword_0x3C1C8": {
+                "address": "0x7FFD8D07C1C8",
+                "current_value": "0x0",
+                "resolved_name": "slow_io_pending_wq",
+                "rva": "0x3C1C8",
+                "type": "uv__queue"
+            },
+            "qword_0x3C1D8": {
+                "address": "0x7FFD8D07C1D8",
+                "current_value": "0x0",
+                "resolved_name": "run_slow_work_message",
+                "rva": "0x3C1D8",
+                "type": "uv__queue"
+            },
+            "qword_0x3C1E8": {
+                "address": "0x7FFD8D07C1E8",
+                "current_value": "0x0",
+                "resolved_name": "wq",
+                "rva": "0x3C1E8",
+                "type": "uv__queue"
+            },
+            "qword_0x3C1F8": {
+                "address": "0x7FFD8D07C1F8",
+                "current_value": "0x0",
+                "resolved_name": "idle_threads",
+                "rva": "0x3C1F8"
+            },
+            "qword_0x3C1FC": {
+                "address": "0x7FFD8D07C1FC",
+                "current_value": "0x0",
+                "resolved_name": "slow_io_work_running",
+                "rva": "0x3C1FC"
+            },
+            "qword_0x3C200": {
+                "address": "0x7FFD8D07C200",
+                "current_value": "0x0",
+                "resolved_name": "default_loop_ptr",
+                "rva": "0x3C200"
+            },
+            "qword_0x3C208": {
+                "address": "0x7FFD8D07C208",
+                "current_value": "0x0",
+                "resolved_name": "default_loop_struct",
+                "rva": "0x3C208",
+                "type": "uv_loop_s"
+            },
+            "qword_0x3C3F0": {
+                "address": "0x7FFD8D07C3F0",
+                "current_value": "0xFFFFFFFFFFFFFFFF",
+                "resolved_name": "uv__loops_lock",
+                "rva": "0x3C3F0",
+                "type": "_RTL_CRITICAL_SECTION"
+            },
+            "qword_0x3C418": {
+                "address": "0x7FFD8D07C418",
+                "current_value": "0x6",
+                "resolved_name": "uv__loops_size",
+                "rva": "0x3C418"
+            },
+            "qword_0x3C420": {
+                "address": "0x7FFD8D07C420",
+                "current_value": "0x1E8A1A91AE0",
+                "resolved_name": "uv__loops",
+                "rva": "0x3C420"
+            },
+            "qword_0x3C428": {
+                "address": "0x7FFD8D07C428",
+                "current_value": "0x1",
+                "resolved_name": "uv_init_guard_",
+                "rva": "0x3C428",
+                "type": "uv_once_s"
+            },
+            "qword_0x3C438": {
+                "address": "0x7FFD8D07C438",
+                "current_value": "0x8",
+                "resolved_name": "uv__loops_capacity",
+                "rva": "0x3C438"
+            },
+            "qword_0x3C450": {
+                "address": "0x7FFD8D07C450",
+                "current_value": "0x10000",
+                "resolved_name": "uv__allocation_granularity",
+                "rva": "0x3C450"
+            },
+            "qword_0x3C460": {
+                "address": "0x7FFD8D07C460",
+                "current_value": "0xFFFFFFFFFFFFFFFF",
+                "resolved_name": "uv__fd_hash_mutex",
+                "rva": "0x3C460",
+                "type": "_RTL_CRITICAL_SECTION"
+            },
+            "qword_0x3C490": {
+                "address": "0x7FFD8D07C490",
+                "current_value": "0x0",
+                "resolved_name": "uv__fd_hash",
+                "rva": "0x3C490",
+                "type": ""
+            },
+            "qword_0x3D490": {
+                "address": "0x7FFD8D07D490",
+                "current_value": "0x0",
+                "resolved_name": "uv__fd_hash_entry_initial",
+                "rva": "0x3D490",
+                "type": ""
+            }
+        },
         "search_path": {
             "offset": "0x1C340"
         },

@@ -2031,6 +2031,2775 @@
         "launch::IsSDKGuest": {
             "offset": "0x3EC80"
         },
+        "qwords": {
+            "qword_0x0": {
+                "address": "0x7FFDE8EB0000",
+                "current_value": "0x300905A4D",
+                "resolved_name": "dtor_list_head",
+                "rva": "0x0",
+                "type": "TlsDtorNode"
+            },
+            "qword_0x62330": {
+                "address": "0x7FFDE8F12330",
+                "current_value": "0xCCCCCCCCCCCCE0FF",
+                "resolved_name": "_guard_dispatch_icall_nop",
+                "rva": "0x62330"
+            },
+            "qword_0x62350": {
+                "address": "0x7FFDE8F12350",
+                "current_value": "0xCCCC0000441A25FF",
+                "resolved_name": "_guard_xfg_dispatch_icall_nop",
+                "rva": "0x62350"
+            },
+            "qword_0x66760": {
+                "address": "0x7FFDE8F16760",
+                "current_value": "0x7FFDE8EBBA70",
+                "resolved_name": "__guard_check_icall_fptr",
+                "rva": "0x66760"
+            },
+            "qword_0x66768": {
+                "address": "0x7FFDE8F16768",
+                "current_value": "0x7FFDE8EBBA70",
+                "resolved_name": "__guard_xfg_check_icall_fptr",
+                "rva": "0x66768"
+            },
+            "qword_0x66770": {
+                "address": "0x7FFDE8F16770",
+                "current_value": "0x7FFDE8F12330",
+                "resolved_name": "__guard_dispatch_icall_fptr",
+                "rva": "0x66770"
+            },
+            "qword_0x66778": {
+                "address": "0x7FFDE8F16778",
+                "current_value": "0x7FFDE8F12350",
+                "resolved_name": "__guard_xfg_dispatch_icall_fptr",
+                "rva": "0x66778"
+            },
+            "qword_0x66780": {
+                "address": "0x7FFDE8F16780",
+                "current_value": "0x7FFDE8F12350",
+                "resolved_name": "__guard_xfg_table_dispatch_icall_fptr",
+                "rva": "0x66780"
+            },
+            "qword_0x66788": {
+                "address": "0x7FFDE8F16788",
+                "current_value": "0x0",
+                "resolved_name": "__castguard_check_failure_os_handled_fptr",
+                "rva": "0x66788"
+            },
+            "qword_0x66790": {
+                "address": "0x7FFDE8F16790",
+                "current_value": "0x7FFDE8F1221E",
+                "resolved_name": "__guard_memcpy_fptr",
+                "rva": "0x66790"
+            },
+            "qword_0x66798": {
+                "address": "0x7FFDE8F16798",
+                "current_value": "0x0",
+                "resolved_name": "__xc_a",
+                "rva": "0x66798",
+                "type": ""
+            },
+            "qword_0x667A0": {
+                "address": "0x7FFDE8F167A0",
+                "current_value": "0x7FFDE8EB3130",
+                "resolved_name": "std::_Fac_tidy_reg$initializer$",
+                "rva": "0x667A0"
+            },
+            "qword_0x667A8": {
+                "address": "0x7FFDE8F167A8",
+                "current_value": "0x7FFDE8EB1000",
+                "resolved_name": "_init_instance_0$initializer$",
+                "rva": "0x667A8"
+            },
+            "qword_0x667B0": {
+                "address": "0x7FFDE8F167B0",
+                "current_value": "0x7FFDE8EB1060",
+                "resolved_name": "xbr::kGameBuildUniquifiers$initializer$",
+                "rva": "0x667B0"
+            },
+            "qword_0x667B8": {
+                "address": "0x7FFDE8F167B8",
+                "current_value": "0x7FFDE8EB11E0",
+                "resolved_name": "initFunction$initializer$",
+                "rva": "0x667B8"
+            },
+            "qword_0x667C0": {
+                "address": "0x7FFDE8F167C0",
+                "current_value": "0x7FFDE8EB1220",
+                "resolved_name": "mh$initializer$",
+                "rva": "0x667C0"
+            },
+            "qword_0x667C8": {
+                "address": "0x7FFDE8F167C8",
+                "current_value": "0x7FFDE8EB1240",
+                "resolved_name": "_init_instance_0$initializer$",
+                "rva": "0x667C8"
+            },
+            "qword_0x667D0": {
+                "address": "0x7FFDE8F167D0",
+                "current_value": "0x7FFDE8EB1830",
+                "resolved_name": "xbr::kGameBuildUniquifiers$initializer$",
+                "rva": "0x667D0"
+            },
+            "qword_0x667D8": {
+                "address": "0x7FFDE8F167D8",
+                "current_value": "0x7FFDE8EB1270",
+                "resolved_name": "??ms_initFunction$initializer$@?$Base@$00$0KPC@$0A@$05@virt@xbr@@0P6AXXZEA@@3P6AXXZEA",
+                "rva": "0x667D8"
+            },
+            "qword_0x667E0": {
+                "address": "0x7FFDE8F167E0",
+                "current_value": "0x7FFDE8EB1570",
+                "resolved_name": "alignDrawCommandBuffer$initializer$",
+                "rva": "0x667E0"
+            },
+            "qword_0x667E8": {
+                "address": "0x7FFDE8F167E8",
+                "current_value": "0x7FFDE8EB15B0",
+                "resolved_name": "allocDrawCommand$initializer$",
+                "rva": "0x667E8"
+            },
+            "qword_0x667F0": {
+                "address": "0x7FFDE8F167F0",
+                "current_value": "0x7FFDE8EB1730",
+                "resolved_name": "drawImVertices$initializer$",
+                "rva": "0x667F0"
+            },
+            "qword_0x667F8": {
+                "address": "0x7FFDE8F167F8",
+                "current_value": "0x7FFDE8EB15F0",
+                "resolved_name": "beginImVertices$initializer$",
+                "rva": "0x667F8"
+            },
+            "qword_0x66800": {
+                "address": "0x7FFDE8F16800",
+                "current_value": "0x7FFDE8EB1530",
+                "resolved_name": "addImVertex$initializer$",
+                "rva": "0x66800"
+            },
+            "qword_0x66808": {
+                "address": "0x7FFDE8F16808",
+                "current_value": "0x7FFDE8EB1BB0",
+                "resolved_name": "setScreenSpaceMatrix$initializer$",
+                "rva": "0x66808"
+            },
+            "qword_0x66810": {
+                "address": "0x7FFDE8F16810",
+                "current_value": "0x7FFDE8EB1BF0",
+                "resolved_name": "setSubShader$initializer$",
+                "rva": "0x66810"
+            },
+            "qword_0x66818": {
+                "address": "0x7FFDE8F16818",
+                "current_value": "0x7FFDE8EB1C30",
+                "resolved_name": "setSubShaderUnk$initializer$",
+                "rva": "0x66818"
+            },
+            "qword_0x66820": {
+                "address": "0x7FFDE8F16820",
+                "current_value": "0x7FFDE8EB1CB0",
+                "resolved_name": "shaderIdHookFunc$initializer$",
+                "rva": "0x66820"
+            },
+            "qword_0x66828": {
+                "address": "0x7FFDE8F16828",
+                "current_value": "0x7FFDE8EB1770",
+                "resolved_name": "drawMatrix_ctor$initializer$",
+                "rva": "0x66828"
+            },
+            "qword_0x66830": {
+                "address": "0x7FFDE8F16830",
+                "current_value": "0x7FFDE8EB14F0",
+                "resolved_name": "activateMatrix$initializer$",
+                "rva": "0x66830"
+            },
+            "qword_0x66838": {
+                "address": "0x7FFDE8F16838",
+                "current_value": "0x7FFDE8EB19F0",
+                "resolved_name": "popSubShader$initializer$",
+                "rva": "0x66838"
+            },
+            "qword_0x66840": {
+                "address": "0x7FFDE8F16840",
+                "current_value": "0x7FFDE8EB1A30",
+                "resolved_name": "popSubShaderUnk$initializer$",
+                "rva": "0x66840"
+            },
+            "qword_0x66848": {
+                "address": "0x7FFDE8F16848",
+                "current_value": "0x7FFDE8EB19B0",
+                "resolved_name": "popImShaderAndResetParams$initializer$",
+                "rva": "0x66848"
+            },
+            "qword_0x66850": {
+                "address": "0x7FFDE8F16850",
+                "current_value": "0x7FFDE8EB1AF0",
+                "resolved_name": "setImGenParams$initializer$",
+                "rva": "0x66850"
+            },
+            "qword_0x66858": {
+                "address": "0x7FFDE8F16858",
+                "current_value": "0x7FFDE8EB1C70",
+                "resolved_name": "setTextureGtaIm$initializer$",
+                "rva": "0x66858"
+            },
+            "qword_0x66860": {
+                "address": "0x7FFDE8F16860",
+                "current_value": "0x7FFDE8EB16B0",
+                "resolved_name": "createRasterizerState$initializer$",
+                "rva": "0x66860"
+            },
+            "qword_0x66868": {
+                "address": "0x7FFDE8F16868",
+                "current_value": "0x7FFDE8EB1670",
+                "resolved_name": "createDepthStencilState$initializer$",
+                "rva": "0x66868"
+            },
+            "qword_0x66870": {
+                "address": "0x7FFDE8F16870",
+                "current_value": "0x7FFDE8EB1630",
+                "resolved_name": "createBlendState$initializer$",
+                "rva": "0x66870"
+            },
+            "qword_0x66878": {
+                "address": "0x7FFDE8F16878",
+                "current_value": "0x7FFDE8EB1B30",
+                "resolved_name": "setRasterizerState$initializer$",
+                "rva": "0x66878"
+            },
+            "qword_0x66880": {
+                "address": "0x7FFDE8F16880",
+                "current_value": "0x7FFDE8EB1A70",
+                "resolved_name": "setBlendState$initializer$",
+                "rva": "0x66880"
+            },
+            "qword_0x66888": {
+                "address": "0x7FFDE8F16888",
+                "current_value": "0x7FFDE8EB1AB0",
+                "resolved_name": "setDepthStencilState$initializer$",
+                "rva": "0x66888"
+            },
+            "qword_0x66890": {
+                "address": "0x7FFDE8F16890",
+                "current_value": "0x7FFDE8EB17B0",
+                "resolved_name": "getSamplerState$initializer$",
+                "rva": "0x66890"
+            },
+            "qword_0x66898": {
+                "address": "0x7FFDE8F16898",
+                "current_value": "0x7FFDE8EB1B70",
+                "resolved_name": "setSamplerState$initializer$",
+                "rva": "0x66898"
+            },
+            "qword_0x668A0": {
+                "address": "0x7FFDE8F168A0",
+                "current_value": "0x7FFDE8EB16F0",
+                "resolved_name": "createSamplerState$initializer$",
+                "rva": "0x668A0"
+            },
+            "qword_0x668A8": {
+                "address": "0x7FFDE8F168A8",
+                "current_value": "0x7FFDE8EB1430",
+                "resolved_name": "rage::_grmShaderFx_LoadTechnique$initializer$",
+                "rva": "0x668A8"
+            },
+            "qword_0x668B0": {
+                "address": "0x7FFDE8F168B0",
+                "current_value": "0x7FFDE8EB1470",
+                "resolved_name": "rage::_grmShaderFx_PushTechnique$initializer$",
+                "rva": "0x668B0"
+            },
+            "qword_0x668B8": {
+                "address": "0x7FFDE8F168B8",
+                "current_value": "0x7FFDE8EB1370",
+                "resolved_name": "rage::_grmShaderDef_PushPass$initializer$",
+                "rva": "0x668B8"
+            },
+            "qword_0x668C0": {
+                "address": "0x7FFDE8F168C0",
+                "current_value": "0x7FFDE8EB1330",
+                "resolved_name": "rage::_grmShaderDef_PopPass$initializer$",
+                "rva": "0x668C0"
+            },
+            "qword_0x668C8": {
+                "address": "0x7FFDE8F168C8",
+                "current_value": "0x7FFDE8EB12B0",
+                "resolved_name": "rage::_grmShaderDef_GetParameter$initializer$",
+                "rva": "0x668C8"
+            },
+            "qword_0x668D0": {
+                "address": "0x7FFDE8F168D0",
+                "current_value": "0x7FFDE8EB12F0",
+                "resolved_name": "rage::_grmShaderDef_GetTechnique$initializer$",
+                "rva": "0x668D0"
+            },
+            "qword_0x668D8": {
+                "address": "0x7FFDE8F168D8",
+                "current_value": "0x7FFDE8EB13F0",
+                "resolved_name": "rage::_grmShaderDef_SetSampler$initializer$",
+                "rva": "0x668D8"
+            },
+            "qword_0x668E0": {
+                "address": "0x7FFDE8F168E0",
+                "current_value": "0x7FFDE8EB13B0",
+                "resolved_name": "rage::_grmShaderDef_SetParameter$initializer$",
+                "rva": "0x668E0"
+            },
+            "qword_0x668E8": {
+                "address": "0x7FFDE8F168E8",
+                "current_value": "0x7FFDE8EB14B0",
+                "resolved_name": "_setWorldMatrix$initializer$",
+                "rva": "0x668E8"
+            },
+            "qword_0x668F0": {
+                "address": "0x7FFDE8F168F0",
+                "current_value": "0x7FFDE8EB17F0",
+                "resolved_name": "hookFunction$initializer$",
+                "rva": "0x668F0"
+            },
+            "qword_0x668F8": {
+                "address": "0x7FFDE8F168F8",
+                "current_value": "0x7FFDE8EB1D80",
+                "resolved_name": "xbr::kGameBuildUniquifiers$initializer$",
+                "rva": "0x668F8"
+            },
+            "qword_0x66900": {
+                "address": "0x7FFDE8F16900",
+                "current_value": "0x7FFDE8EB1CF0",
+                "resolved_name": "_init_instance_28$initializer$",
+                "rva": "0x66900"
+            },
+            "qword_0x66908": {
+                "address": "0x7FFDE8F16908",
+                "current_value": "0x7FFDE8EB1D20",
+                "resolved_name": "_init_instance_29$initializer$",
+                "rva": "0x66908"
+            },
+            "qword_0x66910": {
+                "address": "0x7FFDE8F16910",
+                "current_value": "0x7FFDE8EB1D50",
+                "resolved_name": "_init_instance_30$initializer$",
+                "rva": "0x66910"
+            },
+            "qword_0x66918": {
+                "address": "0x7FFDE8F16918",
+                "current_value": "0x7FFDE8EB2010",
+                "resolved_name": "xbr::kGameBuildUniquifiers$initializer$",
+                "rva": "0x66918"
+            },
+            "qword_0x66920": {
+                "address": "0x7FFDE8F16920",
+                "current_value": "0x7FFDE8EB1F00",
+                "resolved_name": "??ms_initFunction$initializer$@?$Base@$08$0KPC@$0A@$05@virt@xbr@@0P6AXXZEA@@3P6AXXZEA",
+                "rva": "0x66920"
+            },
+            "qword_0x66928": {
+                "address": "0x7FFDE8F16928",
+                "current_value": "0x7FFDE8EB1F40",
+                "resolved_name": "_init_instance_36$initializer$",
+                "rva": "0x66928"
+            },
+            "qword_0x66930": {
+                "address": "0x7FFDE8F16930",
+                "current_value": "0x7FFDE8EB1F70",
+                "resolved_name": "_init_instance_37$initializer$",
+                "rva": "0x66930"
+            },
+            "qword_0x66938": {
+                "address": "0x7FFDE8F16938",
+                "current_value": "0x7FFDE8EB1FA0",
+                "resolved_name": "_init_instance_38$initializer$",
+                "rva": "0x66938"
+            },
+            "qword_0x66940": {
+                "address": "0x7FFDE8F16940",
+                "current_value": "0x7FFDE8EB1FD0",
+                "resolved_name": "hookFunction$initializer$",
+                "rva": "0x66940"
+            },
+            "qword_0x66948": {
+                "address": "0x7FFDE8F16948",
+                "current_value": "0x7FFDE8EB2630",
+                "resolved_name": "xbr::kGameBuildUniquifiers$initializer$",
+                "rva": "0x66948"
+            },
+            "qword_0x66950": {
+                "address": "0x7FFDE8F16950",
+                "current_value": "0x7FFDE8EB2300",
+                "resolved_name": "_init_instance_28$initializer$",
+                "rva": "0x66950"
+            },
+            "qword_0x66958": {
+                "address": "0x7FFDE8F16958",
+                "current_value": "0x7FFDE8EB2330",
+                "resolved_name": "_init_instance_29$initializer$",
+                "rva": "0x66958"
+            },
+            "qword_0x66960": {
+                "address": "0x7FFDE8F16960",
+                "current_value": "0x7FFDE8EB2360",
+                "resolved_name": "_init_instance_30$initializer$",
+                "rva": "0x66960"
+            },
+            "qword_0x66968": {
+                "address": "0x7FFDE8F16968",
+                "current_value": "0x7FFDE8EB2390",
+                "resolved_name": "_init_instance_31$initializer$",
+                "rva": "0x66968"
+            },
+            "qword_0x66970": {
+                "address": "0x7FFDE8F16970",
+                "current_value": "0x7FFDE8EB21F0",
+                "resolved_name": "OnGrcCreateDevice$initializer$",
+                "rva": "0x66970"
+            },
+            "qword_0x66978": {
+                "address": "0x7FFDE8F16978",
+                "current_value": "0x7FFDE8EB2210",
+                "resolved_name": "OnPostFrontendRender$initializer$",
+                "rva": "0x66978"
+            },
+            "qword_0x66980": {
+                "address": "0x7FFDE8F16980",
+                "current_value": "0x7FFDE8EB21E0",
+                "resolved_name": "OnFlipModelHook$initializer$",
+                "rva": "0x66980"
+            },
+            "qword_0x66988": {
+                "address": "0x7FFDE8F16988",
+                "current_value": "0x7FFDE8EB2220",
+                "resolved_name": "OnRequestInternalScreenshot$initializer$",
+                "rva": "0x66988"
+            },
+            "qword_0x66990": {
+                "address": "0x7FFDE8F16990",
+                "current_value": "0x7FFDE8EB2200",
+                "resolved_name": "OnInternalScreenshot$initializer$",
+                "rva": "0x66990"
+            },
+            "qword_0x66998": {
+                "address": "0x7FFDE8F16998",
+                "current_value": "0x7FFDE8EB23C0",
+                "resolved_name": "flushRenderStates$initializer$",
+                "rva": "0x66998"
+            },
+            "qword_0x669A0": {
+                "address": "0x7FFDE8F169A0",
+                "current_value": "0x7FFDE8EB2280",
+                "resolved_name": "_grcLighting$initializer$",
+                "rva": "0x669A0"
+            },
+            "qword_0x669A8": {
+                "address": "0x7FFDE8F169A8",
+                "current_value": "0x7FFDE8EB2240",
+                "resolved_name": "_grcBindTexture$initializer$",
+                "rva": "0x669A8"
+            },
+            "qword_0x669B0": {
+                "address": "0x7FFDE8F169B0",
+                "current_value": "0x7FFDE8EB22C0",
+                "resolved_name": "_grcWorldIdentity$initializer$",
+                "rva": "0x669B0"
+            },
+            "qword_0x669B8": {
+                "address": "0x7FFDE8F169B8",
+                "current_value": "0x7FFDE8EB25B0",
+                "resolved_name": "hookFunctionSafe$initializer$",
+                "rva": "0x669B8"
+            },
+            "qword_0x669C0": {
+                "address": "0x7FFDE8F169C0",
+                "current_value": "0x7FFDE8EB2230",
+                "resolved_name": "OnTryCreateSwapChain$initializer$",
+                "rva": "0x669C0"
+            },
+            "qword_0x669C8": {
+                "address": "0x7FFDE8F169C8",
+                "current_value": "0x7FFDE8EB2190",
+                "resolved_name": "??m_fakeData$initializer$@?$HostSharedData@UReverseGameData@@@@0P6AXXZEA@@3P6AXXZEA",
+                "rva": "0x669C8"
+            },
+            "qword_0x669D0": {
+                "address": "0x7FFDE8F169D0",
+                "current_value": "0x7FFDE8EB2400",
+                "resolved_name": "g_gameWindowEvent$initializer$",
+                "rva": "0x669D0"
+            },
+            "qword_0x669D8": {
+                "address": "0x7FFDE8F169D8",
+                "current_value": "0x7FFDE8EB21A0",
+                "resolved_name": "??ms_initFunction$initializer$@?$Base@$0CB@$0KPC@$01$05@virt@xbr@@0P6AXXZEA@@3P6AXXZEA",
+                "rva": "0x669D8"
+            },
+            "qword_0x669E0": {
+                "address": "0x7FFDE8F169E0",
+                "current_value": "0x7FFDE8EB24E0",
+                "resolved_name": "g_resources$initializer$",
+                "rva": "0x669E0"
+            },
+            "qword_0x669E8": {
+                "address": "0x7FFDE8F169E8",
+                "current_value": "0x7FFDE8EB24F0",
+                "resolved_name": "g_textureOverrides$initializer$",
+                "rva": "0x669E8"
+            },
+            "qword_0x669F0": {
+                "address": "0x7FFDE8F169F0",
+                "current_value": "0x7FFDE8EB2430",
+                "resolved_name": "g_queriesSetUp$initializer$",
+                "rva": "0x669F0"
+            },
+            "qword_0x669F8": {
+                "address": "0x7FFDE8F169F8",
+                "current_value": "0x7FFDE8EB2570",
+                "resolved_name": "hookFunction$initializer$",
+                "rva": "0x669F8"
+            },
+            "qword_0x66A00": {
+                "address": "0x7FFDE8F16A00",
+                "current_value": "0x7FFDE8EB25F0",
+                "resolved_name": "initFunctionEarlyUMD$initializer$",
+                "rva": "0x66A00"
+            },
+            "qword_0x66A08": {
+                "address": "0x7FFDE8F16A08",
+                "current_value": "0x7FFDE8EB27B0",
+                "resolved_name": "g_mapScratchBuffer$initializer$",
+                "rva": "0x66A08"
+            },
+            "qword_0x66A10": {
+                "address": "0x7FFDE8F16A10",
+                "current_value": "0x7FFDE8EB28C0",
+                "resolved_name": "xbr::kGameBuildUniquifiers$initializer$",
+                "rva": "0x66A10"
+            },
+            "qword_0x66A18": {
+                "address": "0x7FFDE8F16A18",
+                "current_value": "0x7FFDE8EB2840",
+                "resolved_name": "g_wndMsgQueue$initializer$",
+                "rva": "0x66A18"
+            },
+            "qword_0x66A20": {
+                "address": "0x7FFDE8F16A20",
+                "current_value": "0x7FFDE8EB2800",
+                "resolved_name": "g_wndFuncQueue$initializer$",
+                "rva": "0x66A20"
+            },
+            "qword_0x66A28": {
+                "address": "0x7FFDE8F16A28",
+                "current_value": "0x7FFDE8EB27C0",
+                "resolved_name": "g_curFn$initializer$",
+                "rva": "0x66A28"
+            },
+            "qword_0x66A30": {
+                "address": "0x7FFDE8F16A30",
+                "current_value": "0x7FFDE8EB27D0",
+                "resolved_name": "g_preRenderThreadKick$initializer$",
+                "rva": "0x66A30"
+            },
+            "qword_0x66A38": {
+                "address": "0x7FFDE8F16A38",
+                "current_value": "0x7FFDE8EB2880",
+                "resolved_name": "hookFunction$initializer$",
+                "rva": "0x66A38"
+            },
+            "qword_0x66A40": {
+                "address": "0x7FFDE8F16A40",
+                "current_value": "0x7FFDE8EB2C10",
+                "resolved_name": "xbr::kGameBuildUniquifiers$initializer$",
+                "rva": "0x66A40"
+            },
+            "qword_0x66A48": {
+                "address": "0x7FFDE8F16A48",
+                "current_value": "0x7FFDE8EB2BD0",
+                "resolved_name": "hookFunction$initializer$",
+                "rva": "0x66A48"
+            },
+            "qword_0x66A50": {
+                "address": "0x7FFDE8F16A50",
+                "current_value": "0x7FFDE8EB2A40",
+                "resolved_name": "OnD3DPostReset$initializer$",
+                "rva": "0x66A50"
+            },
+            "qword_0x66A58": {
+                "address": "0x7FFDE8F16A58",
+                "current_value": "0x7FFDE8EB2A50",
+                "resolved_name": "_clearRenderTarget$initializer$",
+                "rva": "0x66A58"
+            },
+            "qword_0x66A60": {
+                "address": "0x7FFDE8F16A60",
+                "current_value": "0x7FFDE8EB2AD0",
+                "resolved_name": "_getResourceCache$initializer$",
+                "rva": "0x66A60"
+            },
+            "qword_0x66A68": {
+                "address": "0x7FFDE8F16A68",
+                "current_value": "0x7FFDE8EB2B90",
+                "resolved_name": "grcResourceCache_queueDelete$initializer$",
+                "rva": "0x66A68"
+            },
+            "qword_0x66A70": {
+                "address": "0x7FFDE8F16A70",
+                "current_value": "0x7FFDE8EB2B10",
+                "resolved_name": "grcResourceCache_flushQueue$initializer$",
+                "rva": "0x66A70"
+            },
+            "qword_0x66A78": {
+                "address": "0x7FFDE8F16A78",
+                "current_value": "0x7FFDE8EB2B50",
+                "resolved_name": "grcResourceCache_getAndUpdateAvailableMemory$initializer$",
+                "rva": "0x66A78"
+            },
+            "qword_0x66A80": {
+                "address": "0x7FFDE8F16A80",
+                "current_value": "0x7FFDE8EB2A90",
+                "resolved_name": "_createRenderTarget$initializer$",
+                "rva": "0x66A80"
+            },
+            "qword_0x66A88": {
+                "address": "0x7FFDE8F16A88",
+                "current_value": "0x7FFDE8EB2D90",
+                "resolved_name": "initHookingFunction$initializer$",
+                "rva": "0x66A88"
+            },
+            "qword_0x66A90": {
+                "address": "0x7FFDE8F16A90",
+                "current_value": "0x7FFDE8EB2DE0",
+                "resolved_name": "xbr::kGameBuildUniquifiers$initializer$",
+                "rva": "0x66A90"
+            },
+            "qword_0x66A98": {
+                "address": "0x7FFDE8F16A98",
+                "current_value": "0x7FFDE8EB2F60",
+                "resolved_name": "initIoBuf$initializer$",
+                "rva": "0x66A98"
+            },
+            "qword_0x66AA0": {
+                "address": "0x7FFDE8F16AA0",
+                "current_value": "0x7FFDE8EB2FB0",
+                "resolved_name": "xbr::kGameBuildUniquifiers$initializer$",
+                "rva": "0x66AA0"
+            },
+            "qword_0x66AA8": {
+                "address": "0x7FFDE8F16AA8",
+                "current_value": "0x0",
+                "resolved_name": "__xc_z",
+                "rva": "0x66AA8",
+                "type": ""
+            },
+            "qword_0x66AB0": {
+                "address": "0x7FFDE8F16AB0",
+                "current_value": "0x0",
+                "resolved_name": "__xd_a",
+                "rva": "0x66AB0"
+            },
+            "qword_0x66AB8": {
+                "address": "0x7FFDE8F16AB8",
+                "current_value": "0x7FFDE8EB1030",
+                "resolved_name": "g_thisError$initializer$",
+                "rva": "0x66AB8"
+            },
+            "qword_0x66AC0": {
+                "address": "0x7FFDE8F16AC0",
+                "current_value": "0x0",
+                "resolved_name": "__xd_z",
+                "rva": "0x66AC0"
+            },
+            "qword_0x66AC8": {
+                "address": "0x7FFDE8F16AC8",
+                "current_value": "0x0",
+                "resolved_name": "__xi_a",
+                "rva": "0x66AC8",
+                "type": ""
+            },
+            "qword_0x66AD0": {
+                "address": "0x7FFDE8F16AD0",
+                "current_value": "0x7FFDE8F10C4C",
+                "resolved_name": "__scrt_initialize_tss_var",
+                "rva": "0x66AD0"
+            },
+            "qword_0x66AD8": {
+                "address": "0x7FFDE8F16AD8",
+                "current_value": "0x0",
+                "resolved_name": "__xi_z",
+                "rva": "0x66AD8",
+                "type": ""
+            },
+            "qword_0x66AE0": {
+                "address": "0x7FFDE8F16AE0",
+                "current_value": "0x0",
+                "resolved_name": "__xl_a",
+                "rva": "0x66AE0"
+            },
+            "qword_0x66AE8": {
+                "address": "0x7FFDE8F16AE8",
+                "current_value": "0x7FFDE8F112A8",
+                "resolved_name": "__xl_c",
+                "rva": "0x66AE8"
+            },
+            "qword_0x66AF0": {
+                "address": "0x7FFDE8F16AF0",
+                "current_value": "0x7FFDE8F11320",
+                "resolved_name": "__xl_d",
+                "rva": "0x66AF0"
+            },
+            "qword_0x66AF8": {
+                "address": "0x7FFDE8F16AF8",
+                "current_value": "0x0",
+                "resolved_name": "__xl_z",
+                "rva": "0x66AF8"
+            },
+            "qword_0x66B00": {
+                "address": "0x7FFDE8F16B00",
+                "current_value": "0x0",
+                "resolved_name": "__xp_a",
+                "rva": "0x66B00",
+                "type": ""
+            },
+            "qword_0x66B08": {
+                "address": "0x7FFDE8F16B08",
+                "current_value": "0x0",
+                "resolved_name": "__xp_z",
+                "rva": "0x66B08",
+                "type": ""
+            },
+            "qword_0x66B10": {
+                "address": "0x7FFDE8F16B10",
+                "current_value": "0x0",
+                "resolved_name": "__xt_a",
+                "rva": "0x66B10",
+                "type": ""
+            },
+            "qword_0x66B18": {
+                "address": "0x7FFDE8F16B18",
+                "current_value": "0x0",
+                "resolved_name": "__xt_z",
+                "rva": "0x66B18",
+                "type": ""
+            },
+            "qword_0x66F00": {
+                "address": "0x7FFDE8F16F00",
+                "current_value": "0x7FFDE8EBCAC0",
+                "resolved_name": "std::exception::`vftable'",
+                "rva": "0x66F00",
+                "type": ""
+            },
+            "qword_0x66F30": {
+                "address": "0x7FFDE8F16F30",
+                "current_value": "0x7FFDE8EBCAC0",
+                "resolved_name": "std::bad_alloc::`vftable'",
+                "rva": "0x66F30",
+                "type": ""
+            },
+            "qword_0x66F48": {
+                "address": "0x7FFDE8F16F48",
+                "current_value": "0x7FFDE8EBCAC0",
+                "resolved_name": "std::bad_array_new_length::`vftable'",
+                "rva": "0x66F48",
+                "type": ""
+            },
+            "qword_0x66F88": {
+                "address": "0x7FFDE8F16F88",
+                "current_value": "0x7FFDE8EBCAC0",
+                "resolved_name": "std::runtime_error::`vftable'",
+                "rva": "0x66F88",
+                "type": ""
+            },
+            "qword_0x66FF8": {
+                "address": "0x7FFDE8F16FF8",
+                "current_value": "0x7FFDE8EBCAC0",
+                "resolved_name": "fmt::v8::format_error::`vftable'",
+                "rva": "0x66FF8",
+                "type": ""
+            },
+            "qword_0x67010": {
+                "address": "0x7FFDE8F17010",
+                "current_value": "0x3330323031303030",
+                "resolved_name": "fmt::v8::detail::basic_data<void>::digits",
+                "rva": "0x67010",
+                "type": ""
+            },
+            "qword_0x670D8": {
+                "address": "0x7FFDE8F170D8",
+                "current_value": "0x3736353433323130",
+                "resolved_name": "fmt::v8::detail::basic_data<void>::hex_digits",
+                "rva": "0x670D8",
+                "type": ""
+            },
+            "qword_0x670EC": {
+                "address": "0x7FFDE8F170EC",
+                "current_value": "0x202B2D00",
+                "resolved_name": "fmt::v8::detail::basic_data<void>::signs",
+                "rva": "0x670EC",
+                "type": ""
+            },
+            "qword_0x670F0": {
+                "address": "0x7FFDE8F170F0",
+                "current_value": "0x0",
+                "resolved_name": "fmt::v8::detail::basic_data<void>::prefixes",
+                "rva": "0x670F0",
+                "type": ""
+            },
+            "qword_0x67100": {
+                "address": "0x7FFDE8F17100",
+                "current_value": "0x1001F1F",
+                "resolved_name": "fmt::v8::detail::basic_data<void>::left_padding_shifts",
+                "rva": "0x67100",
+                "type": ""
+            },
+            "qword_0x67108": {
+                "address": "0x7FFDE8F17108",
+                "current_value": "0x1001F00",
+                "resolved_name": "fmt::v8::detail::basic_data<void>::right_padding_shifts",
+                "rva": "0x67108",
+                "type": ""
+            },
+            "qword_0x67380": {
+                "address": "0x7FFDE8F17380",
+                "current_value": "0x7FFDE8EBEE10",
+                "resolved_name": "fmt::v8::basic_memory_buffer<char,500,std::allocator<char> >::`vftable'",
+                "rva": "0x67380",
+                "type": ""
+            },
+            "qword_0x67AD8": {
+                "address": "0x7FFDE8F17AD8",
+                "current_value": "0x0",
+                "resolved_name": "rapidjson::GenericStringRef<char>::emptyString",
+                "rva": "0x67AD8",
+                "type": ""
+            },
+            "qword_0x67CE8": {
+                "address": "0x7FFDE8F17CE8",
+                "current_value": "0x7FFDE8EBFB10",
+                "resolved_name": "InitFunction::`vftable'",
+                "rva": "0x67CE8",
+                "type": ""
+            },
+            "qword_0x67EA0": {
+                "address": "0x7FFDE8F17EA0",
+                "current_value": "0x7FFDE8EBFFF0",
+                "resolved_name": "fwRefCountable::`vftable'",
+                "rva": "0x67EA0",
+                "type": ""
+            },
+            "qword_0x67EC0": {
+                "address": "0x7FFDE8F17EC0",
+                "current_value": "0x7FFDE8EBFFF0",
+                "resolved_name": "ComponentInstance::`vftable'",
+                "rva": "0x67EC0",
+                "type": ""
+            },
+            "qword_0x683F0": {
+                "address": "0x7FFDE8F183F0",
+                "current_value": "0x7FFDE8F121F4",
+                "resolved_name": "HookFunctionBase::`vftable'",
+                "rva": "0x683F0",
+                "type": ""
+            },
+            "qword_0x68400": {
+                "address": "0x7FFDE8F18400",
+                "current_value": "0x7FFDE8EC0140",
+                "resolved_name": "HookFunction::`vftable'",
+                "rva": "0x68400",
+                "type": ""
+            },
+            "qword_0x68410": {
+                "address": "0x7FFDE8F18410",
+                "current_value": "0x7FFDE8EC07D0",
+                "resolved_name": "`<lambda_8fca9dda1dc795f0d3cc2aa8b4f9de9b>::operator()'::`10'::<unnamed-type-stub>::`vftable'",
+                "rva": "0x68410",
+                "type": ""
+            },
+            "qword_0x686A0": {
+                "address": "0x7FFDE8F186A0",
+                "current_value": "0x7FFDE8EC0810",
+                "resolved_name": "hook::details::StubInitFunction::`vftable'",
+                "rva": "0x686A0",
+                "type": ""
+            },
+            "qword_0x687A0": {
+                "address": "0x7FFDE8F187A0",
+                "current_value": "0x7FFDE8EC0830",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_e51e092ca2165797cf98fc48afb5c311>,bool>::`vftable'",
+                "rva": "0x687A0",
+                "type": ""
+            },
+            "qword_0x687D8": {
+                "address": "0x7FFDE8F187D8",
+                "current_value": "0x7FFDE8EC08A0",
+                "resolved_name": "jitasm::Frontend::`vftable'",
+                "rva": "0x687D8",
+                "type": ""
+            },
+            "qword_0x69C90": {
+                "address": "0x7FFDE8F19C90",
+                "current_value": "0x7FFDE8EE5F00",
+                "resolved_name": "fmt::v8::basic_memory_buffer<wchar_t,500,std::allocator<wchar_t> >::`vftable'",
+                "rva": "0x69C90",
+                "type": ""
+            },
+            "qword_0x6A580": {
+                "address": "0x7FFDE8F1A580",
+                "current_value": "0x7FFDE8EE3820",
+                "resolved_name": "internal::ConsoleVariableEntry<bool>::`vftable'",
+                "rva": "0x6A580",
+                "type": ""
+            },
+            "qword_0x6A6F8": {
+                "address": "0x7FFDE8F1A6F8",
+                "current_value": "0x7FFDE8EE5C80",
+                "resolved_name": "std::_Ref_count_obj2<internal::ConsoleVariableEntry<bool> >::`vftable'",
+                "rva": "0x6A6F8",
+                "type": ""
+            },
+            "qword_0x6A838": {
+                "address": "0x7FFDE8F1A838",
+                "current_value": "0x7FFDE8EE5AA0",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_814d5e0b3a45fa1dd158672480f6c4ca>,bool,ConsoleExecutionContext &>::`vftable'",
+                "rva": "0x6A838",
+                "type": ""
+            },
+            "qword_0x6A870": {
+                "address": "0x7FFDE8F1A870",
+                "current_value": "0x7FFDE8EE5A20",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_72ae5b0e2f813e08b01a5e2876e67561>,bool,ConsoleExecutionContext &>::`vftable'",
+                "rva": "0x6A870",
+                "type": ""
+            },
+            "qword_0x6A8A8": {
+                "address": "0x7FFDE8F1A8A8",
+                "current_value": "0x7FFDE8EE5B20",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_bf7610c50ebb1884e5917f6a81016c78>,void>::`vftable'",
+                "rva": "0x6A8A8",
+                "type": ""
+            },
+            "qword_0x6A8E0": {
+                "address": "0x7FFDE8F1A8E0",
+                "current_value": "0x7FFDE8EE5A00",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_2729e31fb8c726b5ef153dd449ae69e5>,void,bool const &>::`vftable'",
+                "rva": "0x6A8E0",
+                "type": ""
+            },
+            "qword_0x6AD48": {
+                "address": "0x7FFDE8F1AD48",
+                "current_value": "0x7FFDE8EE63E0",
+                "resolved_name": "Microsoft::WRL::RuntimeClass<Microsoft::WRL::RuntimeClassFlags<2>,IDXGISwapChain>::`vftable'",
+                "rva": "0x6AD48",
+                "type": ""
+            },
+            "qword_0x6AF30": {
+                "address": "0x7FFDE8F1AF30",
+                "current_value": "0x7FFDE8EE63E0",
+                "resolved_name": "BufferBackedDXGISwapChain::`vftable'",
+                "rva": "0x6AF30",
+                "type": ""
+            },
+            "qword_0x6B090": {
+                "address": "0x7FFDE8F1B090",
+                "current_value": "0x7FFDE8EE63E0",
+                "resolved_name": "DeferredFullscreenSwapChain::`vftable'",
+                "rva": "0x6B090",
+                "type": ""
+            },
+            "qword_0x6B148": {
+                "address": "0x7FFDE8F1B148",
+                "current_value": "0x7FFDE8EE6C80",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_6f3d5776d9fae5481db55e3691617bf7>,void>::`vftable'",
+                "rva": "0x6B148",
+                "type": ""
+            },
+            "qword_0x6B1B8": {
+                "address": "0x7FFDE8F1B1B8",
+                "current_value": "0x7FFDE8EE6DD0",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_44b797ceb096d645f9d316a603220f9c>,bool>::`vftable'",
+                "rva": "0x6B1B8",
+                "type": ""
+            },
+            "qword_0x6B348": {
+                "address": "0x7FFDE8F1B348",
+                "current_value": "0x7FFDE8EE6E30",
+                "resolved_name": "rage::ioPad::`vftable'",
+                "rva": "0x6B348",
+                "type": ""
+            },
+            "qword_0x6B3D0": {
+                "address": "0x7FFDE8F1B3D0",
+                "current_value": "0x820557BD43425844",
+                "resolved_name": "quadPS",
+                "rva": "0x6B3D0",
+                "type": ""
+            },
+            "qword_0x6B530": {
+                "address": "0x7FFDE8F1B530",
+                "current_value": "0x924E8DCB43425844",
+                "resolved_name": "quadVS",
+                "rva": "0x6B530",
+                "type": ""
+            },
+            "qword_0x6C390": {
+                "address": "0x7FFDE8F1C390",
+                "current_value": "0x7FFDE8EF1130",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_78683eb43e604dbd10dc94a2fe3c724a>,void>::`vftable'",
+                "rva": "0x6C390",
+                "type": ""
+            },
+            "qword_0x6C3C8": {
+                "address": "0x7FFDE8F1C3C8",
+                "current_value": "0x7FFDE8EF1180",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_4b1b75654ad0c45a5c3ce0ab31d385d2>,void>::`vftable'",
+                "rva": "0x6C3C8",
+                "type": ""
+            },
+            "qword_0x6C400": {
+                "address": "0x7FFDE8F1C400",
+                "current_value": "0x7FFDE8EF11C0",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_f559a89d0cc77b10c8b700cb4facb952>,void>::`vftable'",
+                "rva": "0x6C400",
+                "type": ""
+            },
+            "qword_0x6C438": {
+                "address": "0x7FFDE8F1C438",
+                "current_value": "0x7FFDE8EF1280",
+                "resolved_name": "Concurrency::concurrent_queue<std::tuple<HWND__ *,unsigned int,unsigned __int64,__int64,std::function<void __cdecl(__int64)> >,std::allocator<std::tuple<HWND__ *,unsigned int,unsigned __int64,__int64,std::function<void __cdecl(__int64)> > > >::`vftable'",
+                "rva": "0x6C438",
+                "type": ""
+            },
+            "qword_0x6C470": {
+                "address": "0x7FFDE8F1C470",
+                "current_value": "0x7FFDE8EF14C0",
+                "resolved_name": "Concurrency::concurrent_queue<std::function<void __cdecl(void)>,std::allocator<std::function<void __cdecl(void)> > >::`vftable'",
+                "rva": "0x6C470",
+                "type": ""
+            },
+            "qword_0x6C4B8": {
+                "address": "0x7FFDE8F1C4B8",
+                "current_value": "0x7FFDE8EF15D0",
+                "resolved_name": "std::_Func_impl_no_alloc<<lambda_7eb157a9acc084703ceb1e6a10abbcc3>,void,__int64>::`vftable'",
+                "rva": "0x6C4B8",
+                "type": ""
+            },
+            "qword_0x9C858": {
+                "address": "0x7FFDE8F4C858",
+                "current_value": "0x7FFDE8EBCAC0",
+                "resolved_name": "std::bad_cast::`vftable'",
+                "rva": "0x9C858",
+                "type": ""
+            },
+            "qword_0x9C880": {
+                "address": "0x7FFDE8F4C880",
+                "current_value": "0x7FFDE8F08DF0",
+                "resolved_name": "std::numpunct<char>::`vftable'",
+                "rva": "0x9C880",
+                "type": ""
+            },
+            "qword_0x9C8C8": {
+                "address": "0x7FFDE8F4C8C8",
+                "current_value": "0x7FFDE8F08E50",
+                "resolved_name": "std::numpunct<wchar_t>::`vftable'",
+                "rva": "0x9C8C8",
+                "type": ""
+            },
+            "qword_0x9CCA8": {
+                "address": "0x7FFDE8F4CCA8",
+                "current_value": "0x7FFDE8F09950",
+                "resolved_name": "fmt::v8::basic_memory_buffer<unsigned int,32,std::allocator<unsigned int> >::`vftable'",
+                "rva": "0x9CCA8",
+                "type": ""
+            },
+            "qword_0x9D828": {
+                "address": "0x7FFDE8F4D828",
+                "current_value": "0x7FFDE8F121F4",
+                "resolved_name": "InitFunctionBase::`vftable'",
+                "rva": "0x9D828",
+                "type": ""
+            },
+            "qword_0x9D848": {
+                "address": "0x7FFDE8F4D848",
+                "current_value": "0x7FFDE8EBCAC0",
+                "resolved_name": "utf8::exception::`vftable'",
+                "rva": "0x9D848",
+                "type": ""
+            },
+            "qword_0x9D860": {
+                "address": "0x7FFDE8F4D860",
+                "current_value": "0x7FFDE8F0D100",
+                "resolved_name": "utf8::invalid_code_point::`vftable'",
+                "rva": "0x9D860",
+                "type": ""
+            },
+            "qword_0x9D890": {
+                "address": "0x7FFDE8F4D890",
+                "current_value": "0x7FFDE8F0D100",
+                "resolved_name": "utf8::invalid_utf8::`vftable'",
+                "rva": "0x9D890",
+                "type": ""
+            },
+            "qword_0x9D8B8": {
+                "address": "0x7FFDE8F4D8B8",
+                "current_value": "0x7FFDE8EBCAC0",
+                "resolved_name": "utf8::not_enough_room::`vftable'",
+                "rva": "0x9D8B8",
+                "type": ""
+            },
+            "qword_0x9DC00": {
+                "address": "0x7FFDE8F4DC00",
+                "current_value": "0x0",
+                "resolved_name": "std::nothrow",
+                "rva": "0x9DC00",
+                "type": "std::nothrow_t"
+            },
+            "qword_0x9DCB8": {
+                "address": "0x7FFDE8F4DCB8",
+                "current_value": "0x7FFDE8F112A8",
+                "resolved_name": "__dyn_tls_init_callback",
+                "rva": "0x9DCB8"
+            },
+            "qword_0x9DCC0": {
+                "address": "0x7FFDE8F4DCC0",
+                "current_value": "0x7FFDE8F11320",
+                "resolved_name": "__dyn_tls_dtor_callback",
+                "rva": "0x9DCC0"
+            },
+            "qword_0x9DCD0": {
+                "address": "0x7FFDE8F4DCD0",
+                "current_value": "0x7FFDE8F11590",
+                "resolved_name": "type_info::`vftable'",
+                "rva": "0x9DCD0",
+                "type": ""
+            },
+            "qword_0x9DCD8": {
+                "address": "0x7FFDE8F4DCD8",
+                "current_value": "0x0",
+                "resolved_name": "_pRawDllMain",
+                "rva": "0x9DCD8"
+            },
+            "qword_0x9DCE0": {
+                "address": "0x7FFDE8F4DCE0",
+                "current_value": "0x7FFDE8F631F0",
+                "resolved_name": "GS_ExceptionPointers",
+                "rva": "0x9DCE0",
+                "type": "_EXCEPTION_POINTERS"
+            },
+            "qword_0x9DD00": {
+                "address": "0x7FFDE8F4DD00",
+                "current_value": "0x4DBAF26F770AAE78",
+                "resolved_name": "IID_IDXGIFactory1",
+                "rva": "0x9DD00",
+                "type": "_GUID"
+            },
+            "qword_0x9DD10": {
+                "address": "0x7FFDE8F4DD10",
+                "current_value": "0x140",
+                "resolved_name": "_load_config_used",
+                "rva": "0x9DD10",
+                "type": "_RS5_IMAGE_LOAD_CONFIG_DIRECTORY64"
+            },
+            "qword_0x9DF00": {
+                "address": "0x7FFDE8F4DF00",
+                "current_value": "0x7FFDE8F508B0",
+                "resolved_name": "_tls_used",
+                "rva": "0x9DF00",
+                "type": "_IMAGE_TLS_DIRECTORY64"
+            },
+            "qword_0xA0054": {
+                "address": "0x7FFDE8F50054",
+                "current_value": "0x8002800200000018",
+                "resolved_name": "__volatile_metadata",
+                "rva": "0xA0054"
+            },
+            "qword_0xA0890": {
+                "address": "0x7FFDE8F50890",
+                "current_value": "0x0",
+                "resolved_name": "__rtc_iaa",
+                "rva": "0xA0890",
+                "type": ""
+            },
+            "qword_0xA0898": {
+                "address": "0x7FFDE8F50898",
+                "current_value": "0x0",
+                "resolved_name": "__rtc_izz",
+                "rva": "0xA0898",
+                "type": ""
+            },
+            "qword_0xA08A0": {
+                "address": "0x7FFDE8F508A0",
+                "current_value": "0x0",
+                "resolved_name": "__rtc_taa",
+                "rva": "0xA08A0",
+                "type": ""
+            },
+            "qword_0xA08A8": {
+                "address": "0x7FFDE8F508A8",
+                "current_value": "0x0",
+                "resolved_name": "__rtc_tzz",
+                "rva": "0xA08A8",
+                "type": ""
+            },
+            "qword_0xA08B0": {
+                "address": "0x7FFDE8F508B0",
+                "current_value": "0x0",
+                "resolved_name": "_tls_start",
+                "rva": "0xA08B0"
+            },
+            "qword_0xA0AF0": {
+                "address": "0x7FFDE8F50AF0",
+                "current_value": "0x0",
+                "resolved_name": "_tls_end",
+                "rva": "0xA0AF0"
+            },
+            "qword_0xA8A90": {
+                "address": "0x7FFDE8F58A90",
+                "current_value": "0x81C1100000001",
+                "resolved_name": "$xdatasym",
+                "rva": "0xA8A90"
+            },
+            "qword_0xA8B78": {
+                "address": "0x7FFDE8F58B78",
+                "current_value": "0x120400010401",
+                "resolved_name": "$xdatasym",
+                "rva": "0xA8B78"
+            },
+            "qword_0xA8C80": {
+                "address": "0x7FFDE8F58C80",
+                "current_value": "0x1",
+                "resolved_name": "$xdatasym",
+                "rva": "0xA8C80"
+            },
+            "qword_0xA8C88": {
+                "address": "0x7FFDE8F58C88",
+                "current_value": "0x1",
+                "resolved_name": "$xdatasym",
+                "rva": "0xA8C88"
+            },
+            "qword_0xAD030": {
+                "address": "0x7FFDE8F5D030",
+                "current_value": "0xFFFF000000200201",
+                "resolved_name": "jitasm::Frontend::edx",
+                "rva": "0xAD030",
+                "type": "jitasm::Reg32"
+            },
+            "qword_0xAD050": {
+                "address": "0x7FFDE8F5D050",
+                "current_value": "0xFFFF000000400201",
+                "resolved_name": "jitasm::Frontend::esp",
+                "rva": "0xAD050",
+                "type": "jitasm::Reg32"
+            },
+            "qword_0xAD070": {
+                "address": "0x7FFDE8F5D070",
+                "current_value": "0xFFFF000000600201",
+                "resolved_name": "jitasm::Frontend::esi",
+                "rva": "0xAD070",
+                "type": "jitasm::Reg32"
+            },
+            "qword_0xAD090": {
+                "address": "0x7FFDE8F5D090",
+                "current_value": "0xFFFF000000020501",
+                "resolved_name": "jitasm::Frontend::xmm0",
+                "rva": "0xAD090",
+                "type": "jitasm::XmmReg"
+            },
+            "qword_0xAD0B0": {
+                "address": "0x7FFDE8F5D0B0",
+                "current_value": "0xFFFF000000120501",
+                "resolved_name": "jitasm::Frontend::xmm1",
+                "rva": "0xAD0B0",
+                "type": "jitasm::XmmReg"
+            },
+            "qword_0xAD0D0": {
+                "address": "0x7FFDE8F5D0D0",
+                "current_value": "0xFFFF000000220501",
+                "resolved_name": "jitasm::Frontend::xmm2",
+                "rva": "0xAD0D0",
+                "type": "jitasm::XmmReg"
+            },
+            "qword_0xAD0F0": {
+                "address": "0x7FFDE8F5D0F0",
+                "current_value": "0xFFFF000000320501",
+                "resolved_name": "jitasm::Frontend::xmm3",
+                "rva": "0xAD0F0",
+                "type": "jitasm::XmmReg"
+            },
+            "qword_0xAD110": {
+                "address": "0x7FFDE8F5D110",
+                "current_value": "0xFFFF000000620501",
+                "resolved_name": "jitasm::Frontend::xmm6",
+                "rva": "0xAD110",
+                "type": "jitasm::XmmReg"
+            },
+            "qword_0xAD130": {
+                "address": "0x7FFDE8F5D130",
+                "current_value": "0xFFFF000000720501",
+                "resolved_name": "jitasm::Frontend::xmm7",
+                "rva": "0xAD130",
+                "type": "jitasm::XmmReg"
+            },
+            "qword_0xAD150": {
+                "address": "0x7FFDE8F5D150",
+                "current_value": "0xFFFF000000000301",
+                "resolved_name": "jitasm::Frontend::rax",
+                "rva": "0xAD150",
+                "type": "jitasm::Reg64"
+            },
+            "qword_0xAD170": {
+                "address": "0x7FFDE8F5D170",
+                "current_value": "0xFFFF000000100301",
+                "resolved_name": "jitasm::Frontend::rcx",
+                "rva": "0xAD170",
+                "type": "jitasm::Reg64"
+            },
+            "qword_0xAD190": {
+                "address": "0x7FFDE8F5D190",
+                "current_value": "0xFFFF000000300301",
+                "resolved_name": "jitasm::Frontend::rbx",
+                "rva": "0xAD190",
+                "type": "jitasm::Reg64"
+            },
+            "qword_0xAD1B0": {
+                "address": "0x7FFDE8F5D1B0",
+                "current_value": "0xFFFF000000400301",
+                "resolved_name": "jitasm::Frontend::rsp",
+                "rva": "0xAD1B0",
+                "type": "jitasm::Reg64"
+            },
+            "qword_0xAD1D0": {
+                "address": "0x7FFDE8F5D1D0",
+                "current_value": "0xFFFF000000500301",
+                "resolved_name": "jitasm::Frontend::rbp",
+                "rva": "0xAD1D0",
+                "type": "jitasm::Reg64"
+            },
+            "qword_0xAD1F0": {
+                "address": "0x7FFDE8F5D1F0",
+                "current_value": "0xFFFF000000700301",
+                "resolved_name": "jitasm::Frontend::rdi",
+                "rva": "0xAD1F0",
+                "type": "jitasm::Reg64"
+            },
+            "qword_0xAD210": {
+                "address": "0x7FFDE8F5D210",
+                "current_value": "0xFFFF000000820501",
+                "resolved_name": "jitasm::Frontend::xmm8",
+                "rva": "0xAD210",
+                "type": "jitasm::XmmReg"
+            },
+            "qword_0xAD230": {
+                "address": "0x7FFDE8F5D230",
+                "current_value": "0xFFFF000000920501",
+                "resolved_name": "jitasm::Frontend::xmm9",
+                "rva": "0xAD230",
+                "type": "jitasm::XmmReg"
+            },
+            "qword_0xAD250": {
+                "address": "0x7FFDE8F5D250",
+                "current_value": "0xFFFF000000A20501",
+                "resolved_name": "jitasm::Frontend::xmm10",
+                "rva": "0xAD250",
+                "type": "jitasm::XmmReg"
+            },
+            "qword_0xAD270": {
+                "address": "0x7FFDE8F5D270",
+                "current_value": "0xFFFF000000400301",
+                "resolved_name": "jitasm::Frontend::zsp",
+                "rva": "0xAD270",
+                "type": "jitasm::Reg64"
+            },
+            "qword_0xAD290": {
+                "address": "0x7FFDE8F5D290",
+                "current_value": "0xFFFF000000500301",
+                "resolved_name": "jitasm::Frontend::zbp",
+                "rva": "0xAD290",
+                "type": "jitasm::Reg64"
+            },
+            "qword_0xAD2B0": {
+                "address": "0x7FFDE8F5D2B0",
+                "current_value": "0x7FF6D1396358",
+                "resolved_name": "alignDrawCommandBuffer",
+                "rva": "0xAD2B0",
+                "type": "hook::thiscall_stub<void __cdecl(rage::dlDrawCommandBuffer *,unsigned int)>"
+            },
+            "qword_0xAD2D8": {
+                "address": "0x7FFDE8F5D2D8",
+                "current_value": "0x7FF6D2A1CA14",
+                "resolved_name": "allocDrawCommand",
+                "rva": "0xAD2D8",
+                "type": "hook::cdecl_stub<void * __cdecl(unsigned __int64)>"
+            },
+            "qword_0xAD300": {
+                "address": "0x7FFDE8F5D300",
+                "current_value": "0x7FF6D2757470",
+                "resolved_name": "drawImVertices",
+                "rva": "0xAD300",
+                "type": "hook::cdecl_stub<void __cdecl(void)>"
+            },
+            "qword_0xAD328": {
+                "address": "0x7FFDE8F5D328",
+                "current_value": "0x7FF6D2755810",
+                "resolved_name": "beginImVertices",
+                "rva": "0xAD328",
+                "type": "hook::cdecl_stub<void __cdecl(int,int)>"
+            },
+            "qword_0xAD350": {
+                "address": "0x7FFDE8F5D350",
+                "current_value": "0x7FF6D275770C",
+                "resolved_name": "addImVertex",
+                "rva": "0xAD350",
+                "type": "hook::cdecl_stub<void __cdecl(float,float,float,float,float,float,unsigned int,float,float)>"
+            },
+            "qword_0xAD378": {
+                "address": "0x7FFDE8F5D378",
+                "current_value": "0x7FF6D1930DE0",
+                "resolved_name": "setScreenSpaceMatrix",
+                "rva": "0xAD378",
+                "type": "hook::cdecl_stub<void __cdecl(void *,void *,bool)>"
+            },
+            "qword_0xAD3A0": {
+                "address": "0x7FFDE8F5D3A0",
+                "current_value": "0x7FF6D2775DF8",
+                "resolved_name": "setSubShader",
+                "rva": "0xAD3A0",
+                "type": "hook::thiscall_stub<void __cdecl(__int64,int,int,int)>"
+            },
+            "qword_0xAD3C8": {
+                "address": "0x7FFDE8F5D3C8",
+                "current_value": "0x7FF6D2775F0C",
+                "resolved_name": "setSubShaderUnk",
+                "rva": "0xAD3C8",
+                "type": "hook::thiscall_stub<void __cdecl(__int64,int)>"
+            },
+            "qword_0xAD3F0": {
+                "address": "0x7FFDE8F5D3F0",
+                "current_value": "0x7FFDE8F18400",
+                "resolved_name": "shaderIdHookFunc",
+                "rva": "0xAD3F0",
+                "type": "HookFunction"
+            },
+            "qword_0xAD408": {
+                "address": "0x7FFDE8F5D408",
+                "current_value": "0x7FF6D272BD88",
+                "resolved_name": "drawMatrix_ctor",
+                "rva": "0xAD408",
+                "type": "hook::cdecl_stub<void __cdecl(void *)>"
+            },
+            "qword_0xAD430": {
+                "address": "0x7FFDE8F5D430",
+                "current_value": "0x7FF6D274C870",
+                "resolved_name": "activateMatrix",
+                "rva": "0xAD430",
+                "type": "hook::cdecl_stub<void __cdecl(drawMatrix *)>"
+            },
+            "qword_0xAD458": {
+                "address": "0x7FFDE8F5D458",
+                "current_value": "0x7FF6D277B6BC",
+                "resolved_name": "popSubShader",
+                "rva": "0xAD458",
+                "type": "hook::thiscall_stub<void __cdecl(__int64)>"
+            },
+            "qword_0xAD480": {
+                "address": "0x7FFDE8F5D480",
+                "current_value": "0x7FF6D27775B4",
+                "resolved_name": "popSubShaderUnk",
+                "rva": "0xAD480",
+                "type": "hook::thiscall_stub<void __cdecl(__int64)>"
+            },
+            "qword_0xAD4A8": {
+                "address": "0x7FFDE8F5D4A8",
+                "current_value": "0x7FF6D18D65FC",
+                "resolved_name": "popImShaderAndResetParams",
+                "rva": "0xAD4A8",
+                "type": "hook::cdecl_stub<void __cdecl(void)>"
+            },
+            "qword_0xAD4D0": {
+                "address": "0x7FFDE8F5D4D0",
+                "current_value": "0x7FF6D1934B48",
+                "resolved_name": "setImGenParams",
+                "rva": "0xAD4D0",
+                "type": "hook::cdecl_stub<void __cdecl(float const *,float const *)>"
+            },
+            "qword_0xAD4F8": {
+                "address": "0x7FFDE8F5D4F8",
+                "current_value": "0x7FF6D19385E4",
+                "resolved_name": "setTextureGtaIm",
+                "rva": "0xAD4F8",
+                "type": "hook::cdecl_stub<void __cdecl(rage::grcTexture *)>"
+            },
+            "qword_0xAD520": {
+                "address": "0x7FFDE8F5D520",
+                "current_value": "0x7FF6D2735118",
+                "resolved_name": "createRasterizerState",
+                "rva": "0xAD520",
+                "type": "hook::cdecl_stub<unsigned int __cdecl(D3D11_RASTERIZER_DESC const *)>"
+            },
+            "qword_0xAD548": {
+                "address": "0x7FFDE8F5D548",
+                "current_value": "0x7FF6D27339D4",
+                "resolved_name": "createDepthStencilState",
+                "rva": "0xAD548",
+                "type": "hook::cdecl_stub<unsigned int __cdecl(D3D11_DEPTH_STENCIL_DESC const *)>"
+            },
+            "qword_0xAD570": {
+                "address": "0x7FFDE8F5D570",
+                "current_value": "0x7FF6D27335FC",
+                "resolved_name": "createBlendState",
+                "rva": "0xAD570",
+                "type": "hook::cdecl_stub<unsigned int __cdecl(D3D11_BLEND_DESC const *)>"
+            },
+            "qword_0xAD598": {
+                "address": "0x7FFDE8F5D598",
+                "current_value": "0x7FF6D274E7CC",
+                "resolved_name": "setRasterizerState",
+                "rva": "0xAD598",
+                "type": "hook::cdecl_stub<void __cdecl(unsigned int)>"
+            },
+            "qword_0xAD5C0": {
+                "address": "0x7FFDE8F5D5C0",
+                "current_value": "0x7FF6D274C3BC",
+                "resolved_name": "setBlendState",
+                "rva": "0xAD5C0",
+                "type": "hook::cdecl_stub<void __cdecl(unsigned int,float *,unsigned int)>"
+            },
+            "qword_0xAD5E8": {
+                "address": "0x7FFDE8F5D5E8",
+                "current_value": "0x7FF6D274CED8",
+                "resolved_name": "setDepthStencilState",
+                "rva": "0xAD5E8",
+                "type": "hook::cdecl_stub<void __cdecl(unsigned int)>"
+            },
+            "qword_0xAD610": {
+                "address": "0x7FFDE8F5D610",
+                "current_value": "0x7FF6D273D440",
+                "resolved_name": "getSamplerState",
+                "rva": "0xAD610",
+                "type": "hook::cdecl_stub<unsigned int __cdecl(void *,void *,int)>"
+            },
+            "qword_0xAD638": {
+                "address": "0x7FFDE8F5D638",
+                "current_value": "0x7FF6D274E8DC",
+                "resolved_name": "setSamplerState",
+                "rva": "0xAD638",
+                "type": "hook::cdecl_stub<void __cdecl(void *,void *,int,unsigned int)>"
+            },
+            "qword_0xAD660": {
+                "address": "0x7FFDE8F5D660",
+                "current_value": "0x7FF6D2735598",
+                "resolved_name": "createSamplerState",
+                "rva": "0xAD660",
+                "type": "hook::cdecl_stub<unsigned int __cdecl(D3D11_SAMPLER_DESC const *)>"
+            },
+            "qword_0xAD688": {
+                "address": "0x7FFDE8F5D688",
+                "current_value": "0x7FF6D2777DA8",
+                "resolved_name": "rage::_grmShaderFx_LoadTechnique",
+                "rva": "0xAD688",
+                "type": "hook::cdecl_stub<bool __cdecl(rage::grmShaderFx *,char const *,void *,bool)>"
+            },
+            "qword_0xAD6B0": {
+                "address": "0x7FFDE8F5D6B0",
+                "current_value": "0x7FF6D2775DF8",
+                "resolved_name": "rage::_grmShaderFx_PushTechnique",
+                "rva": "0xAD6B0",
+                "type": "hook::cdecl_stub<int __cdecl(rage::grmShaderFx *,int,bool,int)>"
+            },
+            "qword_0xAD6D8": {
+                "address": "0x7FFDE8F5D6D8",
+                "current_value": "0x7FF6D272F308",
+                "resolved_name": "rage::_grmShaderDef_PushPass",
+                "rva": "0xAD6D8",
+                "type": "hook::cdecl_stub<void __cdecl(rage::grmShaderDef *,int,rage::grmShaderFx *)>"
+            },
+            "qword_0xAD700": {
+                "address": "0x7FFDE8F5D700",
+                "current_value": "0x7FF6D273894C",
+                "resolved_name": "rage::_grmShaderDef_PopPass",
+                "rva": "0xAD700",
+                "type": "hook::cdecl_stub<void __cdecl(rage::grmShaderDef *)>"
+            },
+            "qword_0xAD728": {
+                "address": "0x7FFDE8F5D728",
+                "current_value": "0x7FF6D2746B94",
+                "resolved_name": "rage::_grmShaderDef_GetParameter",
+                "rva": "0xAD728",
+                "type": "hook::cdecl_stub<int __cdecl(rage::grmShaderDef *,char const *)>"
+            },
+            "qword_0xAD750": {
+                "address": "0x7FFDE8F5D750",
+                "current_value": "0x7FF6D2746A18",
+                "resolved_name": "rage::_grmShaderDef_GetTechnique",
+                "rva": "0xAD750",
+                "type": "hook::cdecl_stub<int __cdecl(rage::grmShaderDef *,char const *)>"
+            },
+            "qword_0xAD778": {
+                "address": "0x7FFDE8F5D778",
+                "current_value": "0x7FF6D274FA20",
+                "resolved_name": "rage::_grmShaderDef_SetSampler",
+                "rva": "0xAD778",
+                "type": "hook::cdecl_stub<void __cdecl(rage::grmShaderDef *,rage::grmShaderFx *,int,void *)>"
+            },
+            "qword_0xAD7A0": {
+                "address": "0x7FFDE8F5D7A0",
+                "current_value": "0x7FF6D274D728",
+                "resolved_name": "rage::_grmShaderDef_SetParameter",
+                "rva": "0xAD7A0",
+                "type": "hook::cdecl_stub<void __cdecl(rage::grmShaderDef *,rage::grmShaderFx *,int,void const *,int,int)>"
+            },
+            "qword_0xAD7C8": {
+                "address": "0x7FFDE8F5D7C8",
+                "current_value": "0x7FF6D274CB04",
+                "resolved_name": "_setWorldMatrix",
+                "rva": "0xAD7C8",
+                "type": "hook::cdecl_stub<void __cdecl(float const *)>"
+            },
+            "qword_0xAD7F0": {
+                "address": "0x7FFDE8F5D7F0",
+                "current_value": "0x7FFDE8F18400",
+                "resolved_name": "hookFunction",
+                "rva": "0xAD7F0",
+                "type": "HookFunction"
+            },
+            "qword_0xAD808": {
+                "address": "0x7FFDE8F5D808",
+                "current_value": "0x7FFDE8F18400",
+                "resolved_name": "hookFunction",
+                "rva": "0xAD808",
+                "type": "HookFunction"
+            },
+            "qword_0xAD820": {
+                "address": "0x7FFDE8F5D820",
+                "current_value": "0x7FF6D2737554",
+                "resolved_name": "flushRenderStates",
+                "rva": "0xAD820",
+                "type": "hook::cdecl_stub<void __cdecl(void)>"
+            },
+            "qword_0xAD848": {
+                "address": "0x7FFDE8F5D848",
+                "current_value": "0x7FF6D2757664",
+                "resolved_name": "_grcLighting",
+                "rva": "0xAD848",
+                "type": "hook::cdecl_stub<void __cdecl(bool)>"
+            },
+            "qword_0xAD870": {
+                "address": "0x7FFDE8F5D870",
+                "current_value": "0x7FF6D2755938",
+                "resolved_name": "_grcBindTexture",
+                "rva": "0xAD870",
+                "type": "hook::cdecl_stub<void __cdecl(rage::grcTexture *)>"
+            },
+            "qword_0xAD898": {
+                "address": "0x7FFDE8F5D898",
+                "current_value": "0x7FF6D274CAB8",
+                "resolved_name": "_grcWorldIdentity",
+                "rva": "0xAD898",
+                "type": "hook::cdecl_stub<void __cdecl(void)>"
+            },
+            "qword_0xAD8C0": {
+                "address": "0x7FFDE8F5D8C0",
+                "current_value": "0x7FFDE8F18400",
+                "resolved_name": "hookFunctionSafe",
+                "rva": "0xAD8C0",
+                "type": "HookFunction"
+            },
+            "qword_0xAD8D8": {
+                "address": "0x7FFDE8F5D8D8",
+                "current_value": "0x7FFDE8F18400",
+                "resolved_name": "hookFunction",
+                "rva": "0xAD8D8",
+                "type": "HookFunction"
+            },
+            "qword_0xAD8F0": {
+                "address": "0x7FFDE8F5D8F0",
+                "current_value": "0x0",
+                "resolved_name": "HostSharedData<CfxState>::m_fakeData",
+                "rva": "0xAD8F0",
+                "type": "CfxState"
+            },
+            "qword_0xB0950": {
+                "address": "0x7FFDE8F60950",
+                "current_value": "0x0",
+                "resolved_name": "HostSharedData<ReverseGameData>::m_fakeData",
+                "rva": "0xB0950",
+                "type": "ReverseGameData"
+            },
+            "qword_0xB0B40": {
+                "address": "0x7FFDE8F60B40",
+                "current_value": "0x7FFDE8F18400",
+                "resolved_name": "hookFunction",
+                "rva": "0xB0B40",
+                "type": "HookFunction"
+            },
+            "qword_0xB0B58": {
+                "address": "0x7FFDE8F60B58",
+                "current_value": "0x7FFDE8F18400",
+                "resolved_name": "hookFunction",
+                "rva": "0xB0B58",
+                "type": "HookFunction"
+            },
+            "qword_0xB0B70": {
+                "address": "0x7FFDE8F60B70",
+                "current_value": "0x7FF6D2730DB4",
+                "resolved_name": "_clearRenderTarget",
+                "rva": "0xB0B70",
+                "type": "hook::cdecl_stub<void __cdecl(bool,unsigned int,bool,float,bool,unsigned char)>"
+            },
+            "qword_0xB0B98": {
+                "address": "0x7FFDE8F60B98",
+                "current_value": "0x7FF6D273C664",
+                "resolved_name": "_getResourceCache",
+                "rva": "0xB0B98",
+                "type": "hook::cdecl_stub<rage::grcResourceCache * __cdecl(void)>"
+            },
+            "qword_0xB0BC0": {
+                "address": "0x7FFDE8F60BC0",
+                "current_value": "0x7FF6D274838C",
+                "resolved_name": "grcResourceCache_queueDelete",
+                "rva": "0xB0BC0",
+                "type": "hook::cdecl_stub<void __cdecl(rage::grcResourceCache *,void *)>"
+            },
+            "qword_0xB0BE8": {
+                "address": "0x7FFDE8F60BE8",
+                "current_value": "0x7FF6D2751DCC",
+                "resolved_name": "grcResourceCache_flushQueue",
+                "rva": "0xB0BE8",
+                "type": "hook::cdecl_stub<void __cdecl(rage::grcResourceCache *)>"
+            },
+            "qword_0xB0C10": {
+                "address": "0x7FFDE8F60C10",
+                "current_value": "0x7FF6D273DD78",
+                "resolved_name": "grcResourceCache_getAndUpdateAvailableMemory",
+                "rva": "0xB0C10",
+                "type": "hook::thiscall_stub<unsigned __int64 __cdecl(rage::grcResourceCache *,bool,bool)>"
+            },
+            "qword_0xB0C38": {
+                "address": "0x7FFDE8F60C38",
+                "current_value": "0x7FF6D18C8100",
+                "resolved_name": "_createRenderTarget",
+                "rva": "0xB0C38",
+                "type": "hook::cdecl_stub<rage::grcRenderTarget * __cdecl(int,char const *,int,int,int,int,void *,unsigned char,rage::grcRenderTarget *)>"
+            },
+            "qword_0xB0C60": {
+                "address": "0x7FFDE8F60C60",
+                "current_value": "0x7FFDE8F04FC0",
+                "resolved_name": "fmt::v8::instantiate_format_float",
+                "rva": "0xB0C60"
+            },
+            "qword_0xB0C70": {
+                "address": "0x7FFDE8F60C70",
+                "current_value": "0xAAA5AAA5B8A5AAA5",
+                "resolved_name": "hde64_table",
+                "rva": "0xB0C70",
+                "type": ""
+            },
+            "qword_0xB0E90": {
+                "address": "0x7FFDE8F60E90",
+                "current_value": "0xFFFFFFFF80000015",
+                "resolved_name": "_Init_global_epoch",
+                "rva": "0xB0E90"
+            },
+            "qword_0xB0E94": {
+                "address": "0x7FFDE8F60E94",
+                "current_value": "0xFFFFFFFF",
+                "resolved_name": "__scrt_native_dllmain_reason",
+                "rva": "0xB0E94"
+            },
+            "qword_0xB0EA0": {
+                "address": "0x7FFDE8F60EA0",
+                "current_value": "0xFFFFA3D027F8EA34",
+                "resolved_name": "__security_cookie_complement",
+                "rva": "0xB0EA0"
+            },
+            "qword_0xB0EA8": {
+                "address": "0x7FFDE8F60EA8",
+                "current_value": "0x5C2FD80715CB",
+                "resolved_name": "__security_cookie",
+                "rva": "0xB0EA8"
+            },
+            "qword_0xB0EB0": {
+                "address": "0x7FFDE8F60EB0",
+                "current_value": "0x9875",
+                "resolved_name": "_fltused",
+                "rva": "0xB0EB0"
+            },
+            "qword_0xB0EC0": {
+                "address": "0x7FFDE8F60EC0",
+                "current_value": "0x2E00000005",
+                "resolved_name": "__isa_available",
+                "rva": "0xB0EC0"
+            },
+            "qword_0xB0EC4": {
+                "address": "0x7FFDE8F60EC4",
+                "current_value": "0x80000000002E",
+                "resolved_name": "__isa_enabled",
+                "rva": "0xB0EC4"
+            },
+            "qword_0xB0EC8": {
+                "address": "0x7FFDE8F60EC8",
+                "current_value": "0x8000",
+                "resolved_name": "__memset_fast_string_threshold",
+                "rva": "0xB0EC8"
+            },
+            "qword_0xB0ED0": {
+                "address": "0x7FFDE8F60ED0",
+                "current_value": "0xFFFFFFFFFFFFFFFF",
+                "resolved_name": "__memset_nt_threshold",
+                "rva": "0xB0ED0"
+            },
+            "qword_0xB0EE0": {
+                "address": "0x7FFDE8F60EE0",
+                "current_value": "0x1",
+                "resolved_name": "__scrt_ucrt_dll_is_in_use",
+                "rva": "0xB0EE0"
+            },
+            "qword_0xB24A0": {
+                "address": "0x7FFDE8F624A0",
+                "current_value": "0x7FFD8C3B2BB0",
+                "resolved_name": "Instance<ICoreGameInit>::ms_cachedInstance",
+                "rva": "0xB24A0"
+            },
+            "qword_0xB24A8": {
+                "address": "0x7FFDE8F624A8",
+                "current_value": "0x5",
+                "resolved_name": "Instance<ICoreGameInit>::ms_id",
+                "rva": "0xB24A8"
+            },
+            "qword_0xB24E0": {
+                "address": "0x7FFDE8F624E0",
+                "current_value": "0x0",
+                "resolved_name": "_init_instance_0",
+                "rva": "0xB24E0",
+                "type": "ComponentRegistration"
+            },
+            "qword_0xB24E8": {
+                "address": "0x7FFDE8F624E8",
+                "current_value": "0x1E89BF53DC0",
+                "resolved_name": "xbr::kGameBuildUniquifiers",
+                "rva": "0xB24E8",
+                "type": "std::map<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> > >"
+            },
+            "qword_0xB250C": {
+                "address": "0x7FFDE8F6250C",
+                "current_value": "0x0",
+                "resolved_name": "__@@_PchSym_@00@UtoUyfrowhUxucRurevnRAUOyfrowRxzxsvUyfrowUurevUlyqUivovzhvUiztvRtizksrxhRurevUhgwrmxOlyq@4B2008FD98C1DD4",
+                "rva": "0xB250C"
+            },
+            "qword_0xB2518": {
+                "address": "0x7FFDE8F62518",
+                "current_value": "0x7FFDE8F17CE8",
+                "resolved_name": "initFunction",
+                "rva": "0xB2518",
+                "type": "InitFunction"
+            },
+            "qword_0xB2538": {
+                "address": "0x7FFDE8F62538",
+                "current_value": "0x0",
+                "resolved_name": "mh",
+                "rva": "0xB2538",
+                "type": "InitMHWrapper"
+            },
+            "qword_0xB2540": {
+                "address": "0x7FFDE8F62540",
+                "current_value": "0x0",
+                "resolved_name": "Instance<ComponentLoader>::ms_id",
+                "rva": "0xB2540"
+            },
+            "qword_0xB2554": {
+                "address": "0x7FFDE8F62554",
+                "current_value": "0xD43935B800000000",
+                "resolved_name": "_init_instance_0",
+                "rva": "0xB2554",
+                "type": "ComponentRegistration"
+            },
+            "qword_0xB2558": {
+                "address": "0x7FFDE8F62558",
+                "current_value": "0x7FF6D43935B8",
+                "resolved_name": "g_drawCommandBuffer",
+                "rva": "0xB2558"
+            },
+            "qword_0xB2560": {
+                "address": "0x7FFDE8F62560",
+                "current_value": "0x1B0000000B4",
+                "resolved_name": "g_renderThreadTlsIndex",
+                "rva": "0xB2560"
+            },
+            "qword_0xB2564": {
+                "address": "0x7FFDE8F62564",
+                "current_value": "0xD368A6B8000001B0",
+                "resolved_name": "g_d3d11DeviceContextOffset",
+                "rva": "0xB2564"
+            },
+            "qword_0xB2568": {
+                "address": "0x7FFDE8F62568",
+                "current_value": "0x7FF6D368A6B8",
+                "resolved_name": "gtaImShader",
+                "rva": "0xB2568"
+            },
+            "qword_0xB2570": {
+                "address": "0x7FFDE8F62570",
+                "current_value": "0x7FF6D367D8A4",
+                "resolved_name": "gtaImTechnique",
+                "rva": "0xB2570"
+            },
+            "qword_0xB2578": {
+                "address": "0x7FFDE8F62578",
+                "current_value": "0x7FF6D40C1CF8",
+                "resolved_name": "g_resolution",
+                "rva": "0xB2578"
+            },
+            "qword_0xB2580": {
+                "address": "0x7FFDE8F62580",
+                "current_value": "0x5A000000A00",
+                "resolved_name": "g_realResolution",
+                "rva": "0xB2580",
+                "type": ""
+            },
+            "qword_0xB2588": {
+                "address": "0x7FFDE8F62588",
+                "current_value": "0x7FF6D40BC858",
+                "resolved_name": "g_nextRasterizerState",
+                "rva": "0xB2588"
+            },
+            "qword_0xB2590": {
+                "address": "0x7FFDE8F62590",
+                "current_value": "0x7FF6D40BC870",
+                "resolved_name": "g_nextBlendState",
+                "rva": "0xB2590"
+            },
+            "qword_0xB2598": {
+                "address": "0x7FFDE8F62598",
+                "current_value": "0x7FF6D40BC898",
+                "resolved_name": "g_nextBlendFactor",
+                "rva": "0xB2598"
+            },
+            "qword_0xB25A0": {
+                "address": "0x7FFDE8F625A0",
+                "current_value": "0x7FF6D40BC8A8",
+                "resolved_name": "g_nextSampleMask",
+                "rva": "0xB25A0"
+            },
+            "qword_0xB25A8": {
+                "address": "0x7FFDE8F625A8",
+                "current_value": "0x7FF6D40BC864",
+                "resolved_name": "g_nextDepthStencilState",
+                "rva": "0xB25A8"
+            },
+            "qword_0xB25B0": {
+                "address": "0x7FFDE8F625B0",
+                "current_value": "0x7FF6D40BC1F8",
+                "resolved_name": "stockStates",
+                "rva": "0xB25B0",
+                "type": ""
+            },
+            "qword_0xB25E0": {
+                "address": "0x7FFDE8F625E0",
+                "current_value": "0x7FF6D367D934",
+                "resolved_name": "g_imDiffuseSampler",
+                "rva": "0xB25E0"
+            },
+            "qword_0xB25E8": {
+                "address": "0x7FFDE8F625E8",
+                "current_value": "0x7FF6D408B328",
+                "resolved_name": "g_d3d11Device",
+                "rva": "0xB25E8"
+            },
+            "qword_0xB25F0": {
+                "address": "0x7FFDE8F625F0",
+                "current_value": "0x7FF6D408C060",
+                "resolved_name": "rage::g_grmTechniquePointer",
+                "rva": "0xB25F0"
+            },
+            "qword_0xB25F8": {
+                "address": "0x7FFDE8F625F8",
+                "current_value": "0x7FF6D40F4C88",
+                "resolved_name": "rage::g_grmShaderFactory",
+                "rva": "0xB25F8"
+            },
+            "qword_0xB2600": {
+                "address": "0x7FFDE8F62600",
+                "current_value": "0x1E89BF54540",
+                "resolved_name": "xbr::kGameBuildUniquifiers",
+                "rva": "0xB2600",
+                "type": "std::map<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> > >"
+            },
+            "qword_0xB2610": {
+                "address": "0x7FFDE8F62610",
+                "current_value": "0x1E99DE5C0F0",
+                "resolved_name": "g_imMatrix",
+                "rva": "0xB2610"
+            },
+            "qword_0xB2620": {
+                "address": "0x7FFDE8F62620",
+                "current_value": "0x30",
+                "resolved_name": "xbr::virt::Base<1,2802,0,6>::ms_offset",
+                "rva": "0xB2620"
+            },
+            "qword_0xB2628": {
+                "address": "0x7FFDE8F62628",
+                "current_value": "0x7FF6D367DFC8",
+                "resolved_name": "ResolutionMgr::g_uiWidth",
+                "rva": "0xB2628"
+            },
+            "qword_0xB2630": {
+                "address": "0x7FFDE8F62630",
+                "current_value": "0x7FF6D367DFEC",
+                "resolved_name": "ResolutionMgr::g_uiHeight",
+                "rva": "0xB2630"
+            },
+            "qword_0xB2720": {
+                "address": "0x7FFDE8F62720",
+                "current_value": "0x7FFDE8F17CE8",
+                "resolved_name": "xbr::virt::Base<1,2802,0,6>::ms_initFunction",
+                "rva": "0xB2720",
+                "type": "InitFunction"
+            },
+            "qword_0xB2760": {
+                "address": "0x7FFDE8F62760",
+                "current_value": "0x1",
+                "resolved_name": "Instance<ConsoleCommandManager>::ms_id",
+                "rva": "0xB2760"
+            },
+            "qword_0xB2768": {
+                "address": "0x7FFDE8F62768",
+                "current_value": "0x2",
+                "resolved_name": "Instance<console::Context>::ms_id",
+                "rva": "0xB2768"
+            },
+            "qword_0xB2770": {
+                "address": "0x7FFDE8F62770",
+                "current_value": "0x0",
+                "resolved_name": "Instance<ConsoleVariableManager>::ms_cachedInstance",
+                "rva": "0xB2770"
+            },
+            "qword_0xB2778": {
+                "address": "0x7FFDE8F62778",
+                "current_value": "0x3",
+                "resolved_name": "Instance<ConsoleVariableManager>::ms_id",
+                "rva": "0xB2778"
+            },
+            "qword_0xB2780": {
+                "address": "0x7FFDE8F62780",
+                "current_value": "0x1E89BF54590",
+                "resolved_name": "xbr::kGameBuildUniquifiers",
+                "rva": "0xB2780",
+                "type": "std::map<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> > >"
+            },
+            "qword_0xB2790": {
+                "address": "0x7FFDE8F62790",
+                "current_value": "0x0",
+                "resolved_name": "_init_instance_28",
+                "rva": "0xB2790",
+                "type": "ComponentRegistration"
+            },
+            "qword_0xB2791": {
+                "address": "0x7FFDE8F62791",
+                "current_value": "0x0",
+                "resolved_name": "_init_instance_29",
+                "rva": "0xB2791",
+                "type": "ComponentRegistration"
+            },
+            "qword_0xB2792": {
+                "address": "0x7FFDE8F62792",
+                "current_value": "0x0",
+                "resolved_name": "_init_instance_30",
+                "rva": "0xB2792",
+                "type": "ComponentRegistration"
+            },
+            "qword_0xB2793": {
+                "address": "0x7FFDE8F62793",
+                "current_value": "0x0",
+                "resolved_name": "presented",
+                "rva": "0xB2793"
+            },
+            "qword_0xB2794": {
+                "address": "0x7FFDE8F62794",
+                "current_value": "0x0",
+                "resolved_name": "g_isModded",
+                "rva": "0xB2794"
+            },
+            "qword_0xB2798": {
+                "address": "0x7FFDE8F62798",
+                "current_value": "0x0",
+                "resolved_name": "std::codecvt<unsigned int,char,_Mbstatet>::id",
+                "rva": "0xB2798",
+                "type": "std::locale::id"
+            },
+            "qword_0xB27B8": {
+                "address": "0x7FFDE8F627B8",
+                "current_value": "0x30",
+                "resolved_name": "xbr::virt::Base<9,2802,0,6>::ms_offset",
+                "rva": "0xB27B8"
+            },
+            "qword_0xB27D0": {
+                "address": "0x7FFDE8F627D0",
+                "current_value": "0x1E89BF538C0",
+                "resolved_name": "xbr::kGameBuildUniquifiers",
+                "rva": "0xB27D0",
+                "type": "std::map<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> > >"
+            },
+            "qword_0xB27E0": {
+                "address": "0x7FFDE8F627E0",
+                "current_value": "0x0",
+                "resolved_name": "_init_instance_36",
+                "rva": "0xB27E0",
+                "type": "ComponentRegistration"
+            },
+            "qword_0xB27E1": {
+                "address": "0x7FFDE8F627E1",
+                "current_value": "0xE800000000000000",
+                "resolved_name": "_init_instance_37",
+                "rva": "0xB27E1",
+                "type": "ComponentRegistration"
+            },
+            "qword_0xB27E2": {
+                "address": "0x7FFDE8F627E2",
+                "current_value": "0x7CE8000000000000",
+                "resolved_name": "_init_instance_38",
+                "rva": "0xB27E2",
+                "type": "ComponentRegistration"
+            },
+            "qword_0xB27E8": {
+                "address": "0x7FFDE8F627E8",
+                "current_value": "0x7FFDE8F17CE8",
+                "resolved_name": "xbr::virt::Base<9,2802,0,6>::ms_initFunction",
+                "rva": "0xB27E8",
+                "type": "InitFunction"
+            },
+            "qword_0xB2870": {
+                "address": "0x7FFDE8F62870",
+                "current_value": "0x7FF6D2738590",
+                "resolved_name": "g_origPresent",
+                "rva": "0xB2870"
+            },
+            "qword_0xB2878": {
+                "address": "0x7FFDE8F62878",
+                "current_value": "0x0",
+                "resolved_name": "g_textureOverridesLock",
+                "rva": "0xB2878",
+                "type": "_RTL_SRWLOCK"
+            },
+            "qword_0xB2880": {
+                "address": "0x7FFDE8F62880",
+                "current_value": "0x7FF6D1350F40",
+                "resolved_name": "g_origSetTexture",
+                "rva": "0xB2880"
+            },
+            "qword_0xB2888": {
+                "address": "0x7FFDE8F62888",
+                "current_value": "0x7FF6D1350F00",
+                "resolved_name": "g_origGrcTextureDtor",
+                "rva": "0xB2888"
+            },
+            "qword_0xB2890": {
+                "address": "0x7FFDE8F62890",
+                "current_value": "0x220B38",
+                "resolved_name": "g_gtaWindow",
+                "rva": "0xB2890"
+            },
+            "qword_0xB2898": {
+                "address": "0x7FFDE8F62898",
+                "current_value": "0x7FFEBDA582F0",
+                "resolved_name": "g_origCreateWindowExW",
+                "rva": "0xB2898"
+            },
+            "qword_0xB28A0": {
+                "address": "0x7FFDE8F628A0",
+                "current_value": "0x1E99DD72320",
+                "resolved_name": "g_lastBackbufTexture",
+                "rva": "0xB28A0"
+            },
+            "qword_0xB28A8": {
+                "address": "0x7FFDE8F628A8",
+                "current_value": "0x100",
+                "resolved_name": "g_useFlipModel",
+                "rva": "0xB28A8"
+            },
+            "qword_0xB28A9": {
+                "address": "0x7FFDE8F628A9",
+                "current_value": "0x1",
+                "resolved_name": "g_overrideVsync",
+                "rva": "0xB28A9"
+            },
+            "qword_0xB28AA": {
+                "address": "0x7FFDE8F628AA",
+                "current_value": "0xBD00000000000000",
+                "resolved_name": "g_allowTearing",
+                "rva": "0xB28AA"
+            },
+            "qword_0xB28B0": {
+                "address": "0x7FFDE8F628B0",
+                "current_value": "0x7FF6D408BD00",
+                "resolved_name": "rage__spdViewport__sm_Current",
+                "rva": "0xB28B0"
+            },
+            "qword_0xB28B8": {
+                "address": "0x7FFDE8F628B8",
+                "current_value": "0x1E99DDB6010",
+                "resolved_name": "g_swapChain1",
+                "rva": "0xB28B8"
+            },
+            "qword_0xB28C0": {
+                "address": "0x7FFDE8F628C0",
+                "current_value": "0x2",
+                "resolved_name": "g_swapChainFlags",
+                "rva": "0xB28C0"
+            },
+            "qword_0xB28C4": {
+                "address": "0x7FFDE8F628C4",
+                "current_value": "0xD274824A00000000",
+                "resolved_name": "g_isInRenderQuery",
+                "rva": "0xB28C4",
+                "type": "std::atomic<int>"
+            },
+            "qword_0xB28C8": {
+                "address": "0x7FFDE8F628C8",
+                "current_value": "0x7FF6D274824A",
+                "resolved_name": "g_swapChainFlagLocations",
+                "rva": "0xB28C8",
+                "type": "std::array<void *,2>"
+            },
+            "qword_0xB28D8": {
+                "address": "0x7FFDE8F628D8",
+                "current_value": "0x1E945BDA918",
+                "resolved_name": "g_dc",
+                "rva": "0xB28D8"
+            },
+            "qword_0xB28E0": {
+                "address": "0x7FFDE8F628E0",
+                "current_value": "0x7FF6D1350FC0",
+                "resolved_name": "g_origVideoModeChange",
+                "rva": "0xB28E0"
+            },
+            "qword_0xB28E8": {
+                "address": "0x7FFDE8F628E8",
+                "current_value": "0x7FF6D40BCAA0",
+                "resolved_name": "g_dxgiSwapChain",
+                "rva": "0xB28E8"
+            },
+            "qword_0xB28F0": {
+                "address": "0x7FFDE8F628F0",
+                "current_value": "0x7FF6D274B400",
+                "resolved_name": "g_resetVideoMode",
+                "rva": "0xB28F0"
+            },
+            "qword_0xB28F8": {
+                "address": "0x7FFDE8F628F8",
+                "current_value": "0x7FF6D1350F80",
+                "resolved_name": "g_origCreateBackbuffer",
+                "rva": "0xB28F8"
+            },
+            "qword_0xB2900": {
+                "address": "0x7FFDE8F62900",
+                "current_value": "0x7FF6D408B360",
+                "resolved_name": "g_backBuffer",
+                "rva": "0xB2900"
+            },
+            "qword_0xB2908": {
+                "address": "0x7FFDE8F62908",
+                "current_value": "0x7FF6D27415E4",
+                "resolved_name": "g_isQueryPending",
+                "rva": "0xB2908"
+            },
+            "qword_0xB2910": {
+                "address": "0x7FFDE8F62910",
+                "current_value": "0x7FF6D1350E80",
+                "resolved_name": "g_origSetupQuery",
+                "rva": "0xB2910"
+            },
+            "qword_0xB2918": {
+                "address": "0x7FFDE8F62918",
+                "current_value": "0x1E89BF546D0",
+                "resolved_name": "xbr::kGameBuildUniquifiers",
+                "rva": "0xB2918",
+                "type": "std::map<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> > >"
+            },
+            "qword_0xB2928": {
+                "address": "0x7FFDE8F62928",
+                "current_value": "0x0",
+                "resolved_name": "_init_instance_28",
+                "rva": "0xB2928",
+                "type": "ComponentRegistration"
+            },
+            "qword_0xB2929": {
+                "address": "0x7FFDE8F62929",
+                "current_value": "0xD000000000000000",
+                "resolved_name": "_init_instance_29",
+                "rva": "0xB2929",
+                "type": "ComponentRegistration"
+            },
+            "qword_0xB292A": {
+                "address": "0x7FFDE8F6292A",
+                "current_value": "0xE6D0000000000000",
+                "resolved_name": "_init_instance_30",
+                "rva": "0xB292A",
+                "type": "ComponentRegistration"
+            },
+            "qword_0xB292B": {
+                "address": "0x7FFDE8F6292B",
+                "current_value": "0x6FE6D00000000000",
+                "resolved_name": "_init_instance_31",
+                "rva": "0xB292B",
+                "type": "ComponentRegistration"
+            },
+            "qword_0xB2930": {
+                "address": "0x7FFDE8F62930",
+                "current_value": "0x1E93E6FE6D0",
+                "resolved_name": "OnGrcCreateDevice",
+                "rva": "0xB2930",
+                "type": "fwEvent<>"
+            },
+            "qword_0xB2940": {
+                "address": "0x7FFDE8F62940",
+                "current_value": "0x1E89DC780F0",
+                "resolved_name": "OnPostFrontendRender",
+                "rva": "0xB2940",
+                "type": "fwEvent<>"
+            },
+            "qword_0xB2950": {
+                "address": "0x7FFDE8F62950",
+                "current_value": "0x0",
+                "resolved_name": "OnFlipModelHook",
+                "rva": "0xB2950",
+                "type": "fwEvent<bool *>"
+            },
+            "qword_0xB2960": {
+                "address": "0x7FFDE8F62960",
+                "current_value": "0x1E89E03A7E0",
+                "resolved_name": "OnRequestInternalScreenshot",
+                "rva": "0xB2960",
+                "type": "fwEvent<bool *>"
+            },
+            "qword_0xB2970": {
+                "address": "0x7FFDE8F62970",
+                "current_value": "0x1E89E03A8A0",
+                "resolved_name": "OnInternalScreenshot",
+                "rva": "0xB2970",
+                "type": "fwEvent<unsigned char const *,int,int>"
+            },
+            "qword_0xB2980": {
+                "address": "0x7FFDE8F62980",
+                "current_value": "0x0",
+                "resolved_name": "OnTryCreateSwapChain",
+                "rva": "0xB2980",
+                "type": "fwEvent<IDXGIFactory2 *,ID3D11Device *,HWND__ *,DXGI_SWAP_CHAIN_DESC1 *,DXGI_SWAP_CHAIN_FULLSCREEN_DESC *,IDXGISwapChain1 * *>"
+            },
+            "qword_0xB2990": {
+                "address": "0x7FFDE8F62990",
+                "current_value": "0x3D4",
+                "resolved_name": "g_gameWindowEvent",
+                "rva": "0xB2990"
+            },
+            "qword_0xB2998": {
+                "address": "0x7FFDE8F62998",
+                "current_value": "0x1E9A5E40120",
+                "resolved_name": "g_resources",
+                "rva": "0xB2998",
+                "type": "std::vector<ID3D11Resource * *,std::allocator<ID3D11Resource * *> >"
+            },
+            "qword_0xB29B0": {
+                "address": "0x7FFDE8F629B0",
+                "current_value": "0x6948",
+                "resolved_name": "g_queriesSetUp",
+                "rva": "0xB29B0",
+                "type": "Concurrency::concurrent_unordered_map<void *,bool,std::hash<void *>,std::equal_to<void *>,std::allocator<std::pair<void * const,bool> > >"
+            },
+            "qword_0xB2BE8": {
+                "address": "0x7FFDE8F62BE8",
+                "current_value": "0x7FFDE8F17CE8",
+                "resolved_name": "initFunctionEarlyUMD",
+                "rva": "0xB2BE8",
+                "type": "InitFunction"
+            },
+            "qword_0xB2C10": {
+                "address": "0x7FFDE8F62C10",
+                "current_value": "0x3F800000",
+                "resolved_name": "g_textureOverrides",
+                "rva": "0xB2C10",
+                "type": "std::unordered_map<rage::grcTexture *,rage::grcTexture *,std::hash<rage::grcTexture *>,std::equal_to<rage::grcTexture *>,std::allocator<std::pair<rage::grcTexture * const,rage::grcTexture *> > >"
+            },
+            "qword_0xB2D00": {
+                "address": "0x7FFDE8F62D00",
+                "current_value": "0x30",
+                "resolved_name": "xbr::virt::Base<33,2802,2,6>::ms_offset",
+                "rva": "0xB2D00"
+            },
+            "qword_0xB2D08": {
+                "address": "0x7FFDE8F62D08",
+                "current_value": "0x0",
+                "resolved_name": "Microsoft::WRL::Details::ModuleBase::module_",
+                "rva": "0xB2D08"
+            },
+            "qword_0xB2D60": {
+                "address": "0x7FFDE8F62D60",
+                "current_value": "0x0",
+                "resolved_name": "HostSharedData<GameRenderData>::m_fakeData",
+                "rva": "0xB2D60",
+                "type": "GameRenderData"
+            },
+            "qword_0xB2E28": {
+                "address": "0x7FFDE8F62E28",
+                "current_value": "0x7FFDE8F17CE8",
+                "resolved_name": "xbr::virt::Base<33,2802,2,6>::ms_initFunction",
+                "rva": "0xB2E28",
+                "type": "InitFunction"
+            },
+            "qword_0xB2E98": {
+                "address": "0x7FFDE8F62E98",
+                "current_value": "0x0",
+                "resolved_name": "g_mapScratchBuffer",
+                "rva": "0xB2E98",
+                "type": "std::vector<char,std::allocator<char> >"
+            },
+            "qword_0xB2EB0": {
+                "address": "0x7FFDE8F62EB0",
+                "current_value": "0x0",
+                "resolved_name": "g_origCreateWindowExW",
+                "rva": "0xB2EB0"
+            },
+            "qword_0xB2EB8": {
+                "address": "0x7FFDE8F62EB8",
+                "current_value": "0x0",
+                "resolved_name": "g_origWndProc",
+                "rva": "0xB2EB8"
+            },
+            "qword_0xB2EC0": {
+                "address": "0x7FFDE8F62EC0",
+                "current_value": "0x0",
+                "resolved_name": "g_renderThreadId",
+                "rva": "0xB2EC0"
+            },
+            "qword_0xB2EC4": {
+                "address": "0x7FFDE8F62EC4",
+                "current_value": "0x0",
+                "resolved_name": "done",
+                "rva": "0xB2EC4"
+            },
+            "qword_0xB2EC8": {
+                "address": "0x7FFDE8F62EC8",
+                "current_value": "0x0",
+                "resolved_name": "g_renderThread",
+                "rva": "0xB2EC8"
+            },
+            "qword_0xB2ED0": {
+                "address": "0x7FFDE8F62ED0",
+                "current_value": "0x0",
+                "resolved_name": "g_renderThreadGate",
+                "rva": "0xB2ED0"
+            },
+            "qword_0xB2ED8": {
+                "address": "0x7FFDE8F62ED8",
+                "current_value": "0x0",
+                "resolved_name": "g_renderThreadLastPoll",
+                "rva": "0xB2ED8"
+            },
+            "qword_0xB2EE0": {
+                "address": "0x7FFDE8F62EE0",
+                "current_value": "0x0",
+                "resolved_name": "g_windowThreadWakeEvent",
+                "rva": "0xB2EE0"
+            },
+            "qword_0xB2EE8": {
+                "address": "0x7FFDE8F62EE8",
+                "current_value": "0x0",
+                "resolved_name": "g_ci",
+                "rva": "0xB2EE8",
+                "type": "tagCURSORINFO"
+            },
+            "qword_0xB2F00": {
+                "address": "0x7FFDE8F62F00",
+                "current_value": "0x0",
+                "resolved_name": "g_ourHwnd",
+                "rva": "0xB2F00"
+            },
+            "qword_0xB2F08": {
+                "address": "0x7FFDE8F62F08",
+                "current_value": "0x0",
+                "resolved_name": "g_origRenderThreadKick",
+                "rva": "0xB2F08"
+            },
+            "qword_0xB2F10": {
+                "address": "0x7FFDE8F62F10",
+                "current_value": "0x0",
+                "resolved_name": "g_origRenderThreadWait",
+                "rva": "0xB2F10"
+            },
+            "qword_0xB2F18": {
+                "address": "0x7FFDE8F62F18",
+                "current_value": "0x1E89BF537D0",
+                "resolved_name": "xbr::kGameBuildUniquifiers",
+                "rva": "0xB2F18",
+                "type": "std::map<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> > >"
+            },
+            "qword_0xB2F28": {
+                "address": "0x7FFDE8F62F28",
+                "current_value": "0x7FFDE8F1C438",
+                "resolved_name": "g_wndMsgQueue",
+                "rva": "0xB2F28",
+                "type": "Concurrency::concurrent_queue<std::tuple<HWND__ *,unsigned int,unsigned __int64,__int64,std::function<void __cdecl(__int64)> >,std::allocator<std::tuple<HWND__ *,unsigned int,unsigned __int64,__int64,std::function<void __cdecl(__int64)> > > >"
+            },
+            "qword_0xB2F50": {
+                "address": "0x7FFDE8F62F50",
+                "current_value": "0x7FFDE8F1C470",
+                "resolved_name": "g_wndFuncQueue",
+                "rva": "0xB2F50",
+                "type": "Concurrency::concurrent_queue<std::function<void __cdecl(void)>,std::allocator<std::function<void __cdecl(void)> > >"
+            },
+            "qword_0xB2F78": {
+                "address": "0x7FFDE8F62F78",
+                "current_value": "0x3E0",
+                "resolved_name": "g_preRenderThreadKick",
+                "rva": "0xB2F78"
+            },
+            "qword_0xB2F80": {
+                "address": "0x7FFDE8F62F80",
+                "current_value": "0x0",
+                "resolved_name": "g_curFn",
+                "rva": "0xB2F80",
+                "type": "std::function<void __cdecl(__int64)>"
+            },
+            "qword_0xB2FD0": {
+                "address": "0x7FFDE8F62FD0",
+                "current_value": "0x7FF6D408BE80",
+                "resolved_name": "rage::g_textureFactory",
+                "rva": "0xB2FD0"
+            },
+            "qword_0xB2FD8": {
+                "address": "0x7FFDE8F62FD8",
+                "current_value": "0x7FF6D40BC120",
+                "resolved_name": "rage::g_noneTexture",
+                "rva": "0xB2FD8"
+            },
+            "qword_0xB2FE0": {
+                "address": "0x7FFDE8F62FE0",
+                "current_value": "0x1E89BF54360",
+                "resolved_name": "xbr::kGameBuildUniquifiers",
+                "rva": "0xB2FE0",
+                "type": "std::map<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> > >"
+            },
+            "qword_0xB2FF0": {
+                "address": "0x7FFDE8F62FF0",
+                "current_value": "0x0",
+                "resolved_name": "OnD3DPostReset",
+                "rva": "0xB2FF0",
+                "type": "fwEvent<>"
+            },
+            "qword_0xB3000": {
+                "address": "0x7FFDE8F63000",
+                "current_value": "0x0",
+                "resolved_name": "std::_Facetptr<std::numpunct<wchar_t> >::_Psave",
+                "rva": "0xB3000"
+            },
+            "qword_0xB3008": {
+                "address": "0x7FFDE8F63008",
+                "current_value": "0x0",
+                "resolved_name": "std::_Facetptr<std::numpunct<char> >::_Psave",
+                "rva": "0xB3008"
+            },
+            "qword_0xB3068": {
+                "address": "0x7FFDE8F63068",
+                "current_value": "0x7FFDE8F63098",
+                "resolved_name": "g_initFunctions",
+                "rva": "0xB3068"
+            },
+            "qword_0xB3090": {
+                "address": "0x7FFDE8F63090",
+                "current_value": "0x7FF591390000",
+                "resolved_name": "hook::baseAddressDifference",
+                "rva": "0xB3090"
+            },
+            "qword_0xB3098": {
+                "address": "0x7FFDE8F63098",
+                "current_value": "0x7FFDE8F17CE8",
+                "resolved_name": "initHookingFunction",
+                "rva": "0xB3098",
+                "type": "InitFunction"
+            },
+            "qword_0xB30C0": {
+                "address": "0x7FFDE8F630C0",
+                "current_value": "0x1E89BF53A50",
+                "resolved_name": "xbr::kGameBuildUniquifiers",
+                "rva": "0xB30C0",
+                "type": "std::map<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> > >"
+            },
+            "qword_0xB30F0": {
+                "address": "0x7FFDE8F630F0",
+                "current_value": "0x0",
+                "resolved_name": "initIoBuf",
+                "rva": "0xB30F0",
+                "type": "InitIoBuf"
+            },
+            "qword_0xB30F8": {
+                "address": "0x7FFDE8F630F8",
+                "current_value": "0x7FFDE8F60C40",
+                "resolved_name": "g_hookFunctions",
+                "rva": "0xB30F8"
+            },
+            "qword_0xB3100": {
+                "address": "0x7FFDE8F63100",
+                "current_value": "0x0",
+                "resolved_name": "g_runtimeHookFunctions",
+                "rva": "0xB3100"
+            },
+            "qword_0xB3108": {
+                "address": "0x7FFDE8F63108",
+                "current_value": "0x1E89BF53B40",
+                "resolved_name": "xbr::kGameBuildUniquifiers",
+                "rva": "0xB3108",
+                "type": "std::map<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> > >"
+            },
+            "qword_0xB3118": {
+                "address": "0x7FFDE8F63118",
+                "current_value": "0x0",
+                "resolved_name": "g_isLocked",
+                "rva": "0xB3118"
+            },
+            "qword_0xB3120": {
+                "address": "0x7FFDE8F63120",
+                "current_value": "0x1E89CD40000",
+                "resolved_name": "g_hHeap",
+                "rva": "0xB3120"
+            },
+            "qword_0xB3128": {
+                "address": "0x7FFDE8F63128",
+                "current_value": "0x0",
+                "resolved_name": "std::_Fac_head",
+                "rva": "0xB3128"
+            },
+            "qword_0xB3130": {
+                "address": "0x7FFDE8F63130",
+                "current_value": "0x0",
+                "resolved_name": "std::_Fac_tidy_reg",
+                "rva": "0xB3130",
+                "type": "std::_Fac_tidy_reg_t"
+            },
+            "qword_0xB3138": {
+                "address": "0x7FFDE8F63138",
+                "current_value": "0x0",
+                "resolved_name": "g_tss_cv",
+                "rva": "0xB3138",
+                "type": "_RTL_CONDITION_VARIABLE"
+            },
+            "qword_0xB3140": {
+                "address": "0x7FFDE8F63140",
+                "current_value": "0x0",
+                "resolved_name": "g_tss_event",
+                "rva": "0xB3140"
+            },
+            "qword_0xB3148": {
+                "address": "0x7FFDE8F63148",
+                "current_value": "0xFFFFFFFFFFFFFFFF",
+                "resolved_name": "g_tss_mutex",
+                "rva": "0xB3148",
+                "type": "_RTL_CRITICAL_SECTION"
+            },
+            "qword_0xB3170": {
+                "address": "0x7FFDE8F63170",
+                "current_value": "0x7FFEBC258340",
+                "resolved_name": "g_sleep_condition_variable_cs",
+                "rva": "0xB3170"
+            },
+            "qword_0xB3178": {
+                "address": "0x7FFDE8F63178",
+                "current_value": "0x7FFEBEE46FD0",
+                "resolved_name": "g_wake_all_condition_variable",
+                "rva": "0xB3178"
+            },
+            "qword_0xB3180": {
+                "address": "0x7FFDE8F63180",
+                "current_value": "0x2",
+                "resolved_name": "__scrt_current_native_startup_state",
+                "rva": "0xB3180",
+                "type": "__scrt_native_startup_state"
+            },
+            "qword_0xB3188": {
+                "address": "0x7FFDE8F63188",
+                "current_value": "0x0",
+                "resolved_name": "__scrt_native_startup_lock",
+                "rva": "0xB3188"
+            },
+            "qword_0xB3190": {
+                "address": "0x7FFDE8F63190",
+                "current_value": "0x101",
+                "resolved_name": "is_initialized_as_dll",
+                "rva": "0xB3190"
+            },
+            "qword_0xB3191": {
+                "address": "0x7FFDE8F63191",
+                "current_value": "0x8700000000000001",
+                "resolved_name": "module_local_atexit_table_initialized",
+                "rva": "0xB3191"
+            },
+            "qword_0xB3198": {
+                "address": "0x7FFDE8F63198",
+                "current_value": "0x4E1E9ED18387",
+                "resolved_name": "module_local_atexit_table",
+                "rva": "0xB3198",
+                "type": "_onexit_table_t"
+            },
+            "qword_0xB31B0": {
+                "address": "0x7FFDE8F631B0",
+                "current_value": "0xBAD120F9F387",
+                "resolved_name": "module_local_at_quick_exit_table",
+                "rva": "0xB31B0",
+                "type": "_onexit_table_t"
+            },
+            "qword_0xB31C8": {
+                "address": "0x7FFDE8F631C8",
+                "current_value": "0x1D",
+                "resolved_name": "_tls_index",
+                "rva": "0xB31C8"
+            },
+            "qword_0xB31D0": {
+                "address": "0x7FFDE8F631D0",
+                "current_value": "0x0",
+                "resolved_name": "__type_info_root_node",
+                "rva": "0xB31D0",
+                "type": "__type_info_node"
+            },
+            "qword_0xB31E0": {
+                "address": "0x7FFDE8F631E0",
+                "current_value": "0x1",
+                "resolved_name": "__proc_attached",
+                "rva": "0xB31E0"
+            },
+            "qword_0xB31F0": {
+                "address": "0x7FFDE8F631F0",
+                "current_value": "0x0",
+                "resolved_name": "GS_ExceptionRecord",
+                "rva": "0xB31F0",
+                "type": "_EXCEPTION_RECORD"
+            },
+            "qword_0xB3290": {
+                "address": "0x7FFDE8F63290",
+                "current_value": "0x0",
+                "resolved_name": "GS_ContextRecord",
+                "rva": "0xB3290",
+                "type": "_CONTEXT"
+            },
+            "qword_0xB3760": {
+                "address": "0x7FFDE8F63760",
+                "current_value": "0x2",
+                "resolved_name": "__favor",
+                "rva": "0xB3760"
+            },
+            "qword_0xB3764": {
+                "address": "0x7FFDE8F63764",
+                "current_value": "0x200000000",
+                "resolved_name": "__scrt_debugger_hook_flag",
+                "rva": "0xB3764"
+            },
+            "qword_0xB3770": {
+                "address": "0x7FFDE8F63770",
+                "current_value": "0x7FF6D1350000",
+                "resolved_name": "g_pMemoryBlocks",
+                "rva": "0xB3770"
+            },
+            "qword_0xB3780": {
+                "address": "0x7FFDE8F63780",
+                "current_value": "0x1E89CD40860",
+                "resolved_name": "g_hooks",
+                "rva": "0xB3780",
+                "type": "<unnamed-tag>"
+            }
+        },
         "rage::`dynamic initializer for '_grmShaderDef_GetParameter''": {
             "offset": "0x12B0"
         },

@@ -1,0 +1,1001 @@
+{
+    "net-packet.dll": {
+        "Component::As": {
+            "offset": "0x23F0"
+        },
+        "Component::IsA": {
+            "offset": "0x23E0"
+        },
+        "Component::SetCommandLine": {
+            "offset": "0x23C0"
+        },
+        "Component::SetUserData": {
+            "offset": "0x23D0"
+        },
+        "ComponentInstance::DoGameLoad": {
+            "offset": "0x2450"
+        },
+        "ComponentInstance::Initialize": {
+            "offset": "0x2440"
+        },
+        "ComponentInstance::Shutdown": {
+            "offset": "0x23D0"
+        },
+        "CoreGetComponentRegistry": {
+            "offset": "0x2330"
+        },
+        "CreateComponent": {
+            "offset": "0x2460"
+        },
+        "DllMain": {
+            "offset": "0x7030"
+        },
+        "HookFunctionBase::RunAll": {
+            "offset": "0x5E40"
+        },
+        "InitFunctionBase::RunAll": {
+            "offset": "0x5DC0"
+        },
+        "Win32TrapAndJump64": {
+            "offset": "0x5E70"
+        },
+        "_DllMainCRTStartup": {
+            "offset": "0x6970"
+        },
+        "_Init_thread_abort": {
+            "offset": "0x6018"
+        },
+        "_Init_thread_footer": {
+            "offset": "0x6048"
+        },
+        "_Init_thread_header": {
+            "offset": "0x60A8"
+        },
+        "_Init_thread_notify": {
+            "offset": "0x6110"
+        },
+        "_Init_thread_wait": {
+            "offset": "0x6154"
+        },
+        "_RTC_Initialize": {
+            "offset": "0x709C"
+        },
+        "_RTC_Terminate": {
+            "offset": "0x70D8"
+        },
+        "__GSHandlerCheck": {
+            "offset": "0x69B0"
+        },
+        "__GSHandlerCheckCommon": {
+            "offset": "0x69D0"
+        },
+        "__GSHandlerCheck_EH": {
+            "offset": "0x6A2C"
+        },
+        "__crt_debugger_hook": {
+            "offset": "0x6DD4"
+        },
+        "__dyn_tls_init": {
+            "offset": "0x5E84"
+        },
+        "__isa_available_init": {
+            "offset": "0x6C28"
+        },
+        "__local_stdio_printf_options": {
+            "offset": "0x2130"
+        },
+        "__local_stdio_scanf_options": {
+            "offset": "0x7070"
+        },
+        "__raise_securityfailure": {
+            "offset": "0x6AAC"
+        },
+        "__report_gsfailure": {
+            "offset": "0x6AE0"
+        },
+        "__scrt_acquire_startup_lock": {
+            "offset": "0x61B8"
+        },
+        "__scrt_dllmain_after_initialize_c": {
+            "offset": "0x61F4"
+        },
+        "__scrt_dllmain_before_initialize_c": {
+            "offset": "0x6228"
+        },
+        "__scrt_dllmain_crt_thread_attach": {
+            "offset": "0x6240"
+        },
+        "__scrt_dllmain_crt_thread_detach": {
+            "offset": "0x6268"
+        },
+        "__scrt_dllmain_exception_filter": {
+            "offset": "0x6280"
+        },
+        "__scrt_dllmain_uninitialize_c": {
+            "offset": "0x62E0"
+        },
+        "__scrt_dllmain_uninitialize_critical": {
+            "offset": "0x6310"
+        },
+        "__scrt_fastfail": {
+            "offset": "0x6DDC"
+        },
+        "__scrt_get_dyn_tls_init_callback": {
+            "offset": "0x7094"
+        },
+        "__scrt_initialize_crt": {
+            "offset": "0x6324"
+        },
+        "__scrt_initialize_default_local_stdio_options": {
+            "offset": "0x7078"
+        },
+        "__scrt_initialize_onexit_tables": {
+            "offset": "0x6370"
+        },
+        "__scrt_initialize_thread_safe_statics": {
+            "offset": "0x5F20"
+        },
+        "__scrt_initialize_type_info": {
+            "offset": "0x7054"
+        },
+        "__scrt_is_nonwritable_in_current_image": {
+            "offset": "0x63FC"
+        },
+        "__scrt_is_nonwritable_in_current_image$filt$0": {
+            "offset": "0x727C"
+        },
+        "__scrt_is_ucrt_dll_in_use": {
+            "offset": "0x6F30"
+        },
+        "__scrt_release_startup_lock": {
+            "offset": "0x6494"
+        },
+        "__scrt_stub_for_acrt_initialize": {
+            "offset": "0x23D0"
+        },
+        "__scrt_stub_for_acrt_thread_attach": {
+            "offset": "0x23D0"
+        },
+        "__scrt_stub_for_acrt_thread_detach": {
+            "offset": "0x23D0"
+        },
+        "__scrt_stub_for_acrt_uninitialize": {
+            "offset": "0x23D0"
+        },
+        "__scrt_stub_for_acrt_uninitialize_critical": {
+            "offset": "0x23D0"
+        },
+        "__scrt_stub_for_is_c_termination_complete": {
+            "offset": "0x23F0"
+        },
+        "__scrt_throw_std_bad_alloc": {
+            "offset": "0x6F5C"
+        },
+        "__scrt_throw_std_bad_array_new_length": {
+            "offset": "0x2310"
+        },
+        "__scrt_uninitialize_crt": {
+            "offset": "0x64B8"
+        },
+        "__scrt_uninitialize_thread_safe_statics": {
+            "offset": "0x5FF0"
+        },
+        "__scrt_uninitialize_type_info": {
+            "offset": "0x7064"
+        },
+        "__security_check_cookie": {
+            "offset": "0x5F00"
+        },
+        "__security_init_cookie": {
+            "offset": "0x6F84"
+        },
+        "_get_startup_argv_mode": {
+            "offset": "0x6F28"
+        },
+        "_guard_check_icall_nop": {
+            "offset": "0x23C0"
+        },
+        "_guard_dispatch_icall_nop": {
+            "offset": "0x71C0"
+        },
+        "_guard_xfg_dispatch_icall_nop": {
+            "offset": "0x71E0"
+        },
+        "_onexit": {
+            "offset": "0x64E4"
+        },
+        "`dllmain_crt_process_attach'::`1'::fin$0": {
+            "offset": "0x7294"
+        },
+        "`dllmain_crt_process_detach'::`1'::fin$0": {
+            "offset": "0x72AB"
+        },
+        "`dllmain_crt_process_detach'::`1'::fin$1": {
+            "offset": "0x72C4"
+        },
+        "`dllmain_dispatch'::`1'::filt$0": {
+            "offset": "0x72D8"
+        },
+        "`dynamic initializer for '_init_instance_0''": {
+            "offset": "0x1000"
+        },
+        "`dynamic initializer for 'g_thisError''": {
+            "offset": "0x11B0"
+        },
+        "`dynamic initializer for 'initIoBuf''": {
+            "offset": "0x1200"
+        },
+        "atexit": {
+            "offset": "0x6520"
+        },
+        "capture_previous_context": {
+            "offset": "0x6BB4"
+        },
+        "dllmain_crt_dispatch": {
+            "offset": "0x6650"
+        },
+        "dllmain_crt_process_attach": {
+            "offset": "0x66A0"
+        },
+        "dllmain_crt_process_detach": {
+            "offset": "0x67B8"
+        },
+        "dllmain_dispatch": {
+            "offset": "0x683C"
+        },
+        "fmt::v8::basic_memory_buffer<unsigned int,32,std::allocator<unsigned int> >::grow": {
+            "offset": "0x57B0"
+        },
+        "fmt::v8::basic_memory_buffer<unsigned int,32,std::allocator<unsigned int> >::~basic_memory_buffer<unsigned int,32,std::allocator<unsigned int> >": {
+            "offset": "0x4F80"
+        },
+        "fmt::v8::detail::add_compare": {
+            "offset": "0x50A0"
+        },
+        "fmt::v8::detail::assert_fail": {
+            "offset": "0x51E0"
+        },
+        "fmt::v8::detail::bigint::assign_pow10": {
+            "offset": "0x5230"
+        },
+        "fmt::v8::detail::bigint::divmod_assign": {
+            "offset": "0x5400"
+        },
+        "fmt::v8::detail::bigint::square": {
+            "offset": "0x5B00"
+        },
+        "fmt::v8::detail::bigint::~bigint": {
+            "offset": "0x4F80"
+        },
+        "fmt::v8::detail::buffer<char>::append<char>": {
+            "offset": "0x1B10"
+        },
+        "fmt::v8::detail::buffer<char>::try_resize": {
+            "offset": "0x1DD0"
+        },
+        "fmt::v8::detail::compare": {
+            "offset": "0x5360"
+        },
+        "fmt::v8::detail::count_digits": {
+            "offset": "0x1EF0"
+        },
+        "fmt::v8::detail::dragonbox::cache_accessor<double>::get_cached_power": {
+            "offset": "0x5680"
+        },
+        "fmt::v8::detail::dragonbox::is_endpoint_integer<double>": {
+            "offset": "0x4100"
+        },
+        "fmt::v8::detail::dragonbox::remove_trailing_zeros": {
+            "offset": "0x58E0"
+        },
+        "fmt::v8::detail::dragonbox::shorter_interval_case<float>": {
+            "offset": "0x4130"
+        },
+        "fmt::v8::detail::dragonbox::to_decimal<double>": {
+            "offset": "0x49F0"
+        },
+        "fmt::v8::detail::dragonbox::to_decimal<float>": {
+            "offset": "0x45C0"
+        },
+        "fmt::v8::detail::fallback_format<double>": {
+            "offset": "0x2900"
+        },
+        "fmt::v8::detail::fmt_snprintf": {
+            "offset": "0x5610"
+        },
+        "fmt::v8::detail::format_decimal<char,unsigned __int64,fmt::v8::appender,0>": {
+            "offset": "0x1CD0"
+        },
+        "fmt::v8::detail::format_decimal<char,unsigned __int64>": {
+            "offset": "0x1E10"
+        },
+        "fmt::v8::detail::format_decimal<char,unsigned int,fmt::v8::appender,0>": {
+            "offset": "0x1BC0"
+        },
+        "fmt::v8::detail::format_float<double>": {
+            "offset": "0x2520"
+        },
+        "fmt::v8::detail::grisu_gen_digits<fmt::v8::detail::fixed_handler>": {
+            "offset": "0x3C90"
+        },
+        "fmt::v8::detail::snprintf_float<double>": {
+            "offset": "0x4340"
+        },
+        "fmt::v8::detail::write<char,fmt::v8::appender,unsigned __int64,0>": {
+            "offset": "0x4EE0"
+        },
+        "fmt::v8::detail::write<char,fmt::v8::appender,unsigned int,0>": {
+            "offset": "0x4DC0"
+        },
+        "fprintf": {
+            "offset": "0x2140"
+        },
+        "fwRefCountable::AddRef": {
+            "offset": "0x5E00"
+        },
+        "fwRefCountable::Release": {
+            "offset": "0x5E10"
+        },
+        "fwRefCountable::~fwRefCountable": {
+            "offset": "0x5DF0"
+        },
+        "qwords": {
+            "qword_0x0": {
+                "address": "0x7FFA99D50000",
+                "current_value": "0x300905A4D",
+                "resolved_name": "g_thisError",
+                "rva": "0x0",
+                "type": "std::tuple<std::basic_string_view<char,std::char_traits<char> >,int,unsigned int>"
+            },
+            "qword_0x71C0": {
+                "address": "0x7FFA99D571C0",
+                "current_value": "0xCCCCCCCCCCCCE0FF",
+                "resolved_name": "_guard_dispatch_icall_nop",
+                "rva": "0x71C0"
+            },
+            "qword_0x71E0": {
+                "address": "0x7FFA99D571E0",
+                "current_value": "0xCCCC0000103225FF",
+                "resolved_name": "_guard_xfg_dispatch_icall_nop",
+                "rva": "0x71E0"
+            },
+            "qword_0x8208": {
+                "address": "0x7FFA99D58208",
+                "current_value": "0x7FFA99D523C0",
+                "resolved_name": "__guard_check_icall_fptr",
+                "rva": "0x8208"
+            },
+            "qword_0x8210": {
+                "address": "0x7FFA99D58210",
+                "current_value": "0x7FFA99D523C0",
+                "resolved_name": "__guard_xfg_check_icall_fptr",
+                "rva": "0x8210"
+            },
+            "qword_0x8218": {
+                "address": "0x7FFA99D58218",
+                "current_value": "0x7FFA99D571C0",
+                "resolved_name": "__guard_dispatch_icall_fptr",
+                "rva": "0x8218"
+            },
+            "qword_0x8220": {
+                "address": "0x7FFA99D58220",
+                "current_value": "0x7FFA99D571E0",
+                "resolved_name": "__guard_xfg_dispatch_icall_fptr",
+                "rva": "0x8220"
+            },
+            "qword_0x8228": {
+                "address": "0x7FFA99D58228",
+                "current_value": "0x7FFA99D571E0",
+                "resolved_name": "__guard_xfg_table_dispatch_icall_fptr",
+                "rva": "0x8228"
+            },
+            "qword_0x8230": {
+                "address": "0x7FFA99D58230",
+                "current_value": "0x0",
+                "resolved_name": "__castguard_check_failure_os_handled_fptr",
+                "rva": "0x8230"
+            },
+            "qword_0x8238": {
+                "address": "0x7FFA99D58238",
+                "current_value": "0x7FFA99D57138",
+                "resolved_name": "__guard_memcpy_fptr",
+                "rva": "0x8238"
+            },
+            "qword_0x8240": {
+                "address": "0x7FFA99D58240",
+                "current_value": "0x0",
+                "resolved_name": "__xc_a",
+                "rva": "0x8240",
+                "type": ""
+            },
+            "qword_0x8248": {
+                "address": "0x7FFA99D58248",
+                "current_value": "0x7FFA99D51244",
+                "resolved_name": "std::_Fac_tidy_reg$initializer$",
+                "rva": "0x8248"
+            },
+            "qword_0x8250": {
+                "address": "0x7FFA99D58250",
+                "current_value": "0x7FFA99D51200",
+                "resolved_name": "initIoBuf$initializer$",
+                "rva": "0x8250"
+            },
+            "qword_0x8258": {
+                "address": "0x7FFA99D58258",
+                "current_value": "0x7FFA99D51000",
+                "resolved_name": "_init_instance_0$initializer$",
+                "rva": "0x8258"
+            },
+            "qword_0x8260": {
+                "address": "0x7FFA99D58260",
+                "current_value": "0x7FFA99D51030",
+                "resolved_name": "xbr::kGameBuildUniquifiers$initializer$",
+                "rva": "0x8260"
+            },
+            "qword_0x8268": {
+                "address": "0x7FFA99D58268",
+                "current_value": "0x7FFA99D511E0",
+                "resolved_name": "_init_instance_0$initializer$",
+                "rva": "0x8268"
+            },
+            "qword_0x8270": {
+                "address": "0x7FFA99D58270",
+                "current_value": "0x0",
+                "resolved_name": "__xc_z",
+                "rva": "0x8270",
+                "type": ""
+            },
+            "qword_0x8278": {
+                "address": "0x7FFA99D58278",
+                "current_value": "0x0",
+                "resolved_name": "__xd_a",
+                "rva": "0x8278"
+            },
+            "qword_0x8280": {
+                "address": "0x7FFA99D58280",
+                "current_value": "0x7FFA99D511B0",
+                "resolved_name": "g_thisError$initializer$",
+                "rva": "0x8280"
+            },
+            "qword_0x8288": {
+                "address": "0x7FFA99D58288",
+                "current_value": "0x0",
+                "resolved_name": "__xd_z",
+                "rva": "0x8288"
+            },
+            "qword_0x8290": {
+                "address": "0x7FFA99D58290",
+                "current_value": "0x0",
+                "resolved_name": "__xi_a",
+                "rva": "0x8290",
+                "type": ""
+            },
+            "qword_0x8298": {
+                "address": "0x7FFA99D58298",
+                "current_value": "0x7FFA99D55F20",
+                "resolved_name": "__scrt_initialize_tss_var",
+                "rva": "0x8298"
+            },
+            "qword_0x82A0": {
+                "address": "0x7FFA99D582A0",
+                "current_value": "0x0",
+                "resolved_name": "__xi_z",
+                "rva": "0x82A0",
+                "type": ""
+            },
+            "qword_0x82A8": {
+                "address": "0x7FFA99D582A8",
+                "current_value": "0x0",
+                "resolved_name": "__xl_a",
+                "rva": "0x82A8"
+            },
+            "qword_0x82B0": {
+                "address": "0x7FFA99D582B0",
+                "current_value": "0x7FFA99D55E84",
+                "resolved_name": "__xl_c",
+                "rva": "0x82B0"
+            },
+            "qword_0x82B8": {
+                "address": "0x7FFA99D582B8",
+                "current_value": "0x7FFA99D565A8",
+                "resolved_name": "__xl_d",
+                "rva": "0x82B8"
+            },
+            "qword_0x82C0": {
+                "address": "0x7FFA99D582C0",
+                "current_value": "0x0",
+                "resolved_name": "__xl_z",
+                "rva": "0x82C0"
+            },
+            "qword_0x82C8": {
+                "address": "0x7FFA99D582C8",
+                "current_value": "0x0",
+                "resolved_name": "__xp_a",
+                "rva": "0x82C8",
+                "type": ""
+            },
+            "qword_0x82D0": {
+                "address": "0x7FFA99D582D0",
+                "current_value": "0x0",
+                "resolved_name": "__xp_z",
+                "rva": "0x82D0",
+                "type": ""
+            },
+            "qword_0x82D8": {
+                "address": "0x7FFA99D582D8",
+                "current_value": "0x0",
+                "resolved_name": "__xt_a",
+                "rva": "0x82D8",
+                "type": ""
+            },
+            "qword_0x82E0": {
+                "address": "0x7FFA99D582E0",
+                "current_value": "0x0",
+                "resolved_name": "__xt_z",
+                "rva": "0x82E0",
+                "type": ""
+            },
+            "qword_0x8358": {
+                "address": "0x7FFA99D58358",
+                "current_value": "0x7FFA99D521E0",
+                "resolved_name": "std::exception::`vftable'",
+                "rva": "0x8358",
+                "type": ""
+            },
+            "qword_0x8370": {
+                "address": "0x7FFA99D58370",
+                "current_value": "0x7FFA99D521E0",
+                "resolved_name": "std::bad_alloc::`vftable'",
+                "rva": "0x8370",
+                "type": ""
+            },
+            "qword_0x8388": {
+                "address": "0x7FFA99D58388",
+                "current_value": "0x7FFA99D521E0",
+                "resolved_name": "std::bad_array_new_length::`vftable'",
+                "rva": "0x8388",
+                "type": ""
+            },
+            "qword_0x8738": {
+                "address": "0x7FFA99D58738",
+                "current_value": "0x7FFA99D557B0",
+                "resolved_name": "fmt::v8::basic_memory_buffer<unsigned int,32,std::allocator<unsigned int> >::`vftable'",
+                "rva": "0x8738",
+                "type": ""
+            },
+            "qword_0x8F28": {
+                "address": "0x7FFA99D58F28",
+                "current_value": "0x7FFA99D52400",
+                "resolved_name": "fwRefCountable::`vftable'",
+                "rva": "0x8F28",
+                "type": ""
+            },
+            "qword_0x8F50": {
+                "address": "0x7FFA99D58F50",
+                "current_value": "0x7FFA99D55E84",
+                "resolved_name": "__dyn_tls_init_callback",
+                "rva": "0x8F50"
+            },
+            "qword_0x9010": {
+                "address": "0x7FFA99D59010",
+                "current_value": "0x7FFA99D56574",
+                "resolved_name": "type_info::`vftable'",
+                "rva": "0x9010",
+                "type": ""
+            },
+            "qword_0x9018": {
+                "address": "0x7FFA99D59018",
+                "current_value": "0x7FFA99D565A8",
+                "resolved_name": "__dyn_tls_dtor_callback",
+                "rva": "0x9018"
+            },
+            "qword_0x9020": {
+                "address": "0x7FFA99D59020",
+                "current_value": "0x0",
+                "resolved_name": "_pRawDllMain",
+                "rva": "0x9020"
+            },
+            "qword_0x9028": {
+                "address": "0x7FFA99D59028",
+                "current_value": "0x7FFA99D5E320",
+                "resolved_name": "GS_ExceptionPointers",
+                "rva": "0x9028",
+                "type": "_EXCEPTION_POINTERS"
+            },
+            "qword_0x9080": {
+                "address": "0x7FFA99D59080",
+                "current_value": "0x3330323031303030",
+                "resolved_name": "fmt::v8::detail::basic_data<void>::digits",
+                "rva": "0x9080",
+                "type": ""
+            },
+            "qword_0x9378": {
+                "address": "0x7FFA99D59378",
+                "current_value": "0x7FFA99D52400",
+                "resolved_name": "ComponentInstance::`vftable'",
+                "rva": "0x9378",
+                "type": ""
+            },
+            "qword_0x9440": {
+                "address": "0x7FFA99D59440",
+                "current_value": "0x140",
+                "resolved_name": "_load_config_used",
+                "rva": "0x9440",
+                "type": "_RS5_IMAGE_LOAD_CONFIG_DIRECTORY64"
+            },
+            "qword_0x9600": {
+                "address": "0x7FFA99D59600",
+                "current_value": "0x7FFA99D59F40",
+                "resolved_name": "_tls_used",
+                "rva": "0x9600",
+                "type": "_IMAGE_TLS_DIRECTORY64"
+            },
+            "qword_0x9A44": {
+                "address": "0x7FFA99D59A44",
+                "current_value": "0x8002800200000018",
+                "resolved_name": "__volatile_metadata",
+                "rva": "0x9A44"
+            },
+            "qword_0x9F18": {
+                "address": "0x7FFA99D59F18",
+                "current_value": "0x0",
+                "resolved_name": "__rtc_iaa",
+                "rva": "0x9F18",
+                "type": ""
+            },
+            "qword_0x9F20": {
+                "address": "0x7FFA99D59F20",
+                "current_value": "0x0",
+                "resolved_name": "__rtc_izz",
+                "rva": "0x9F20",
+                "type": ""
+            },
+            "qword_0x9F28": {
+                "address": "0x7FFA99D59F28",
+                "current_value": "0x0",
+                "resolved_name": "__rtc_taa",
+                "rva": "0x9F28",
+                "type": ""
+            },
+            "qword_0x9F30": {
+                "address": "0x7FFA99D59F30",
+                "current_value": "0x0",
+                "resolved_name": "__rtc_tzz",
+                "rva": "0x9F30",
+                "type": ""
+            },
+            "qword_0x9F40": {
+                "address": "0x7FFA99D59F40",
+                "current_value": "0x0",
+                "resolved_name": "_tls_start",
+                "rva": "0x9F40"
+            },
+            "qword_0xA088": {
+                "address": "0x7FFA99D5A088",
+                "current_value": "0x0",
+                "resolved_name": "_tls_end",
+                "rva": "0xA088"
+            },
+            "qword_0xA4F8": {
+                "address": "0x7FFA99D5A4F8",
+                "current_value": "0x1040900000001",
+                "resolved_name": "$xdatasym",
+                "rva": "0xA4F8"
+            },
+            "qword_0xA650": {
+                "address": "0x7FFA99D5A650",
+                "current_value": "0x1",
+                "resolved_name": "$xdatasym",
+                "rva": "0xA650"
+            },
+            "qword_0xA658": {
+                "address": "0x7FFA99D5A658",
+                "current_value": "0x1",
+                "resolved_name": "$xdatasym",
+                "rva": "0xA658"
+            },
+            "qword_0xB000": {
+                "address": "0x7FFA99D5B000",
+                "current_value": "0x7FFA99D52520",
+                "resolved_name": "fmt::v8::instantiate_format_float",
+                "rva": "0xB000"
+            },
+            "qword_0xB010": {
+                "address": "0x7FFA99D5B010",
+                "current_value": "0x0",
+                "resolved_name": "HostSharedData<CfxState>::m_fakeData",
+                "rva": "0xB010",
+                "type": "CfxState"
+            },
+            "qword_0xE070": {
+                "address": "0x7FFA99D5E070",
+                "current_value": "0xFFFFFFFF80000002",
+                "resolved_name": "_Init_global_epoch",
+                "rva": "0xE070"
+            },
+            "qword_0xE074": {
+                "address": "0x7FFA99D5E074",
+                "current_value": "0xC788F52EFFFFFFFF",
+                "resolved_name": "__scrt_native_dllmain_reason",
+                "rva": "0xE074"
+            },
+            "qword_0xE078": {
+                "address": "0x7FFA99D5E078",
+                "current_value": "0xFFFF8AB0C788F52E",
+                "resolved_name": "__security_cookie_complement",
+                "rva": "0xE078"
+            },
+            "qword_0xE080": {
+                "address": "0x7FFA99D5E080",
+                "current_value": "0x754F38770AD1",
+                "resolved_name": "__security_cookie",
+                "rva": "0xE080"
+            },
+            "qword_0xE088": {
+                "address": "0x7FFA99D5E088",
+                "current_value": "0x9875",
+                "resolved_name": "_fltused",
+                "rva": "0xE088"
+            },
+            "qword_0xE090": {
+                "address": "0x7FFA99D5E090",
+                "current_value": "0x2E00000005",
+                "resolved_name": "__isa_available",
+                "rva": "0xE090"
+            },
+            "qword_0xE094": {
+                "address": "0x7FFA99D5E094",
+                "current_value": "0x80000000002E",
+                "resolved_name": "__isa_enabled",
+                "rva": "0xE094"
+            },
+            "qword_0xE098": {
+                "address": "0x7FFA99D5E098",
+                "current_value": "0x8000",
+                "resolved_name": "__memset_fast_string_threshold",
+                "rva": "0xE098"
+            },
+            "qword_0xE0A0": {
+                "address": "0x7FFA99D5E0A0",
+                "current_value": "0xFFFFFFFFFFFFFFFF",
+                "resolved_name": "__memset_nt_threshold",
+                "rva": "0xE0A0"
+            },
+            "qword_0xE0B0": {
+                "address": "0x7FFA99D5E0B0",
+                "current_value": "0x1",
+                "resolved_name": "__scrt_ucrt_dll_is_in_use",
+                "rva": "0xE0B0"
+            },
+            "qword_0xE250": {
+                "address": "0x7FFA99D5E250",
+                "current_value": "0x0",
+                "resolved_name": "g_initFunctions",
+                "rva": "0xE250"
+            },
+            "qword_0xE258": {
+                "address": "0x7FFA99D5E258",
+                "current_value": "0x0",
+                "resolved_name": "initIoBuf",
+                "rva": "0xE258",
+                "type": "InitIoBuf"
+            },
+            "qword_0xE260": {
+                "address": "0x7FFA99D5E260",
+                "current_value": "0x0",
+                "resolved_name": "g_hookFunctions",
+                "rva": "0xE260"
+            },
+            "qword_0xE268": {
+                "address": "0x7FFA99D5E268",
+                "current_value": "0x0",
+                "resolved_name": "g_runtimeHookFunctions",
+                "rva": "0xE268"
+            },
+            "qword_0xE270": {
+                "address": "0x7FFA99D5E270",
+                "current_value": "0x0",
+                "resolved_name": "std::_Fac_head",
+                "rva": "0xE270"
+            },
+            "qword_0xE278": {
+                "address": "0x7FFA99D5E278",
+                "current_value": "0x0",
+                "resolved_name": "std::_Fac_tidy_reg",
+                "rva": "0xE278",
+                "type": "std::_Fac_tidy_reg_t"
+            },
+            "qword_0xE280": {
+                "address": "0x7FFA99D5E280",
+                "current_value": "0x0",
+                "resolved_name": "g_tss_cv",
+                "rva": "0xE280",
+                "type": "_RTL_CONDITION_VARIABLE"
+            },
+            "qword_0xE288": {
+                "address": "0x7FFA99D5E288",
+                "current_value": "0x0",
+                "resolved_name": "g_tss_event",
+                "rva": "0xE288"
+            },
+            "qword_0xE290": {
+                "address": "0x7FFA99D5E290",
+                "current_value": "0xFFFFFFFFFFFFFFFF",
+                "resolved_name": "g_tss_mutex",
+                "rva": "0xE290",
+                "type": "_RTL_CRITICAL_SECTION"
+            },
+            "qword_0xE2B8": {
+                "address": "0x7FFA99D5E2B8",
+                "current_value": "0x7FFB01768340",
+                "resolved_name": "g_sleep_condition_variable_cs",
+                "rva": "0xE2B8"
+            },
+            "qword_0xE2C0": {
+                "address": "0x7FFA99D5E2C0",
+                "current_value": "0x7FFB04486FD0",
+                "resolved_name": "g_wake_all_condition_variable",
+                "rva": "0xE2C0"
+            },
+            "qword_0xE2C8": {
+                "address": "0x7FFA99D5E2C8",
+                "current_value": "0x2",
+                "resolved_name": "__scrt_current_native_startup_state",
+                "rva": "0xE2C8",
+                "type": "__scrt_native_startup_state"
+            },
+            "qword_0xE2D0": {
+                "address": "0x7FFA99D5E2D0",
+                "current_value": "0x0",
+                "resolved_name": "__scrt_native_startup_lock",
+                "rva": "0xE2D0"
+            },
+            "qword_0xE2D8": {
+                "address": "0x7FFA99D5E2D8",
+                "current_value": "0x101",
+                "resolved_name": "is_initialized_as_dll",
+                "rva": "0xE2D8"
+            },
+            "qword_0xE2D9": {
+                "address": "0x7FFA99D5E2D9",
+                "current_value": "0x8800000000000001",
+                "resolved_name": "module_local_atexit_table_initialized",
+                "rva": "0xE2D9"
+            },
+            "qword_0xE2E0": {
+                "address": "0x7FFA99D5E2E0",
+                "current_value": "0x1CF271426CB88",
+                "resolved_name": "module_local_atexit_table",
+                "rva": "0xE2E0",
+                "type": "_onexit_table_t"
+            },
+            "qword_0xE2F8": {
+                "address": "0x7FFA99D5E2F8",
+                "current_value": "0x32207349FB88",
+                "resolved_name": "module_local_at_quick_exit_table",
+                "rva": "0xE2F8",
+                "type": "_onexit_table_t"
+            },
+            "qword_0xE310": {
+                "address": "0x7FFA99D5E310",
+                "current_value": "0x1",
+                "resolved_name": "__proc_attached",
+                "rva": "0xE310"
+            },
+            "qword_0xE320": {
+                "address": "0x7FFA99D5E320",
+                "current_value": "0x0",
+                "resolved_name": "GS_ExceptionRecord",
+                "rva": "0xE320",
+                "type": "_EXCEPTION_RECORD"
+            },
+            "qword_0xE3C0": {
+                "address": "0x7FFA99D5E3C0",
+                "current_value": "0x0",
+                "resolved_name": "GS_ContextRecord",
+                "rva": "0xE3C0",
+                "type": "_CONTEXT"
+            },
+            "qword_0xE890": {
+                "address": "0x7FFA99D5E890",
+                "current_value": "0x200000022",
+                "resolved_name": "_tls_index",
+                "rva": "0xE890"
+            },
+            "qword_0xE894": {
+                "address": "0x7FFA99D5E894",
+                "current_value": "0x2",
+                "resolved_name": "__favor",
+                "rva": "0xE894"
+            },
+            "qword_0xE898": {
+                "address": "0x7FFA99D5E898",
+                "current_value": "0x0",
+                "resolved_name": "__scrt_debugger_hook_flag",
+                "rva": "0xE898"
+            },
+            "qword_0xE8A0": {
+                "address": "0x7FFA99D5E8A0",
+                "current_value": "0x0",
+                "resolved_name": "__type_info_root_node",
+                "rva": "0xE8A0",
+                "type": "__type_info_node"
+            },
+            "qword_0xE8C0": {
+                "address": "0x7FFA99D5E8C0",
+                "current_value": "0x5",
+                "resolved_name": "Instance<ICoreGameInit>::ms_id",
+                "rva": "0xE8C0"
+            },
+            "qword_0xE8C8": {
+                "address": "0x7FFA99D5E8C8",
+                "current_value": "0x0",
+                "resolved_name": "__@@_PchSym_@00@UtoUyfrowhUxucRurevnRAUOyfrowRxzxsvUyfrowUurevUlyqUivovzhvUmvgRkzxpvgUhgwrmxOlyq@4B2008FD98C1DD4",
+                "rva": "0xE8C8"
+            },
+            "qword_0xE8E0": {
+                "address": "0x7FFA99D5E8E0",
+                "current_value": "0x0",
+                "resolved_name": "_init_instance_0",
+                "rva": "0xE8E0",
+                "type": "ComponentRegistration"
+            },
+            "qword_0xE8E1": {
+                "address": "0x7FFA99D5E8E1",
+                "current_value": "0xF000000000000000",
+                "resolved_name": "_init_instance_0",
+                "rva": "0xE8E1",
+                "type": "ComponentRegistration"
+            },
+            "qword_0xE8E8": {
+                "address": "0x7FFA99D5E8E8",
+                "current_value": "0x1FD079680F0",
+                "resolved_name": "xbr::kGameBuildUniquifiers",
+                "rva": "0xE8E8",
+                "type": "std::map<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> > >"
+            }
+        },
+        "std::_Alloc_construct_ptr<std::allocator<std::_Tree_node<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier>,void *> > >::~_Alloc_construct_ptr<std::allocator<std::_Tree_node<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier>,void *> > >": {
+            "offset": "0x1610"
+        },
+        "std::_Throw_bad_array_new_length": {
+            "offset": "0x2310"
+        },
+        "std::_Throw_tree_length_error": {
+            "offset": "0x2110"
+        },
+        "std::_Tree<std::_Tmap_traits<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> >,0> >::_Find_hint<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >": {
+            "offset": "0x1630"
+        },
+        "std::_Tree<std::_Tmap_traits<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> >,0> >::~_Tree<std::_Tmap_traits<std::pair<std::basic_string_view<char,std::char_traits<char> >,int>,xbr::GameBuildUniquifier,std::less<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> >,std::allocator<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> >,0> >": {
+            "offset": "0x1250"
+        },
+        "std::_Tree_val<std::_Tree_simple_types<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> > >::_Erase_tree<std::allocator<std::_Tree_node<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier>,void *> > >": {
+            "offset": "0x12B0"
+        },
+        "std::_Tree_val<std::_Tree_simple_types<std::pair<std::pair<std::basic_string_view<char,std::char_traits<char> >,int> const ,xbr::GameBuildUniquifier> > >::_Insert_node": {
+            "offset": "0x1310"
+        },
+        "std::bad_alloc::bad_alloc": {
+            "offset": "0x6F3C"
+        },
+        "std::bad_alloc::~bad_alloc": {
+            "offset": "0x21C0"
+        },
+        "std::bad_array_new_length::bad_array_new_length": {
+            "offset": "0x2190"
+        },
+        "std::bad_array_new_length::~bad_array_new_length": {
+            "offset": "0x21C0"
+        },
+        "std::exception::exception": {
+            "offset": "0x22D0"
+        },
+        "std::exception::what": {
+            "offset": "0x22B0"
+        },
+        "xbr::`dynamic initializer for 'kGameBuildUniquifiers''": {
+            "offset": "0x1030"
+        }
+    }
+}

@@ -1,0 +1,4566 @@
+{
+    "nng.dll": {
+        "DllMain": {
+            "offset": "0x213FC"
+        },
+        "GetSystemInfoFake": {
+            "offset": "0x1000"
+        },
+        "_DllMainCRTStartup": {
+            "offset": "0x21310"
+        },
+        "_RTC_Initialize": {
+            "offset": "0x218E8"
+        },
+        "_RTC_Terminate": {
+            "offset": "0x21924"
+        },
+        "__GSHandlerCheck": {
+            "offset": "0x20C3C"
+        },
+        "__GSHandlerCheckCommon": {
+            "offset": "0x20C5C"
+        },
+        "__chkstk": {
+            "offset": "0x20FA0"
+        },
+        "__crt_debugger_hook": {
+            "offset": "0x21794"
+        },
+        "__isa_available_init": {
+            "offset": "0x21960"
+        },
+        "__local_stdio_printf_options": {
+            "offset": "0x2630"
+        },
+        "__local_stdio_scanf_options": {
+            "offset": "0x2143C"
+        },
+        "__raise_securityfailure": {
+            "offset": "0x20CF0"
+        },
+        "__report_gsfailure": {
+            "offset": "0x20D24"
+        },
+        "__report_rangecheckfailure": {
+            "offset": "0x20DF8"
+        },
+        "__report_securityfailure": {
+            "offset": "0x20E0C"
+        },
+        "__scrt_acquire_startup_lock": {
+            "offset": "0x21460"
+        },
+        "__scrt_dllmain_after_initialize_c": {
+            "offset": "0x2149C"
+        },
+        "__scrt_dllmain_before_initialize_c": {
+            "offset": "0x214D0"
+        },
+        "__scrt_dllmain_crt_thread_attach": {
+            "offset": "0x214E8"
+        },
+        "__scrt_dllmain_crt_thread_detach": {
+            "offset": "0x21510"
+        },
+        "__scrt_dllmain_exception_filter": {
+            "offset": "0x21528"
+        },
+        "__scrt_dllmain_uninitialize_c": {
+            "offset": "0x21588"
+        },
+        "__scrt_dllmain_uninitialize_critical": {
+            "offset": "0x215B8"
+        },
+        "__scrt_fastfail": {
+            "offset": "0x2179C"
+        },
+        "__scrt_get_dyn_tls_init_callback": {
+            "offset": "0x2178C"
+        },
+        "__scrt_initialize_crt": {
+            "offset": "0x215CC"
+        },
+        "__scrt_initialize_default_local_stdio_options": {
+            "offset": "0x21444"
+        },
+        "__scrt_initialize_onexit_tables": {
+            "offset": "0x21618"
+        },
+        "__scrt_initialize_type_info": {
+            "offset": "0x21420"
+        },
+        "__scrt_is_nonwritable_in_current_image": {
+            "offset": "0x216A4"
+        },
+        "__scrt_is_nonwritable_in_current_image$filt$0": {
+            "offset": "0x21C40"
+        },
+        "__scrt_is_ucrt_dll_in_use": {
+            "offset": "0x21B14"
+        },
+        "__scrt_release_startup_lock": {
+            "offset": "0x2173C"
+        },
+        "__scrt_stub_for_acrt_initialize": {
+            "offset": "0x21B80"
+        },
+        "__scrt_stub_for_acrt_thread_attach": {
+            "offset": "0x21B80"
+        },
+        "__scrt_stub_for_acrt_thread_detach": {
+            "offset": "0x21B80"
+        },
+        "__scrt_stub_for_acrt_uninitialize": {
+            "offset": "0x21B80"
+        },
+        "__scrt_stub_for_acrt_uninitialize_critical": {
+            "offset": "0x21B80"
+        },
+        "__scrt_stub_for_is_c_termination_complete": {
+            "offset": "0x1E080"
+        },
+        "__scrt_uninitialize_crt": {
+            "offset": "0x21760"
+        },
+        "__scrt_uninitialize_type_info": {
+            "offset": "0x21430"
+        },
+        "__security_check_cookie": {
+            "offset": "0x20CD0"
+        },
+        "__security_init_cookie": {
+            "offset": "0x21350"
+        },
+        "_get_startup_argv_mode": {
+            "offset": "0x21B0C"
+        },
+        "_guard_check_icall_nop": {
+            "offset": "0xD920"
+        },
+        "_guard_dispatch_icall_nop": {
+            "offset": "0x21BA0"
+        },
+        "_guard_xfg_dispatch_icall_nop": {
+            "offset": "0x21BC0"
+        },
+        "`dllmain_crt_process_attach'::`1'::fin$0": {
+            "offset": "0x21BC6"
+        },
+        "`dllmain_crt_process_detach'::`1'::fin$0": {
+            "offset": "0x21BDD"
+        },
+        "`dllmain_crt_process_detach'::`1'::fin$1": {
+            "offset": "0x21BF6"
+        },
+        "`dllmain_dispatch'::`1'::filt$0": {
+            "offset": "0x21C0A"
+        },
+        "capture_current_context": {
+            "offset": "0x20EA8"
+        },
+        "capture_previous_context": {
+            "offset": "0x20F18"
+        },
+        "dialer_connect_cb": {
+            "offset": "0x2640"
+        },
+        "dialer_shutdown_locked": {
+            "offset": "0x8E60"
+        },
+        "dialer_stats_init": {
+            "offset": "0x2720"
+        },
+        "dialer_timer_cb": {
+            "offset": "0x29B0"
+        },
+        "dialer_timer_start_locked": {
+            "offset": "0x8EE0"
+        },
+        "dllmain_crt_dispatch": {
+            "offset": "0x20FF0"
+        },
+        "dllmain_crt_process_attach": {
+            "offset": "0x21040"
+        },
+        "dllmain_crt_process_detach": {
+            "offset": "0x21158"
+        },
+        "dllmain_dispatch": {
+            "offset": "0x211DC"
+        },
+        "fprintf": {
+            "offset": "0x135D0"
+        },
+        "inproc_accept_clients": {
+            "offset": "0x1DAC0"
+        },
+        "inproc_check_recvmaxsz": {
+            "offset": "0x1DA60"
+        },
+        "inproc_checkopt": {
+            "offset": "0x1DA90"
+        },
+        "inproc_dialer_init": {
+            "offset": "0x1D280"
+        },
+        "inproc_ep_accept": {
+            "offset": "0x1D7D0"
+        },
+        "inproc_ep_bind": {
+            "offset": "0x1D710"
+        },
+        "inproc_ep_cancel": {
+            "offset": "0x1DF40"
+        },
+        "inproc_ep_close": {
+            "offset": "0x1D410"
+        },
+        "inproc_ep_connect": {
+            "offset": "0x1D5C0"
+        },
+        "inproc_ep_fini": {
+            "offset": "0x1D3E0"
+        },
+        "inproc_ep_get_addr": {
+            "offset": "0x1D960"
+        },
+        "inproc_ep_get_recvmaxsz": {
+            "offset": "0x1D880"
+        },
+        "inproc_ep_getopt": {
+            "offset": "0x1DA00"
+        },
+        "inproc_ep_set_recvmaxsz": {
+            "offset": "0x1D8F0"
+        },
+        "inproc_ep_setopt": {
+            "offset": "0x1DA30"
+        },
+        "inproc_fini": {
+            "offset": "0x1D040"
+        },
+        "inproc_init": {
+            "offset": "0x1D010"
+        },
+        "inproc_listener_init": {
+            "offset": "0x1D330"
+        },
+        "inproc_pipe_close": {
+            "offset": "0x1D050"
+        },
+        "inproc_pipe_fini": {
+            "offset": "0x1D090"
+        },
+        "inproc_pipe_get_addr": {
+            "offset": "0x1D1D0"
+        },
+        "inproc_pipe_getopt": {
+            "offset": "0x1D9D0"
+        },
+        "inproc_pipe_init": {
+            "offset": "0x1D080"
+        },
+        "inproc_pipe_peer": {
+            "offset": "0x1D1C0"
+        },
+        "inproc_pipe_recv": {
+            "offset": "0x192B0"
+        },
+        "inproc_pipe_send": {
+            "offset": "0x1D120"
+        },
+        "ipc_accept_cb": {
+            "offset": "0x14E50"
+        },
+        "ipc_accept_done": {
+            "offset": "0x14ED0"
+        },
+        "ipc_accept_start": {
+            "offset": "0x15040"
+        },
+        "ipc_check_sec_desc": {
+            "offset": "0x14E10"
+        },
+        "ipc_close": {
+            "offset": "0x13B00"
+        },
+        "ipc_conn_get_addr": {
+            "offset": "0x13A70"
+        },
+        "ipc_conn_get_peer_pid": {
+            "offset": "0x13A80"
+        },
+        "ipc_conn_reap": {
+            "offset": "0x13BA0"
+        },
+        "ipc_dial_cancel": {
+            "offset": "0x14610"
+        },
+        "ipc_dial_thr": {
+            "offset": "0x146A0"
+        },
+        "ipc_dialer_close": {
+            "offset": "0x148F0"
+        },
+        "ipc_dialer_dial": {
+            "offset": "0x14990"
+        },
+        "ipc_dialer_free": {
+            "offset": "0x14AB0"
+        },
+        "ipc_dialer_getx": {
+            "offset": "0x14AE0"
+        },
+        "ipc_dialer_setx": {
+            "offset": "0x14B10"
+        },
+        "ipc_free": {
+            "offset": "0x13C70"
+        },
+        "ipc_getx": {
+            "offset": "0x13CA0"
+        },
+        "ipc_listener_accept": {
+            "offset": "0x15260"
+        },
+        "ipc_listener_close": {
+            "offset": "0x15330"
+        },
+        "ipc_listener_free": {
+            "offset": "0x153A0"
+        },
+        "ipc_listener_get_addr": {
+            "offset": "0x14E00"
+        },
+        "ipc_listener_getx": {
+            "offset": "0x15440"
+        },
+        "ipc_listener_listen": {
+            "offset": "0x15470"
+        },
+        "ipc_listener_set_sec_desc": {
+            "offset": "0x14D80"
+        },
+        "ipc_listener_setx": {
+            "offset": "0x155F0"
+        },
+        "ipc_recv": {
+            "offset": "0x13CD0"
+        },
+        "ipc_recv_cancel": {
+            "offset": "0x13DB0"
+        },
+        "ipc_recv_cb": {
+            "offset": "0x13E50"
+        },
+        "ipc_recv_start": {
+            "offset": "0x13F20"
+        },
+        "ipc_send": {
+            "offset": "0x14080"
+        },
+        "ipc_send_cancel": {
+            "offset": "0x14160"
+        },
+        "ipc_send_cb": {
+            "offset": "0x14200"
+        },
+        "ipc_send_start": {
+            "offset": "0x142D0"
+        },
+        "ipc_setx": {
+            "offset": "0x14430"
+        },
+        "ipctran_accept_cb": {
+            "offset": "0x1EE20"
+        },
+        "ipctran_check_recvmaxsz": {
+            "offset": "0x1DA60"
+        },
+        "ipctran_checkopt": {
+            "offset": "0x1EDB0"
+        },
+        "ipctran_dial_cb": {
+            "offset": "0x1EF10"
+        },
+        "ipctran_dialer_getopt": {
+            "offset": "0x1EB70"
+        },
+        "ipctran_dialer_setopt": {
+            "offset": "0x1EC00"
+        },
+        "ipctran_ep_accept": {
+            "offset": "0x1EA30"
+        },
+        "ipctran_ep_bind": {
+            "offset": "0x1E9E0"
+        },
+        "ipctran_ep_cancel": {
+            "offset": "0x1EFE0"
+        },
+        "ipctran_ep_close": {
+            "offset": "0x1E3D0"
+        },
+        "ipctran_ep_connect": {
+            "offset": "0x1E750"
+        },
+        "ipctran_ep_fini": {
+            "offset": "0x1DFE0"
+        },
+        "ipctran_ep_get_recvmaxsz": {
+            "offset": "0x1E870"
+        },
+        "ipctran_ep_init": {
+            "offset": "0x1F060"
+        },
+        "ipctran_ep_init_dialer": {
+            "offset": "0x1E5D0"
+        },
+        "ipctran_ep_init_listener": {
+            "offset": "0x1E680"
+        },
+        "ipctran_ep_match": {
+            "offset": "0x1F140"
+        },
+        "ipctran_ep_set_recvmaxsz": {
+            "offset": "0x1E8D0"
+        },
+        "ipctran_fini": {
+            "offset": "0xD920"
+        },
+        "ipctran_init": {
+            "offset": "0x1E080"
+        },
+        "ipctran_listener_getopt": {
+            "offset": "0x1EC90"
+        },
+        "ipctran_listener_setopt": {
+            "offset": "0x1ED20"
+        },
+        "ipctran_pipe_alloc": {
+            "offset": "0x1F1E0"
+        },
+        "ipctran_pipe_close": {
+            "offset": "0x1E090"
+        },
+        "ipctran_pipe_fini": {
+            "offset": "0x1E140"
+        },
+        "ipctran_pipe_getopt": {
+            "offset": "0x1EB60"
+        },
+        "ipctran_pipe_init": {
+            "offset": "0x1E130"
+        },
+        "ipctran_pipe_nego_cb": {
+            "offset": "0x1F2D0"
+        },
+        "ipctran_pipe_peer": {
+            "offset": "0x1E3C0"
+        },
+        "ipctran_pipe_recv": {
+            "offset": "0x1E2E0"
+        },
+        "ipctran_pipe_recv_cancel": {
+            "offset": "0x1F5C0"
+        },
+        "ipctran_pipe_recv_cb": {
+            "offset": "0x1F660"
+        },
+        "ipctran_pipe_recv_start": {
+            "offset": "0x1F8E0"
+        },
+        "ipctran_pipe_send": {
+            "offset": "0x1E230"
+        },
+        "ipctran_pipe_send_cancel": {
+            "offset": "0x1F9B0"
+        },
+        "ipctran_pipe_send_cb": {
+            "offset": "0x1FA50"
+        },
+        "ipctran_pipe_send_start": {
+            "offset": "0x1FBB0"
+        },
+        "ipctran_pipe_start": {
+            "offset": "0x1FD90"
+        },
+        "ipctran_pipe_stop": {
+            "offset": "0x1E0F0"
+        },
+        "ipctran_timer_cb": {
+            "offset": "0x1FE80"
+        },
+        "listener_accept_cb": {
+            "offset": "0x4330"
+        },
+        "listener_shutdown_locked": {
+            "offset": "0x8F50"
+        },
+        "listener_stats_init": {
+            "offset": "0x4400"
+        },
+        "listener_timer_cb": {
+            "offset": "0x4670"
+        },
+        "nng_aio_abort": {
+            "offset": "0xED30"
+        },
+        "nng_aio_alloc": {
+            "offset": "0xED40"
+        },
+        "nng_aio_begin": {
+            "offset": "0xEDA0"
+        },
+        "nng_aio_cancel": {
+            "offset": "0xEDC0"
+        },
+        "nng_aio_count": {
+            "offset": "0xEDD0"
+        },
+        "nng_aio_defer": {
+            "offset": "0xEDE0"
+        },
+        "nng_aio_finish": {
+            "offset": "0xEDF0"
+        },
+        "nng_aio_free": {
+            "offset": "0xEE20"
+        },
+        "nng_aio_get_input": {
+            "offset": "0xEE30"
+        },
+        "nng_aio_get_msg": {
+            "offset": "0xEE40"
+        },
+        "nng_aio_get_output": {
+            "offset": "0xEE50"
+        },
+        "nng_aio_result": {
+            "offset": "0xEE60"
+        },
+        "nng_aio_set_input": {
+            "offset": "0xEE70"
+        },
+        "nng_aio_set_iov": {
+            "offset": "0xEE90"
+        },
+        "nng_aio_set_msg": {
+            "offset": "0xEEA0"
+        },
+        "nng_aio_set_output": {
+            "offset": "0xEEB0"
+        },
+        "nng_aio_set_timeout": {
+            "offset": "0xEED0"
+        },
+        "nng_aio_stop": {
+            "offset": "0xEEE0"
+        },
+        "nng_aio_wait": {
+            "offset": "0xEEF0"
+        },
+        "nng_alloc": {
+            "offset": "0xEF00"
+        },
+        "nng_clock": {
+            "offset": "0x1CDC0"
+        },
+        "nng_close": {
+            "offset": "0xEF10"
+        },
+        "nng_closeall": {
+            "offset": "0xEF40"
+        },
+        "nng_ctx_close": {
+            "offset": "0xEF50"
+        },
+        "nng_ctx_get": {
+            "offset": "0xEF80"
+        },
+        "nng_ctx_get_addr": {
+            "offset": "0xEFA0"
+        },
+        "nng_ctx_get_bool": {
+            "offset": "0xF020"
+        },
+        "nng_ctx_get_int": {
+            "offset": "0xF0A0"
+        },
+        "nng_ctx_get_ms": {
+            "offset": "0xF120"
+        },
+        "nng_ctx_get_ptr": {
+            "offset": "0xF1A0"
+        },
+        "nng_ctx_get_size": {
+            "offset": "0xF220"
+        },
+        "nng_ctx_get_string": {
+            "offset": "0xF2A0"
+        },
+        "nng_ctx_get_uint64": {
+            "offset": "0xF320"
+        },
+        "nng_ctx_getopt": {
+            "offset": "0xEF80"
+        },
+        "nng_ctx_getopt_bool": {
+            "offset": "0xF3A0"
+        },
+        "nng_ctx_getopt_int": {
+            "offset": "0xF3B0"
+        },
+        "nng_ctx_getopt_ms": {
+            "offset": "0xF3C0"
+        },
+        "nng_ctx_getopt_size": {
+            "offset": "0xF3D0"
+        },
+        "nng_ctx_id": {
+            "offset": "0xF3E0"
+        },
+        "nng_ctx_open": {
+            "offset": "0xF3F0"
+        },
+        "nng_ctx_recv": {
+            "offset": "0xF470"
+        },
+        "nng_ctx_send": {
+            "offset": "0xF4E0"
+        },
+        "nng_ctx_set": {
+            "offset": "0xF580"
+        },
+        "nng_ctx_set_addr": {
+            "offset": "0xF5A0"
+        },
+        "nng_ctx_set_bool": {
+            "offset": "0xF610"
+        },
+        "nng_ctx_set_int": {
+            "offset": "0xF680"
+        },
+        "nng_ctx_set_ms": {
+            "offset": "0xF6F0"
+        },
+        "nng_ctx_set_ptr": {
+            "offset": "0xF760"
+        },
+        "nng_ctx_set_size": {
+            "offset": "0xF7D0"
+        },
+        "nng_ctx_set_string": {
+            "offset": "0xF840"
+        },
+        "nng_ctx_set_uint64": {
+            "offset": "0xF890"
+        },
+        "nng_ctx_setopt": {
+            "offset": "0xF580"
+        },
+        "nng_ctx_setopt_bool": {
+            "offset": "0xF900"
+        },
+        "nng_ctx_setopt_int": {
+            "offset": "0xF970"
+        },
+        "nng_ctx_setopt_ms": {
+            "offset": "0xF9E0"
+        },
+        "nng_ctx_setopt_size": {
+            "offset": "0xFA50"
+        },
+        "nng_cv_alloc": {
+            "offset": "0x1CDE0"
+        },
+        "nng_cv_free": {
+            "offset": "0x1CE40"
+        },
+        "nng_cv_until": {
+            "offset": "0x1CE70"
+        },
+        "nng_cv_wait": {
+            "offset": "0x1CE80"
+        },
+        "nng_cv_wake": {
+            "offset": "0x1CE90"
+        },
+        "nng_cv_wake1": {
+            "offset": "0x1CEA0"
+        },
+        "nng_device": {
+            "offset": "0xFAC0"
+        },
+        "nng_dial": {
+            "offset": "0xFB70"
+        },
+        "nng_dialer_close": {
+            "offset": "0xFC20"
+        },
+        "nng_dialer_create": {
+            "offset": "0xFC50"
+        },
+        "nng_dialer_get": {
+            "offset": "0xFCD0"
+        },
+        "nng_dialer_get_addr": {
+            "offset": "0xFD50"
+        },
+        "nng_dialer_get_bool": {
+            "offset": "0xFDD0"
+        },
+        "nng_dialer_get_int": {
+            "offset": "0xFE50"
+        },
+        "nng_dialer_get_ms": {
+            "offset": "0xFED0"
+        },
+        "nng_dialer_get_ptr": {
+            "offset": "0xFF50"
+        },
+        "nng_dialer_get_size": {
+            "offset": "0xFFD0"
+        },
+        "nng_dialer_get_string": {
+            "offset": "0x10050"
+        },
+        "nng_dialer_get_uint64": {
+            "offset": "0x100D0"
+        },
+        "nng_dialer_getopt": {
+            "offset": "0x10150"
+        },
+        "nng_dialer_getopt_bool": {
+            "offset": "0x10160"
+        },
+        "nng_dialer_getopt_int": {
+            "offset": "0x10170"
+        },
+        "nng_dialer_getopt_ms": {
+            "offset": "0x10180"
+        },
+        "nng_dialer_getopt_ptr": {
+            "offset": "0x10190"
+        },
+        "nng_dialer_getopt_size": {
+            "offset": "0x101A0"
+        },
+        "nng_dialer_getopt_sockaddr": {
+            "offset": "0x101B0"
+        },
+        "nng_dialer_getopt_string": {
+            "offset": "0x101C0"
+        },
+        "nng_dialer_getopt_uint64": {
+            "offset": "0x101D0"
+        },
+        "nng_dialer_id": {
+            "offset": "0xF3E0"
+        },
+        "nng_dialer_set": {
+            "offset": "0x101E0"
+        },
+        "nng_dialer_set_addr": {
+            "offset": "0x10260"
+        },
+        "nng_dialer_set_bool": {
+            "offset": "0x102D0"
+        },
+        "nng_dialer_set_int": {
+            "offset": "0x10340"
+        },
+        "nng_dialer_set_ms": {
+            "offset": "0x103B0"
+        },
+        "nng_dialer_set_ptr": {
+            "offset": "0x10420"
+        },
+        "nng_dialer_set_size": {
+            "offset": "0x10490"
+        },
+        "nng_dialer_set_string": {
+            "offset": "0x10500"
+        },
+        "nng_dialer_set_uint64": {
+            "offset": "0x105A0"
+        },
+        "nng_dialer_setopt": {
+            "offset": "0x10610"
+        },
+        "nng_dialer_setopt_bool": {
+            "offset": "0x10620"
+        },
+        "nng_dialer_setopt_int": {
+            "offset": "0x10690"
+        },
+        "nng_dialer_setopt_ms": {
+            "offset": "0x10700"
+        },
+        "nng_dialer_setopt_ptr": {
+            "offset": "0x10770"
+        },
+        "nng_dialer_setopt_size": {
+            "offset": "0x107E0"
+        },
+        "nng_dialer_setopt_string": {
+            "offset": "0x10500"
+        },
+        "nng_dialer_setopt_uint64": {
+            "offset": "0x10850"
+        },
+        "nng_dialer_start": {
+            "offset": "0x108C0"
+        },
+        "nng_fini": {
+            "offset": "0x10900"
+        },
+        "nng_free": {
+            "offset": "0x10920"
+        },
+        "nng_getopt": {
+            "offset": "0x10930"
+        },
+        "nng_getopt_bool": {
+            "offset": "0x10940"
+        },
+        "nng_getopt_int": {
+            "offset": "0x10950"
+        },
+        "nng_getopt_ms": {
+            "offset": "0x10960"
+        },
+        "nng_getopt_ptr": {
+            "offset": "0x10970"
+        },
+        "nng_getopt_size": {
+            "offset": "0x10980"
+        },
+        "nng_getopt_string": {
+            "offset": "0x10990"
+        },
+        "nng_getopt_uint64": {
+            "offset": "0x109A0"
+        },
+        "nng_inproc_register": {
+            "offset": "0x1DFD0"
+        },
+        "nng_ipc_register": {
+            "offset": "0x1FEC0"
+        },
+        "nng_listen": {
+            "offset": "0x109B0"
+        },
+        "nng_listener_close": {
+            "offset": "0x10A60"
+        },
+        "nng_listener_create": {
+            "offset": "0x10A90"
+        },
+        "nng_listener_get": {
+            "offset": "0x10B10"
+        },
+        "nng_listener_get_addr": {
+            "offset": "0x10B90"
+        },
+        "nng_listener_get_bool": {
+            "offset": "0x10C10"
+        },
+        "nng_listener_get_int": {
+            "offset": "0x10C90"
+        },
+        "nng_listener_get_ms": {
+            "offset": "0x10D10"
+        },
+        "nng_listener_get_ptr": {
+            "offset": "0x10D90"
+        },
+        "nng_listener_get_size": {
+            "offset": "0x10E10"
+        },
+        "nng_listener_get_string": {
+            "offset": "0x10E90"
+        },
+        "nng_listener_get_uint64": {
+            "offset": "0x10F10"
+        },
+        "nng_listener_getopt": {
+            "offset": "0x10F90"
+        },
+        "nng_listener_getopt_bool": {
+            "offset": "0x10FA0"
+        },
+        "nng_listener_getopt_int": {
+            "offset": "0x10FB0"
+        },
+        "nng_listener_getopt_ms": {
+            "offset": "0x10FC0"
+        },
+        "nng_listener_getopt_ptr": {
+            "offset": "0x10FD0"
+        },
+        "nng_listener_getopt_size": {
+            "offset": "0x10FE0"
+        },
+        "nng_listener_getopt_sockaddr": {
+            "offset": "0x10FF0"
+        },
+        "nng_listener_getopt_string": {
+            "offset": "0x11000"
+        },
+        "nng_listener_getopt_uint64": {
+            "offset": "0x11010"
+        },
+        "nng_listener_id": {
+            "offset": "0xF3E0"
+        },
+        "nng_listener_set": {
+            "offset": "0x11020"
+        },
+        "nng_listener_set_addr": {
+            "offset": "0x110A0"
+        },
+        "nng_listener_set_bool": {
+            "offset": "0x11110"
+        },
+        "nng_listener_set_int": {
+            "offset": "0x11180"
+        },
+        "nng_listener_set_ms": {
+            "offset": "0x111F0"
+        },
+        "nng_listener_set_ptr": {
+            "offset": "0x11260"
+        },
+        "nng_listener_set_size": {
+            "offset": "0x112D0"
+        },
+        "nng_listener_set_string": {
+            "offset": "0x11340"
+        },
+        "nng_listener_set_uint64": {
+            "offset": "0x113E0"
+        },
+        "nng_listener_setopt": {
+            "offset": "0x11450"
+        },
+        "nng_listener_setopt_bool": {
+            "offset": "0x11460"
+        },
+        "nng_listener_setopt_int": {
+            "offset": "0x114D0"
+        },
+        "nng_listener_setopt_ms": {
+            "offset": "0x11540"
+        },
+        "nng_listener_setopt_ptr": {
+            "offset": "0x115B0"
+        },
+        "nng_listener_setopt_size": {
+            "offset": "0x11620"
+        },
+        "nng_listener_setopt_string": {
+            "offset": "0x11340"
+        },
+        "nng_listener_setopt_uint64": {
+            "offset": "0x11690"
+        },
+        "nng_listener_start": {
+            "offset": "0x11700"
+        },
+        "nng_msg_alloc": {
+            "offset": "0x11740"
+        },
+        "nng_msg_append": {
+            "offset": "0x11750"
+        },
+        "nng_msg_append_u16": {
+            "offset": "0x11760"
+        },
+        "nng_msg_append_u32": {
+            "offset": "0x11770"
+        },
+        "nng_msg_append_u64": {
+            "offset": "0x11780"
+        },
+        "nng_msg_body": {
+            "offset": "0x11790"
+        },
+        "nng_msg_chop": {
+            "offset": "0x117A0"
+        },
+        "nng_msg_chop_u16": {
+            "offset": "0x117B0"
+        },
+        "nng_msg_chop_u32": {
+            "offset": "0x11800"
+        },
+        "nng_msg_chop_u64": {
+            "offset": "0x11850"
+        },
+        "nng_msg_clear": {
+            "offset": "0x118A0"
+        },
+        "nng_msg_dup": {
+            "offset": "0x118B0"
+        },
+        "nng_msg_free": {
+            "offset": "0x118C0"
+        },
+        "nng_msg_get_pipe": {
+            "offset": "0x118D0"
+        },
+        "nng_msg_getopt": {
+            "offset": "0x118E0"
+        },
+        "nng_msg_header": {
+            "offset": "0x118F0"
+        },
+        "nng_msg_header_append": {
+            "offset": "0x11900"
+        },
+        "nng_msg_header_append_u16": {
+            "offset": "0x11910"
+        },
+        "nng_msg_header_append_u32": {
+            "offset": "0x11920"
+        },
+        "nng_msg_header_append_u64": {
+            "offset": "0x11930"
+        },
+        "nng_msg_header_chop": {
+            "offset": "0x11940"
+        },
+        "nng_msg_header_chop_u16": {
+            "offset": "0x11950"
+        },
+        "nng_msg_header_chop_u32": {
+            "offset": "0x119A0"
+        },
+        "nng_msg_header_chop_u64": {
+            "offset": "0x119F0"
+        },
+        "nng_msg_header_clear": {
+            "offset": "0x11A40"
+        },
+        "nng_msg_header_insert": {
+            "offset": "0x11A50"
+        },
+        "nng_msg_header_insert_u16": {
+            "offset": "0x11A60"
+        },
+        "nng_msg_header_insert_u32": {
+            "offset": "0x11A70"
+        },
+        "nng_msg_header_insert_u64": {
+            "offset": "0x11A80"
+        },
+        "nng_msg_header_len": {
+            "offset": "0xEDD0"
+        },
+        "nng_msg_header_trim": {
+            "offset": "0x11A90"
+        },
+        "nng_msg_header_trim_u16": {
+            "offset": "0x11AA0"
+        },
+        "nng_msg_header_trim_u32": {
+            "offset": "0x11AF0"
+        },
+        "nng_msg_header_trim_u64": {
+            "offset": "0x11B40"
+        },
+        "nng_msg_insert": {
+            "offset": "0x11B90"
+        },
+        "nng_msg_insert_u16": {
+            "offset": "0x11BA0"
+        },
+        "nng_msg_insert_u32": {
+            "offset": "0x11BB0"
+        },
+        "nng_msg_insert_u64": {
+            "offset": "0x11BC0"
+        },
+        "nng_msg_len": {
+            "offset": "0x11BD0"
+        },
+        "nng_msg_realloc": {
+            "offset": "0x11BE0"
+        },
+        "nng_msg_set_pipe": {
+            "offset": "0x11BF0"
+        },
+        "nng_msg_trim": {
+            "offset": "0x11C00"
+        },
+        "nng_msg_trim_u16": {
+            "offset": "0x11C10"
+        },
+        "nng_msg_trim_u32": {
+            "offset": "0x11C60"
+        },
+        "nng_msg_trim_u64": {
+            "offset": "0x11CB0"
+        },
+        "nng_msleep": {
+            "offset": "0x1CEB0"
+        },
+        "nng_mtx_alloc": {
+            "offset": "0x1CED0"
+        },
+        "nng_mtx_free": {
+            "offset": "0x1CF20"
+        },
+        "nng_mtx_lock": {
+            "offset": "0x1CF50"
+        },
+        "nng_mtx_unlock": {
+            "offset": "0x1CF60"
+        },
+        "nng_opts_parse": {
+            "offset": "0x20A00"
+        },
+        "nng_pair0_open": {
+            "offset": "0x192C0"
+        },
+        "nng_pair0_open_raw": {
+            "offset": "0x192D0"
+        },
+        "nng_pair1_open": {
+            "offset": "0x20450"
+        },
+        "nng_pair1_open_raw": {
+            "offset": "0x20460"
+        },
+        "nng_pipe_close": {
+            "offset": "0x11D00"
+        },
+        "nng_pipe_dialer": {
+            "offset": "0x11D30"
+        },
+        "nng_pipe_get": {
+            "offset": "0x11D80"
+        },
+        "nng_pipe_get_addr": {
+            "offset": "0x11E00"
+        },
+        "nng_pipe_get_bool": {
+            "offset": "0x11E80"
+        },
+        "nng_pipe_get_int": {
+            "offset": "0x11F00"
+        },
+        "nng_pipe_get_ms": {
+            "offset": "0x11F80"
+        },
+        "nng_pipe_get_ptr": {
+            "offset": "0x12000"
+        },
+        "nng_pipe_get_size": {
+            "offset": "0x12080"
+        },
+        "nng_pipe_get_string": {
+            "offset": "0x12100"
+        },
+        "nng_pipe_get_uint64": {
+            "offset": "0x12180"
+        },
+        "nng_pipe_getopt": {
+            "offset": "0x12200"
+        },
+        "nng_pipe_getopt_bool": {
+            "offset": "0x12210"
+        },
+        "nng_pipe_getopt_int": {
+            "offset": "0x12220"
+        },
+        "nng_pipe_getopt_ms": {
+            "offset": "0x12230"
+        },
+        "nng_pipe_getopt_ptr": {
+            "offset": "0x12240"
+        },
+        "nng_pipe_getopt_size": {
+            "offset": "0x12250"
+        },
+        "nng_pipe_getopt_sockaddr": {
+            "offset": "0x12260"
+        },
+        "nng_pipe_getopt_string": {
+            "offset": "0x12270"
+        },
+        "nng_pipe_getopt_uint64": {
+            "offset": "0x12280"
+        },
+        "nng_pipe_id": {
+            "offset": "0xF3E0"
+        },
+        "nng_pipe_listener": {
+            "offset": "0x12290"
+        },
+        "nng_pipe_notify": {
+            "offset": "0x122E0"
+        },
+        "nng_pipe_socket": {
+            "offset": "0x12350"
+        },
+        "nng_pull0_open": {
+            "offset": "0x196A0"
+        },
+        "nng_pull0_open_raw": {
+            "offset": "0x196B0"
+        },
+        "nng_push0_open": {
+            "offset": "0x19A20"
+        },
+        "nng_push0_open_raw": {
+            "offset": "0x19A30"
+        },
+        "nng_random": {
+            "offset": "0x1CF70"
+        },
+        "nng_recv": {
+            "offset": "0x123A0"
+        },
+        "nng_recv_aio": {
+            "offset": "0x12480"
+        },
+        "nng_recvmsg": {
+            "offset": "0x124F0"
+        },
+        "nng_rep0_open": {
+            "offset": "0x1A6C0"
+        },
+        "nng_req0_open": {
+            "offset": "0x1B9C0"
+        },
+        "nng_send": {
+            "offset": "0x125D0"
+        },
+        "nng_send_aio": {
+            "offset": "0x12670"
+        },
+        "nng_sendmsg": {
+            "offset": "0x12710"
+        },
+        "nng_setopt": {
+            "offset": "0x127E0"
+        },
+        "nng_setopt_bool": {
+            "offset": "0x127F0"
+        },
+        "nng_setopt_int": {
+            "offset": "0x12860"
+        },
+        "nng_setopt_ms": {
+            "offset": "0x128D0"
+        },
+        "nng_setopt_ptr": {
+            "offset": "0x12940"
+        },
+        "nng_setopt_size": {
+            "offset": "0x129B0"
+        },
+        "nng_setopt_string": {
+            "offset": "0x12A20"
+        },
+        "nng_setopt_uint64": {
+            "offset": "0x12AC0"
+        },
+        "nng_sleep_aio": {
+            "offset": "0x12B30"
+        },
+        "nng_socket_get": {
+            "offset": "0x12B40"
+        },
+        "nng_socket_get_addr": {
+            "offset": "0x12BC0"
+        },
+        "nng_socket_get_bool": {
+            "offset": "0x12C40"
+        },
+        "nng_socket_get_int": {
+            "offset": "0x12CC0"
+        },
+        "nng_socket_get_ms": {
+            "offset": "0x12D40"
+        },
+        "nng_socket_get_ptr": {
+            "offset": "0x12DC0"
+        },
+        "nng_socket_get_size": {
+            "offset": "0x12E40"
+        },
+        "nng_socket_get_string": {
+            "offset": "0x12EC0"
+        },
+        "nng_socket_get_uint64": {
+            "offset": "0x12F40"
+        },
+        "nng_socket_id": {
+            "offset": "0xF3E0"
+        },
+        "nng_socket_set": {
+            "offset": "0x12FC0"
+        },
+        "nng_socket_set_addr": {
+            "offset": "0x13040"
+        },
+        "nng_socket_set_bool": {
+            "offset": "0x130B0"
+        },
+        "nng_socket_set_int": {
+            "offset": "0x13120"
+        },
+        "nng_socket_set_ms": {
+            "offset": "0x13190"
+        },
+        "nng_socket_set_ptr": {
+            "offset": "0x13200"
+        },
+        "nng_socket_set_size": {
+            "offset": "0x13270"
+        },
+        "nng_socket_set_string": {
+            "offset": "0x12A20"
+        },
+        "nng_socket_set_uint64": {
+            "offset": "0x132E0"
+        },
+        "nng_stat_child": {
+            "offset": "0xB810"
+        },
+        "nng_stat_desc": {
+            "offset": "0x1210"
+        },
+        "nng_stat_name": {
+            "offset": "0xB820"
+        },
+        "nng_stat_next": {
+            "offset": "0xB830"
+        },
+        "nng_stat_string": {
+            "offset": "0xB850"
+        },
+        "nng_stat_timestamp": {
+            "offset": "0xB860"
+        },
+        "nng_stat_type": {
+            "offset": "0xB870"
+        },
+        "nng_stat_unit": {
+            "offset": "0xB880"
+        },
+        "nng_stat_value": {
+            "offset": "0x5CC0"
+        },
+        "nng_stats_dump": {
+            "offset": "0xB890"
+        },
+        "nng_stats_free": {
+            "offset": "0xBB00"
+        },
+        "nng_stats_get": {
+            "offset": "0xBB70"
+        },
+        "nng_strdup": {
+            "offset": "0x13350"
+        },
+        "nng_stream_close": {
+            "offset": "0xC2B0"
+        },
+        "nng_stream_dialer_alloc": {
+            "offset": "0xC2C0"
+        },
+        "nng_stream_dialer_alloc_url": {
+            "offset": "0xC310"
+        },
+        "nng_stream_dialer_close": {
+            "offset": "0xC2B0"
+        },
+        "nng_stream_dialer_dial": {
+            "offset": "0xC3D0"
+        },
+        "nng_stream_dialer_free": {
+            "offset": "0xC3E0"
+        },
+        "nng_stream_dialer_get": {
+            "offset": "0xC3F0"
+        },
+        "nng_stream_dialer_get_addr": {
+            "offset": "0xC410"
+        },
+        "nng_stream_dialer_get_bool": {
+            "offset": "0xC440"
+        },
+        "nng_stream_dialer_get_int": {
+            "offset": "0xC470"
+        },
+        "nng_stream_dialer_get_ms": {
+            "offset": "0xC4A0"
+        },
+        "nng_stream_dialer_get_ptr": {
+            "offset": "0xC4D0"
+        },
+        "nng_stream_dialer_get_size": {
+            "offset": "0xC500"
+        },
+        "nng_stream_dialer_get_string": {
+            "offset": "0xC530"
+        },
+        "nng_stream_dialer_get_uint64": {
+            "offset": "0xC560"
+        },
+        "nng_stream_dialer_set": {
+            "offset": "0xC590"
+        },
+        "nng_stream_dialer_set_addr": {
+            "offset": "0xC5B0"
+        },
+        "nng_stream_dialer_set_bool": {
+            "offset": "0xC5D0"
+        },
+        "nng_stream_dialer_set_int": {
+            "offset": "0xC600"
+        },
+        "nng_stream_dialer_set_ms": {
+            "offset": "0xC630"
+        },
+        "nng_stream_dialer_set_ptr": {
+            "offset": "0xC660"
+        },
+        "nng_stream_dialer_set_size": {
+            "offset": "0xC690"
+        },
+        "nng_stream_dialer_set_string": {
+            "offset": "0xC6C0"
+        },
+        "nng_stream_dialer_set_uint64": {
+            "offset": "0xC700"
+        },
+        "nng_stream_free": {
+            "offset": "0xC3E0"
+        },
+        "nng_stream_get": {
+            "offset": "0xC590"
+        },
+        "nng_stream_get_addr": {
+            "offset": "0xC730"
+        },
+        "nng_stream_get_bool": {
+            "offset": "0xC760"
+        },
+        "nng_stream_get_int": {
+            "offset": "0xC790"
+        },
+        "nng_stream_get_ms": {
+            "offset": "0xC7C0"
+        },
+        "nng_stream_get_ptr": {
+            "offset": "0xC7F0"
+        },
+        "nng_stream_get_size": {
+            "offset": "0xC820"
+        },
+        "nng_stream_get_string": {
+            "offset": "0xC850"
+        },
+        "nng_stream_get_uint64": {
+            "offset": "0xC880"
+        },
+        "nng_stream_listener_accept": {
+            "offset": "0xC8B0"
+        },
+        "nng_stream_listener_alloc": {
+            "offset": "0xC8C0"
+        },
+        "nng_stream_listener_alloc_url": {
+            "offset": "0xC910"
+        },
+        "nng_stream_listener_close": {
+            "offset": "0xC2B0"
+        },
+        "nng_stream_listener_free": {
+            "offset": "0xC3E0"
+        },
+        "nng_stream_listener_get": {
+            "offset": "0xC590"
+        },
+        "nng_stream_listener_get_addr": {
+            "offset": "0xC730"
+        },
+        "nng_stream_listener_get_bool": {
+            "offset": "0xC760"
+        },
+        "nng_stream_listener_get_int": {
+            "offset": "0xC790"
+        },
+        "nng_stream_listener_get_ms": {
+            "offset": "0xC7C0"
+        },
+        "nng_stream_listener_get_ptr": {
+            "offset": "0xC7F0"
+        },
+        "nng_stream_listener_get_size": {
+            "offset": "0xC820"
+        },
+        "nng_stream_listener_get_string": {
+            "offset": "0xC850"
+        },
+        "nng_stream_listener_get_uint64": {
+            "offset": "0xC880"
+        },
+        "nng_stream_listener_listen": {
+            "offset": "0xC3D0"
+        },
+        "nng_stream_listener_set": {
+            "offset": "0xC9D0"
+        },
+        "nng_stream_listener_set_addr": {
+            "offset": "0xC9F0"
+        },
+        "nng_stream_listener_set_bool": {
+            "offset": "0xCA10"
+        },
+        "nng_stream_listener_set_int": {
+            "offset": "0xCA40"
+        },
+        "nng_stream_listener_set_ms": {
+            "offset": "0xCA70"
+        },
+        "nng_stream_listener_set_ptr": {
+            "offset": "0xCAA0"
+        },
+        "nng_stream_listener_set_size": {
+            "offset": "0xCAD0"
+        },
+        "nng_stream_listener_set_string": {
+            "offset": "0xCB00"
+        },
+        "nng_stream_listener_set_uint64": {
+            "offset": "0xCB40"
+        },
+        "nng_stream_recv": {
+            "offset": "0xC3D0"
+        },
+        "nng_stream_send": {
+            "offset": "0xC8B0"
+        },
+        "nng_stream_set": {
+            "offset": "0xC9D0"
+        },
+        "nng_stream_set_addr": {
+            "offset": "0xC9F0"
+        },
+        "nng_stream_set_bool": {
+            "offset": "0xCA10"
+        },
+        "nng_stream_set_int": {
+            "offset": "0xCA40"
+        },
+        "nng_stream_set_ms": {
+            "offset": "0xCA70"
+        },
+        "nng_stream_set_ptr": {
+            "offset": "0xCAA0"
+        },
+        "nng_stream_set_size": {
+            "offset": "0xCAD0"
+        },
+        "nng_stream_set_string": {
+            "offset": "0xCB00"
+        },
+        "nng_stream_set_uint64": {
+            "offset": "0xCB40"
+        },
+        "nng_strerror": {
+            "offset": "0x13360"
+        },
+        "nng_strfree": {
+            "offset": "0x13410"
+        },
+        "nng_thread_create": {
+            "offset": "0x1CF80"
+        },
+        "nng_thread_destroy": {
+            "offset": "0x1CFF0"
+        },
+        "nng_tls_config_alloc": {
+            "offset": "0x1CDB0"
+        },
+        "nng_tls_config_auth_mode": {
+            "offset": "0x1CDB0"
+        },
+        "nng_tls_config_ca_chain": {
+            "offset": "0x1CDB0"
+        },
+        "nng_tls_config_ca_file": {
+            "offset": "0x1CDB0"
+        },
+        "nng_tls_config_cert_key_file": {
+            "offset": "0x1CDB0"
+        },
+        "nng_tls_config_free": {
+            "offset": "0xD920"
+        },
+        "nng_tls_config_key": {
+            "offset": "0x1CDB0"
+        },
+        "nng_tls_config_own_cert": {
+            "offset": "0x1CDB0"
+        },
+        "nng_tls_config_pass": {
+            "offset": "0x1CDB0"
+        },
+        "nng_tls_config_server_name": {
+            "offset": "0x1CDB0"
+        },
+        "nng_url_clone": {
+            "offset": "0x13420"
+        },
+        "nng_url_free": {
+            "offset": "0x13430"
+        },
+        "nng_url_parse": {
+            "offset": "0x13440"
+        },
+        "nng_version": {
+            "offset": "0x13450"
+        },
+        "nni_aio_abort": {
+            "offset": "0x1030"
+        },
+        "nni_aio_begin": {
+            "offset": "0x10B0"
+        },
+        "nni_aio_bump_count": {
+            "offset": "0x1180"
+        },
+        "nni_aio_close": {
+            "offset": "0x1190"
+        },
+        "nni_aio_count": {
+            "offset": "0x1210"
+        },
+        "nni_aio_expire_loop": {
+            "offset": "0x1220"
+        },
+        "nni_aio_fini": {
+            "offset": "0x1370"
+        },
+        "nni_aio_finish": {
+            "offset": "0x1480"
+        },
+        "nni_aio_finish_error": {
+            "offset": "0x1500"
+        },
+        "nni_aio_finish_msg": {
+            "offset": "0x1570"
+        },
+        "nni_aio_finish_synch": {
+            "offset": "0x1600"
+        },
+        "nni_aio_get_input": {
+            "offset": "0x1680"
+        },
+        "nni_aio_get_iov": {
+            "offset": "0x16A0"
+        },
+        "nni_aio_get_msg": {
+            "offset": "0x16B0"
+        },
+        "nni_aio_get_output": {
+            "offset": "0x16C0"
+        },
+        "nni_aio_get_prov_extra": {
+            "offset": "0x16E0"
+        },
+        "nni_aio_get_sockaddr": {
+            "offset": "0x16F0"
+        },
+        "nni_aio_init": {
+            "offset": "0x1760"
+        },
+        "nni_aio_iov_advance": {
+            "offset": "0x1800"
+        },
+        "nni_aio_iov_count": {
+            "offset": "0x1850"
+        },
+        "nni_aio_list_active": {
+            "offset": "0x1970"
+        },
+        "nni_aio_list_append": {
+            "offset": "0x1980"
+        },
+        "nni_aio_list_init": {
+            "offset": "0x19C0"
+        },
+        "nni_aio_list_remove": {
+            "offset": "0x19D0"
+        },
+        "nni_aio_normalize_timeout": {
+            "offset": "0x19E0"
+        },
+        "nni_aio_result": {
+            "offset": "0x19F0"
+        },
+        "nni_aio_schedule": {
+            "offset": "0x1A00"
+        },
+        "nni_aio_set_input": {
+            "offset": "0x1B30"
+        },
+        "nni_aio_set_iov": {
+            "offset": "0x1B40"
+        },
+        "nni_aio_set_msg": {
+            "offset": "0x1C00"
+        },
+        "nni_aio_set_output": {
+            "offset": "0x1C10"
+        },
+        "nni_aio_set_prov_extra": {
+            "offset": "0x1C20"
+        },
+        "nni_aio_set_sockaddr": {
+            "offset": "0x1C30"
+        },
+        "nni_aio_set_timeout": {
+            "offset": "0x1CA0"
+        },
+        "nni_aio_stop": {
+            "offset": "0x1CB0"
+        },
+        "nni_aio_sys_fini": {
+            "offset": "0x1D30"
+        },
+        "nni_aio_sys_init": {
+            "offset": "0x1DA0"
+        },
+        "nni_aio_wait": {
+            "offset": "0x1E80"
+        },
+        "nni_alloc": {
+            "offset": "0x18BB0"
+        },
+        "nni_asprintf": {
+            "offset": "0xCC60"
+        },
+        "nni_atomic_add64": {
+            "offset": "0x18BC0"
+        },
+        "nni_atomic_flag_reset": {
+            "offset": "0x18BD0"
+        },
+        "nni_atomic_flag_test_and_set": {
+            "offset": "0x18BE0"
+        },
+        "nni_atomic_get64": {
+            "offset": "0x18BF0"
+        },
+        "nni_atomic_init64": {
+            "offset": "0x18C00"
+        },
+        "nni_atomic_sub64": {
+            "offset": "0x18C10"
+        },
+        "nni_chkopt": {
+            "offset": "0x6AC0"
+        },
+        "nni_chunk_append_u64": {
+            "offset": "0x4F80"
+        },
+        "nni_chunk_chop_u64": {
+            "offset": "0x5020"
+        },
+        "nni_chunk_dup": {
+            "offset": "0x50A0"
+        },
+        "nni_chunk_grow": {
+            "offset": "0x5110"
+        },
+        "nni_chunk_insert": {
+            "offset": "0x5210"
+        },
+        "nni_chunk_insert_u16": {
+            "offset": "0x52D0"
+        },
+        "nni_chunk_insert_u32": {
+            "offset": "0x5380"
+        },
+        "nni_chunk_insert_u64": {
+            "offset": "0x5440"
+        },
+        "nni_chunk_trim_u64": {
+            "offset": "0x5540"
+        },
+        "nni_clock": {
+            "offset": "0x20F0"
+        },
+        "nni_copyin_bool": {
+            "offset": "0x6B50"
+        },
+        "nni_copyin_int": {
+            "offset": "0x6B80"
+        },
+        "nni_copyin_ms": {
+            "offset": "0x6BC0"
+        },
+        "nni_copyin_ptr": {
+            "offset": "0x6BF0"
+        },
+        "nni_copyin_size": {
+            "offset": "0x6C20"
+        },
+        "nni_copyin_sockaddr": {
+            "offset": "0x6C60"
+        },
+        "nni_copyin_str": {
+            "offset": "0x6D30"
+        },
+        "nni_copyout_bool": {
+            "offset": "0x6DB0"
+        },
+        "nni_copyout_int": {
+            "offset": "0x6E20"
+        },
+        "nni_copyout_ms": {
+            "offset": "0x6E90"
+        },
+        "nni_copyout_size": {
+            "offset": "0x6F00"
+        },
+        "nni_copyout_sockaddr": {
+            "offset": "0x6F70"
+        },
+        "nni_copyout_str": {
+            "offset": "0x7030"
+        },
+        "nni_copyout_u64": {
+            "offset": "0x70C0"
+        },
+        "nni_ctx_close": {
+            "offset": "0x8FD0"
+        },
+        "nni_ctx_find": {
+            "offset": "0x9010"
+        },
+        "nni_ctx_getopt": {
+            "offset": "0x90E0"
+        },
+        "nni_ctx_getx": {
+            "offset": "0x13460"
+        },
+        "nni_ctx_id": {
+            "offset": "0x9200"
+        },
+        "nni_ctx_open": {
+            "offset": "0x9210"
+        },
+        "nni_ctx_recv": {
+            "offset": "0x9460"
+        },
+        "nni_ctx_rele": {
+            "offset": "0x94A0"
+        },
+        "nni_ctx_send": {
+            "offset": "0x9550"
+        },
+        "nni_ctx_setopt": {
+            "offset": "0x9590"
+        },
+        "nni_ctx_setx": {
+            "offset": "0x134E0"
+        },
+        "nni_cv_fini": {
+            "offset": "0xD5D0"
+        },
+        "nni_cv_init": {
+            "offset": "0xD5E0"
+        },
+        "nni_cv_until": {
+            "offset": "0xD5F0"
+        },
+        "nni_cv_wait": {
+            "offset": "0xD620"
+        },
+        "nni_cv_wake": {
+            "offset": "0xD630"
+        },
+        "nni_cv_wake1": {
+            "offset": "0xD640"
+        },
+        "nni_device": {
+            "offset": "0x2110"
+        },
+        "nni_device_cancel": {
+            "offset": "0x2250"
+        },
+        "nni_device_cb": {
+            "offset": "0x22E0"
+        },
+        "nni_device_fini": {
+            "offset": "0x2370"
+        },
+        "nni_device_init": {
+            "offset": "0x23F0"
+        },
+        "nni_dialer_add_pipe": {
+            "offset": "0x96B0"
+        },
+        "nni_dialer_add_stat": {
+            "offset": "0x29F0"
+        },
+        "nni_dialer_bump_error": {
+            "offset": "0x2A00"
+        },
+        "nni_dialer_close": {
+            "offset": "0x2AB0"
+        },
+        "nni_dialer_close_rele": {
+            "offset": "0x2B50"
+        },
+        "nni_dialer_create": {
+            "offset": "0x2BE0"
+        },
+        "nni_dialer_destroy": {
+            "offset": "0x2E60"
+        },
+        "nni_dialer_find": {
+            "offset": "0x2ED0"
+        },
+        "nni_dialer_getopt": {
+            "offset": "0x2F40"
+        },
+        "nni_dialer_hold": {
+            "offset": "0x30D0"
+        },
+        "nni_dialer_id": {
+            "offset": "0x3110"
+        },
+        "nni_dialer_reap": {
+            "offset": "0x9850"
+        },
+        "nni_dialer_rele": {
+            "offset": "0x3120"
+        },
+        "nni_dialer_setopt": {
+            "offset": "0x3180"
+        },
+        "nni_dialer_shutdown": {
+            "offset": "0x9950"
+        },
+        "nni_dialer_sock": {
+            "offset": "0x3320"
+        },
+        "nni_dialer_start": {
+            "offset": "0x3330"
+        },
+        "nni_dialer_sys_fini": {
+            "offset": "0x3410"
+        },
+        "nni_dialer_sys_init": {
+            "offset": "0x3450"
+        },
+        "nni_dialer_timer_start": {
+            "offset": "0x9990"
+        },
+        "nni_fini": {
+            "offset": "0x3DD0"
+        },
+        "nni_free": {
+            "offset": "0x18C20"
+        },
+        "nni_free_opt": {
+            "offset": "0x99D0"
+        },
+        "nni_getopt": {
+            "offset": "0x7130"
+        },
+        "nni_hash_insert": {
+            "offset": "0x3500"
+        },
+        "nni_hash_resize": {
+            "offset": "0x3610"
+        },
+        "nni_idhash_alloc": {
+            "offset": "0x3770"
+        },
+        "nni_idhash_alloc32": {
+            "offset": "0x3870"
+        },
+        "nni_idhash_find": {
+            "offset": "0x3A70"
+        },
+        "nni_idhash_fini": {
+            "offset": "0x3B20"
+        },
+        "nni_idhash_init": {
+            "offset": "0x3B80"
+        },
+        "nni_idhash_insert": {
+            "offset": "0x3BF0"
+        },
+        "nni_idhash_remove": {
+            "offset": "0x3C50"
+        },
+        "nni_idhash_set_limits": {
+            "offset": "0x3D60"
+        },
+        "nni_init": {
+            "offset": "0x3ED0"
+        },
+        "nni_init_helper": {
+            "offset": "0x3EE0"
+        },
+        "nni_ipc_checkopt": {
+            "offset": "0x15620"
+        },
+        "nni_ipc_dialer_alloc": {
+            "offset": "0x14B40"
+        },
+        "nni_ipc_listener_alloc": {
+            "offset": "0x15650"
+        },
+        "nni_isaac": {
+            "offset": "0x8080"
+        },
+        "nni_isaac_randinit": {
+            "offset": "0x8160"
+        },
+        "nni_list_active": {
+            "offset": "0x4090"
+        },
+        "nni_list_append": {
+            "offset": "0x40A0"
+        },
+        "nni_list_empty": {
+            "offset": "0x4100"
+        },
+        "nni_list_first": {
+            "offset": "0x4120"
+        },
+        "nni_list_init_offset": {
+            "offset": "0x4130"
+        },
+        "nni_list_insert_after": {
+            "offset": "0x4140"
+        },
+        "nni_list_insert_before": {
+            "offset": "0x41A0"
+        },
+        "nni_list_last": {
+            "offset": "0x4200"
+        },
+        "nni_list_next": {
+            "offset": "0x4220"
+        },
+        "nni_list_node_active": {
+            "offset": "0x4240"
+        },
+        "nni_list_node_remove": {
+            "offset": "0x4250"
+        },
+        "nni_list_prepend": {
+            "offset": "0x4280"
+        },
+        "nni_list_prev": {
+            "offset": "0x42E0"
+        },
+        "nni_list_remove": {
+            "offset": "0x4300"
+        },
+        "nni_listener_add_pipe": {
+            "offset": "0x9A10"
+        },
+        "nni_listener_add_stat": {
+            "offset": "0x46B0"
+        },
+        "nni_listener_bump_error": {
+            "offset": "0x46C0"
+        },
+        "nni_listener_close": {
+            "offset": "0x4760"
+        },
+        "nni_listener_close_rele": {
+            "offset": "0x4800"
+        },
+        "nni_listener_create": {
+            "offset": "0x4890"
+        },
+        "nni_listener_destroy": {
+            "offset": "0x4AF0"
+        },
+        "nni_listener_find": {
+            "offset": "0x4B50"
+        },
+        "nni_listener_getopt": {
+            "offset": "0x4BC0"
+        },
+        "nni_listener_hold": {
+            "offset": "0x4CD0"
+        },
+        "nni_listener_id": {
+            "offset": "0x4D10"
+        },
+        "nni_listener_reap": {
+            "offset": "0x9BA0"
+        },
+        "nni_listener_rele": {
+            "offset": "0x4D20"
+        },
+        "nni_listener_setopt": {
+            "offset": "0x4D80"
+        },
+        "nni_listener_shutdown": {
+            "offset": "0x9CA0"
+        },
+        "nni_listener_sock": {
+            "offset": "0x4E60"
+        },
+        "nni_listener_start": {
+            "offset": "0x4E70"
+        },
+        "nni_listener_sys_fini": {
+            "offset": "0x4EF0"
+        },
+        "nni_listener_sys_init": {
+            "offset": "0x4F30"
+        },
+        "nni_msg_alloc": {
+            "offset": "0x55C0"
+        },
+        "nni_msg_append": {
+            "offset": "0x5700"
+        },
+        "nni_msg_append_u16": {
+            "offset": "0x5770"
+        },
+        "nni_msg_append_u32": {
+            "offset": "0x57D0"
+        },
+        "nni_msg_append_u64": {
+            "offset": "0x5840"
+        },
+        "nni_msg_body": {
+            "offset": "0x5850"
+        },
+        "nni_msg_chop": {
+            "offset": "0x5860"
+        },
+        "nni_msg_chop_u16": {
+            "offset": "0x5880"
+        },
+        "nni_msg_chop_u32": {
+            "offset": "0x58C0"
+        },
+        "nni_msg_chop_u64": {
+            "offset": "0x5910"
+        },
+        "nni_msg_clear": {
+            "offset": "0x5920"
+        },
+        "nni_msg_dup": {
+            "offset": "0x5930"
+        },
+        "nni_msg_free": {
+            "offset": "0x5B50"
+        },
+        "nni_msg_get_pipe": {
+            "offset": "0x5C20"
+        },
+        "nni_msg_getopt": {
+            "offset": "0x5C30"
+        },
+        "nni_msg_header": {
+            "offset": "0x5CC0"
+        },
+        "nni_msg_header_append": {
+            "offset": "0x5CD0"
+        },
+        "nni_msg_header_append_u16": {
+            "offset": "0x5D40"
+        },
+        "nni_msg_header_append_u32": {
+            "offset": "0x5DA0"
+        },
+        "nni_msg_header_append_u64": {
+            "offset": "0x5E10"
+        },
+        "nni_msg_header_chop": {
+            "offset": "0x5E20"
+        },
+        "nni_msg_header_chop_u16": {
+            "offset": "0x5E40"
+        },
+        "nni_msg_header_chop_u32": {
+            "offset": "0x5E80"
+        },
+        "nni_msg_header_chop_u64": {
+            "offset": "0x5ED0"
+        },
+        "nni_msg_header_clear": {
+            "offset": "0x5EE0"
+        },
+        "nni_msg_header_insert": {
+            "offset": "0x5EF0"
+        },
+        "nni_msg_header_insert_u16": {
+            "offset": "0x5F00"
+        },
+        "nni_msg_header_insert_u32": {
+            "offset": "0x5F10"
+        },
+        "nni_msg_header_insert_u64": {
+            "offset": "0x5F20"
+        },
+        "nni_msg_header_len": {
+            "offset": "0x1210"
+        },
+        "nni_msg_header_trim": {
+            "offset": "0x5F30"
+        },
+        "nni_msg_header_trim_u16": {
+            "offset": "0x5F50"
+        },
+        "nni_msg_header_trim_u32": {
+            "offset": "0x5F90"
+        },
+        "nni_msg_header_trim_u64": {
+            "offset": "0x5FE0"
+        },
+        "nni_msg_insert": {
+            "offset": "0x5FF0"
+        },
+        "nni_msg_insert_u16": {
+            "offset": "0x6000"
+        },
+        "nni_msg_insert_u32": {
+            "offset": "0x6010"
+        },
+        "nni_msg_insert_u64": {
+            "offset": "0x6020"
+        },
+        "nni_msg_len": {
+            "offset": "0x6030"
+        },
+        "nni_msg_realloc": {
+            "offset": "0x6040"
+        },
+        "nni_msg_set_pipe": {
+            "offset": "0x60C0"
+        },
+        "nni_msg_trim": {
+            "offset": "0x60D0"
+        },
+        "nni_msg_trim_u16": {
+            "offset": "0x60F0"
+        },
+        "nni_msg_trim_u32": {
+            "offset": "0x6130"
+        },
+        "nni_msg_trim_u64": {
+            "offset": "0x6180"
+        },
+        "nni_msgq_aio_get": {
+            "offset": "0x6190"
+        },
+        "nni_msgq_aio_put": {
+            "offset": "0x6330"
+        },
+        "nni_msgq_cancel": {
+            "offset": "0x64D0"
+        },
+        "nni_msgq_cap": {
+            "offset": "0x6530"
+        },
+        "nni_msgq_close": {
+            "offset": "0x6560"
+        },
+        "nni_msgq_fini": {
+            "offset": "0x6610"
+        },
+        "nni_msgq_get_recvable": {
+            "offset": "0x66C0"
+        },
+        "nni_msgq_get_sendable": {
+            "offset": "0x6730"
+        },
+        "nni_msgq_init": {
+            "offset": "0x67A0"
+        },
+        "nni_msgq_resize": {
+            "offset": "0x6850"
+        },
+        "nni_msgq_run_notify": {
+            "offset": "0x6980"
+        },
+        "nni_msgq_tryput": {
+            "offset": "0x69F0"
+        },
+        "nni_msleep": {
+            "offset": "0x2100"
+        },
+        "nni_mtx_fini": {
+            "offset": "0xD650"
+        },
+        "nni_mtx_init": {
+            "offset": "0xD660"
+        },
+        "nni_mtx_lock": {
+            "offset": "0xD670"
+        },
+        "nni_mtx_unlock": {
+            "offset": "0xD680"
+        },
+        "nni_panic": {
+            "offset": "0x7270"
+        },
+        "nni_pipe_bump_error": {
+            "offset": "0x7340"
+        },
+        "nni_pipe_bump_rx": {
+            "offset": "0x7360"
+        },
+        "nni_pipe_bump_tx": {
+            "offset": "0x7390"
+        },
+        "nni_pipe_close": {
+            "offset": "0x73C0"
+        },
+        "nni_pipe_create_dialer": {
+            "offset": "0x7440"
+        },
+        "nni_pipe_create_listener": {
+            "offset": "0x74F0"
+        },
+        "nni_pipe_dialer_id": {
+            "offset": "0x75A0"
+        },
+        "nni_pipe_find": {
+            "offset": "0x75C0"
+        },
+        "nni_pipe_getopt": {
+            "offset": "0x7620"
+        },
+        "nni_pipe_id": {
+            "offset": "0x19F0"
+        },
+        "nni_pipe_listener_id": {
+            "offset": "0x76C0"
+        },
+        "nni_pipe_peer": {
+            "offset": "0x76E0"
+        },
+        "nni_pipe_recv": {
+            "offset": "0x76F0"
+        },
+        "nni_pipe_rele": {
+            "offset": "0x7700"
+        },
+        "nni_pipe_remove": {
+            "offset": "0x9CE0"
+        },
+        "nni_pipe_run_cb": {
+            "offset": "0x9DF0"
+        },
+        "nni_pipe_send": {
+            "offset": "0x7740"
+        },
+        "nni_pipe_sock_id": {
+            "offset": "0x7750"
+        },
+        "nni_pipe_sys_fini": {
+            "offset": "0x7760"
+        },
+        "nni_pipe_sys_init": {
+            "offset": "0x77A0"
+        },
+        "nni_plat_abort": {
+            "offset": "0x13620"
+        },
+        "nni_plat_clock": {
+            "offset": "0x13560"
+        },
+        "nni_plat_cv_fini": {
+            "offset": "0xD920"
+        },
+        "nni_plat_cv_init": {
+            "offset": "0x18C30"
+        },
+        "nni_plat_cv_until": {
+            "offset": "0x18C60"
+        },
+        "nni_plat_cv_wait": {
+            "offset": "0x18CC0"
+        },
+        "nni_plat_cv_wake": {
+            "offset": "0x18CE0"
+        },
+        "nni_plat_cv_wake1": {
+            "offset": "0x18CF0"
+        },
+        "nni_plat_fini": {
+            "offset": "0x18D00"
+        },
+        "nni_plat_init": {
+            "offset": "0x18D40"
+        },
+        "nni_plat_mtx_fini": {
+            "offset": "0x18DE0"
+        },
+        "nni_plat_mtx_init": {
+            "offset": "0x18DF0"
+        },
+        "nni_plat_mtx_lock": {
+            "offset": "0x18E10"
+        },
+        "nni_plat_mtx_unlock": {
+            "offset": "0x18E20"
+        },
+        "nni_plat_ncpu": {
+            "offset": "0x18E30"
+        },
+        "nni_plat_pipe_clear": {
+            "offset": "0x157F0"
+        },
+        "nni_plat_pipe_close": {
+            "offset": "0x15840"
+        },
+        "nni_plat_pipe_open": {
+            "offset": "0x15870"
+        },
+        "nni_plat_pipe_raise": {
+            "offset": "0x15A50"
+        },
+        "nni_plat_printf": {
+            "offset": "0x13630"
+        },
+        "nni_plat_println": {
+            "offset": "0x13690"
+        },
+        "nni_plat_seed_prng": {
+            "offset": "0x15A80"
+        },
+        "nni_plat_sleep": {
+            "offset": "0x13570"
+        },
+        "nni_plat_strerror": {
+            "offset": "0x136C0"
+        },
+        "nni_plat_thr_fini": {
+            "offset": "0x18E50"
+        },
+        "nni_plat_thr_init": {
+            "offset": "0x18EA0"
+        },
+        "nni_plat_thr_is_self": {
+            "offset": "0x18F00"
+        },
+        "nni_plat_thr_main": {
+            "offset": "0x18F20"
+        },
+        "nni_pollable_alloc": {
+            "offset": "0x7CA0"
+        },
+        "nni_pollable_clear": {
+            "offset": "0x7CF0"
+        },
+        "nni_pollable_free": {
+            "offset": "0x7D50"
+        },
+        "nni_pollable_getfd": {
+            "offset": "0x7D90"
+        },
+        "nni_pollable_raise": {
+            "offset": "0x7E30"
+        },
+        "nni_proto_open": {
+            "offset": "0x7E90"
+        },
+        "nni_proto_sys_fini": {
+            "offset": "0x7F90"
+        },
+        "nni_proto_sys_init": {
+            "offset": "0x8040"
+        },
+        "nni_random": {
+            "offset": "0x8890"
+        },
+        "nni_random_sys_fini": {
+            "offset": "0x88E0"
+        },
+        "nni_random_sys_init": {
+            "offset": "0x88F0"
+        },
+        "nni_reap": {
+            "offset": "0x8930"
+        },
+        "nni_reap_drain": {
+            "offset": "0x89A0"
+        },
+        "nni_reap_sys_fini": {
+            "offset": "0x89F0"
+        },
+        "nni_reap_sys_init": {
+            "offset": "0x8A30"
+        },
+        "nni_setopt": {
+            "offset": "0x71D0"
+        },
+        "nni_sleep_aio": {
+            "offset": "0x1E90"
+        },
+        "nni_sleep_cancel": {
+            "offset": "0x2080"
+        },
+        "nni_sock_add_dialer": {
+            "offset": "0x9E90"
+        },
+        "nni_sock_add_listener": {
+            "offset": "0x9F80"
+        },
+        "nni_sock_add_stat": {
+            "offset": "0xA070"
+        },
+        "nni_sock_bump_rx": {
+            "offset": "0xA080"
+        },
+        "nni_sock_bump_tx": {
+            "offset": "0xA0C0"
+        },
+        "nni_sock_close": {
+            "offset": "0xA100"
+        },
+        "nni_sock_closeall": {
+            "offset": "0xA200"
+        },
+        "nni_sock_create": {
+            "offset": "0xA380"
+        },
+        "nni_sock_find": {
+            "offset": "0xA6B0"
+        },
+        "nni_sock_flags": {
+            "offset": "0xA770"
+        },
+        "nni_sock_getopt": {
+            "offset": "0xA780"
+        },
+        "nni_sock_id": {
+            "offset": "0xA900"
+        },
+        "nni_sock_open": {
+            "offset": "0xA910"
+        },
+        "nni_sock_peer_id": {
+            "offset": "0xAA30"
+        },
+        "nni_sock_proto_data": {
+            "offset": "0xAA40"
+        },
+        "nni_sock_proto_id": {
+            "offset": "0xAA50"
+        },
+        "nni_sock_proto_pipe_ops": {
+            "offset": "0xAA60"
+        },
+        "nni_sock_recv": {
+            "offset": "0xAA70"
+        },
+        "nni_sock_recvq": {
+            "offset": "0x3320"
+        },
+        "nni_sock_rele": {
+            "offset": "0xAAB0"
+        },
+        "nni_sock_send": {
+            "offset": "0xAB00"
+        },
+        "nni_sock_sendq": {
+            "offset": "0xAB40"
+        },
+        "nni_sock_set_pipe_cb": {
+            "offset": "0xAB50"
+        },
+        "nni_sock_setopt": {
+            "offset": "0xABD0"
+        },
+        "nni_sock_shutdown": {
+            "offset": "0xAFB0"
+        },
+        "nni_sock_sys_fini": {
+            "offset": "0xB350"
+        },
+        "nni_sock_sys_init": {
+            "offset": "0xB3A0"
+        },
+        "nni_stat_append": {
+            "offset": "0xBC20"
+        },
+        "nni_stat_dec_atomic": {
+            "offset": "0xBCA0"
+        },
+        "nni_stat_inc_atomic": {
+            "offset": "0xBCB0"
+        },
+        "nni_stat_init": {
+            "offset": "0xBCC0"
+        },
+        "nni_stat_init_atomic": {
+            "offset": "0xBD20"
+        },
+        "nni_stat_init_bool": {
+            "offset": "0xBD90"
+        },
+        "nni_stat_init_id": {
+            "offset": "0xBE10"
+        },
+        "nni_stat_init_scope": {
+            "offset": "0xBE80"
+        },
+        "nni_stat_init_string": {
+            "offset": "0xBEE0"
+        },
+        "nni_stat_remove": {
+            "offset": "0xBF50"
+        },
+        "nni_stat_set_lock": {
+            "offset": "0xBFA0"
+        },
+        "nni_stat_set_type": {
+            "offset": "0xBFB0"
+        },
+        "nni_stat_set_unit": {
+            "offset": "0xBFC0"
+        },
+        "nni_stat_set_value": {
+            "offset": "0xBFD0"
+        },
+        "nni_stat_sys_fini": {
+            "offset": "0xBFE0"
+        },
+        "nni_stat_sys_init": {
+            "offset": "0xBFF0"
+        },
+        "nni_strdup": {
+            "offset": "0xCD00"
+        },
+        "nni_stream_checkopt": {
+            "offset": "0xCB70"
+        },
+        "nni_stream_dialer_getx": {
+            "offset": "0xC8B0"
+        },
+        "nni_stream_dialer_setx": {
+            "offset": "0xCC40"
+        },
+        "nni_stream_getx": {
+            "offset": "0xCC40"
+        },
+        "nni_stream_listener_getx": {
+            "offset": "0xCC40"
+        },
+        "nni_stream_listener_setx": {
+            "offset": "0xCC50"
+        },
+        "nni_strfree": {
+            "offset": "0xCD60"
+        },
+        "nni_strlcpy": {
+            "offset": "0xCD90"
+        },
+        "nni_strnlen": {
+            "offset": "0xCDC0"
+        },
+        "nni_task_dispatch": {
+            "offset": "0xCE50"
+        },
+        "nni_task_exec": {
+            "offset": "0xCF40"
+        },
+        "nni_task_fini": {
+            "offset": "0xCFD0"
+        },
+        "nni_task_init": {
+            "offset": "0xD070"
+        },
+        "nni_task_prep": {
+            "offset": "0xD120"
+        },
+        "nni_task_wait": {
+            "offset": "0xD150"
+        },
+        "nni_taskq_fini": {
+            "offset": "0xD1A0"
+        },
+        "nni_taskq_sys_fini": {
+            "offset": "0xD260"
+        },
+        "nni_taskq_sys_init": {
+            "offset": "0xD280"
+        },
+        "nni_taskq_thread": {
+            "offset": "0xD460"
+        },
+        "nni_tcp_checkopt": {
+            "offset": "0x1C0E0"
+        },
+        "nni_tcp_dial": {
+            "offset": "0x17600"
+        },
+        "nni_tcp_dialer_alloc": {
+            "offset": "0x1C110"
+        },
+        "nni_tcp_dialer_close": {
+            "offset": "0x17990"
+        },
+        "nni_tcp_dialer_fini": {
+            "offset": "0x17A30"
+        },
+        "nni_tcp_dialer_getopt": {
+            "offset": "0x17B30"
+        },
+        "nni_tcp_dialer_init": {
+            "offset": "0x17B60"
+        },
+        "nni_tcp_dialer_setopt": {
+            "offset": "0x17CB0"
+        },
+        "nni_tcp_listener_accept": {
+            "offset": "0x180D0"
+        },
+        "nni_tcp_listener_alloc": {
+            "offset": "0x1C3D0"
+        },
+        "nni_tcp_listener_close": {
+            "offset": "0x18300"
+        },
+        "nni_tcp_listener_fini": {
+            "offset": "0x183B0"
+        },
+        "nni_tcp_listener_getopt": {
+            "offset": "0x184B0"
+        },
+        "nni_tcp_listener_init": {
+            "offset": "0x184E0"
+        },
+        "nni_tcp_listener_listen": {
+            "offset": "0x18720"
+        },
+        "nni_tcp_listener_setopt": {
+            "offset": "0x18920"
+        },
+        "nni_tcp_resolv": {
+            "offset": "0x15AD0"
+        },
+        "nni_thr_fini": {
+            "offset": "0xD690"
+        },
+        "nni_thr_init": {
+            "offset": "0xD720"
+        },
+        "nni_thr_is_self": {
+            "offset": "0xD7C0"
+        },
+        "nni_thr_run": {
+            "offset": "0xD7D0"
+        },
+        "nni_thr_wrap": {
+            "offset": "0xD810"
+        },
+        "nni_timer_cancel": {
+            "offset": "0xD8A0"
+        },
+        "nni_timer_fini": {
+            "offset": "0xD920"
+        },
+        "nni_timer_init": {
+            "offset": "0xD930"
+        },
+        "nni_timer_loop": {
+            "offset": "0xD940"
+        },
+        "nni_timer_schedule": {
+            "offset": "0xDA30"
+        },
+        "nni_timer_sys_fini": {
+            "offset": "0xDB00"
+        },
+        "nni_timer_sys_init": {
+            "offset": "0xDB70"
+        },
+        "nni_tls_checkopt": {
+            "offset": "0x1CDB0"
+        },
+        "nni_tls_dialer_alloc": {
+            "offset": "0x1CDB0"
+        },
+        "nni_tls_listener_alloc": {
+            "offset": "0x1CDB0"
+        },
+        "nni_tran_chkopt": {
+            "offset": "0xDC80"
+        },
+        "nni_tran_find": {
+            "offset": "0xDE50"
+        },
+        "nni_tran_register": {
+            "offset": "0xDF00"
+        },
+        "nni_tran_sys_fini": {
+            "offset": "0xE070"
+        },
+        "nni_tran_sys_init": {
+            "offset": "0xE0E0"
+        },
+        "nni_url_clone": {
+            "offset": "0xE1D0"
+        },
+        "nni_url_default_port": {
+            "offset": "0xE390"
+        },
+        "nni_url_free": {
+            "offset": "0xE460"
+        },
+        "nni_url_parse": {
+            "offset": "0xE4E0"
+        },
+        "nni_win_error": {
+            "offset": "0x136E0"
+        },
+        "nni_win_io_fini": {
+            "offset": "0x13730"
+        },
+        "nni_win_io_init": {
+            "offset": "0x13750"
+        },
+        "nni_win_io_register": {
+            "offset": "0x137B0"
+        },
+        "nni_win_io_sysfini": {
+            "offset": "0x137F0"
+        },
+        "nni_win_io_sysinit": {
+            "offset": "0x13850"
+        },
+        "nni_win_ipc_init": {
+            "offset": "0x14460"
+        },
+        "nni_win_ipc_sysfini": {
+            "offset": "0x14CA0"
+        },
+        "nni_win_ipc_sysinit": {
+            "offset": "0x14D00"
+        },
+        "nni_win_nn2sockaddr": {
+            "offset": "0x161D0"
+        },
+        "nni_win_resolv_sysfini": {
+            "offset": "0x15B10"
+        },
+        "nni_win_resolv_sysinit": {
+            "offset": "0x15B70"
+        },
+        "nni_win_sockaddr2nn": {
+            "offset": "0x16240"
+        },
+        "nni_win_tcp_init": {
+            "offset": "0x16620"
+        },
+        "nni_win_tcp_sysfini": {
+            "offset": "0x162A0"
+        },
+        "nni_win_tcp_sysinit": {
+            "offset": "0x162B0"
+        },
+        "nni_win_udp_sysfini": {
+            "offset": "0x162A0"
+        },
+        "nni_win_udp_sysinit": {
+            "offset": "0x162B0"
+        },
+        "nni_ws_checkopt": {
+            "offset": "0x1CDB0"
+        },
+        "nni_ws_dialer_alloc": {
+            "offset": "0x1CDB0"
+        },
+        "nni_ws_listener_alloc": {
+            "offset": "0x1CDB0"
+        },
+        "nni_zalloc": {
+            "offset": "0x18F40"
+        },
+        "pair0_getq_cb": {
+            "offset": "0x192E0"
+        },
+        "pair0_pipe_close": {
+            "offset": "0x19230"
+        },
+        "pair0_pipe_fini": {
+            "offset": "0x18F60"
+        },
+        "pair0_pipe_init": {
+            "offset": "0x19090"
+        },
+        "pair0_pipe_start": {
+            "offset": "0x19190"
+        },
+        "pair0_pipe_stop": {
+            "offset": "0x19050"
+        },
+        "pair0_putq_cb": {
+            "offset": "0x19340"
+        },
+        "pair0_recv_cb": {
+            "offset": "0x19390"
+        },
+        "pair0_send_cb": {
+            "offset": "0x19420"
+        },
+        "pair0_sock_close": {
+            "offset": "0xD920"
+        },
+        "pair0_sock_fini": {
+            "offset": "0x19020"
+        },
+        "pair0_sock_init": {
+            "offset": "0x18FA0"
+        },
+        "pair0_sock_open": {
+            "offset": "0xD920"
+        },
+        "pair0_sock_recv": {
+            "offset": "0x192B0"
+        },
+        "pair0_sock_send": {
+            "offset": "0x192A0"
+        },
+        "pair1_pipe_close": {
+            "offset": "0x20230"
+        },
+        "pair1_pipe_fini": {
+            "offset": "0x1FED0"
+        },
+        "pair1_pipe_getq_cb": {
+            "offset": "0x20470"
+        },
+        "pair1_pipe_init": {
+            "offset": "0x1FFC0"
+        },
+        "pair1_pipe_putq_cb": {
+            "offset": "0x20550"
+        },
+        "pair1_pipe_recv_cb": {
+            "offset": "0x205A0"
+        },
+        "pair1_pipe_send_cb": {
+            "offset": "0x206B0"
+        },
+        "pair1_pipe_start": {
+            "offset": "0x200E0"
+        },
+        "pair1_pipe_stop": {
+            "offset": "0x1FF80"
+        },
+        "pair1_sock_close": {
+            "offset": "0x202B0"
+        },
+        "pair1_sock_fini": {
+            "offset": "0x1FF20"
+        },
+        "pair1_sock_get_maxttl": {
+            "offset": "0x20340"
+        },
+        "pair1_sock_get_poly": {
+            "offset": "0x203E0"
+        },
+        "pair1_sock_getq_cb": {
+            "offset": "0x20720"
+        },
+        "pair1_sock_init": {
+            "offset": "0x1FF60"
+        },
+        "pair1_sock_init_impl": {
+            "offset": "0x20820"
+        },
+        "pair1_sock_init_raw": {
+            "offset": "0x1FF70"
+        },
+        "pair1_sock_open": {
+            "offset": "0xD920"
+        },
+        "pair1_sock_recv": {
+            "offset": "0x20440"
+        },
+        "pair1_sock_send": {
+            "offset": "0x203F0"
+        },
+        "pair1_sock_set_maxttl": {
+            "offset": "0x202C0"
+        },
+        "pair1_sock_set_poly": {
+            "offset": "0x20350"
+        },
+        "pipe_create": {
+            "offset": "0x77F0"
+        },
+        "pipe_destroy": {
+            "offset": "0x7BB0"
+        },
+        "pull0_pipe_close": {
+            "offset": "0x19660"
+        },
+        "pull0_pipe_fini": {
+            "offset": "0x19520"
+        },
+        "pull0_pipe_init": {
+            "offset": "0x19550"
+        },
+        "pull0_pipe_start": {
+            "offset": "0x19620"
+        },
+        "pull0_pipe_stop": {
+            "offset": "0x19500"
+        },
+        "pull0_putq_cb": {
+            "offset": "0x196C0"
+        },
+        "pull0_recv_cb": {
+            "offset": "0x19720"
+        },
+        "pull0_sock_close": {
+            "offset": "0xD920"
+        },
+        "pull0_sock_fini": {
+            "offset": "0x194F0"
+        },
+        "pull0_sock_init": {
+            "offset": "0x19490"
+        },
+        "pull0_sock_open": {
+            "offset": "0xD920"
+        },
+        "pull0_sock_recv": {
+            "offset": "0x19690"
+        },
+        "pull0_sock_send": {
+            "offset": "0x19680"
+        },
+        "push0_getq_cb": {
+            "offset": "0x19A40"
+        },
+        "push0_pipe_close": {
+            "offset": "0x199E0"
+        },
+        "push0_pipe_fini": {
+            "offset": "0x19850"
+        },
+        "push0_pipe_init": {
+            "offset": "0x19890"
+        },
+        "push0_pipe_start": {
+            "offset": "0x19980"
+        },
+        "push0_pipe_stop": {
+            "offset": "0x19820"
+        },
+        "push0_recv_cb": {
+            "offset": "0x19AB0"
+        },
+        "push0_send_cb": {
+            "offset": "0x19B00"
+        },
+        "push0_sock_close": {
+            "offset": "0xD920"
+        },
+        "push0_sock_fini": {
+            "offset": "0x19810"
+        },
+        "push0_sock_init": {
+            "offset": "0x197B0"
+        },
+        "push0_sock_open": {
+            "offset": "0xD920"
+        },
+        "push0_sock_recv": {
+            "offset": "0x19680"
+        },
+        "push0_sock_send": {
+            "offset": "0x19A10"
+        },
+        "qwords": {
+            "qword_0x0": {
+                "address": "0x7FFA36CC0000",
+                "current_value": "0x300905A4D",
+                "resolved_name": "PIDMSI_STATUS_PROOF",
+                "rva": "0x0",
+                "type": "PIDMSI_STATUS_VALUE"
+            },
+            "qword_0x21BA0": {
+                "address": "0x7FFA36CE1BA0",
+                "current_value": "0xCCCCCCCCCCCCE0FF",
+                "resolved_name": "_guard_dispatch_icall_nop",
+                "rva": "0x21BA0"
+            },
+            "qword_0x21BC0": {
+                "address": "0x7FFA36CE1BC0",
+                "current_value": "0x55400000079225FF",
+                "resolved_name": "_guard_xfg_dispatch_icall_nop",
+                "rva": "0x21BC0"
+            },
+            "qword_0x22348": {
+                "address": "0x7FFA36CE2348",
+                "current_value": "0x7FFA36CCD920",
+                "resolved_name": "__guard_check_icall_fptr",
+                "rva": "0x22348"
+            },
+            "qword_0x22350": {
+                "address": "0x7FFA36CE2350",
+                "current_value": "0x7FFA36CCD920",
+                "resolved_name": "__guard_xfg_check_icall_fptr",
+                "rva": "0x22350"
+            },
+            "qword_0x22358": {
+                "address": "0x7FFA36CE2358",
+                "current_value": "0x7FFA36CE1BA0",
+                "resolved_name": "__guard_dispatch_icall_fptr",
+                "rva": "0x22358"
+            },
+            "qword_0x22360": {
+                "address": "0x7FFA36CE2360",
+                "current_value": "0x7FFA36CE1BC0",
+                "resolved_name": "__guard_xfg_dispatch_icall_fptr",
+                "rva": "0x22360"
+            },
+            "qword_0x22368": {
+                "address": "0x7FFA36CE2368",
+                "current_value": "0x7FFA36CE1BC0",
+                "resolved_name": "__guard_xfg_table_dispatch_icall_fptr",
+                "rva": "0x22368"
+            },
+            "qword_0x22370": {
+                "address": "0x7FFA36CE2370",
+                "current_value": "0x0",
+                "resolved_name": "__castguard_check_failure_os_handled_fptr",
+                "rva": "0x22370"
+            },
+            "qword_0x22378": {
+                "address": "0x7FFA36CE2378",
+                "current_value": "0x7FFA36CE1B20",
+                "resolved_name": "__guard_memcpy_fptr",
+                "rva": "0x22378"
+            },
+            "qword_0x22380": {
+                "address": "0x7FFA36CE2380",
+                "current_value": "0x0",
+                "resolved_name": "__xc_a",
+                "rva": "0x22380",
+                "type": ""
+            },
+            "qword_0x22388": {
+                "address": "0x7FFA36CE2388",
+                "current_value": "0x0",
+                "resolved_name": "__xc_z",
+                "rva": "0x22388",
+                "type": ""
+            },
+            "qword_0x22390": {
+                "address": "0x7FFA36CE2390",
+                "current_value": "0x0",
+                "resolved_name": "__xi_a",
+                "rva": "0x22390",
+                "type": ""
+            },
+            "qword_0x22398": {
+                "address": "0x7FFA36CE2398",
+                "current_value": "0x0",
+                "resolved_name": "__xi_z",
+                "rva": "0x22398",
+                "type": ""
+            },
+            "qword_0x223A0": {
+                "address": "0x7FFA36CE23A0",
+                "current_value": "0x0",
+                "resolved_name": "__xp_a",
+                "rva": "0x223A0",
+                "type": ""
+            },
+            "qword_0x223A8": {
+                "address": "0x7FFA36CE23A8",
+                "current_value": "0x0",
+                "resolved_name": "__xp_z",
+                "rva": "0x223A8",
+                "type": ""
+            },
+            "qword_0x223B0": {
+                "address": "0x7FFA36CE23B0",
+                "current_value": "0x0",
+                "resolved_name": "__xt_a",
+                "rva": "0x223B0",
+                "type": ""
+            },
+            "qword_0x223B8": {
+                "address": "0x7FFA36CE23B8",
+                "current_value": "0x0",
+                "resolved_name": "__xt_z",
+                "rva": "0x223B8",
+                "type": ""
+            },
+            "qword_0x22800": {
+                "address": "0x7FFA36CE2800",
+                "current_value": "0x7FFA36CE2938",
+                "resolved_name": "sock_options",
+                "rva": "0x22800",
+                "type": ""
+            },
+            "qword_0x22C00": {
+                "address": "0x7FFA36CE2C00",
+                "current_value": "0x0",
+                "resolved_name": "nni_errors",
+                "rva": "0x22C00",
+                "type": ""
+            },
+            "qword_0x230E0": {
+                "address": "0x7FFA36CE30E0",
+                "current_value": "0x7FFA36CE3140",
+                "resolved_name": "ipc_conn_options",
+                "rva": "0x230E0",
+                "type": ""
+            },
+            "qword_0x23170": {
+                "address": "0x7FFA36CE3170",
+                "current_value": "0x0",
+                "resolved_name": "ipc_dialer_options",
+                "rva": "0x23170",
+                "type": ""
+            },
+            "qword_0x231A0": {
+                "address": "0x7FFA36CE31A0",
+                "current_value": "0x7FFA36CE3208",
+                "resolved_name": "ipc_listener_options",
+                "rva": "0x231A0",
+                "type": ""
+            },
+            "qword_0x231E8": {
+                "address": "0x7FFA36CE31E8",
+                "current_value": "0x7FFA36CE3208",
+                "resolved_name": "ipc_chkopts",
+                "rva": "0x231E8",
+                "type": ""
+            },
+            "qword_0x23220": {
+                "address": "0x7FFA36CE3220",
+                "current_value": "0x7FFA36CE3150",
+                "resolved_name": "tcp_options",
+                "rva": "0x23220",
+                "type": ""
+            },
+            "qword_0x232A0": {
+                "address": "0x7FFA36CE32A0",
+                "current_value": "0x7FFA36CE3140",
+                "resolved_name": "tcp_dialer_options",
+                "rva": "0x232A0",
+                "type": ""
+            },
+            "qword_0x23300": {
+                "address": "0x7FFA36CE3300",
+                "current_value": "0x7FFA36CE3140",
+                "resolved_name": "tcp_listener_options",
+                "rva": "0x23300",
+                "type": ""
+            },
+            "qword_0x233F0": {
+                "address": "0x7FFA36CE33F0",
+                "current_value": "0x7FFA36CE2A80",
+                "resolved_name": "tcp_chkopts",
+                "rva": "0x233F0",
+                "type": ""
+            },
+            "qword_0x23440": {
+                "address": "0x7FFA36CE3440",
+                "current_value": "0x7FFA36CE3140",
+                "resolved_name": "inproc_pipe_options",
+                "rva": "0x23440",
+                "type": ""
+            },
+            "qword_0x23490": {
+                "address": "0x7FFA36CE3490",
+                "current_value": "0x7FFA36CE2A60",
+                "resolved_name": "inproc_ep_options",
+                "rva": "0x23490",
+                "type": ""
+            },
+            "qword_0x23518": {
+                "address": "0x7FFA36CE3518",
+                "current_value": "0x7FFA36CE2A60",
+                "resolved_name": "ipctran_ep_options",
+                "rva": "0x23518",
+                "type": ""
+            },
+            "qword_0x23608": {
+                "address": "0x7FFA36CE3608",
+                "current_value": "0x7FFA36CEBD80",
+                "resolved_name": "GS_ExceptionPointers",
+                "rva": "0x23608",
+                "type": "_EXCEPTION_POINTERS"
+            },
+            "qword_0x23618": {
+                "address": "0x7FFA36CE3618",
+                "current_value": "0x0",
+                "resolved_name": "_pRawDllMain",
+                "rva": "0x23618"
+            },
+            "qword_0x23630": {
+                "address": "0x7FFA36CE3630",
+                "current_value": "0x140",
+                "resolved_name": "_load_config_used",
+                "rva": "0x23630",
+                "type": "_RS5_IMAGE_LOAD_CONFIG_DIRECTORY64"
+            },
+            "qword_0x23800": {
+                "address": "0x7FFA36CE3800",
+                "current_value": "0x8002800200000018",
+                "resolved_name": "__volatile_metadata",
+                "rva": "0x23800"
+            },
+            "qword_0x23B50": {
+                "address": "0x7FFA36CE3B50",
+                "current_value": "0x0",
+                "resolved_name": "__rtc_iaa",
+                "rva": "0x23B50",
+                "type": ""
+            },
+            "qword_0x23B58": {
+                "address": "0x7FFA36CE3B58",
+                "current_value": "0x0",
+                "resolved_name": "__rtc_izz",
+                "rva": "0x23B58",
+                "type": ""
+            },
+            "qword_0x23B60": {
+                "address": "0x7FFA36CE3B60",
+                "current_value": "0x0",
+                "resolved_name": "__rtc_taa",
+                "rva": "0x23B60",
+                "type": ""
+            },
+            "qword_0x23B68": {
+                "address": "0x7FFA36CE3B68",
+                "current_value": "0x0",
+                "resolved_name": "__rtc_tzz",
+                "rva": "0x23B68",
+                "type": ""
+            },
+            "qword_0x26378": {
+                "address": "0x7FFA36CE6378",
+                "current_value": "0x1080100000001",
+                "resolved_name": "$xdatasym",
+                "rva": "0x26378"
+            },
+            "qword_0x26390": {
+                "address": "0x7FFA36CE6390",
+                "current_value": "0x120400010401",
+                "resolved_name": "$xdatasym",
+                "rva": "0x26390"
+            },
+            "qword_0x264B8": {
+                "address": "0x7FFA36CE64B8",
+                "current_value": "0x1",
+                "resolved_name": "$xdatasym",
+                "rva": "0x264B8"
+            },
+            "qword_0x264C0": {
+                "address": "0x7FFA36CE64C0",
+                "current_value": "0x1",
+                "resolved_name": "$xdatasym",
+                "rva": "0x264C0"
+            },
+            "qword_0x2A000": {
+                "address": "0x7FFA36CEA000",
+                "current_value": "0x7FFA36CE2B54",
+                "resolved_name": "stream_drivers",
+                "rva": "0x2A000",
+                "type": ""
+            },
+            "qword_0x2A140": {
+                "address": "0x7FFA36CEA140",
+                "current_value": "0x7FFA36CDDFD0",
+                "resolved_name": "nni_tran_ctors",
+                "rva": "0x2A140",
+                "type": ""
+            },
+            "qword_0x2A160": {
+                "address": "0x7FFA36CEA160",
+                "current_value": "0x7FFA36CE2B9C",
+                "resolved_name": "nni_url_default_ports",
+                "rva": "0x2A160",
+                "type": ""
+            },
+            "qword_0x2A1F0": {
+                "address": "0x7FFA36CEA1F0",
+                "current_value": "0xC00000002",
+                "resolved_name": "nni_plat_errnos",
+                "rva": "0x2A1F0",
+                "type": ""
+            },
+            "qword_0x2A250": {
+                "address": "0x7FFA36CEA250",
+                "current_value": "0xC00000002",
+                "resolved_name": "nni_win_errnos",
+                "rva": "0x2A250",
+                "type": ""
+            },
+            "qword_0x2A410": {
+                "address": "0x7FFA36CEA410",
+                "current_value": "0x7FFA36CD9090",
+                "resolved_name": "pair0_pipe_ops",
+                "rva": "0x2A410",
+                "type": "nni_proto_pipe_ops"
+            },
+            "qword_0x2A438": {
+                "address": "0x7FFA36CEA438",
+                "current_value": "0x7FFA36CD8FA0",
+                "resolved_name": "pair0_sock_ops",
+                "rva": "0x2A438",
+                "type": "nni_proto_sock_ops"
+            },
+            "qword_0x2A470": {
+                "address": "0x7FFA36CEA470",
+                "current_value": "0x50520000",
+                "resolved_name": "pair0_proto",
+                "rva": "0x2A470",
+                "type": "nni_proto"
+            },
+            "qword_0x2A4D0": {
+                "address": "0x7FFA36CEA4D0",
+                "current_value": "0x50520000",
+                "resolved_name": "pair0_proto_raw",
+                "rva": "0x2A4D0",
+                "type": "nni_proto"
+            },
+            "qword_0x2A530": {
+                "address": "0x7FFA36CEA530",
+                "current_value": "0x7FFA36CD9550",
+                "resolved_name": "pull0_pipe_ops",
+                "rva": "0x2A530",
+                "type": "nni_proto_pipe_ops"
+            },
+            "qword_0x2A558": {
+                "address": "0x7FFA36CEA558",
+                "current_value": "0x7FFA36CD9490",
+                "resolved_name": "pull0_sock_ops",
+                "rva": "0x2A558",
+                "type": "nni_proto_sock_ops"
+            },
+            "qword_0x2A590": {
+                "address": "0x7FFA36CEA590",
+                "current_value": "0x50520000",
+                "resolved_name": "pull0_proto",
+                "rva": "0x2A590",
+                "type": "nni_proto"
+            },
+            "qword_0x2A5F0": {
+                "address": "0x7FFA36CEA5F0",
+                "current_value": "0x50520000",
+                "resolved_name": "pull0_proto_raw",
+                "rva": "0x2A5F0",
+                "type": "nni_proto"
+            },
+            "qword_0x2A650": {
+                "address": "0x7FFA36CEA650",
+                "current_value": "0x7FFA36CD9890",
+                "resolved_name": "push0_pipe_ops",
+                "rva": "0x2A650",
+                "type": "nni_proto_pipe_ops"
+            },
+            "qword_0x2A678": {
+                "address": "0x7FFA36CEA678",
+                "current_value": "0x7FFA36CD97B0",
+                "resolved_name": "push0_sock_ops",
+                "rva": "0x2A678",
+                "type": "nni_proto_sock_ops"
+            },
+            "qword_0x2A6B0": {
+                "address": "0x7FFA36CEA6B0",
+                "current_value": "0x50520000",
+                "resolved_name": "push0_proto",
+                "rva": "0x2A6B0",
+                "type": "nni_proto"
+            },
+            "qword_0x2A710": {
+                "address": "0x7FFA36CEA710",
+                "current_value": "0x50520000",
+                "resolved_name": "push0_proto_raw",
+                "rva": "0x2A710",
+                "type": "nni_proto"
+            },
+            "qword_0x2A770": {
+                "address": "0x7FFA36CEA770",
+                "current_value": "0x7FFA36CDA030",
+                "resolved_name": "rep0_pipe_ops",
+                "rva": "0x2A770",
+                "type": "nni_proto_pipe_ops"
+            },
+            "qword_0x2A798": {
+                "address": "0x7FFA36CEA798",
+                "current_value": "0x7FFA36CD9C00",
+                "resolved_name": "rep0_ctx_ops",
+                "rva": "0x2A798",
+                "type": "nni_proto_ctx_ops"
+            },
+            "qword_0x2A7C8": {
+                "address": "0x7FFA36CEA7C8",
+                "current_value": "0x7FFA36CD9EE0",
+                "resolved_name": "rep0_sock_ops",
+                "rva": "0x2A7C8",
+                "type": "nni_proto_sock_ops"
+            },
+            "qword_0x2A800": {
+                "address": "0x7FFA36CEA800",
+                "current_value": "0x7FFA36CE33B8",
+                "resolved_name": "rep0_sock_options",
+                "rva": "0x2A800",
+                "type": ""
+            },
+            "qword_0x2A860": {
+                "address": "0x7FFA36CEA860",
+                "current_value": "0x50520000",
+                "resolved_name": "rep0_proto",
+                "rva": "0x2A860",
+                "type": "nni_proto"
+            },
+            "qword_0x2A8C0": {
+                "address": "0x7FFA36CEA8C0",
+                "current_value": "0x7FFA36CDB230",
+                "resolved_name": "req0_pipe_ops",
+                "rva": "0x2A8C0",
+                "type": "nni_proto_pipe_ops"
+            },
+            "qword_0x2A8E8": {
+                "address": "0x7FFA36CEA8E8",
+                "current_value": "0x7FFA36CE33C8",
+                "resolved_name": "req0_ctx_options",
+                "rva": "0x2A8E8",
+                "type": ""
+            },
+            "qword_0x2A918": {
+                "address": "0x7FFA36CEA918",
+                "current_value": "0x7FFA36CDACD0",
+                "resolved_name": "req0_ctx_ops",
+                "rva": "0x2A918",
+                "type": "nni_proto_ctx_ops"
+            },
+            "qword_0x2A948": {
+                "address": "0x7FFA36CEA948",
+                "current_value": "0x7FFA36CDAF20",
+                "resolved_name": "req0_sock_ops",
+                "rva": "0x2A948",
+                "type": "nni_proto_sock_ops"
+            },
+            "qword_0x2A980": {
+                "address": "0x7FFA36CEA980",
+                "current_value": "0x7FFA36CE33B8",
+                "resolved_name": "req0_sock_options",
+                "rva": "0x2A980",
+                "type": ""
+            },
+            "qword_0x2AA00": {
+                "address": "0x7FFA36CEAA00",
+                "current_value": "0x50520000",
+                "resolved_name": "req0_proto",
+                "rva": "0x2AA00",
+                "type": "nni_proto"
+            },
+            "qword_0x2AA60": {
+                "address": "0x7FFA36CEAA60",
+                "current_value": "0x7FFA36CDD080",
+                "resolved_name": "inproc_pipe_ops",
+                "rva": "0x2AA60",
+                "type": "nni_tran_pipe_ops"
+            },
+            "qword_0x2AAA0": {
+                "address": "0x7FFA36CEAAA0",
+                "current_value": "0x7FFA36CE2A60",
+                "resolved_name": "inproc_checkopts",
+                "rva": "0x2AAA0",
+                "type": ""
+            },
+            "qword_0x2AAE0": {
+                "address": "0x7FFA36CEAAE0",
+                "current_value": "0x7FFA36CDD280",
+                "resolved_name": "inproc_dialer_ops",
+                "rva": "0x2AAE0",
+                "type": "nni_tran_dialer_ops"
+            },
+            "qword_0x2AB20": {
+                "address": "0x7FFA36CEAB20",
+                "current_value": "0x7FFA36CDD330",
+                "resolved_name": "inproc_listener_ops",
+                "rva": "0x2AB20",
+                "type": "nni_tran_listener_ops"
+            },
+            "qword_0x2AB60": {
+                "address": "0x7FFA36CEAB60",
+                "current_value": "0x54220006",
+                "resolved_name": "nni_inproc_tran",
+                "rva": "0x2AB60",
+                "type": "nni_tran"
+            },
+            "qword_0x2ABA0": {
+                "address": "0x7FFA36CEABA0",
+                "current_value": "0x7FFA36CDE130",
+                "resolved_name": "ipctran_pipe_ops",
+                "rva": "0x2ABA0",
+                "type": "nni_tran_pipe_ops"
+            },
+            "qword_0x2ABE0": {
+                "address": "0x7FFA36CEABE0",
+                "current_value": "0x7FFA36CE2A60",
+                "resolved_name": "ipctran_checkopts",
+                "rva": "0x2ABE0",
+                "type": ""
+            },
+            "qword_0x2AC00": {
+                "address": "0x7FFA36CEAC00",
+                "current_value": "0x7FFA36CDE5D0",
+                "resolved_name": "ipctran_dialer_ops",
+                "rva": "0x2AC00",
+                "type": "nni_tran_dialer_ops"
+            },
+            "qword_0x2AC40": {
+                "address": "0x7FFA36CEAC40",
+                "current_value": "0x7FFA36CDE680",
+                "resolved_name": "ipctran_listener_ops",
+                "rva": "0x2AC40",
+                "type": "nni_tran_listener_ops"
+            },
+            "qword_0x2AC80": {
+                "address": "0x7FFA36CEAC80",
+                "current_value": "0x54220006",
+                "resolved_name": "ipc_tran",
+                "rva": "0x2AC80",
+                "type": "nni_tran"
+            },
+            "qword_0x2ACC0": {
+                "address": "0x7FFA36CEACC0",
+                "current_value": "0x7FFA36CDFFC0",
+                "resolved_name": "pair1_pipe_ops",
+                "rva": "0x2ACC0",
+                "type": "nni_proto_pipe_ops"
+            },
+            "qword_0x2ACE8": {
+                "address": "0x7FFA36CEACE8",
+                "current_value": "0x7FFA36CDFF60",
+                "resolved_name": "pair1_sock_ops",
+                "rva": "0x2ACE8",
+                "type": "nni_proto_sock_ops"
+            },
+            "qword_0x2AD20": {
+                "address": "0x7FFA36CEAD20",
+                "current_value": "0x7FFA36CE33B8",
+                "resolved_name": "pair1_sock_options",
+                "rva": "0x2AD20",
+                "type": ""
+            },
+            "qword_0x2AD68": {
+                "address": "0x7FFA36CEAD68",
+                "current_value": "0x7FFA36CDFF70",
+                "resolved_name": "pair1_sock_ops_raw",
+                "rva": "0x2AD68",
+                "type": "nni_proto_sock_ops"
+            },
+            "qword_0x2ADA0": {
+                "address": "0x7FFA36CEADA0",
+                "current_value": "0x50520000",
+                "resolved_name": "pair1_proto",
+                "rva": "0x2ADA0",
+                "type": "nni_proto"
+            },
+            "qword_0x2AE00": {
+                "address": "0x7FFA36CEAE00",
+                "current_value": "0x50520000",
+                "resolved_name": "pair1_proto_raw",
+                "rva": "0x2AE00",
+                "type": "nni_proto"
+            },
+            "qword_0x2AE60": {
+                "address": "0x7FFA36CEAE60",
+                "current_value": "0xFFFF9B92FBD4D269",
+                "resolved_name": "__security_cookie_complement",
+                "rva": "0x2AE60"
+            },
+            "qword_0x2AE68": {
+                "address": "0x7FFA36CEAE68",
+                "current_value": "0x646D042B2D96",
+                "resolved_name": "__security_cookie",
+                "rva": "0x2AE68"
+            },
+            "qword_0x2AE70": {
+                "address": "0x7FFA36CEAE70",
+                "current_value": "0xFFFFFFFF",
+                "resolved_name": "__scrt_native_dllmain_reason",
+                "rva": "0x2AE70"
+            },
+            "qword_0x2AE78": {
+                "address": "0x7FFA36CEAE78",
+                "current_value": "0x2E00000005",
+                "resolved_name": "__isa_available",
+                "rva": "0x2AE78"
+            },
+            "qword_0x2AE7C": {
+                "address": "0x7FFA36CEAE7C",
+                "current_value": "0x80000000002E",
+                "resolved_name": "__isa_enabled",
+                "rva": "0x2AE7C"
+            },
+            "qword_0x2AE80": {
+                "address": "0x7FFA36CEAE80",
+                "current_value": "0x8000",
+                "resolved_name": "__memset_fast_string_threshold",
+                "rva": "0x2AE80"
+            },
+            "qword_0x2AE88": {
+                "address": "0x7FFA36CEAE88",
+                "current_value": "0xFFFFFFFFFFFFFFFF",
+                "resolved_name": "__memset_nt_threshold",
+                "rva": "0x2AE88"
+            },
+            "qword_0x2AE90": {
+                "address": "0x7FFA36CEAE90",
+                "current_value": "0x1",
+                "resolved_name": "__scrt_ucrt_dll_is_in_use",
+                "rva": "0x2AE90"
+            },
+            "qword_0x2AEA0": {
+                "address": "0x7FFA36CEAEA0",
+                "current_value": "0x0",
+                "resolved_name": "nni_aio_lk",
+                "rva": "0x2AEA0",
+                "type": "nni_plat_mtx"
+            },
+            "qword_0x2AEB0": {
+                "address": "0x7FFA36CEAEB0",
+                "current_value": "0x70269FFBC0",
+                "resolved_name": "nni_aio_expire_cv",
+                "rva": "0x2AEB0",
+                "type": "nni_plat_cv"
+            },
+            "qword_0x2AEC0": {
+                "address": "0x7FFA36CEAEC0",
+                "current_value": "0x1",
+                "resolved_name": "nni_aio_expire_run",
+                "rva": "0x2AEC0"
+            },
+            "qword_0x2AED0": {
+                "address": "0x7FFA36CEAED0",
+                "current_value": "0x7FFA36CCD810",
+                "resolved_name": "nni_aio_expire_thr",
+                "rva": "0x2AED0",
+                "type": "nni_thr"
+            },
+            "qword_0x2AF30": {
+                "address": "0x7FFA36CEAF30",
+                "current_value": "0x7FFA36CEAF30",
+                "resolved_name": "nni_aio_expire_aios",
+                "rva": "0x2AF30",
+                "type": "nni_list"
+            },
+            "qword_0x2AF48": {
+                "address": "0x7FFA36CEAF48",
+                "current_value": "0x0",
+                "resolved_name": "nni_aio_expire_aio",
+                "rva": "0x2AF48"
+            },
+            "qword_0x2AF50": {
+                "address": "0x7FFA36CEAF50",
+                "current_value": "0x1FD067B1F70",
+                "resolved_name": "dialers",
+                "rva": "0x2AF50"
+            },
+            "qword_0x2AF58": {
+                "address": "0x7FFA36CEAF58",
+                "current_value": "0x0",
+                "resolved_name": "dialers_lk",
+                "rva": "0x2AF58",
+                "type": "nni_plat_mtx"
+            },
+            "qword_0x2AF68": {
+                "address": "0x7FFA36CEAF68",
+                "current_value": "0x0",
+                "resolved_name": "nni_init_mtx",
+                "rva": "0x2AF68",
+                "type": "nni_plat_mtx"
+            },
+            "qword_0x2AF78": {
+                "address": "0x7FFA36CEAF78",
+                "current_value": "0x7FFA36CEAF78",
+                "resolved_name": "nni_init_list",
+                "rva": "0x2AF78",
+                "type": "nni_list"
+            },
+            "qword_0x2AF90": {
+                "address": "0x7FFA36CEAF90",
+                "current_value": "0x1",
+                "resolved_name": "nni_inited",
+                "rva": "0x2AF90"
+            },
+            "qword_0x2AF98": {
+                "address": "0x7FFA36CEAF98",
+                "current_value": "0x1FD067B17F0",
+                "resolved_name": "listeners",
+                "rva": "0x2AF98"
+            },
+            "qword_0x2AFA0": {
+                "address": "0x7FFA36CEAFA0",
+                "current_value": "0x0",
+                "resolved_name": "listeners_lk",
+                "rva": "0x2AFA0",
+                "type": "nni_plat_mtx"
+            },
+            "qword_0x2AFB0": {
+                "address": "0x7FFA36CEAFB0",
+                "current_value": "0x1FD067B1430",
+                "resolved_name": "nni_pipes",
+                "rva": "0x2AFB0"
+            },
+            "qword_0x2AFB8": {
+                "address": "0x7FFA36CEAFB8",
+                "current_value": "0x0",
+                "resolved_name": "nni_pipe_lk",
+                "rva": "0x2AFB8",
+                "type": "nni_plat_mtx"
+            },
+            "qword_0x2AFC8": {
+                "address": "0x7FFA36CEAFC8",
+                "current_value": "0x0",
+                "resolved_name": "nni_proto_lk",
+                "rva": "0x2AFC8",
+                "type": "nni_plat_mtx"
+            },
+            "qword_0x2AFD8": {
+                "address": "0x7FFA36CEAFD8",
+                "current_value": "0x1FD0668D468",
+                "resolved_name": "nni_proto_list",
+                "rva": "0x2AFD8",
+                "type": "nni_list"
+            },
+            "qword_0x2AFF0": {
+                "address": "0x7FFA36CEAFF0",
+                "current_value": "0x1",
+                "resolved_name": "nni_proto_inited",
+                "rva": "0x2AFF0"
+            },
+            "qword_0x2B000": {
+                "address": "0x7FFA36CEB000",
+                "current_value": "0xC60774F5900096DE",
+                "resolved_name": "nni_random_ctx",
+                "rva": "0x2B000",
+                "type": "nni_isaac_ctx"
+            },
+            "qword_0x2B830": {
+                "address": "0x7FFA36CEB830",
+                "current_value": "0x7FFA36CEB830",
+                "resolved_name": "reap_list",
+                "rva": "0x2B830",
+                "type": "nni_list"
+            },
+            "qword_0x2B848": {
+                "address": "0x7FFA36CEB848",
+                "current_value": "0x0",
+                "resolved_name": "reap_mtx",
+                "rva": "0x2B848",
+                "type": "nni_plat_mtx"
+            },
+            "qword_0x2B858": {
+                "address": "0x7FFA36CEB858",
+                "current_value": "0x70266FFCE0",
+                "resolved_name": "reap_cv",
+                "rva": "0x2B858",
+                "type": "nni_plat_cv"
+            },
+            "qword_0x2B868": {
+                "address": "0x7FFA36CEB868",
+                "current_value": "0x0",
+                "resolved_name": "reap_empty_cv",
+                "rva": "0x2B868",
+                "type": "nni_plat_cv"
+            },
+            "qword_0x2B878": {
+                "address": "0x7FFA36CEB878",
+                "current_value": "0x100",
+                "resolved_name": "reap_exit",
+                "rva": "0x2B878"
+            },
+            "qword_0x2B879": {
+                "address": "0x7FFA36CEB879",
+                "current_value": "0x1000000000000001",
+                "resolved_name": "reap_empty",
+                "rva": "0x2B879"
+            },
+            "qword_0x2B880": {
+                "address": "0x7FFA36CEB880",
+                "current_value": "0x7FFA36CCD810",
+                "resolved_name": "reap_thr",
+                "rva": "0x2B880",
+                "type": "nni_thr"
+            },
+            "qword_0x2B8E0": {
+                "address": "0x7FFA36CEB8E0",
+                "current_value": "0x7FFA36CEB8E0",
+                "resolved_name": "sock_list",
+                "rva": "0x2B8E0",
+                "type": "nni_list"
+            },
+            "qword_0x2B8F8": {
+                "address": "0x7FFA36CEB8F8",
+                "current_value": "0x1FD067B20F0",
+                "resolved_name": "sock_hash",
+                "rva": "0x2B8F8"
+            },
+            "qword_0x2B900": {
+                "address": "0x7FFA36CEB900",
+                "current_value": "0x0",
+                "resolved_name": "sock_lk",
+                "rva": "0x2B900",
+                "type": "nni_plat_mtx"
+            },
+            "qword_0x2B910": {
+                "address": "0x7FFA36CEB910",
+                "current_value": "0x1FD067B1A90",
+                "resolved_name": "ctx_hash",
+                "rva": "0x2B910"
+            },
+            "qword_0x2B920": {
+                "address": "0x7FFA36CEB920",
+                "current_value": "0x0",
+                "resolved_name": "stats_root",
+                "rva": "0x2B920",
+                "type": "nni_stat_item"
+            },
+            "qword_0x2B998": {
+                "address": "0x7FFA36CEB998",
+                "current_value": "0x0",
+                "resolved_name": "stats_lock",
+                "rva": "0x2B998",
+                "type": "nni_plat_mtx"
+            },
+            "qword_0x2B9A8": {
+                "address": "0x7FFA36CEB9A8",
+                "current_value": "0x0",
+                "resolved_name": "stats_held",
+                "rva": "0x2B9A8"
+            },
+            "qword_0x2BA30": {
+                "address": "0x7FFA36CEBA30",
+                "current_value": "0x1FD067B1790",
+                "resolved_name": "nni_taskq_systq",
+                "rva": "0x2BA30"
+            },
+            "qword_0x2BA40": {
+                "address": "0x7FFA36CEBA40",
+                "current_value": "0x0",
+                "resolved_name": "nni_global_timer",
+                "rva": "0x2BA40",
+                "type": "nni_timer"
+            },
+            "qword_0x2BAF8": {
+                "address": "0x7FFA36CEBAF8",
+                "current_value": "0x1FD067B2010",
+                "resolved_name": "nni_tran_list",
+                "rva": "0x2BAF8",
+                "type": "nni_list"
+            },
+            "qword_0x2BB10": {
+                "address": "0x7FFA36CEBB10",
+                "current_value": "0x0",
+                "resolved_name": "nni_tran_lk",
+                "rva": "0x2BB10",
+                "type": "nni_plat_mtx"
+            },
+            "qword_0x2BB20": {
+                "address": "0x7FFA36CEBB20",
+                "current_value": "0x1",
+                "resolved_name": "nni_tran_inited",
+                "rva": "0x2BB20"
+            },
+            "qword_0x2BB68": {
+                "address": "0x7FFA36CEBB68",
+                "current_value": "0x4",
+                "resolved_name": "win_io_nthr",
+                "rva": "0x2BB68"
+            },
+            "qword_0x2BB70": {
+                "address": "0x7FFA36CEBB70",
+                "current_value": "0x924",
+                "resolved_name": "win_io_h",
+                "rva": "0x2BB70"
+            },
+            "qword_0x2BB78": {
+                "address": "0x7FFA36CEBB78",
+                "current_value": "0x1FD0764C030",
+                "resolved_name": "win_io_thrs",
+                "rva": "0x2BB78"
+            },
+            "qword_0x2BB80": {
+                "address": "0x7FFA36CEBB80",
+                "current_value": "0x7FFA36CEBB80",
+                "resolved_name": "ipc_connecter",
+                "rva": "0x2BB80",
+                "type": "ipc_dial_work"
+            },
+            "qword_0x2BC40": {
+                "address": "0x7FFA36CEBC40",
+                "current_value": "0x0",
+                "resolved_name": "resolv_mtx",
+                "rva": "0x2BC40",
+                "type": "nni_plat_mtx"
+            },
+            "qword_0x2BC50": {
+                "address": "0x7FFA36CEBC50",
+                "current_value": "0x702627FA90",
+                "resolved_name": "resolv_cv",
+                "rva": "0x2BC50",
+                "type": "nni_plat_cv"
+            },
+            "qword_0x2BC60": {
+                "address": "0x7FFA36CEBC60",
+                "current_value": "0x0",
+                "resolved_name": "resolv_fini",
+                "rva": "0x2BC60"
+            },
+            "qword_0x2BC68": {
+                "address": "0x7FFA36CEBC68",
+                "current_value": "0x7FFA36CEBC68",
+                "resolved_name": "resolv_aios",
+                "rva": "0x2BC68",
+                "type": "nni_list"
+            },
+            "qword_0x2BC80": {
+                "address": "0x7FFA36CEBC80",
+                "current_value": "0x7FFA36CCD810",
+                "resolved_name": "resolv_thrs",
+                "rva": "0x2BC80",
+                "type": ""
+            },
+            "qword_0x2BCF8": {
+                "address": "0x7FFA36CEBCF8",
+                "current_value": "0x1",
+                "resolved_name": "plat_inited",
+                "rva": "0x2BCF8"
+            },
+            "qword_0x2BD08": {
+                "address": "0x7FFA36CEBD08",
+                "current_value": "0x0",
+                "resolved_name": "pair0_sock_options",
+                "rva": "0x2BD08",
+                "type": ""
+            },
+            "qword_0x2BD20": {
+                "address": "0x7FFA36CEBD20",
+                "current_value": "0x0",
+                "resolved_name": "pull0_sock_options",
+                "rva": "0x2BD20",
+                "type": ""
+            },
+            "qword_0x2BD38": {
+                "address": "0x7FFA36CEBD38",
+                "current_value": "0x0",
+                "resolved_name": "push0_sock_options",
+                "rva": "0x2BD38",
+                "type": ""
+            },
+            "qword_0x2BD50": {
+                "address": "0x7FFA36CEBD50",
+                "current_value": "0x0",
+                "resolved_name": "nni_inproc",
+                "rva": "0x2BD50",
+                "type": "inproc_global"
+            },
+            "qword_0x2BD80": {
+                "address": "0x7FFA36CEBD80",
+                "current_value": "0x0",
+                "resolved_name": "GS_ExceptionRecord",
+                "rva": "0x2BD80",
+                "type": "_EXCEPTION_RECORD"
+            },
+            "qword_0x2BE20": {
+                "address": "0x7FFA36CEBE20",
+                "current_value": "0x0",
+                "resolved_name": "GS_ContextRecord",
+                "rva": "0x2BE20",
+                "type": "_CONTEXT"
+            },
+            "qword_0x2C2F0": {
+                "address": "0x7FFA36CEC2F0",
+                "current_value": "0x1",
+                "resolved_name": "__proc_attached",
+                "rva": "0x2C2F0"
+            },
+            "qword_0x2C300": {
+                "address": "0x7FFA36CEC300",
+                "current_value": "0x0",
+                "resolved_name": "__type_info_root_node",
+                "rva": "0x2C300",
+                "type": "__type_info_node"
+            },
+            "qword_0x2C318": {
+                "address": "0x7FFA36CEC318",
+                "current_value": "0x2",
+                "resolved_name": "__scrt_current_native_startup_state",
+                "rva": "0x2C318",
+                "type": "__scrt_native_startup_state"
+            },
+            "qword_0x2C320": {
+                "address": "0x7FFA36CEC320",
+                "current_value": "0x0",
+                "resolved_name": "__scrt_native_startup_lock",
+                "rva": "0x2C320"
+            },
+            "qword_0x2C328": {
+                "address": "0x7FFA36CEC328",
+                "current_value": "0x101",
+                "resolved_name": "is_initialized_as_dll",
+                "rva": "0x2C328"
+            },
+            "qword_0x2C329": {
+                "address": "0x7FFA36CEC329",
+                "current_value": "0x8800000000000001",
+                "resolved_name": "module_local_atexit_table_initialized",
+                "rva": "0x2C329"
+            },
+            "qword_0x2C330": {
+                "address": "0x7FFA36CEC330",
+                "current_value": "0x32207349FB88",
+                "resolved_name": "module_local_atexit_table",
+                "rva": "0x2C330",
+                "type": "_onexit_table_t"
+            },
+            "qword_0x2C348": {
+                "address": "0x7FFA36CEC348",
+                "current_value": "0x32207349FB88",
+                "resolved_name": "module_local_at_quick_exit_table",
+                "rva": "0x2C348",
+                "type": "_onexit_table_t"
+            },
+            "qword_0x2C360": {
+                "address": "0x7FFA36CEC360",
+                "current_value": "0x200000000",
+                "resolved_name": "__scrt_debugger_hook_flag",
+                "rva": "0x2C360"
+            },
+            "qword_0x2C364": {
+                "address": "0x7FFA36CEC364",
+                "current_value": "0x2400000002",
+                "resolved_name": "__favor",
+                "rva": "0x2C364"
+            },
+            "qword_0x2C370": {
+                "address": "0x7FFA36CEC370",
+                "current_value": "0x0",
+                "resolved_name": "__dyn_tls_init_callback",
+                "rva": "0x2C370"
+            }
+        },
+        "reap_worker": {
+            "offset": "0x8AE0"
+        },
+        "rep0_cancel_recv": {
+            "offset": "0x1A6D0"
+        },
+        "rep0_ctx_cancel_send": {
+            "offset": "0x1A740"
+        },
+        "rep0_ctx_close": {
+            "offset": "0x1A7C0"
+        },
+        "rep0_ctx_fini": {
+            "offset": "0x19BD0"
+        },
+        "rep0_ctx_init": {
+            "offset": "0x19C00"
+        },
+        "rep0_ctx_recv": {
+            "offset": "0x1A2D0"
+        },
+        "rep0_ctx_send": {
+            "offset": "0x19CA0"
+        },
+        "rep0_pipe_close": {
+            "offset": "0x1A1B0"
+        },
+        "rep0_pipe_fini": {
+            "offset": "0x19B70"
+        },
+        "rep0_pipe_init": {
+            "offset": "0x1A030"
+        },
+        "rep0_pipe_recv_cb": {
+            "offset": "0x1A860"
+        },
+        "rep0_pipe_send_cb": {
+            "offset": "0x1AA50"
+        },
+        "rep0_pipe_start": {
+            "offset": "0x1A140"
+        },
+        "rep0_pipe_stop": {
+            "offset": "0x1A010"
+        },
+        "rep0_sock_close": {
+            "offset": "0x1A000"
+        },
+        "rep0_sock_fini": {
+            "offset": "0x19E60"
+        },
+        "rep0_sock_get_maxttl": {
+            "offset": "0x1A480"
+        },
+        "rep0_sock_get_recvfd": {
+            "offset": "0x1A4E0"
+        },
+        "rep0_sock_get_sendfd": {
+            "offset": "0x1A490"
+        },
+        "rep0_sock_init": {
+            "offset": "0x19EE0"
+        },
+        "rep0_sock_open": {
+            "offset": "0xD920"
+        },
+        "rep0_sock_recv": {
+            "offset": "0x1A540"
+        },
+        "rep0_sock_send": {
+            "offset": "0x1A530"
+        },
+        "rep0_sock_set_maxttl": {
+            "offset": "0x1A450"
+        },
+        "req0_ctx_cancel_recv": {
+            "offset": "0x1B9D0"
+        },
+        "req0_ctx_cancel_send": {
+            "offset": "0x1BA40"
+        },
+        "req0_ctx_fini": {
+            "offset": "0x1ABB0"
+        },
+        "req0_ctx_get_resendtime": {
+            "offset": "0x1B4B0"
+        },
+        "req0_ctx_init": {
+            "offset": "0x1ACD0"
+        },
+        "req0_ctx_recv": {
+            "offset": "0x1B4C0"
+        },
+        "req0_ctx_reset": {
+            "offset": "0x1BB30"
+        },
+        "req0_ctx_send": {
+            "offset": "0x1B5F0"
+        },
+        "req0_ctx_set_resendtime": {
+            "offset": "0x1B4A0"
+        },
+        "req0_ctx_timeout": {
+            "offset": "0x1BBC0"
+        },
+        "req0_pipe_close": {
+            "offset": "0x1B3E0"
+        },
+        "req0_pipe_fini": {
+            "offset": "0x1AB80"
+        },
+        "req0_pipe_init": {
+            "offset": "0x1B230"
+        },
+        "req0_pipe_start": {
+            "offset": "0x1B320"
+        },
+        "req0_pipe_stop": {
+            "offset": "0x1B1E0"
+        },
+        "req0_recv_cb": {
+            "offset": "0x1BC30"
+        },
+        "req0_run_sendq": {
+            "offset": "0x1BE10"
+        },
+        "req0_send_cb": {
+            "offset": "0x1BF90"
+        },
+        "req0_sock_close": {
+            "offset": "0x1B0D0"
+        },
+        "req0_sock_fini": {
+            "offset": "0x1AD80"
+        },
+        "req0_sock_get_maxttl": {
+            "offset": "0x1A480"
+        },
+        "req0_sock_get_recvfd": {
+            "offset": "0x1B970"
+        },
+        "req0_sock_get_resendtime": {
+            "offset": "0x1B910"
+        },
+        "req0_sock_get_sendfd": {
+            "offset": "0x1B920"
+        },
+        "req0_sock_init": {
+            "offset": "0x1AF20"
+        },
+        "req0_sock_open": {
+            "offset": "0xD920"
+        },
+        "req0_sock_recv": {
+            "offset": "0x1B7B0"
+        },
+        "req0_sock_send": {
+            "offset": "0x1B7A0"
+        },
+        "req0_sock_set_maxttl": {
+            "offset": "0x1A450"
+        },
+        "req0_sock_set_resendtime": {
+            "offset": "0x1B8E0"
+        },
+        "resolv_cancel": {
+            "offset": "0x15C70"
+        },
+        "resolv_ip": {
+            "offset": "0x15D30"
+        },
+        "resolv_worker": {
+            "offset": "0x15F20"
+        },
+        "snprintf": {
+            "offset": "0x34A0"
+        },
+        "sock_destroy": {
+            "offset": "0xB470"
+        },
+        "sock_get_peer": {
+            "offset": "0x8E30"
+        },
+        "sock_get_peername": {
+            "offset": "0x8E50"
+        },
+        "sock_get_proto": {
+            "offset": "0x8E20"
+        },
+        "sock_get_protoname": {
+            "offset": "0x8E40"
+        },
+        "sock_get_raw": {
+            "offset": "0x8C90"
+        },
+        "sock_get_recvbuf": {
+            "offset": "0x8D20"
+        },
+        "sock_get_recvfd": {
+            "offset": "0x8C10"
+        },
+        "sock_get_recvtimeo": {
+            "offset": "0x8CB0"
+        },
+        "sock_get_sendbuf": {
+            "offset": "0x8DA0"
+        },
+        "sock_get_sendfd": {
+            "offset": "0x8B90"
+        },
+        "sock_get_sendtimeo": {
+            "offset": "0x8CD0"
+        },
+        "sock_get_sockname": {
+            "offset": "0x8DE0"
+        },
+        "sock_set_recvbuf": {
+            "offset": "0x8CE0"
+        },
+        "sock_set_recvtimeo": {
+            "offset": "0x8CA0"
+        },
+        "sock_set_sendbuf": {
+            "offset": "0x8D60"
+        },
+        "sock_set_sendtimeo": {
+            "offset": "0x8CC0"
+        },
+        "sock_set_sockname": {
+            "offset": "0x8DF0"
+        },
+        "sock_stats_init": {
+            "offset": "0xB570"
+        },
+        "stat_atomic_update": {
+            "offset": "0xC040"
+        },
+        "stat_make_tree": {
+            "offset": "0xC060"
+        },
+        "stat_sprint_scope": {
+            "offset": "0xC170"
+        },
+        "stat_update_tree": {
+            "offset": "0xC200"
+        },
+        "tcp_accept_cancel": {
+            "offset": "0x18950"
+        },
+        "tcp_accept_cb": {
+            "offset": "0x189C0"
+        },
+        "tcp_check_bool": {
+            "offset": "0x1C0D0"
+        },
+        "tcp_close": {
+            "offset": "0x167B0"
+        },
+        "tcp_dial_cancel": {
+            "offset": "0x17CE0"
+        },
+        "tcp_dial_cb": {
+            "offset": "0x17D50"
+        },
+        "tcp_dial_con_cb": {
+            "offset": "0x1C6B0"
+        },
+        "tcp_dial_res_cb": {
+            "offset": "0x1C800"
+        },
+        "tcp_dialer_close": {
+            "offset": "0x1C980"
+        },
+        "tcp_dialer_dial": {
+            "offset": "0x1CA70"
+        },
+        "tcp_dialer_free": {
+            "offset": "0x1CBC0"
+        },
+        "tcp_dialer_get_keepalive": {
+            "offset": "0x173B0"
+        },
+        "tcp_dialer_get_locaddr": {
+            "offset": "0x17420"
+        },
+        "tcp_dialer_get_nodelay": {
+            "offset": "0x172F0"
+        },
+        "tcp_dialer_getx": {
+            "offset": "0x1CC40"
+        },
+        "tcp_dialer_set_keepalive": {
+            "offset": "0x17360"
+        },
+        "tcp_dialer_set_locaddr": {
+            "offset": "0x174B0"
+        },
+        "tcp_dialer_set_nodelay": {
+            "offset": "0x172A0"
+        },
+        "tcp_dialer_setx": {
+            "offset": "0x1CC50"
+        },
+        "tcp_free": {
+            "offset": "0x16850"
+        },
+        "tcp_get_keepalive": {
+            "offset": "0x16580"
+        },
+        "tcp_get_nodelay": {
+            "offset": "0x164E0"
+        },
+        "tcp_get_peername": {
+            "offset": "0x16320"
+        },
+        "tcp_get_sockname": {
+            "offset": "0x16390"
+        },
+        "tcp_getx": {
+            "offset": "0x16930"
+        },
+        "tcp_listener_accept": {
+            "offset": "0x1CC60"
+        },
+        "tcp_listener_close": {
+            "offset": "0x1CC70"
+        },
+        "tcp_listener_free": {
+            "offset": "0x1CC80"
+        },
+        "tcp_listener_get_keepalive": {
+            "offset": "0x18060"
+        },
+        "tcp_listener_get_locaddr": {
+            "offset": "0x17EB0"
+        },
+        "tcp_listener_get_nodelay": {
+            "offset": "0x17FA0"
+        },
+        "tcp_listener_getx": {
+            "offset": "0x1CCB0"
+        },
+        "tcp_listener_listen": {
+            "offset": "0x1CD90"
+        },
+        "tcp_listener_set_keepalive": {
+            "offset": "0x18010"
+        },
+        "tcp_listener_set_nodelay": {
+            "offset": "0x17F50"
+        },
+        "tcp_listener_setx": {
+            "offset": "0x1CDA0"
+        },
+        "tcp_recv": {
+            "offset": "0x16960"
+        },
+        "tcp_recv_cancel": {
+            "offset": "0x16A40"
+        },
+        "tcp_recv_cb": {
+            "offset": "0x16AE0"
+        },
+        "tcp_recv_start": {
+            "offset": "0x16BB0"
+        },
+        "tcp_send": {
+            "offset": "0x16DF0"
+        },
+        "tcp_send_cancel": {
+            "offset": "0x16ED0"
+        },
+        "tcp_send_cb": {
+            "offset": "0x16F70"
+        },
+        "tcp_send_start": {
+            "offset": "0x17030"
+        },
+        "tcp_set_keepalive": {
+            "offset": "0x16470"
+        },
+        "tcp_set_nodelay": {
+            "offset": "0x16400"
+        },
+        "tcp_setx": {
+            "offset": "0x17270"
+        },
+        "url_canonify_uri": {
+            "offset": "0xE950"
+        },
+        "vsnprintf": {
+            "offset": "0xCDE0"
+        },
+        "win_io_handler": {
+            "offset": "0x139C0"
+        }
+    }
+}
